@@ -2,7 +2,7 @@
 
 Repo público sobre el curso de Desarrollo Web a iniciar en Mayo 2018
 
-## Presentación
+## Presentación del curso
 
 Fecha: 07 de Abril 2018
 Lugar: UTN
@@ -30,7 +30,7 @@ En términos muy generales se va a desarrollar:
 
 ***
 
-## ¿Por qué existe este repo?
+## Por qué existe este repo
 
 Realmente aún no hay algo súper definido, es un "repo-brainstorming" porque conociendome se me van a ocurrir mil ideas, y quiero tener un repo para ir volcando todo, después ver qué se hace, qué no se hace, por qué, etcétera.
 
