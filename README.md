@@ -25,7 +25,7 @@ En términos muy generales se va a desarrollar:
 
 ### Programa a utilizar
 
-* [Visual Studio Code](https://code.visualstudio.com/)
+* [Visual Studio Code](https://github.com/SidVal/dev.web/wiki/Visual-Studio-Code)
 * Si se usan otros programas, iré agregando aquí.
 
 ***
