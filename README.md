@@ -1,14 +1,8 @@
-﻿# dev.web
+# dev.web
 
 Repo público sobre el curso de Desarrollo Web a iniciar en Mayo 2018
 
-## Presentación del curso
-
-Fecha: 07 de Abril 2018
-Lugar: UTN
-Edificio: Posgrado
-
-### Contenidos del curso
+## Contenidos del curso
 
 En términos muy generales se va a desarrollar:
 
@@ -21,12 +15,7 @@ En términos muy generales se va a desarrollar:
 * Node.JS y Express.js
 * REST
 
-[Más información aquí](http://educacionadistancia.frc.utn.edu.ar/courses/diplomado_desarrollo_web/).
-
-### Programa a utilizar
-
-* [Visual Studio Code](https://github.com/SidVal/dev.web/wiki/Visual-Studio-Code)
-* Si se usan otros programas, iré agregando aquí.
+[Más información aquí](https://sidval.github.io/dev.web).
 
 ***
 
