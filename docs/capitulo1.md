@@ -1,21 +1,49 @@
 # Clase 1 - Presencial
 
-Profesor: Mario Di Giorgi :100:
+Profesor: Mario Di Giorgi
 
 ## Lo que se busca
 
-Sitio web"moderno" desde cero
+La idea durante el curso es desarrollar un **sitio web "moderno" desde cero** comprendiendo el funcionamiento de todo lo que es HTML5, CSS3 y JavaScript, ya sea del lado del cliente, como del servidor.
 
-## Arquitectura básica
+## Clases y Horarios
+
+Todos los martes de 19 a 22 horas vía _GoToMeeting_.
+
+Las clases se graban y la UTN les distribuye los videos de las clases grabadas a los alumnos. La idea es que no se distribuya esos videos hacia afuera; si bien están con privacidad en YouTube, si el link sale hacia afuera, lo ve cualquiera.
+
+Son cuatro (4) meses, más las tres semanas de Trabajo Práctico Final (TPF) que hay que presentar, se va el curso a **cinco (5) meses**.
+
+Empezamos el 8 de Mayo.
+
+***
+
+## Software recomendado
+
+* Microsoft **Visual Studio Code** (_VS Code_), ver [Wiki:Visual](https://github.com/SidVal/dev.web/wiki/Visual-Studio-Code) donde coloco extensiones para probar y otras cosas.
+* Google **Chrome** (browser + depuración)
+* **MongoDB** es el único que requiere instalarse aparte, el resto se descarga vía NPM del Node.JS
+
+### Introducción Visual Code
+
+Vimos cómo bajar el programa.
+Vemos como generar un área de trabajo, y cómo generar el primer archivo.
+
+***
+>Arranquemos ...
+
+# Arquitectura básica
+
+Partiendo de la arquitectura cliente - servidor, tenemos:
 
 * Servidor
   * Node.JS
 * Cliente
   * Browser >> HTML+CSS+JS
 
-### Browser
+## Browser
 
-#### HTML >> HTML5
+### HTML >> HTML5
 
 Para entender HTML de la mejor forma posible haremos una analogía con el cuerpo humano, y lo interpretamos como el esqueleto de nuestro cuerpo. HTML es el esqueleto, nuestro esqueleto.
 
@@ -43,7 +71,7 @@ Siguiendo la analogía de nuestro cuerpo tendremos músculos y piel; así:
   * BootStrap
     Es una librería desarrollada inicialmente por Twitter; hoy sigue evolucionando y generando nuevas versiones. Permite tener apps responsivas, o **responsive**. Tiene componentes desarrollados para mejorar el diseño, por ejemplo carousels **(?)**
 
-#### Node.js
+### Node.js
 
 * MongoDB (base de datos)
 * JavaScript
@@ -52,34 +80,7 @@ Siguiendo la analogía de nuestro cuerpo tendremos músculos y piel; así:
   * Angular.JS
 * REST (Manejo de APIS, escuchan peticiones y devuelven datos, que serán manejados con **JSON**)
 
-***
-
-## Software recomendado
-
-* Microsoft **Visual Studio Code** (_VS Code_), ver [Wiki:Visual](https://github.com/SidVal/dev.web/wiki/Visual-Studio-Code) donde coloco extensiones para probar y otras cosas.
-* Google **Chrome** (browser + depuración)
-* **MongoDB** es el único que requiere instalarse aparte, el resto se descarga vía NPM del Node.JS
-
-***
-
-### Clases y Horarios
-
-Todos los martes de 19 a 22 horas vía _GoToMeeting_.
-
-Las clases se graban y la UTN les distribuye los videos de las clases grabadas a los alumnos. La idea es que no se distribuya esos videos hacia afuera; si bien están con privacidad en YouTube, si el link sale hacia afuera, lo ve cualquiera.
-
-Son cuatro (4) meses, más las tres semanas de Trabajo Práctico Final (TPF) que hay que presentar, se va el curso a **cinco (5) meses**.
-
-Empezamos el 8 de Mayo.
-
-***
-
-## Introducción Visual Code
-
-Vimos cómo bajar el programa.
-Vemos como generar un área de trabajo, y cómo generar el primer archivo.
-
-### Primer archivo
+## Primer archivo
 
 La primer página que encuentran los bots (web crawlers) en internet, es `index.html`
 
@@ -100,11 +101,11 @@ Toda página _html_ tiene un `DOCTYPE`.
 </html>
 ```
 
-#### Charset
+### Charset
 
 Recomienda usar éste `<meta charset="ISO-8891" />` para que aparezca la letra `ñ` en el código, en cambio si se usa la `UTF-8` dice que no lo interpretan todos los navegadores **(?)**
 
-##### Diferencia de criterios
+#### Diferencia de criterios
 
 Aunque en clase se indicó que deberíamos usar `ISO-8891` para el español, yo no estoy de acuerdo con éste criterio y en mis archivos usaré `UTF-8` simplemente porque siempre lo he usado y no he tenido ningún problema, considero que el _charset_ por defecto es UTF-8, y en algunas pruebas que he hecho usando este ISO que recomienda el profesor, no funcionaron correctamente las letras `ñ` o `Ñ` ni los símbolos `¿` o `¡`.
 
@@ -116,13 +117,13 @@ Quizás, el ISO que el profe quería proponer era: ¿`ISO-8859-1`?
 >>
 >>If you choose UTF-8, make sure you save the files without a BOM (byte order mark). A BOM is completely unnecessary in UTF-8, and will cause problems with some browsers.
 
-#### Link
+### Link
 
 Para enlazar o traer contenido de otra ruta, por ejemplo en el caso de archivos de estilos (`CSS`).
 
 Ejemplo: `<link rel="stylesheet" type="text/css" media="screen" href="estilos.css" />`
 
-### BODY
+## BODY
 
 Es el cuerpo de nuestro html.
 Para dividir partes del contenido usamos determinados tags dentro del `body`:
@@ -178,4 +179,4 @@ El selector de ID consta de un símbolo hash (`#`), seguido del nombre ID de un 
 
 ***
 
--- Fin de la clase --
+<div align="right">-- Fin de la clase --</div>
