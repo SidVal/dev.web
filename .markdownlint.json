@@ -1,8 +1,10 @@
 {
-  "no-inline-html": {
-    "allowed_elements": [
-      "a",
-      "div"
-    ]
+    "line-length": false,
+    "MD036": false,
+    "no-inline-html": {
+      "allowed_elements": [
+        "a",
+        "div"
+      ]
+    }
   }
-}
