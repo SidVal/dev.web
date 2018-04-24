@@ -32,7 +32,7 @@ Vemos como generar un área de trabajo, y cómo generar el primer archivo.
 ***
 >Arranquemos ...
 
-# Arquitectura básica
+## Arquitectura básica
 
 Partiendo de la arquitectura cliente - servidor, tenemos:
 
