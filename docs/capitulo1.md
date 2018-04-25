@@ -138,6 +138,8 @@ Los atributos se colocan dentro de la etiqueta de inicio y consisten en un nombr
 
 !>Prestar atención aquí, ya que en el PDF indicado en clase -en la página 9, dice que la etiqueta `<html>` nunca lleva atributos, y eso no es correcto. La etiqueta puede o no llevar atributos, y últimamente se usa mucho colocar el lenguaje de internacionalización para denotar en qué lenguaje se escribirá el contenido del documento HTML, por ejemplo: [`<html lang="es">`](https://www.w3.org/International/questions/qa-html-language-declarations).
 
+### DOCTYPE
+
 Toda página _html_ tiene un `DOCTYPE`.
 
 ```html
@@ -233,4 +235,4 @@ El selector de ID consta de un símbolo hash (`#`), seguido del nombre ID de un 
 
 ***
 
-<div align="right">-- Fin de la clase --</div>
+<div align="right">-- Fin de la clase _(ref: página 29 pdf)_ --</div>
