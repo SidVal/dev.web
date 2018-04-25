@@ -50,12 +50,12 @@ En la parte del [Wiki](https://github.com/SidVal/dev.web/wiki), se irá actualiz
 
 Esto será eliminado cuando termine de publicar este espacio :smile:
 
-!> **Time** is money, my friend!
+`!> **Time** is money, my friend!`
 
-?> _TODO_ unit test
+`?> _TODO_ unit test`
 
-[link](/demo/ ':ignore title')
+`[link](/demo/ ':ignore title')`
 
-[link](/demo ':disabled')
+`[link](/demo ':disabled')`
 
--[ ] Recoardar que sirve para tareas :exclamation:
+`-[ ] Recoardar que sirve para tareas` :exclamation:
