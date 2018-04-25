@@ -53,7 +53,7 @@ Para entender HTML de la mejor forma posible haremos una analogía con el cuerpo
 
 Todo encaja entre los _Tags_ `<html></html>`; entre éstos tags va el contenido.
 
-Propiedades y atributos van dentro del código html
+Propiedades y atributos van dentro del código html.
 
 Siguiendo la analogía de nuestro cuerpo tendremos músculos y piel; así:
 
@@ -75,6 +75,8 @@ Siguiendo la analogía de nuestro cuerpo tendremos músculos y piel; así:
   * BootStrap
     Es una librería desarrollada inicialmente por Twitter; hoy sigue evolucionando y generando nuevas versiones. Permite tener apps responsivas, o **responsive**. Tiene componentes desarrollados para mejorar el diseño, y hacerlo más simple a la hora de exponerlo en distintos dispositivos conectados a Internet.
 
+## Servidor
+
 ### Node.js
 
 * MongoDB (base de datos)
@@ -84,23 +86,57 @@ Siguiendo la analogía de nuestro cuerpo tendremos músculos y piel; así:
   * Angular.JS
 * REST (Manejo de APIS, escuchan peticiones y devuelven datos, que serán manejados con **JSON**)
 
-## Primer archivo
+***
+
+## Primer archivo HTML
 
 La primer página que encuentran los bots (web crawlers) en internet, es `index.html`
 
-Vamos a comenzar a ver `HTML5`.
+Vamos a comenzar a ver `HTML5`. Última versión vigente (al momento de redacción de éste artículo): [HTML 5.3](https://www.w3.org/TR/html53/)
 
-Pero antes de HTML5 empecemos con HTML, y su significado: Hyper Text Markup Language. Si bien en su nombre está el "lenguaje", no se considera HTML como un lenguaje de programación. Son líneas de texto modificadas con unas marcas llamadas etiquetas o tags. Así, se sabe que ciertas etiquetas requieren apertura y cierre, por ejemplo `p` (etiqueta de párrafo), que será abierta con `<p>` y cerrada con `</p>`. Otras etiquetas no requieren cierre, la más común es `<img />` :arrow_left: ver qué diferencia tiene con la etiqueta de apertura `<p>`.
+Pero antes de HTML5 empecemos con HTML, y su significado: Hyper Text Markup Language. Si bien en su nombre está el "lenguaje", no se considera HTML como un lenguaje de programación. 
 
-HTML5 soporta "multimedia", estandarizado ya que al momento de surgir la web (y su organización que busca estandarizar todo lo que sea web W3C) estaba quitando FLASH.
+?>¿Por qué NO es un lenguaje de programación?
+?>HTML es un lenguaje de marcado. Se utiliza para definir estructuras y no se considera programación porque carece de expresiones (sumas, restas, variables, etc) y operadores lógicos (if, for, while, bucles, etc), por lo que no se puede programar nada utilizando solamente HTML. [Fuente](https://es.quora.com/Por-qu%C3%A9-no-se-considera-HTML-como-lenguaje-de-programaci%C3%B3n/answer/Rolan-Gonzalez)
 
-Aparecen así nuevos tags como `canvas` y `video`.
+### Etiquetas
+
+La estructura del HTML se basa en elementos que son líneas de texto modificadas con unas marcas llamadas etiquetas o tags. Así, se sabe que ciertas etiquetas requieren apertura y cierre, por ejemplo `p` (etiqueta de párrafo), que será abierta con `<p>` y cerrada con `</p>`. Otras etiquetas no requieren cierre, la más común es `<img />` :arrow_left: ver qué diferencia tiene con la etiqueta de apertura `<p>`.
+
+Las etiquetas dentro de HTML deben estar correctamente anidadas. Para comprender mejor a qué me refiero, daré un ejemplo:
+
+```html
+<!-- incorrect tag nesting -->
+<p>Esto esta <em>muy <strong>mal</em>!</strong></p>
+
+<!-- appropriate tag nesting -->
+<p>Esto <em>esta <strong>bien</strong>.</em></p>
+```
+
+HTML5 soporta "multimedia", estandarizado ya que al momento de surgir la web (y su organización que busca estandarizar todo lo que sea web W3C) estaba quitando FLASH. Aparecen así nuevos tags como `canvas` y `video`.
+
+Las etiquetas en HTML son lo que se dice "case insensitive", es decir, no sensibles a mayúscuas o minúsculas. Aunque por convención se usa todo en minúsculas, no es algo estricto. _(En el PDF del capítulo 1 de clases, indican que deberíamos usar las etiquetas en mayúsculas, entiendo que es a fines didácticos, para diferenciar las etiquetas de los valores)_.
+
+Párrafo aparte para las etiquetas de cierre, y aquellas que no requieren etiquetas de cierre, como `META`. De acuerdo al documento de clase, en HTML5 no es necesario que las etiquetas que no requieren cierre sean cerradas en sí mismas, por ejemplo `<meta name="description" content="Esto es un resumen para aprender a programar webs" />` será lo mismo que `<meta name="description" content="Esto es un resumen para aprender a programar webs">`. Aunque, por una cuestión de **compatibilidad** se recomienda siempre usar el primer caso (cerrando la etiqueta en sí misma).
 
 ### Atributo
 
-Los atributos modifican las acciones de las etiquetas. Algunas etiquetas pueden o no tener atributos, pero otras necesitan de los atributos para ciertas acciones o colores (por ejemplo).
+Los atributos modifican las acciones de las etiquetas. Algunas etiquetas pueden o no tener atributos. 
 
-!>Prestar atención aquí, ya que en el PDF indicado en clase, dice que la etiqueta `<html>` nunca lleva atributos, y eso no es correcto.
+Los atributos se colocan dentro de la etiqueta de inicio y consisten en un nombre y un valor, separados por un carácter "=". El valor del atributo puede permanecer sin comillas si no contiene caracteres de espacio o cualquiera de `"`, `'`, `=`, `<` o `>`. De lo contrario, debe ser citado utilizando comillas simples o dobles. El valor, junto con el carácter `=`, se puede omitir por completo si el valor es la cadena vacía.
+
+```html
+<!-- atributos vacios -->
+<input name=address disabled>
+<input name=address disabled="">
+
+<!-- atributos con valor -->
+<input name=address maxlength=200>
+<input name=address maxlength='200'>
+<input name=address maxlength="200">
+```
+
+!>Prestar atención aquí, ya que en el PDF indicado en clase -en la página 9, dice que la etiqueta `<html>` nunca lleva atributos, y eso no es correcto. La etiqueta puede o no llevar atributos, y últimamente se usa mucho colocar el lenguaje de internacionalización para denotar en qué lenguaje se escribirá el contenido del documento HTML, por ejemplo: [`<html lang="es">`](https://www.w3.org/International/questions/qa-html-language-declarations).
 
 Toda página _html_ tiene un `DOCTYPE`.
 
@@ -133,9 +169,13 @@ Quizás, el ISO que el profe quería proponer era: ¿`ISO-8859-1`?
 
 ### Link
 
-Para enlazar o traer contenido de otra ruta, por ejemplo en el caso de archivos de estilos (`CSS`).
+Para enlazar o traer contenido de otra ruta, por ejemplo en el caso de archivos de estilos (`CSS`). 
+
+>For `<link>` elements with an `href` attribute and a `rel` attribute, links must be created for the keywords of the _rel_ attribute, as defined for those keywords in the link types section. [More info...](https://www.w3.org/TR/html53/links.html#external-resource-link)
 
 Ejemplo: `<link rel="stylesheet" type="text/css" media="screen" href="estilos.css" />`
+
+En el documento de clase indica que el atributo `type` ha sido eliminado en HTML5 **(?)**, sin embargo no encuentro algún fundamento similar en la documentación del estándar W3C.
 
 ## BODY
 
