@@ -30,7 +30,11 @@ Vimos cómo bajar el programa.
 Vemos como generar un área de trabajo, y cómo generar el primer archivo.
 
 ***
->Arranquemos ...
+>Arranquemos; cabe aclarar que el contenido de éste documento es una mezcla entre lo que se dió en clase, y mi propia interpretación mientras voy estudiando y perfeccionando mi conocimiento previo (y nuevo) sobre el tema. No destaco a cada rato lo que se dió en clase y lo que yo agrego, porque sería un desastre de redacción y muy complejo para volver a leer el documento, y sacar algo bueno del mismo.
+>
+>Se busca que estos documentos sean un repaso para aquellas personas que quieren aprender a desarrollar web, o afianzar sus conocimientos.
+>
+?>Se creará más adelante una página del tipo "sobre el autor" o algo relacionado, para comentar quién soy, por qué hago todo ésto, etcétera etcétera.
 
 ## Arquitectura básica
 
@@ -69,7 +73,7 @@ Siguiendo la analogía de nuestro cuerpo tendremos músculos y piel; así:
 
   * CSS
   * BootStrap
-    Es una librería desarrollada inicialmente por Twitter; hoy sigue evolucionando y generando nuevas versiones. Permite tener apps responsivas, o **responsive**. Tiene componentes desarrollados para mejorar el diseño, por ejemplo carousels **(?)**
+    Es una librería desarrollada inicialmente por Twitter; hoy sigue evolucionando y generando nuevas versiones. Permite tener apps responsivas, o **responsive**. Tiene componentes desarrollados para mejorar el diseño, y hacerlo más simple a la hora de exponerlo en distintos dispositivos conectados a Internet.
 
 ### Node.js
 
@@ -84,9 +88,19 @@ Siguiendo la analogía de nuestro cuerpo tendremos músculos y piel; así:
 
 La primer página que encuentran los bots (web crawlers) en internet, es `index.html`
 
-Vamos a comenzar a ver `HTML5`
-Es un HTML que soporta "multimedia", estandarizado para que "Flash" no esté más en la web.
+Vamos a comenzar a ver `HTML5`.
+
+Pero antes de HTML5 empecemos con HTML, y su significado: Hyper Text Markup Language. Si bien en su nombre está el "lenguaje", no se considera HTML como un lenguaje de programación. Son líneas de texto modificadas con unas marcas llamadas etiquetas o tags. Así, se sabe que ciertas etiquetas requieren apertura y cierre, por ejemplo `p` (etiqueta de párrafo), que será abierta con `<p>` y cerrada con `</p>`. Otras etiquetas no requieren cierre, la más común es `<img />` :arrow_left: ver qué diferencia tiene con la etiqueta de apertura `<p>`.
+
+HTML5 soporta "multimedia", estandarizado ya que al momento de surgir la web (y su organización que busca estandarizar todo lo que sea web W3C) estaba quitando FLASH.
+
 Aparecen así nuevos tags como `canvas` y `video`.
+
+### Atributo
+
+Los atributos modifican las acciones de las etiquetas. Algunas etiquetas pueden o no tener atributos, pero otras necesitan de los atributos para ciertas acciones o colores (por ejemplo).
+
+!>Prestar atención aquí, ya que en el PDF indicado en clase, dice que la etiqueta `<html>` nunca lleva atributos, y eso no es correcto.
 
 Toda página _html_ tiene un `DOCTYPE`.
 
