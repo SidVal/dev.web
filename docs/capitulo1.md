@@ -106,10 +106,10 @@ La estructura del HTML se basa en elementos que son líneas de texto modificadas
 Las etiquetas dentro de HTML deben estar correctamente anidadas. Para comprender mejor a qué me refiero, daré un ejemplo:
 
 ```html
-<!-- incorrect tag nesting -->
+<!-- anidación incorrecta -->
 <p>Esto esta <em>muy <strong>mal</em>!</strong></p>
 
-<!-- appropriate tag nesting -->
+<!-- anidación correcta -->
 <p>Esto <em>esta <strong>bien</strong>.</em></p>
 ```
 
@@ -117,7 +117,14 @@ HTML5 soporta "multimedia", estandarizado ya que al momento de surgir la web (y 
 
 Las etiquetas en HTML son lo que se dice "case insensitive", es decir, no sensibles a mayúscuas o minúsculas. Aunque por convención se usa todo en minúsculas, no es algo estricto. _(En el PDF del capítulo 1 de clases, indican que deberíamos usar las etiquetas en mayúsculas, entiendo que es a fines didácticos, para diferenciar las etiquetas de los valores)_.
 
-Párrafo aparte para las etiquetas de cierre, y aquellas que no requieren etiquetas de cierre, como `META`. De acuerdo al documento de clase, en HTML5 no es necesario que las etiquetas que no requieren cierre sean cerradas en sí mismas, por ejemplo `<meta name="description" content="Esto es un resumen para aprender a programar webs" />` será lo mismo que `<meta name="description" content="Esto es un resumen para aprender a programar webs">`. Aunque, por una cuestión de **compatibilidad** se recomienda siempre usar el primer caso (cerrando la etiqueta en sí misma).
+Párrafo aparte para las etiquetas de cierre, y aquellas que no requieren etiquetas de cierre, como `META`. De acuerdo al documento de clase, en HTML5 no es necesario que las etiquetas que no requieren cierre sean cerradas en sí mismas, por ejemplo 
+
+`<meta name="description" content="..." />` 
+
+Será lo mismo que: 
+`<meta name="description" content="...">`. 
+
+Aunque, por una cuestión de **compatibilidad** se recomienda siempre usar el primer caso (cerrando la etiqueta en sí misma).
 
 ### Atributo
 
