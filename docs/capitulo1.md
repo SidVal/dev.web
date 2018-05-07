@@ -242,4 +242,76 @@ El selector de ID consta de un símbolo hash (`#`), seguido del nombre ID de un 
 
 ***
 
-<div align="right">-- Fin de la clase _(ref: página 29 pdf)_ --</div>
+<div align="right">-- Fin de la clase _(ref: página 28 pdf)_ --</div>
+
+***
+
+### Elementos HTML4
+
+#### `<p align=""></p>`
+
+Los posibles valores son: `left`, `right`, `center`, y `justify`. Es comúnmente usado para alinear texto dentro de un párrafo, aunque si nuestro código está en HTML5 NO debemos usar `<p align="">`, ver: "[The align attribute of `<p>` is not supported in HTML5. Use CSS instead.](https://www.w3schools.com/tags/att_p_align.asp)".
+
+#### `<br>`
+
+Es el salto de línea en un párrafo. Como darle "enter" a una oración y que lo siguiente al `<br>` empiece en renglón nuevo.
+
+Tener en cuenta que en HTML el retorno de línea `<br>` no requiere fin (end tag)., mientras que en XHTML sí lo requiere, así: `<br />`. [Más información](https://www.w3schools.com/tags/tag_br.asp)
+
+#### `<nobr></nobr>`
+
+En el PDF (página 31) se indica lo siguiente:
+>También puede usarse la etiqueta `<NOBR>...</NOBR>`. Es para no permitir el salto de linea, es decir, para hacer lineas muy largas en páginas en las que haya que usar la barra de desplazamiento horizontal.
+
+Aquí debemos tener en cuenta que el tag `NOBR` nunca fue estándar. Y [**NO debe usarse**](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nobr). En lugar de usar `NOBR` debemos usar CSS, así:
+
+```html
+<span style="white-space: nowrap">Texto muuuuuuuuuuuuuuuuuuuuuuuuuy largo sin retornos de línea deben ser usados con CSS</span>
+```
+
+Aunque, si queremos optimizar, hay que crear una clase "nowrap" con ese estilo, y aplicar la clase en los párrafos que sepamos que van a ser muy largos.
+
+#### `<wbr></wbr>`
+
+Si bien esto no aparece en la documentación de clase, es importante saber que existe un tag de HTML5 para que el usuario personalice en qué parte de un texto largo el navegador debería crear un retorno de línea en caso de no tener espacio para mostrar toda la oración. [Más información y ejemplos](https://www.w3schools.com/tags/tag_wbr.asp)
+
+#### Cabeceras `<h1>` - `<h6>`
+
+Tener en cuenta que las cabeceras no aceptan el atributo `align` en HTML5. [Más información](https://www.w3schools.com/tags/tag_hn.asp)
+
+#### Destacar texto
+
+Para destacar contenido se puede usar los siguientes elementos:
+
+* `<strong>texto importante en negrita</strong>` - [strong](https://www.w3schools.com/tags/tag_strong.asp)
+* `<em>texto importante y cursiva</em>` - [em](https://www.w3schools.com/tags/tag_em.asp)
+* `<mark>texto marcado o destacado</mark>` - [mark](https://www.w3schools.com/tags/tag_mark.asp)
+* `<b>texto en negrita</b>` - [b](https://www.w3schools.com/tags/tag_b.asp)
+
+?>Nota: De acuerdo con la especificación HTML 5, la etiqueta `<b>` debe usarse como ÚLTIMO recurso cuando ninguna otra etiqueta es más apropiada. La especificación de HTML 5 establece que los encabezados se denotan con las etiquetas `<h1>` a `<h6>`, el texto destacado se debe denotar con la etiqueta `<em>`, el texto importante se debe denotar con la etiqueta `<strong>` y el texto marcado o resaltado debería usar la etiqueta `<mark>`. [Más información](https://www.w3schools.com/tags/tag_b.asp)
+
+##### `<i>cursiva</i>`
+
+La etiqueta `<i>` define una parte del texto en una voz o estado de ánimo alternativo. El contenido de la etiqueta `<i>` generalmente se muestra en cursiva. La etiqueta `<i>` se puede utilizar para indicar un término técnico, una frase de otro idioma, un pensamiento, un nombre de nave, etc. 
+
+Se debe usar el elemento `<i>` solo cuando no haya otro un elemento semántico más apropiado, como por ejemplo: `<em>` (texto enfatizado), `<strong>` (texto importante), `<mark>` (texto marcado / resaltado), [`<cite>`](https://www.w3schools.com/tags/tag_cite.asp) (el título de un trabajo) o [`<dfn>`](https://www.w3schools.com/tags/tag_dfn.asp) (un término de definición).
+
+#### `<s>texto</s>`
+
+La etiqueta `<s>` especifica texto que ya no es correcto, preciso o relevante. 
+
+La etiqueta `<s>` no se debe usar para definir el texto reemplazado o eliminado, use la etiqueta [`<del>`](https://www.w3schools.com/tags/tag_del.asp) para definir el texto reemplazado o eliminado conjuntamente con la etiqueta [`<ins>`](https://www.w3schools.com/tags/tag_ins.asp).
+
+#### Listas
+
+* Ordenadas con [`<ol>`](https://www.w3schools.com/tags/tag_ol.asp)
+* Desordenadas con [`<ul>`](https://www.w3schools.com/tags/tag_ul.asp)
+* Definiciones con [`<dl>`](https://www.w3schools.com/tags/tag_dl.asp)
+
+#### Imágenes
+
+El elemento `<img>` tiene los atribugos obligatorios: `<src>` y `<alt>`. No es necesario que tenga cierre en HTML, solo en XHTML debe cerrarse así: `<img />`.
+
+#### Header: `<hgroup>`
+
+En la página 35 del PDF se indica que HTML5 provee este elemento para grupar los encabezados de la parte `<header>`. Sin embargo, debemos entender que el estándar de HTML5 (W3C) no provee este elemento, de hecho no existe. Solo se encuentra especificado en la versión WHATWG de HTML5. Recomiendo leer [éste documento](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hgroup) para más información.
