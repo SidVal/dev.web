@@ -10,7 +10,7 @@ Antes de seguir deberías tener:
 
 1. Uso básico de ordenadores, y uso pasivo de la Web (navegar y ver contenido).
 1. Entorno básico de trabajo, leer [#Software Recomendado](/?id=software-recomendado).
-1. Conocimiento básico de HTML, [_repasar Capítulo 1_](/capitulo1.md), y CSS.
+1. Conocimiento básico de HTML y CSS. [_Repasar Capítulo 1_](/capitulo1.md).
 
 ## Primer página web
 
