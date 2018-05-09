@@ -8,6 +8,12 @@
 >
 ?>Se creará más adelante una página del tipo "sobre el autor" o algo relacionado, para comentar quién soy, por qué hago todo ésto, etcétera etcétera.
 
+Antes de seguir deberías tener:
+
+1. Uso básico de ordenadores, y uso pasivo de la Web (navegar en internet y ver contenido).
+1. Entorno básico de trabajo, leer [#Software Recomendado](/?id=software-recomendado).
+1. Conocimiento básico de `HTML` que podrás leer a continuación.
+
 ## Arquitectura básica
 
 Partiendo de la arquitectura cliente - servidor, tenemos:
