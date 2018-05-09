@@ -1,4 +1,4 @@
-# Clase 1 - Presencial
+# Diplomatura en Desarrollo Web
 
 Profesor: Mario Di Giorgi
 
@@ -14,19 +14,20 @@ Las clases se graban y la UTN les distribuye los videos de las clases grabadas a
 
 Son cuatro (4) meses, más las tres semanas de Trabajo Práctico Final (TPF) que hay que presentar, se va el curso a **cinco (5) meses**.
 
-Empezamos el 8 de Mayo.
+Empezamos el martes 8 de Mayo con la clase 2 del curso.
 
 ***
 
 ## Software recomendado
 
-* Microsoft **Visual Studio Code** (_VS Code_), ver [Wiki:Visual](https://github.com/SidVal/dev.web/wiki/Visual-Studio-Code) donde coloco extensiones para probar y otras cosas.
+* Microsoft **Visual Studio Code** (_VS Code_), ver [Wiki:Visual](https://github.com/SidVal/dev.web/wiki/Visual-Studio-Code) donde coloco extensiones para probar y otros tips para el programa.
 * Google **Chrome** (browser + depuración)
 * **MongoDB** es el único que requiere instalarse aparte, el resto se descarga vía NPM del Node.JS
 
-### Introducción Visual Code
-
-Vimos cómo bajar el programa.
-Vemos como generar un área de trabajo, y cómo generar el primer archivo.
-
 ***
+
+## Tabla de Contenido
+
+* Clase 1
+* Clase 2
+
