@@ -66,7 +66,7 @@ Siguiendo la analogía de nuestro cuerpo tendremos músculos y piel; así:
 
 ***
 
-## Primer archivo HTML
+## Una página HTML
 
 La primer página que encuentran los bots (web crawlers) en internet, es `index.html`
 
@@ -74,8 +74,11 @@ Vamos a comenzar a ver `HTML5`. Última versión vigente (al momento de redacci�
 
 Pero antes de HTML5 empecemos con HTML, y su significado: _Hyper Text Markup Language_. Si bien en su nombre está el "lenguaje", no se considera HTML como un lenguaje de programación.
 
-?>¿Por qué NO es un lenguaje de programación?
-?>HTML es un lenguaje de marcado. Se utiliza para definir estructuras y no se considera programación porque carece de expresiones (sumas, restas, variables, etc) y operadores lógicos (if, for, while, bucles, etc), por lo que no se puede programar nada utilizando solamente HTML. [Fuente](https://es.quora.com/Por-qu%C3%A9-no-se-considera-HTML-como-lenguaje-de-programaci%C3%B3n/answer/Rolan-Gonzalez)
+>¿Por qué NO es un lenguaje de programación?
+>
+>HTML es un lenguaje de marcado. Se utiliza para definir estructuras y no se considera programación porque carece de expresiones (sumas, restas, variables, etc) y operadores lógicos (if, for, while, bucles, etc), por lo que no se puede programar nada utilizando solamente HTML. [Fuente](https://es.quora.com/Por-qu%C3%A9-no-se-considera-HTML-como-lenguaje-de-programaci%C3%B3n/answer/Rolan-Gonzalez)
+
+Veremos cómo se compone una página HTML, y si ésto ya lo conoces, puedes avanzar al [Capítulo 2: Primer Página Web](/capitulo2?id=primer-página-web).
 
 ### Etiquetas
 
