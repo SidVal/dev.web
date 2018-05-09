@@ -94,7 +94,7 @@ La primer página que encuentran los bots (web crawlers) en internet, es `index.
 
 Vamos a comenzar a ver `HTML5`. Última versión vigente (al momento de redacción de éste artículo): [HTML 5.3](https://www.w3.org/TR/html53/)
 
-Pero antes de HTML5 empecemos con HTML, y su significado: Hyper Text Markup Language. Si bien en su nombre está el "lenguaje", no se considera HTML como un lenguaje de programación. 
+Pero antes de HTML5 empecemos con HTML, y su significado: Hyper Text Markup Language. Si bien en su nombre está el "lenguaje", no se considera HTML como un lenguaje de programación.
 
 ?>¿Por qué NO es un lenguaje de programación?
 ?>HTML es un lenguaje de marcado. Se utiliza para definir estructuras y no se considera programación porque carece de expresiones (sumas, restas, variables, etc) y operadores lógicos (if, for, while, bucles, etc), por lo que no se puede programar nada utilizando solamente HTML. [Fuente](https://es.quora.com/Por-qu%C3%A9-no-se-considera-HTML-como-lenguaje-de-programaci%C3%B3n/answer/Rolan-Gonzalez)
@@ -117,18 +117,18 @@ HTML5 soporta "multimedia", estandarizado ya que al momento de surgir la web (y 
 
 Las etiquetas en HTML son lo que se dice "case insensitive", es decir, no sensibles a mayúscuas o minúsculas. Aunque por convención se usa todo en minúsculas, no es algo estricto. _(En el PDF del capítulo 1 de clases, indican que deberíamos usar las etiquetas en mayúsculas, entiendo que es a fines didácticos, para diferenciar las etiquetas de los valores)_.
 
-Párrafo aparte para las etiquetas de cierre, y aquellas que no requieren etiquetas de cierre, como `META`. De acuerdo al documento de clase, en HTML5 no es necesario que las etiquetas que no requieren cierre sean cerradas en sí mismas, por ejemplo 
+Párrafo aparte para las etiquetas de cierre, y aquellas que no requieren etiquetas de cierre, como `META`. De acuerdo al documento de clase, en HTML5 no es necesario que las etiquetas que no requieren cierre sean cerradas en sí mismas, por ejemplo.
 
-`<meta name="description" content="..." />` 
+`<meta name="description" content="..." />`
 
-Será lo mismo que: 
-`<meta name="description" content="...">`. 
+Será lo mismo que:
+`<meta name="description" content="...">`.
 
 Aunque, por una cuestión de **compatibilidad** se recomienda siempre usar el primer caso (cerrando la etiqueta en sí misma).
 
 ### Atributo
 
-Los atributos modifican las acciones de las etiquetas. Algunas etiquetas pueden o no tener atributos. 
+Los atributos modifican las acciones de las etiquetas. Algunas etiquetas pueden o no tener atributos.
 
 Los atributos se colocan dentro de la etiqueta de inicio y consisten en un nombre y un valor, separados por un carácter "=". El valor del atributo puede permanecer sin comillas si no contiene caracteres de espacio o cualquiera de `"`, `'`, `=`, `<` o `>`. De lo contrario, debe ser citado utilizando comillas simples o dobles. El valor, junto con el carácter `=`, se puede omitir por completo si el valor es la cadena vacía.
 
@@ -178,7 +178,7 @@ Quizás, el ISO que el profe quería proponer era: ¿`ISO-8859-1`?
 
 ### Link
 
-Para enlazar o traer contenido de otra ruta, por ejemplo en el caso de archivos de estilos (`CSS`). 
+Para enlazar o traer contenido de otra ruta, por ejemplo en el caso de archivos de estilos (`CSS`).
 
 >For `<link>` elements with an `href` attribute and a `rel` attribute, links must be created for the keywords of the _rel_ attribute, as defined for those keywords in the link types section. [More info...](https://www.w3.org/TR/html53/links.html#external-resource-link)
 
@@ -290,13 +290,13 @@ Para destacar contenido se puede usar los siguientes elementos:
 
 #### `<i>cursiva</i>`
 
-La etiqueta `<i>` define una parte del texto en una voz o estado de ánimo alternativo. El contenido de la etiqueta `<i>` generalmente se muestra en cursiva. La etiqueta `<i>` se puede utilizar para indicar un término técnico, una frase de otro idioma, un pensamiento, un nombre de nave, etc. 
+La etiqueta `<i>` define una parte del texto en una voz o estado de ánimo alternativo. El contenido de la etiqueta `<i>` generalmente se muestra en cursiva. La etiqueta `<i>` se puede utilizar para indicar un término técnico, una frase de otro idioma, un pensamiento, un nombre de nave, etc.
 
 Se debe usar el elemento `<i>` solo cuando no haya otro un elemento semántico más apropiado, como por ejemplo: `<em>` (texto enfatizado), `<strong>` (texto importante), `<mark>` (texto marcado / resaltado), [`<cite>`](https://www.w3schools.com/tags/tag_cite.asp) (el título de un trabajo) o [`<dfn>`](https://www.w3schools.com/tags/tag_dfn.asp) (un término de definición).
 
 ### `<s>texto</s>`
 
-La etiqueta `<s>` especifica texto que ya no es correcto, preciso o relevante. 
+La etiqueta `<s>` especifica texto que ya no es correcto, preciso o relevante.
 
 La etiqueta `<s>` no se debe usar para definir el texto reemplazado o eliminado, use la etiqueta [`<del>`](https://www.w3schools.com/tags/tag_del.asp) para definir el texto reemplazado o eliminado conjuntamente con la etiqueta [`<ins>`](https://www.w3schools.com/tags/tag_ins.asp).
 
