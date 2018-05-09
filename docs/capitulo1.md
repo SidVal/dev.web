@@ -2,7 +2,9 @@
 
 >Arranquemos; cabe aclarar que el contenido de éste documento es una mezcla entre lo que se dió en clase [ver clases](/clases/), y mi propia interpretación mientras voy estudiando y perfeccionando mi conocimiento previo (y nuevo) sobre el tema. No destaco a cada rato lo que se dió en x clase y lo que yo agrego, porque sería un desastre de redacción y muy complejo para volver a leer el documento, y sacar algo bueno del mismo.
 >
->Se busca que estos documentos sean un repaso para aquellas personas que quieren aprender a desarrollar web, o afianzar sus conocimientos. Por el momento no hay un apartado de comentarios, si gustas corregir, o sugerir algún cambio, [**por favor envía tu mensaje aquí**](https://github.com/SidVal/dev.web/issues/new?assignee=SidVal). :pray: 
+>Se busca que estos documentos sean un repaso para aquellas personas que quieren aprender a desarrollar web, o afianzar sus conocimientos. 
+>
+!>Si gustas corregir :pencil2: o sugerir :bulb: algún cambio, [**por favor envía tu mensaje aquí**](https://github.com/SidVal/dev.web/issues/new?assignee=SidVal). :pray: 
 >
 ?>Se creará más adelante una página del tipo "sobre el autor" o algo relacionado, para comentar quién soy, por qué hago todo ésto, etcétera etcétera.
 
@@ -212,19 +214,21 @@ El selector de ID consta de un símbolo hash (`#`), seguido del nombre ID de un 
 
 ***
 
-<div align="right">-- Fin de la clase 1 _(ref: página 28 pdf)_ --</div>
+<div align="right">
+?> -- Fin de la [clase 1](/clases/clase1.md) _(ref: página 28 pdf)_ --
+</div>
 
 ***
 
 ### `<p align=""></p>`
 
-Los posibles valores son: `left`, `right`, `center`, y `justify`. Es comúnmente usado para alinear texto dentro de un párrafo, aunque si nuestro código está en HTML5 NO debemos usar `<p align="">`, ver: "[The align attribute of `<p>` is not supported in HTML5. Use CSS instead.](https://www.w3schools.com/tags/att_p_align.asp)".
+Los posibles valores son: `left`, `right`, `center`, y `justify`. Es comúnmente usado para alinear texto dentro de un párrafo, aunque si nuestro código está en HTML5 NO debemos usar `<p align="">`, ver: "[The align attribute of `<p>` is not supported in HTML5. Use CSS instead](https://www.w3schools.com/tags/att_p_align.asp)".
 
 ### `<br>`
 
 Es el salto de línea en un párrafo. Como darle "enter" a una oración y que lo siguiente al `<br>` empiece en renglón nuevo.
 
-Tener en cuenta que en HTML el retorno de línea `<br>` no requiere fin (end tag)., mientras que en XHTML sí lo requiere, así: `<br />`. [Más información](https://www.w3schools.com/tags/tag_br.asp)
+Tener en cuenta que en HTML el retorno de línea `<br>` no requiere fin (end tag)., mientras que en XHTML sí lo requiere, así: `<br />`. [Más información](https://www.w3schools.com/tags/tag_br.asp).
 
 ### `<nobr></nobr>`
 
@@ -241,7 +245,7 @@ Aunque, si queremos optimizar, hay que crear una clase "nowrap" con ese estilo, 
 
 ### `<wbr></wbr>`
 
-Si bien esto no aparece en la documentación de clase, es importante saber que existe un tag de HTML5 para que el usuario personalice en qué parte de un texto largo el navegador debería crear un retorno de línea en caso de no tener espacio para mostrar toda la oración. [Más información y ejemplos](https://www.w3schools.com/tags/tag_wbr.asp)
+Si bien esto no aparece en la documentación de clase, es importante saber que existe un tag de HTML5 para que el usuario personalice en qué parte de un texto largo el navegador debería crear un retorno de línea en caso de no tener espacio para mostrar toda la oración. [Más información y ejemplos](https://www.w3schools.com/tags/tag_wbr.asp).
 
 ### Cabeceras `<h1>` - `<h6>`
 
@@ -256,7 +260,7 @@ Para destacar contenido se puede usar los siguientes elementos:
 * `<mark>texto marcado o destacado</mark>` - [mark](https://www.w3schools.com/tags/tag_mark.asp)
 * `<b>texto en negrita</b>` - [b](https://www.w3schools.com/tags/tag_b.asp)
 
-?>Nota: De acuerdo con la especificación HTML 5, la etiqueta `<b>` debe usarse como ÚLTIMO recurso cuando ninguna otra etiqueta es más apropiada. La especificación de HTML 5 establece que los encabezados se denotan con las etiquetas `<h1>` a `<h6>`, el texto destacado se debe denotar con la etiqueta `<em>`, el texto importante se debe denotar con la etiqueta `<strong>` y el texto marcado o resaltado debería usar la etiqueta `<mark>`. [Más información](https://www.w3schools.com/tags/tag_b.asp)
+?>Nota: De acuerdo con la especificación HTML 5, la etiqueta `<b>` debe usarse como ÚLTIMO recurso cuando ninguna otra etiqueta es más apropiada. La especificación de HTML 5 establece que los encabezados se denotan con las etiquetas `<h1>` a `<h6>`, el texto destacado se debe denotar con la etiqueta `<em>`, el texto importante se debe denotar con la etiqueta `<strong>` y el texto marcado o resaltado debería usar la etiqueta `<mark>`. [Más información](https://www.w3schools.com/tags/tag_b.asp).
 
 #### `<i>cursiva</i>`
 
