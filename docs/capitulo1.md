@@ -215,7 +215,7 @@ El selector de ID consta de un símbolo hash (`#`), seguido del nombre ID de un 
 ***
 
 <div align="right">
-?> -- Fin de la [clase 1](/clases/clase1.md) _(ref: página 28 pdf)_ --
+-- Hasta aquí se mencionaron los conceptos en la [clase 1](/clases/clase1.md) _(ref: página 28 pdf)_ --
 </div>
 
 ***
@@ -288,3 +288,20 @@ El elemento `<img>` tiene los atribugos obligatorios: `<src>` y `<alt>`. No es n
 
 En la página 35 del PDF se indica que HTML5 provee este elemento para grupar los encabezados de la parte `<header>`. Sin embargo, debemos entender que el estándar de HTML5 (W3C) no provee este elemento, de hecho no existe. Solo se encuentra especificado en la versión WHATWG de HTML5. Recomiendo leer [éste documento](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hgroup) para más información.
 
+### `<time>`
+
+Usa el atributo `datetime`, y es un elemento nuevo de HTML5. Leer `<time datetime="2018-05-08">`](https://www.w3schools.com/tags/tag_time.asp). Hay que ver el tema del **formato** de la fecha y hora que se coloca en el atributo datetime; ver [formatos disponibles](https://www.w3schools.com/tags/att_time_datetime.asp).
+
+En la documentación de clase se menciona que el atributo [`pubdate`](https://www.w3schools.com/tags/att_time_datetime_pubdate.asp) representa la fecha de publicación.
+
+### Más etiquetas
+
+Los tags de HTML son muchísimos, en clase se mencionaron otros a modo general, como `<video>`, `<audio>`, y `<canvas>`. Si se quiere ampliar el conocimiento sobre cualquier etiqueta, yo recomiendo esta página con la lista completa, conceptos, y ejemplos (en inglés): https://www.w3schools.com/tags/default.asp
+
+***
+
+<div align="right">
+-- Continuar en [Capítulo 2](/capitulo2.md) _(ref: página 43 pdf)_ --
+</div>
+
+***
