@@ -16,8 +16,6 @@ Son cuatro (4) meses, más las tres semanas de Trabajo Práctico Final (TPF) que
 
 Empezamos el martes 8 de Mayo con la clase 2 del curso.
 
-***
-
 ## Software recomendado
 
 * Microsoft **Visual Studio Code** (_VS Code_), ver [Wiki:Visual](https://github.com/SidVal/dev.web/wiki/Visual-Studio-Code) donde coloco extensiones para probar y otros tips para el programa.
@@ -28,6 +26,6 @@ Empezamos el martes 8 de Mayo con la clase 2 del curso.
 
 ## Tabla de Contenido
 
-* Clase 1
+* [Clase 1](/clase1.md)
 * Clase 2
 
