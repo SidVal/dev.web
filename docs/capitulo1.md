@@ -1,38 +1,8 @@
-# Clase 1 - Presencial
+# Capítulo 1
 
-Profesor: Mario Di Giorgi
-
-## Lo que se busca
-
-La idea durante el curso es desarrollar un **sitio web "moderno" desde cero** comprendiendo el funcionamiento de todo lo que es HTML5, CSS3 y JavaScript, ya sea del lado del cliente, como del servidor.
-
-## Clases y Horarios
-
-Todos los martes de 19 a 22 horas vía _GoToMeeting_.
-
-Las clases se graban y la UTN les distribuye los videos de las clases grabadas a los alumnos. La idea es que no se distribuya esos videos hacia afuera; si bien están con privacidad en YouTube, si el link sale hacia afuera, lo ve cualquiera.
-
-Son cuatro (4) meses, más las tres semanas de Trabajo Práctico Final (TPF) que hay que presentar, se va el curso a **cinco (5) meses**.
-
-Empezamos el 8 de Mayo.
-
-***
-
-## Software recomendado
-
-* Microsoft **Visual Studio Code** (_VS Code_), ver [Wiki:Visual](https://github.com/SidVal/dev.web/wiki/Visual-Studio-Code) donde coloco extensiones para probar y otras cosas.
-* Google **Chrome** (browser + depuración)
-* **MongoDB** es el único que requiere instalarse aparte, el resto se descarga vía NPM del Node.JS
-
-### Introducción Visual Code
-
-Vimos cómo bajar el programa.
-Vemos como generar un área de trabajo, y cómo generar el primer archivo.
-
-***
->Arranquemos; cabe aclarar que el contenido de éste documento es una mezcla entre lo que se dió en clase, y mi propia interpretación mientras voy estudiando y perfeccionando mi conocimiento previo (y nuevo) sobre el tema. No destaco a cada rato lo que se dió en clase y lo que yo agrego, porque sería un desastre de redacción y muy complejo para volver a leer el documento, y sacar algo bueno del mismo.
+>Arranquemos; cabe aclarar que el contenido de éste documento es una mezcla entre lo que se dió en clase [ver clases](/clases/), y mi propia interpretación mientras voy estudiando y perfeccionando mi conocimiento previo (y nuevo) sobre el tema. No destaco a cada rato lo que se dió en x clase y lo que yo agrego, porque sería un desastre de redacción y muy complejo para volver a leer el documento, y sacar algo bueno del mismo.
 >
->Se busca que estos documentos sean un repaso para aquellas personas que quieren aprender a desarrollar web, o afianzar sus conocimientos.
+>Se busca que estos documentos sean un repaso para aquellas personas que quieren aprender a desarrollar web, o afianzar sus conocimientos. Por el momento no hay un apartado de comentarios, si gustas corregir, o sugerir algún cambio, por favor envía tu mensaje aquí](https://github.com/SidVal/dev.web/issues/new?assignee=SidVal). :pray: 
 >
 ?>Se creará más adelante una página del tipo "sobre el autor" o algo relacionado, para comentar quién soy, por qué hago todo ésto, etcétera etcétera.
 
@@ -94,7 +64,7 @@ La primer página que encuentran los bots (web crawlers) en internet, es `index.
 
 Vamos a comenzar a ver `HTML5`. Última versión vigente (al momento de redacción de éste artículo): [HTML 5.3](https://www.w3.org/TR/html53/)
 
-Pero antes de HTML5 empecemos con HTML, y su significado: Hyper Text Markup Language. Si bien en su nombre está el "lenguaje", no se considera HTML como un lenguaje de programación.
+Pero antes de HTML5 empecemos con HTML, y su significado: _Hyper Text Markup Language_. Si bien en su nombre está el "lenguaje", no se considera HTML como un lenguaje de programación.
 
 ?>¿Por qué NO es un lenguaje de programación?
 ?>HTML es un lenguaje de marcado. Se utiliza para definir estructuras y no se considera programación porque carece de expresiones (sumas, restas, variables, etc) y operadores lógicos (if, for, while, bucles, etc), por lo que no se puede programar nada utilizando solamente HTML. [Fuente](https://es.quora.com/Por-qu%C3%A9-no-se-considera-HTML-como-lenguaje-de-programaci%C3%B3n/answer/Rolan-Gonzalez)
@@ -117,12 +87,12 @@ HTML5 soporta "multimedia", estandarizado ya que al momento de surgir la web (y 
 
 Las etiquetas en HTML son lo que se dice "case insensitive", es decir, no sensibles a mayúscuas o minúsculas. Aunque por convención se usa todo en minúsculas, no es algo estricto. _(En el PDF del capítulo 1 de clases, indican que deberíamos usar las etiquetas en mayúsculas, entiendo que es a fines didácticos, para diferenciar las etiquetas de los valores)_.
 
-Párrafo aparte para las etiquetas de cierre, y aquellas que no requieren etiquetas de cierre, como `META`. De acuerdo al documento de clase, en HTML5 no es necesario que las etiquetas que no requieren cierre sean cerradas en sí mismas, por ejemplo.
+Párrafo aparte para las etiquetas de cierre, y aquellas que no requieren etiquetas de cierre, como `META`. De acuerdo al documento de clase, en HTML5 no es necesario que las etiquetas que no requieren cierre sean cerradas en sí mismas. Veamos código para entender mejor:
 
 `<meta name="description" content="..." />`
 
 Será lo mismo que:
-`<meta name="description" content="...">`.
+`<meta name="description" content="...">`
 
 Aunque, por una cuestión de **compatibilidad** se recomienda siempre usar el primer caso (cerrando la etiqueta en sí misma).
 
@@ -162,13 +132,13 @@ Toda página _html_ tiene un `DOCTYPE`.
 
 ### Charset
 
-Recomienda usar éste `<meta charset="ISO-8891" />` para que aparezca la letra `ñ` en el código, en cambio si se usa la `UTF-8` dice que no lo interpretan todos los navegadores **(?)**
+En la [clase 1](/clases/clase1.md) se recomienda usar éste `<meta charset="ISO-8891" />` para que aparezca la letra `ñ` en el código, en cambio si se usa la `UTF-8` dice que no lo interpretan todos los navegadores **(?)**
 
 #### Diferencia de criterios
 
-Aunque en clase se indicó que deberíamos usar `ISO-8891` para el español, yo no estoy de acuerdo con éste criterio y en mis archivos usaré `UTF-8` simplemente porque siempre lo he usado y no he tenido ningún problema, considero que el _charset_ por defecto es UTF-8, y en algunas pruebas que he hecho usando este ISO que recomienda el profesor, no funcionaron correctamente las letras `ñ` o `Ñ` ni los símbolos `¿` o `¡`.
+Aunque en la primer clase se indicó que deberíamos usar `ISO-8891` para el español, yo no estoy de acuerdo con éste criterio y en mis archivos usaré `UTF-8` simplemente porque siempre lo he usado y no he tenido ningún problema de compatibilidad, considero que el _charset_ por defecto es UTF-8, y en algunas pruebas que he hecho usando este ISO que recomienda el profesor, no funcionaron correctamente las letras `ñ` o `Ñ` ni los símbolos `¿` o `¡`.
 
-Quizás, el ISO que el profe quería proponer era: ¿`ISO-8859-1`?
+Quizás, el ISO que el profe quería proponer en la primer clase era: ¿`ISO-8859-1`?
 
 >Si se requiere ampliar el tema del Charset, y esta diferencia de criterios entre utilizar ISO vs UTF, he realizado una pequeña lectura [aquí](https://www.sitepoint.com/community/t/charset-for-spanish-language-site/5061/2), donde se aclara lo siguiente:
 >
@@ -184,7 +154,7 @@ Para enlazar o traer contenido de otra ruta, por ejemplo en el caso de archivos 
 
 Ejemplo: `<link rel="stylesheet" type="text/css" media="screen" href="estilos.css" />`
 
-En el documento de clase indica que el atributo `type` ha sido eliminado en HTML5 **(?)**, sin embargo no encuentro algún fundamento similar en la documentación del estándar W3C.
+En el documento PDF de clase se indica que el atributo `type` ha sido eliminado en HTML5 **(?)**, sin embargo no encuentro algún fundamento similar en la documentación del estándar W3C.
 
 ## BODY
 
@@ -242,7 +212,7 @@ El selector de ID consta de un símbolo hash (`#`), seguido del nombre ID de un 
 
 ***
 
-<div align="right">-- Fin de la clase _(ref: página 28 pdf)_ --</div>
+<div align="right">-- Fin de la clase 1 _(ref: página 28 pdf)_ --</div>
 
 ***
 
@@ -313,3 +283,4 @@ El elemento `<img>` tiene los atribugos obligatorios: `<src>` y `<alt>`. No es n
 ### `<hgroup>`
 
 En la página 35 del PDF se indica que HTML5 provee este elemento para grupar los encabezados de la parte `<header>`. Sin embargo, debemos entender que el estándar de HTML5 (W3C) no provee este elemento, de hecho no existe. Solo se encuentra especificado en la versión WHATWG de HTML5. Recomiendo leer [éste documento](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hgroup) para más información.
+
