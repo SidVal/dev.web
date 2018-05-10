@@ -1,4 +1,4 @@
-# Clase 1 - Presencial
+# Clase 1
 
 Fecha: 21 de Abril, 2018
 
@@ -11,5 +11,3 @@ Lugar: Aula 154, UTN
 * Se creó el primer archivo `HTML` y se mencionaron las etiquetas principales.
 
 >Para una versión más completa, todos los conceptos y desarrollos de la clase de han pasado al **[Capítulo 1](/capitulo1.md)**.
->
->Seguir en la [clase 2](/clases/clase2.md).
