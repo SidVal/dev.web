@@ -1,4 +1,4 @@
-* [Inicio](?id=curso-de-desarrollo-web)
+* [Inicio](#devweb)
 
   * [Contenidos del curso](?id=contenidos-del-curso)
   * [Por qué Dev.Web](?id=por-qué-existe-este-espacio)
