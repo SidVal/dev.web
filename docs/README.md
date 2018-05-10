@@ -1,12 +1,14 @@
-# Curso de Desarrollo Web
+# Dev.Web - v.0001 (ultra beta) :smile: 
 
 Repo público sobre el curso de Desarrollo Web a iniciar en Mayo 2018
 
-## Presentación del curso
+## Presentación del repo
 
-Fecha: 07 de Abril 2018
-Lugar: UTN
-Edificio: Posgrado
+>Se busca que estos documentos sean un repaso para aquellas personas que quieren aprender a desarrollar web, o afianzar sus conocimientos. 
+>
+!>Si gustas corregir :pencil2: o sugerir :bulb: algún cambio, [**por favor envía tu mensaje aquí**](https://github.com/SidVal/dev.web/issues/new?assignee=SidVal). :pray: 
+>
+?>Se creará más adelante una página del tipo "sobre el autor" o algo relacionado, para comentar quién soy, por qué hago todo ésto, etcétera etcétera.
 
 ## Contenidos del curso
 
@@ -41,10 +43,6 @@ Qué mejor lugar que éste para lanzar los errores, e ir teniendo un lugar para 
 En la parte del [Wiki](https://github.com/SidVal/dev.web/wiki), se irá actualizando documentación sobre el curso (lo que pueda publicarse y que nadie se moleste en la Universidad porque el contenido está publicado).
 
 ***
-
-### Capítulos
-
-* [Capítulo 1](/capitulo1)
 
 ### Para recordar
 
