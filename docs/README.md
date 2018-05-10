@@ -1,10 +1,13 @@
-# Dev.Web - v.0001 (ultra beta) :smile: 
+# Dev.Web
 
-Repo público sobre el curso de Desarrollo Web a iniciar en Mayo 2018
+<div align="right">_v.0001_ (ultra beta) :smile: </div>
 
 ## Presentación del repo
 
->Se busca que estos documentos sean un repaso para aquellas personas que quieren aprender a desarrollar web, o afianzar sus conocimientos. 
+Repo público sobre el curso de Desarrollo Web a iniciar en Mayo 2018
+
+Se busca que estos documentos sean un repaso para aquellas personas que quieren aprender a desarrollar web, o afianzar sus conocimientos. 
+
 >
 !>Si gustas corregir :pencil2: o sugerir :bulb: algún cambio, [**por favor envía tu mensaje aquí**](https://github.com/SidVal/dev.web/issues/new?assignee=SidVal). :pray: 
 >
