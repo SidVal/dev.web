@@ -3,7 +3,7 @@
   * [Contenidos del curso](?id=contenidos-del-curso)
   * [Por qué Dev.Web](?id=por-qué-existe-este-espacio)
 
-* [Clases](/clases/)
+* [Clases](/clases/#diplomatura-en-desarrollo-web)
 
 * Capítulos
 
