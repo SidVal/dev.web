@@ -14,7 +14,7 @@
 
   <script>
     window.$docsify = {
-      basePath: '/dev.web/p/',
+      basePath: 'p/',
       maxLevel: 3,
       name: 'Dev.Web',
       loadSidebar: true,
@@ -23,26 +23,12 @@
       themeColor: '#0f9127',
       search: 'auto',
       repo: '', // aún no, es para el enlace directo arriba a la derecha 'https://github.com/SidVal/dev.web',
-
-    // search : [
-    //  '/',            // => /README.md
-    //  '/guide',       // => /guide.md
-    //  '/get-started', // => /get-started.md
-    //  '/zh-cn/',      // => /zh-cn/README.md
-    // ],
-
-    // complete configuration parameters
-    search: {
+      search: {
       maxAge: 86400000, // Expiration time, the default one day
       paths: 'auto', // [] or 'auto'
       placeholder: 'Buscar',
-
-      
       noData: '¡Sin Resultados!',
-
-      // Headline depth, 1 - 6
-      depth: 2
-    }
+      depth: 2 }
   }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
