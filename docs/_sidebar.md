@@ -7,5 +7,5 @@
 
 * Capítulos
 
-  * [Capítulo 1](/capitulo1.md)
-  * [Capítulo 2](/capitulo2.md)
+  * [Capítulo 1](/capitulo1.md#capítulo-1)
+  * [Capítulo 2](/capitulo2.md#capítulo-2)
