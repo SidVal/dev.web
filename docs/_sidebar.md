@@ -10,5 +10,5 @@
 
 * [Capítulos](/c/)
 
-  * [Capítulo 1](/c/unidad1.md#unidad-1)
-  * [Capítulo 2](/c/unidad2.md#unidad-2)
+  * [Capítulo 1](/c/unidad1.md)
+  * [Capítulo 2](/c/unidad2.md)
