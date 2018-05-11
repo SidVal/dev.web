@@ -10,7 +10,7 @@ Antes de seguir deberías tener:
 
 Si bien en la [primer clase](/clases/clase1.md) algo se vió, muy por arriba de la estructura básica y cómo una página debía llamar a los elementos que la componen, durante la [segunda clase](/clases/clase2.md) se desarrolló con mayor profundidad lo que sería nuestro primer desarrollo web estático.
 
-Se repasaron los conceptos de elementos `HTML` que ya habíamos visto; si aún no se sabe cuándo usar `<b>` o `<strong>`, recomiendo repasar el [Unidad 1](/c/unidad1.md). Y se ampliarán como veremos a continuación los conceptos con `CSS`.
+Se repasaron los conceptos de elementos `HTML` que ya habíamos visto; si aún no se sabe cuándo usar `<b>` o `<strong>`, recomiendo repasar el [Unidad 1](/c/unidad1.md#unidad-1). Y se ampliarán como veremos a continuación los conceptos con `CSS`.
 
 ?>A raíz de comprender mejor los ejemplos prácticos, el código que se practica en clase estará expuesto en una carpeta [`/www/` en GitHub](https://github.com/SidVal/dev.web/tree/master/www), y el comportamiento pueden verlo en [Fiddle](https://jsfiddle.net/Waldo/o31j84e1/) o bien en [Thimble](https://thimble.mozilla.org/es/user/walddo/1685329/); lee más sobre [Editores en Línea para practicar](https://github.com/SidVal/dev.web/wiki/Herramientas#editores-en-linea).
 
