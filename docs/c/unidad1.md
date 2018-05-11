@@ -1,13 +1,5 @@
 # Unidad 1
 
->Arranquemos; cabe aclarar que el contenido de éste documento es una mezcla entre lo que se dió en clase ([ver clases](/clases/)), y mi propia interpretación mientras voy estudiando y perfeccionando mi conocimiento previo (y nuevo) sobre el tema. No destaco a cada rato lo que se dió en x clase y lo que yo agrego, porque sería un desastre de redacción y muy complejo para volver a leer el documento, y sacar algo bueno del mismo.
->
->Se busca que estos documentos sean un repaso para aquellas personas que quieren aprender a desarrollar web, o afianzar sus conocimientos. 
->
-!>Si gustas corregir :pencil2: o sugerir :bulb: algún cambio, [**por favor envía tu mensaje aquí**](https://github.com/SidVal/dev.web/issues/new?assignee=SidVal). :pray: 
->
-?>Se creará más adelante una página del tipo "sobre el autor" o algo relacionado, para comentar quién soy, por qué hago todo ésto, etcétera etcétera.
-
 Antes de seguir deberías tener:
 
 1. Uso básico de ordenadores, y uso pasivo de la Web (navegar en internet y ver contenido).
@@ -78,7 +70,7 @@ Pero antes de HTML5 empecemos con HTML, y su significado: _Hyper Text Markup Lan
 >
 >HTML es un lenguaje de marcado. Se utiliza para definir estructuras y no se considera programación porque carece de expresiones (sumas, restas, variables, etc) y operadores lógicos (if, for, while, bucles, etc), por lo que no se puede programar nada utilizando solamente HTML. [Fuente](https://es.quora.com/Por-qu%C3%A9-no-se-considera-HTML-como-lenguaje-de-programaci%C3%B3n/answer/Rolan-Gonzalez)
 
-Veremos cómo se compone una página HTML, y si ésto ya lo conoces, puedes avanzar al [Capítulo 2: Primer Página Web](/capitulo2?id=primer-página-web).
+Veremos cómo se compone una página HTML, y si ésto ya lo conoces, puedes avanzar al [Unidad 2: Primer Página Web](/c/unidad2?id=primer-página-web).
 
 ### Etiquetas
 
@@ -310,7 +302,7 @@ Los tags de HTML son muchísimos, en clase se mencionaron otros a modo general, 
 ***
 
 <div align="right">
--- Continuar en [Capítulo 2](/capitulo2.md) _(ref: página 43 pdf)_ --
+-- Continuar en [Unidad 2](/c/unidad2.md) _(ref: página 43 pdf)_ --
 </div>
 
 ***
