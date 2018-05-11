@@ -302,7 +302,7 @@ Los tags de HTML son muchísimos, en clase se mencionaron otros a modo general, 
 ***
 
 <div align="right">
--- Continuar en [Unidad 2](/c/unidad2.md) _(ref: página 43 pdf)_ --
+-- Continuar en [Unidad 2](/c/unidad2.md#unidad-2) _(ref: página 43 pdf)_ --
 </div>
 
 ***
