@@ -39,3 +39,7 @@ A un uso más avanzado:
 #### Entorno básico de trabajo
 
 En la parte de [#Software Recomendado](/?id=software-recomendado) se detallan programas que deberíamos usar.
+
+***
+
+<div align="center">[Unidad 1](/c/unidad1.md#unidad-1) | [Unidad 2](/c/unidad2.md#unidad-2) </div>
