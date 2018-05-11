@@ -48,7 +48,7 @@ En la parte del [Wiki](https://github.com/SidVal/dev.web/wiki), se irá actualiz
 
 ### Para recordar
 
-Esto será eliminado cuando termine de publicar este espacio :smile:
+Esto será eliminado cuando termine de publicar este espacio.
 
 `!> **Time** is money, my friend!`
 
