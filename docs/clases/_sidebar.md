@@ -1,4 +1,4 @@
-* [Inicio](../)
+* [Inicio](../ ':ignore')
 * [Clases del curso](/clases/#diplomatura-en-desarrollo-web)
 
   * [Clase 1](/clases/clase1.md#clase-1)
