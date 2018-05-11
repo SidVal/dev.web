@@ -5,7 +5,7 @@
 
 * [Clases](/clases/#diplomatura-en-desarrollo-web)
 
-* Capítulos
+* [Capítulos](/c/)
 
-  * [Capítulo 1](/capitulo1.md#capítulo-1)
-  * [Capítulo 2](/capitulo2.md#capítulo-2)
+  * [Capítulo 1](/c/unidad1.md#unidad-1)
+  * [Capítulo 2](/c/unidad2.md#unidad-2)
