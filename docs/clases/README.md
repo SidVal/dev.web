@@ -1,4 +1,4 @@
-# Diplomatura en Desarrollo Web
+# Diplomatura en Desarrollo Web {docsify-ignore-all}
 
 Profesor: Mario Di Giorgi
 
