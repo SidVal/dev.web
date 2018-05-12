@@ -291,13 +291,13 @@ En la página 35 del PDF se indica que HTML5 provee este elemento para grupar lo
 
 ### `<time>`
 
-Usa el atributo `datetime`, y es un elemento nuevo de HTML5. Leer `<time datetime="2018-05-08">`](https://www.w3schools.com/tags/tag_time.asp). Hay que ver el tema del **formato** de la fecha y hora que se coloca en el atributo datetime; ver [formatos disponibles](https://www.w3schools.com/tags/att_time_datetime.asp).
+Usa el atributo `datetime`, y es un elemento nuevo de HTML5. Leer [`<time datetime="2018-05-08">`](https://www.w3schools.com/tags/tag_time.asp). Hay que ver el tema del **formato** de la fecha y hora que se coloca en el atributo datetime; ver [formatos disponibles](https://www.w3schools.com/tags/att_time_datetime.asp).
 
 En la documentación de clase se menciona que el atributo [`pubdate`](https://www.w3schools.com/tags/att_time_datetime_pubdate.asp) representa la fecha de publicación.
 
 ### Más etiquetas
 
-Los tags de HTML son muchísimos, en clase se mencionaron otros a modo general, como `<video>`, `<audio>`, y `<canvas>`. Si se quiere ampliar el conocimiento sobre cualquier etiqueta, yo recomiendo esta página con la lista completa, conceptos, y ejemplos (en inglés): https://www.w3schools.com/tags/default.asp
+Los tags de HTML son muchísimos, en clase se mencionaron otros a modo general, como `<video>`, `<audio>`, y `<canvas>`. Si se quiere ampliar el conocimiento sobre cualquier etiqueta, yo recomiendo esta página con la [lista completa, conceptos, y ejemplos](https://www.w3schools.com/tags/default.asp) (en inglés).
 
 ***
 
