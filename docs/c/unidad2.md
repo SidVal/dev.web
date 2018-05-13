@@ -66,7 +66,7 @@ Hay cinco (5) términos básicos que debemos dominar para cuando nos referimos a
 
 _Gráficamente_
 
-![Regla CSS](./assets/img/regla-css.jpg)
+![Regla CSS](../assets/img/regla-css.jpg)
 
 ##### Regla
 
