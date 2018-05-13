@@ -92,7 +92,7 @@ Hay básicamente tres formas:
 
 1. Estilos en línea
 1. Estilos embebidos
-1. Estilos en archivos externos
+1. Estilos de archivos externos
 
 ### Estilos en línea
 
@@ -102,8 +102,164 @@ Cuando se trabaja con estilos en línea se puede cambiar el estilo de determinad
 
 Ésta línea de estilo está "insertada" en el elemento HTML, modificando así su valor de estilo predeterminado que trae la página (y en caso de no traer, el navegador web interpreta que debería tener un tamaño "x").
 
-?>[Practica tú mismo en este editor en línea](https://thimble.mozilla.org/es/anonymous/e4a2a72c-638a-42a8-b24f-575602250426/479820). Dale con confianza, la mejor forma de entender CSS es practicando y viendo cómo queda el resultado a medida que practicas.
+?>[Practica tú mismo en este editor en línea](https://jsfiddle.net/Waldo/6oxxu5p0/). Dale con confianza, la mejor forma de entender CSS es practicando y viendo cómo queda el resultado a medida que practicas.
 
 ### Estilos embebidos
 
-### Estilos en archivos externos
+¿Qué ocurriría si tenemos mil párrafos y queremos que cada uno tenga letra de _20px_? ¿Te imaginas editando cada elemento `<p>` del código HTML para insertar a cada línea un estilo que modifique el tamaño de la letra al tamaño que necesitemos?
+
+Para evitar ésta situación, se puede insertar estilos de forma embebida dentro del documento HTML, en la parte del `<head>` (fuera del `<body>`), así:
+
+```html
+<head>
+<style>
+    p {font-size:20px;}
+    </style>
+</head>
+<body>
+<p>Esto sería un ejemplo de texto que irá en 20px porque todos los elementos "p" tienen ahora ese tamaño.</p>
+</body>
+```
+
+### Estilos de archivos externos
+
+Si bien tener los estilos embebidos es la mejor forma de tener estilos en cada página, porque podemos personalizar y gestionar cada estilo directamente desde la página en sí, sin tener que insertar a cada elemento HTML el estilo, ¿qué pasaría si tendríamos 100 páginas HTML donde replicar todos los estilos?.
+
+Para evitar tener que copiar y pegar en cada página los _estilos embebidos_, se usan los estilos de archivos externos. Es decir, tendremos todo el estilo en un archivo propiamente de "estilo", con extensión `.css` que podrá ser linkeado (o enlazado o mejor dicho, insertado) en cualquier página HTML que lo llame a través del elemento [`<link>`](https://www.w3schools.com/tags/tag_link.asp).
+
+?>Tener en cuenta que:
+>
+> * en HTML5 el elemento `<link>` no requiere cierre, pero si usamos XHTML sí necesita ser cerrado.
+> * el elemento `<link>` solo contiene atributos, no debe contener texto de ningún tipo.
+> * `rel` es atributo obligatorio.
+> * debe ir en la sección `<head>` del documento HTML, pero puede haber muchos elementos `<link>` en dicha sección.
+
+Entonces para insertar estilos de archivos externos debemos poner en la sección `<head>` la siguiente línea:
+`<link rel="stylesheet" href="../css/estilos.css">`
+
+En la unidad 1 vimos el elemento `<link>` cuando hablamos de las etiquetas html del "HEAD", que serviría para insertar nuestra página llamada "estilos.css" a nuestra primer página web. _Repasar unidad sobre el [link](/c/unidad1.md#link)_.
+
+## Referencias
+
+Comenzaremos con tres formas para referenciar elementos HTML desde reglas CSS:
+
+* Referencia por palabra clave del elemento
+* Referencia por el atributo id
+* Referencia por el atributo class
+
+### Referencia por palabra clave
+
+Al utilizar la referencia por palabra clave del elemento HTML, cambiamos todos los elementos afectados en la página HTML, por ejemplo el que veníamos usando: `p {font-size:20px;}`. Lo que hará ésta referencia es que todos los elementos de párrafo (`<p>`) en un documento HTML pasen a tener tamaño 20px.
+
+### Referencia por el atributo id
+
+Como vimos en la unidad 1, el [atributo id](/c/unidad1.md/#id) debe ser utilizado para "identificar" cierto elemento HTML, y dicha identidad debe ser única dentro del documento. En CSS, para la regla a un ID, se identifica con un _hash_ (símbolo _#_).
+
+```css
+#principal {
+  font-size: 30px;
+  color: green;
+  font-style: italic;
+  text-decoration-color: red;
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
+```
+
+`<p id="principal">Texto principal</p>`
+
+?>[Hazlo tú mismo aquí](https://jsfiddle.net/Waldo/6oxxu5p0/2/).
+
+### Referencia por el atributo class
+
+También vimos el [atributo class](/c/unidad1.md#class) en la unidad 1, que servía para dar estilo ciertos elementos HTML que no eran únicos, y que se comportaban de forma similar (hablando de estilos). Por ejemplo, si tendríamos párrafos con texto secundario, podemos definir un class _secundario_ y darle ciertos estilos:
+
+```css
+.secundario {
+  font-size: 15px;
+  color: gray;
+}
+```
+
+Un párrafo secundario de ejemplo:
+
+```html
+<p class="secundario">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dapibus est convallis erat ultricies commodo. Cras elementum volutpat eros id luctus. Nullam et turpis at nisl condimentum ultrices. Sed et ex tincidunt, dictum eros convallis, dictum elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut feugiat massa, vitae auctor velit. Aenean vel purus in velit egestas porta id nec elit. Cras eu diam vehicula metus volutpat elementum quis placerat libero. In hac habitasse platea dictumst. Etiam aliquet lorem pulvinar felis pharetra, vitae lobortis magna feugiat. Nam aliquet tortor a metus feugiat, in scelerisque libero congue. Sed at ante dictum, vestibulum ipsum sit amet, dictum felis. Aliquam nisi lacus, vehicula eget risus sit amet, eleifend viverra ipsum. Mauris id sodales lacus, eget faucibus nisi.</p>
+```
+
+?>[Hazlo tú mismo aquí](https://jsfiddle.net/Waldo/6oxxu5p0/3/).
+
+También se podría crear el estilo solo para elementos `<p>`, y no para otros elementos que tengan la clase "secundario" (siguiendo nuestro ejemplo práctico).
+
+Si al estilo lo cambiamos así:
+
+```css
+p.secundario {
+  font-size: 15px;
+  color: gray;
+}
+```
+
+Aplicará a aquellos párrafos que tengan el `<p class="secundario">` pero si hay un `<div>` que tiene la misma clase, no tendrá el estilo.
+
+?>[Hazlo tú mismo ahora](https://jsfiddle.net/Waldo/6oxxu5p0/4/).
+
+## Nuevos métodos de referencia
+
+* Referencia de cualquier atributo
+* Referencia con pseudo clases
+* Referencia con pseudo elementos
+
+### Referencia a cualquier atributo
+
+Esta forma de referencia es propia de CSS3; se usa cuando queremos aplicar estilos a ciertos elementos que tienen determinado atributo, y podemos usar expresiones regulares (RegEx).
+
+?>[Ver ejemplo práctico para entender cómo funciona](https://jsfiddle.net/Waldo/6oxxu5p0/5/).
+
+Como observamos en el ejemplo, vimos que el estilo puede llamar a una propiedad del elemento, por ejemplo para el párrafo `<p>` se puede aplicar estilos a los que tengan el nombre (_name_) determinado.
+
+```css
+p[name="azul"] {
+  font-size: 15px;
+  color: blue;
+}
+```
+
+En este caso, serán los párrafos que tengan de nombre "azul" los que tengan el texto de color azul, y un tamaño de 15px.
+
+!>En W3School está explicado como ["Selectores de Atributos"](https://www.w3schools.com/css/css_attribute_selectors.asp).
+
+<div align="right">_Nota: falta completar ésto con más detalles_</div>
+
+### Referencia con pseudo clases
+
+En la documentación de clase (aún no se ha dado en profundidad en alguna clase práctica) está muy compleja la explicación sobre pseudo-clases, así que en mi caso he realizado un resúmen siguiendo las explicaciones del [W3School.com sobre pseudo-classes](https://www.w3schools.com/css/css_pseudo_classes.asp).
+
+```css
+selector:pseudo-class {
+    property:value;
+}
+```
+
+<div align="right">_Nota: falta completar ésto con más detalles_</div>
+
+### Referencia con pseudo elementos
+
+No se explican los pseudo elementos en la documentación de clase, por lo que recomiendo leer [CSS Pseudo-elements](https://www.w3schools.com/css/css_pseudo_elements.asp).
+
+```css
+selector::pseudo-element {
+    property:value;
+}
+```
+
+<div align="right">_Nota: falta completar ésto con más detalles_</div>
+
+## Nuevos selectores
+
+* Selector `>`
+* Selector `+`
+* Selector `~`
+
+<div align="right">_Nota: falta completar ésto con más detalles_</div>
