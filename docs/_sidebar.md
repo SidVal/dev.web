@@ -1,4 +1,4 @@
-* [Inicio](../ ':target=_self')
+* [Inicio](https://sidval.github.io/dev.web/ ':target=_self')
 
   * [Contenidos del curso](?id=contenidos-del-curso)
   * [Por qué Dev.Web](?id=por-qué-existe-este-espacio)
