@@ -59,34 +59,28 @@ El _Modelo de Caja Tradicional_ es el único modelo que se considera estándar, 
 Hay cinco (5) términos básicos que debemos dominar para cuando nos referimos a Hoja de Estilos (CSS):
 
 * Regla
+
+Cada estilo es una regla, y la regla en sí misma está compuesta por una parte de _selectores_, el símbolo de apertura `{`, la _declaración_, y el símbolo de cierre `}`.
+
 * Selector
+
+Indica el elemento (o los elementos) HTML a los que se aplica la regla CSS.
+
 * Declaración
+
+Indica los estilos que se aplican a los elementos. Está compuesta por una o más _propiedades_ CSS.
+
 * Propiedad
+
+Indica la característica que se modifica en el elemento seleccionado por el _selector_. Por ejemplo, el tamaño de letra, el color, etcétera.
+
 * Valor
+
+Indica el nuevo valor de la característica seleccionada.
 
 _Gráficamente_
 
 ![Regla CSS](../assets/img/regla-css.jpg)
-
-##### Regla
-
-Cada estilo es una regla, y la regla en sí misma está compuesta por una parte de _selectores_, el símbolo de apertura `{`, la _declaración_, y el símbolo de cierre `}`.
-
-##### Selector
-
-Indica el elemento (o los elementos) HTML a los que se aplica la regla CSS.
-
-##### Declaración
-
-Indica los estilos que se aplican a los elementos. Está compuesta por una o más _propiedades_ CSS.
-
-##### Propiedad
-
-Indica la característica que se modifica en el elemento seleccionado por el _selector_. Por ejemplo, el tamaño de letra, el color, etcétera.
-
-##### Valor
-
-Indica el nuevo valor de la característica seleccionada.
 
 ### Archivo CSS
 
