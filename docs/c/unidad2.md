@@ -8,7 +8,7 @@ Antes de seguir deberías tener:
 
 ## Primer página web
 
-Si bien en la [primer clase](/clases/clase1.md) algo se vió, muy por arriba de la estructura básica y cómo una página debía llamar a los elementos que la componen, durante la [segunda clase](/clases/clase2.md) se desarrolló con mayor profundidad lo que sería nuestro primer desarrollo web estático.
+Si bien en la [primer clase](/clases/clase1.md#clase-1) algo se vió, muy por arriba de la estructura básica y cómo una página debía llamar a los elementos que la componen, durante la [segunda clase](/clases/clase2.md#clase-2) se desarrolló con mayor profundidad lo que sería nuestro primer desarrollo web estático.
 
 Se repasaron los conceptos de elementos `HTML` que ya habíamos visto; si aún no se sabe cuándo usar `<b>` o `<strong>`, recomiendo repasar el [Unidad 1](/c/unidad1.md#unidad-1). Y se ampliarán como veremos a continuación los conceptos con `CSS`.
 
@@ -24,7 +24,7 @@ En la documentación de clase se indica que todos los elementos HTML se interpre
 
 _Gráficamente_
 
-![Propiedades de la caja](https://mdn.mozillademos.org/files/13647/box-model-standard-small.png)
+![Propiedades del modelo de caja](https://mdn.mozillademos.org/files/13647/box-model-standard-small.png)
 
 #### `width` y `height`
 
@@ -47,3 +47,69 @@ El borde de una caja CSS descansa entre el límite exterior del padding y el lí
 #### `margin`
 
 El margen envuelve la caja CSS, y sostiene a otras cajas del diseño. Se comporta como `padding`; la propiedad abreviada es `margin` y las propiedades individuales son `margin-top`, `margin-right`, `margin-bottom`, y `margin-left`.
+
+### Reglas para ordenar las cajas
+
+Dijimos que una página web es un grupo de cajas ordenadas siguiendo ciertas reglas. Éstas reglas son establecidas por los estilos. Estilos que pueden ser definidos por los navegadores web (estilos por defecto), o bien los programadores de las páginas web. La combinación de las distintas reglas se llama modelo, o sistema de disposición. Y todas las reglas aplicadas juntas, es lo que llamamos _modelo de caja_.
+
+El _Modelo de Caja Tradicional_ es el único modelo que se considera estándar, pero hay otros modelos que están en etapas experimentales.
+
+#### Regla CSS
+
+Hay cinco (5) términos básicos que debemos dominar para cuando nos referimos a Hoja de Estilos (CSS):
+
+* Regla
+* Selector
+* Declaración
+* Propiedad
+* Valor
+
+_Gráficamente_
+
+![Regla CSS](./assets/img/regla-css.jpg)
+
+##### Regla
+
+Cada estilo es una regla, y la regla en sí misma está compuesta por una parte de _selectores_, el símbolo de apertura `{`, la _declaración_, y el símbolo de cierre `}`.
+
+##### Selector
+
+Indica el elemento (o los elementos) HTML a los que se aplica la regla CSS.
+
+##### Declaración
+
+Indica los estilos que se aplican a los elementos. Está compuesta por una o más _propiedades_ CSS.
+
+##### Propiedad
+
+Indica la característica que se modifica en el elemento seleccionado por el _selector_. Por ejemplo, el tamaño de letra, el color, etcétera.
+
+##### Valor
+
+Indica el nuevo valor de la característica seleccionada.
+
+### Archivo CSS
+
+Un archivo CSS puede contener un número ilimitado de reglas CSS. Cada regla puede aplicar a la cantidad de selectores que se desee.
+
+## Formas de insertar estilos
+
+Hay básicamente tres formas:
+
+1. Estilos en línea
+1. Estilos embebidos
+1. Estilos en archivos externos
+
+### Estilos en línea
+
+Cuando se trabaja con estilos en línea se puede cambiar el estilo de determinado elemento HTML. Si por ejemplo queremos que en un párrafo, la letra tenga de tamaño _20px_ (por decir un número cualquiera), podemos ir a ese párrafo, al elemento `<p>` y modificarlo de la siguiente manera:
+
+`<p style="font-size:20px;">Esto sería un ejemplo de texto con tamaño de 20px</p>`
+
+Ésta línea de estilo está "insertada" en el elemento HTML, modificando así su valor de estilo predeterminado que trae la página (y en caso de no traer, el navegador web interpreta que debería tener un tamaño "x").
+
+?>[Practica tú mismo en este editor en línea](https://thimble.mozilla.org/es/anonymous/e4a2a72c-638a-42a8-b24f-575602250426/479820). Dale con confianza, la mejor forma de entender CSS es practicando y viendo cómo queda el resultado a medida que practicas.
+
+### Estilos embebidos
+
+### Estilos en archivos externos
