@@ -8,7 +8,7 @@
   * [Clase 1](/clases/clase1.md)
   * [Clase 2](/clases/clase2.md)
 
-* [Capítulos](/c/)
+* [Unidades](/c/)
 
-  * [Capítulo 1](/c/unidad1.md)
-  * [Capítulo 2](/c/unidad2.md)
+  * [Unidad 1](/c/unidad1.md)
+  * [Unidad 2](/c/unidad2.md)
