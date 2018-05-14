@@ -206,30 +206,66 @@ Aplicará a aquellos párrafos que tengan el `<p class="secundario">` pero si ha
 
 ## Nuevos métodos de referencia
 
+* Selector Universal
 * Referencia de cualquier atributo
 * Referencia con pseudo clases
 * Referencia con pseudo elementos
 
-### Referencia a cualquier atributo
+### Selector Universal
 
-Esta forma de referencia es propia de CSS3; se usa cuando queremos aplicar estilos a ciertos elementos que tienen determinado atributo, y podemos usar expresiones regulares (RegEx).
+En la documentación del curso se menciona al selector universal únicamente cuando hablamos de la [_referencia a cualquier atributo_](#referencia-a-cualquier-atributo). Considero que debe ser tomado en cuenta como otro método de referencia, ya que se brinda estilos a través del selector universal, y debe ser tenido en cuenta para aprender CSS3.
 
-?>[Ver ejemplo práctico para entender cómo funciona](https://jsfiddle.net/Waldo/6oxxu5p0/5/).
+El selector universal `*` es el mejor _comidín_. Permite seleccionar todos los elementos en una página. Como rara vez es útil aplicar un estilo a cada elemento de una página, a menudo se utiliza en combinación con otros selectores (consulte Combinators a continuación).
 
-Como observamos en el ejemplo, vimos que el estilo puede llamar a una propiedad del elemento, por ejemplo para el párrafo `<p>` se puede aplicar estilos a los que tengan el nombre (_name_) determinado.
+Ejemplo de selector universal:
 
 ```css
-p[name="azul"] {
-  font-size: 15px;
-  color: blue;
+* {
+  padding: 5px;
+  border: 1px solid black;
+  background: rgba(255,0,0,0.25)
 }
 ```
 
-En este caso, serán los párrafos que tengan de nombre "azul" los que tengan el texto de color azul, y un tamaño de 15px.
+!>Tenga cuidado al usar el selector universal. Como se aplica a todos los elementos, su uso en grandes páginas web puede tener un impacto perceptible en el rendimiento: las páginas web se muestran más despacio de lo esperado. No hay muchas instancias en las que use este selector universal.
 
-!>En W3School está explicado como ["Selectores de Atributos"](https://www.w3schools.com/css/css_attribute_selectors.asp).
+### Referencia a cualquier atributo
 
-<div align="right">_Nota: falta completar ésto con más detalles_</div>
+!>Más conocidos como ["Selectores de Atributos"](https://www.w3schools.com/css/css_attribute_selectors.asp).
+
+Los selectores de atributos son un tipo especial de selector que unirá elementos en función de sus atributos y valores de atributo. Su sintaxis genérica consta de corchetes `[ ]` que contienen un nombre de atributo seguido de una condición opcional para coincidir con el valor del atributo. 
+
+Los selectores de atributos se pueden dividir en dos categorías según la forma en que coincidan con los valores de los atributos:
+
+* _Selectores de atributos de presencia y valor_ 
+* _Selectores de atributos de valor de subcadena_
+
+#### Selector de atributos de presencia y valor
+
+Éstos selectores de atributos tratarán de hacer coincidir el valor exacto del atributo (o bien cualquier atributo mencionado):
+
+* `[name]`: este selector actuará sobre todos los elementos que tengan el atributo `name` sin importar si tiene o no valor.
+* `[name=val1]`: este selector actuará sobre todos los elementos que tengan el atributo `name` con el valor `val1`.
+* `[name~=val2]`: este selector actuará sobre todos los elementos que tengan el atributo `name` pero únicamente sobre los que tengan el valor `val2` separado por un espacio.
+
+?> [Ver ejemplo práctico](https://jsfiddle.net/Waldo/6oxxu5p0/8/)
+
+!> Para uso más avanzado, si se quiere usar el atributo `data`, existen los "[data attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes)" que pueden ser manipulados con _JavaScript_.
+
+#### Selector de atributo de valor de subcadena
+
+Los selectores de atributos en esta clase también se conocen como "selectores similares a RegExp", ya que ofrecen una coincidencia flexible de forma similar a la expresión regular (pero, para que quede claro, estos selectores no son verdaderas expresiones regulares):
+
+* `[attr|=val]`: este selector actuará sobre todos los elementos con el atributo `attr` donde el valor es exactamente `val` o comienza con `val-` (cuidado, el guión aquí no es un error, esto es para manejar los códigos de idioma).
+* `[attr^=val]`: este selector actuará sobre todos los elementos con el atributo `attr` donde el valor comienza con `val`.
+* `[attr$=val]`: este selector actuará sobre todos los elementos con el atributo `attr` donde el valor termina con `val`.
+* `[attr*=val]`: este selector actuará sobre todos los elementos con el atributo `attr` donde el valor contiene la palabra `val` (es distinto a `[attr~=val]` donde el selector no trata los espacios como valores sino como parte del valor del atributo).
+
+##### Prácticas de Selectores de Atributos
+
+Haremos un ejemplo con listas, para entender mejor cómo trabajan todos los _selectores de atributos_ que hemos desarrollado hasta aquí. 
+
+<script async src="//jsfiddle.net/Waldo/n5qcos5z/embed/html,css,result/"></script>
 
 ### Referencia con pseudo clases
 
