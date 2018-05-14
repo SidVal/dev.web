@@ -237,8 +237,8 @@ Los selectores de atributos son un tipo especial de selector que unirá elemento
 
 Los selectores de atributos se pueden dividir en dos categorías según la forma en que coincidan con los valores de los atributos:
 
-* _Selectores de atributos de presencia y valor_ 
-* _Selectores de atributos de valor de subcadena_
+* Selectores de atributos de presencia y valor
+* Selectores de atributos de valor de subcadena
 
 #### Selector de atributos de presencia y valor
 
