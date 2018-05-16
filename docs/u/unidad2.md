@@ -4,13 +4,13 @@ Antes de seguir deberías tener:
 
 1. Uso básico de ordenadores, y uso pasivo de la Web (navegar y ver contenido).
 1. Entorno básico de trabajo, leer [#Software Recomendado](/?id=software-recomendado).
-1. Conocimiento básico de HTML y CSS. [_Repasar Uniodad 1_](/c/unidad1.md).
+1. Conocimiento básico de HTML y CSS. [_Repasar Uniodad 1_](/u/unidad1.md).
 
 ## Primer página web
 
 Si bien en la [primer clase](/clases/clase1.md#clase-1) algo se vió, muy por arriba de la estructura básica y cómo una página debía llamar a los elementos que la componen, durante la [segunda clase](/clases/clase2.md#clase-2) se desarrolló con mayor profundidad lo que sería nuestro primer desarrollo web estático.
 
-Se repasaron los conceptos de elementos `HTML` que ya habíamos visto; si aún no se sabe cuándo usar `<b>` o `<strong>`, recomiendo repasar el [Unidad 1](/c/unidad1.md#unidad-1). Y se ampliarán como veremos a continuación los conceptos con `CSS`.
+Se repasaron los conceptos de elementos `HTML` que ya habíamos visto; si aún no se sabe cuándo usar `<b>` o `<strong>`, recomiendo repasar el [Unidad 1](/u/unidad1.md#unidad-1). Y se ampliarán como veremos a continuación los conceptos con `CSS`.
 
 ?>A raíz de comprender mejor los ejemplos prácticos, el código que se practica en clase estará expuesto en una carpeta [`/www/` en GitHub](https://github.com/SidVal/dev.web/tree/master/www), y el comportamiento pueden verlo en [Fiddle](https://jsfiddle.net/Waldo/o31j84e1/) o bien en [Thimble](https://thimble.mozilla.org/es/user/walddo/1685329/); lee más sobre [Editores en Línea para practicar](https://github.com/SidVal/dev.web/wiki/Herramientas#editores-en-linea).
 
@@ -136,7 +136,7 @@ Para evitar tener que copiar y pegar en cada página los _estilos embebidos_, se
 Entonces para insertar estilos de archivos externos debemos poner en la sección `<head>` la siguiente línea:
 `<link rel="stylesheet" href="../css/estilos.css">`
 
-En la unidad 1 vimos el elemento `<link>` cuando hablamos de las etiquetas html del "HEAD", que serviría para insertar nuestra página llamada "estilos.css" a nuestra primer página web. _Repasar unidad sobre el [link](/c/unidad1.md#link)_.
+En la unidad 1 vimos el elemento `<link>` cuando hablamos de las etiquetas html del "HEAD", que serviría para insertar nuestra página llamada "estilos.css" a nuestra primer página web. _Repasar unidad sobre el [link](/u/unidad1.md#link)_.
 
 ## Referencias
 
@@ -152,7 +152,7 @@ Al utilizar la referencia por palabra clave del elemento HTML, cambiamos todos l
 
 ### Referencia por el atributo id
 
-Como vimos en la unidad 1, el [atributo id](/c/unidad1.md/#id) debe ser utilizado para "identificar" cierto elemento HTML, y dicha identidad debe ser única dentro del documento. En CSS, para la regla a un ID, se identifica con un _hash_ (símbolo _#_).
+Como vimos en la unidad 1, el [atributo id](/u/unidad1.md/#id) debe ser utilizado para "identificar" cierto elemento HTML, y dicha identidad debe ser única dentro del documento. En CSS, para la regla a un ID, se identifica con un _hash_ (símbolo _#_).
 
 ```css
 #principal {
@@ -171,7 +171,7 @@ Como vimos en la unidad 1, el [atributo id](/c/unidad1.md/#id) debe ser utilizad
 
 ### Referencia por el atributo class
 
-También vimos el [atributo class](/c/unidad1.md#class) en la unidad 1, que servía para dar estilo ciertos elementos HTML que no eran únicos, y que se comportaban de forma similar (hablando de estilos). Por ejemplo, si tendríamos párrafos con texto secundario, podemos definir un class _secundario_ y darle ciertos estilos:
+También vimos el [atributo class](/u/unidad1.md#class) en la unidad 1, que servía para dar estilo ciertos elementos HTML que no eran únicos, y que se comportaban de forma similar (hablando de estilos). Por ejemplo, si tendríamos párrafos con texto secundario, podemos definir un class _secundario_ y darle ciertos estilos:
 
 ```css
 .secundario {

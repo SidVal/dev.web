@@ -10,4 +10,4 @@ Lugar: Aula 154, UTN
 * Se mencionaron los conceptos que se tratarán en el curso. Se habló de la estructura cliente - servidor.
 * Se creó el primer archivo `HTML` y se mencionaron las etiquetas principales.
 
->Para una versión más completa, todos los conceptos y desarrollos de la clase de han pasado a la **[Unidad 1](/c/unidad1.md)**.
+>Para una versión más completa, todos los conceptos y desarrollos de la clase de han pasado a la **[Unidad 1](/u/unidad1.md)**.

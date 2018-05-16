@@ -26,5 +26,5 @@ Empezamos el martes 8 de Mayo con la clase 2 del curso.
 
 ## Tabla de Contenido
 
-* [Clase 1](/clases/clase1.md)
-* [Clase 2](/clases/clase2.md)
+* [Clase 1](/curso/clase1.md)
+* [Clase 2](/curso/clase2.md)

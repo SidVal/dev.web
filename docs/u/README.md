@@ -1,6 +1,6 @@
-# Capítulos {docsify-ignore-all}
+# Unidades {docsify-ignore-all}
 
->Arranquemos; cabe aclarar que el contenido de éste documento es una mezcla entre lo que se dió en clase ([ver clases](/clases/)), y mi propia interpretación mientras voy estudiando y perfeccionando mi conocimiento previo (y nuevo) sobre el tema. No destaco a cada rato lo que se dió en x clase y lo que yo agrego, porque sería un desastre de redacción y muy complejo para volver a leer el documento, y sacar algo bueno del mismo.
+>Arranquemos; cabe aclarar que el contenido de éste documento es una mezcla entre lo que se dió en clase ([ver curso](/curso/)), y mi propia interpretación mientras voy estudiando y perfeccionando mi conocimiento previo (y nuevo) sobre el tema. No destaco a cada rato lo que se dió en x clase y lo que yo agrego, porque sería un desastre de redacción y muy complejo para volver a leer el documento, y sacar algo bueno del mismo.
 >
 >Se busca que estos documentos sean un repaso para aquellas personas que quieren aprender a desarrollar web, o afianzar sus conocimientos.
 >
@@ -42,4 +42,4 @@ En la parte de [#Software Recomendado](/?id=software-recomendado) se detallan pr
 
 ***
 
-<div align="center">[Unidad 1](/c/unidad1.md#unidad-1) | [Unidad 2](/c/unidad2.md#unidad-2) </div>
+<div align="center">[Unidad 1](/u/unidad1.md#unidad-1) | [Unidad 2](/u/unidad2.md#unidad-2) </div>

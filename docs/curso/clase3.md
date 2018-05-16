@@ -6,7 +6,7 @@ Lugar: Remoto, _GoToMeeting.es_
 
 ## HTML + CSS
 
-Se profundizaron aún más los conceptos vistos en la [clase 2](/clases/clase2.md#clase-2), se puso más énfasis en los conceptos claves de `CSS` y formas de estructurar estilos en `HTML`.
+Se profundizaron aún más los conceptos vistos en la [clase 2](/curso/clase2.md#clase-2), se puso más énfasis en los conceptos claves de `CSS` y formas de estructurar estilos en `HTML`.
 
 Se vieron los elementos de HTML5.
 
