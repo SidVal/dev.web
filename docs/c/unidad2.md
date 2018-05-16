@@ -233,7 +233,7 @@ Ejemplo de selector universal:
 
 !>Más conocidos como ["Selectores de Atributos"](https://www.w3schools.com/css/css_attribute_selectors.asp).
 
-Los selectores de atributos son un tipo especial de selector que unirá elementos en función de sus atributos y valores de atributo. Su sintaxis genérica consta de corchetes `[ ]` que contienen un nombre de atributo seguido de una condición opcional para coincidir con el valor del atributo. 
+Los selectores de atributos son un tipo especial de selector que unirá elementos en función de sus atributos y valores de atributo. Su sintaxis genérica consta de corchetes `[ ]` que contienen un nombre de atributo seguido de una condición opcional para coincidir con el valor del atributo.
 
 Los selectores de atributos se pueden dividir en dos categorías según la forma en que coincidan con los valores de los atributos:
 
@@ -263,7 +263,7 @@ Los selectores de atributos en esta clase también se conocen como "selectores s
 
 ##### Prácticas de Selectores de Atributos
 
-Haremos un ejemplo con listas, para entender mejor cómo trabajan todos los _selectores de atributos_ que hemos desarrollado hasta aquí. 
+Haremos un ejemplo con listas, para entender mejor cómo trabajan todos los _selectores de atributos_ que hemos desarrollado hasta aquí.
 
 <script async src="//jsfiddle.net/Waldo/n5qcos5z/embed/html,css,result/"></script>
 

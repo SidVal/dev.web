@@ -1,0 +1,46 @@
+header h2 {
+    font-family: 'Dayrom', serif;
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-top: 0px;
+    margin-left: 24px;
+    }
+    
+    #logo,
+    header h1 {
+    display: inline-block;
+    margin-bottom: 0;
+    }
+    
+    #logo {
+    width: 112px;
+    }
+    
+    /* Navegacion */
+    
+    nav {
+    display: inline-block;
+    width: 75%;
+    text-align: right;
+    }
+    
+    nav ul {
+    list-style-type: none;
+    }
+    
+    nav li {
+    display: inline-block;
+    margin-right: 15px;
+    }
+    
+    nav a {
+    font-size: 1.3em;
+    color: #181818;
+    text-decoration: none;
+    padding-bottom: 3px;
+    }
+    
+    nav a:hover {
+    color: #760000;
+    border-bottom: 3px solid #760000;
+    }
