@@ -28,3 +28,4 @@ Empezamos el martes 8 de Mayo con la clase 2 del curso.
 
 * [Clase 1](/curso/clase1.md)
 * [Clase 2](/curso/clase2.md)
+* [Clase 3](/curso/clase3.md)
