@@ -277,6 +277,10 @@ selector:pseudo-class {
 }
 ```
 
+En el curso, recién en la última parte de la [clase 2](/curso/clase2.md) y la [clase 3](/curso/clase3.md) se mencionaron las pseudo-clases `:focus` y `:after` (en la clase 2) y se agregó `:hover` en la clase 3, aunque no se mencionó ni se presentó el tema como tal, sino que se hablaba de darle estilo a la acción del mouse arriba de los enlaces.
+
+> `a:hover` MUST come after `a:link` and `a:visited` in the CSS definition in order to be effective! `a:active` MUST come after `a:hover` in the CSS definition in order to be effective! Pseudo-class names are not case-sensitive.
+
 <div align="right">_Nota: falta completar ésto con más detalles_</div>
 
 ### Referencia con pseudo elementos
