@@ -1,12 +1,14 @@
-# Dev.Web
+# WebMaster
 
-<div align="right">_v.0.0.1-alpha_ (ultra beta) :smile: </div>
+<div align="right">_v.0.1.0-beta_ :smile: </div>
 
 ## Presentación del repo
 
 Repo público sobre el curso de Desarrollo Web a iniciar en Mayo 2018
 
 Se busca que estos documentos sean un repaso para aquellas personas que quieren aprender a desarrollar web, o afianzar sus conocimientos.
+
+Con el tiempo se convertirá en mi página para exponer todo lo que sea sobre el _WebMaster_ que llevo adentro. Para nada experto, y siempre aprendiendo cosas nuevas sobre lo que respecta a páginas web y tecnología web en general.
 
 !>Si gustas corregir :pencil2: o sugerir :bulb: algún cambio, [**por favor envía tu mensaje aquí**](https://github.com/SidVal/dev.web/issues/new?assignee=SidVal). :pray:
 
