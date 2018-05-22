@@ -316,12 +316,12 @@ div:hover p {
 
 #### Pseudo-Classes
 
-* `:first-child`
-* `:nth-child()`
-* `:last-child`
-* `:only-child`
-* `:not()`
-* `:lang`
+* [`:first-child`](#fist-child)
+* [`:nth-child()`](#nth-childn)
+* [`:last-child`](#last-child)
+* [`:only-child`](#only-child)
+* [`:not()`](#not)
+* [`:lang`](#lang)
 
 
 ##### `:first-child`
@@ -418,7 +418,112 @@ div.borde1 { border: 2px dotted red; }
 
 Otras propiedades del borde:
 
-* https://www.w3schools.com/css/css_border.asp
+* [Ver todas](https://www.w3schools.com/css/css_border.asp)
 * `border-radius`
 
+### `border-radius`
+
+Si tenemos por ejemplo: `border-radius: 25px 80px 1px 15px` veamos cómo queda un texto con este borde:
+
+<script async src="//jsfiddle.net/Waldo/39tbxqxg/1/embed/css,result/"></script>
+
+De éste ejemplo vemos que los números de la propiedad CSS se distribuyen comenzando por la **esquina superior izq**, sigue la **esquina superior derecha**, luego la **esquina inferior derecha** y finalmente la **esquina inferior izquierda**.
+
+En el documento PDF de clases, indican que esta propiedad `border-radius` está en etapa experimental, sin embargo en [W3schools.com](https://www.w3schools.com/cssref/css3_pr_border-radius.asp) no afirman lo mismo. Para lo único que se agregan propiedades experimentales es para darle [_animación_ al borde a través de CSS](https://www.w3schools.com/cssref/tryit.asp?filename=trycss_anim_border-radius).
+
+En el `border-radius` puede colocarse la definición en pares de números separados por una barra `/`, donde los valor de la izquierda de dicha barra será el radio horizontal, mientras que los valores de la derecha de la barra, serán los del radio vertical.
+
+Ver ejemplo:
+
+<script async src="//jsfiddle.net/Waldo/39tbxqxg/2/embed/css,result/"></script>
+
+[Ver uso más avanzado aquí](https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_border-radius5).
+
+## Box Shadow
+
+La propiedad `box-shadow` permite realizar **sombras** con estilos css. Requiere al menos tres valores: _color_, _desplazamiento horizontal_, y _desplazamiento vertical_. Un cuarto valor sería para _difuminar_ la sombra. Si agregamos un quinto valor, será para darle profundidad, podría ser el valor: `inset` si queremos que la sombra sea interna. 
+
+Ejemplo para crear _efecto blur_: `box-shadow: 10px 10px 8px #888888;`
+
+Recomiendo ver algunos [ejemplos avanzados de `box-shadow`]](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp) para mejorar su comprensión. 
+
+## Text Shadow
+
+Por ejemplo: `text-shadow: 2px 2px #ff0000;` hará que el texto tenga sombra. [Ver en linea](https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_text-shadow).
+
+[Ver más ejemplos de `text-shadow`](https://www.w3schools.com/cssref/css3_pr_text-shadow.asp).
+
+## Font Face
+
+La propiedad `@font-face` nos permite tener una fuente especificada desde cualquier ubicación. 
+
+La propiedad requiere que se defina el valor para la `font-family` y el _source_, es decir el valor de dónde viene la fuente que queremos llamar, con `src`. 
+
+Ejemplo [-ver en linea](https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_font-face_rule):
+
+```css
+@font-face {
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+}
+```
+
+## Gradientes CSS
+
+Los gradientes son configurados como fondos degradados. En la documentación de clase aparece como _Gradiente Lineal_. 
+
+Los degradados CSS le permiten mostrar transiciones suaves entre dos o más colores especificados. 
+
+CSS define dos tipos de degradados: 
+
+* Degradados lineales (baja / sube / izquierda / derecha / diagonalmente) 
+* Degradados radiales (definidos por su centro)
+
+### Linear Gradient
+
+Para crear un degradado lineal, debe definir al menos dos paradas de color. Las paradas de color son los colores con los que desea hacer transiciones suaves. También puede establecer un punto de inicio y una dirección (o un ángulo) junto con el efecto de degradado.
+
+Ejemplos:
+
+* Arriba Abajo (default) [`background: linear-gradient(red, yellow);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear)
+* Izquierda a Derecha [`background: linear-gradient(to right, red , yellow);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_ltr)
+* Diagonal [`background: linear-gradient(to bottom right, red, yellow);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_diagonal)
+
+Si desea más control sobre la dirección del degradado, puede definir un ángulo, en lugar de las direcciones predefinidas (hacia abajo, hacia arriba, hacia la derecha, hacia la izquierda, hacia abajo a la derecha, etc.).
+
+* Con ángulos [`background: linear-gradient(-90deg, red, yellow);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_angles)
+* Con múltiples colores [`background: linear-gradient(red, yellow, green);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_cs)
+* Otro ejemplo de múltiples colores [`background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_rainbow)
+* Repitiendo colores [`background: repeating-linear-gradient(red, yellow 10%, green 20%);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_repeating)
+
+Los degradados de CSS también admiten **transparencia**, que se puede usar para crear efectos de _desvanecimiento_. Para agregar transparencia, usamos la función `rgba()` para definir las paradas de color. El último parámetro en la función `rgba()` puede ser un valor de 0 a 1, y define la transparencia del color: 0 indica transparencia total, 1 indica color completo (sin transparencia). El siguiente ejemplo muestra un gradiente lineal que comienza desde la izquierda. Comienza completamente transparente, pasando a rojo: [`background: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_trans).
+
+### Radial Gradient
+
+Un gradiente radial se define por su centro. Para crear un degradado radial también debe definir al menos dos paradas de color.
+
+* Radial de color uniformemente espaciados [`background: radial-gradient(red, yellow, green);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-radial)
+* Paradas de color diferentes espaciadas [`background: radial-gradient(red 5%, yellow 15%, green 60%);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-radial2)
+* Establecer forma [`background: radial-gradient(circle, red, yellow, green);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-radial_shape)
+* Repitiendo radiales [`background: repeating-radial-gradient(red, yellow 10%, green 15%);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-radial_repeating)
+
+## RGBA 
+
+_Página 63_
+
+## HSLA
+
+_Página 63_
+
+## Outline
+
+_Página 64_
+
+## Border-image
+
+_Página 64_
+
+## Transform y Transition
+
+_Página 66_
 
