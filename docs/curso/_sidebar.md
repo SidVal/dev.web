@@ -5,5 +5,6 @@
   * [Clase 1](/curso/clase1.md)
   * [Clase 2](/curso/clase2.md)
   * [Clase 3](/curso/clase3.md)
+  * [Clase 4](/curso/clase4.md)
 
 * [Unidades](/u/)
