@@ -316,7 +316,7 @@ div:hover p {
 
 #### Pseudo-Classes
 
-* [`:first-child`](#fist-child)
+* [`:first-child`](#first-child)
 * [`:nth-child()`](#nth-childn)
 * [`:last-child`](#last-child)
 * [`:only-child`](#only-child)
