@@ -26,17 +26,17 @@ _Gráficamente_
 
 ![Propiedades del modelo de caja](https://mdn.mozillademos.org/files/13647/box-model-standard-small.png)
 
-#### `width` y `height`
+#### Ancho y alto
 
 Las propiedades `width` y `height` establecen el **ancho** y **alto** de la caja de contenido, que es el área donde se muestra el contenido de la caja — este contenido comprende tanto el texto incluido en la caja como otras cajas representadas por elementos anidados.
 
 Para un manejo más refinado del tamaño de la caja, se usan propiedades adicionales como: `min-width`, `max-width`, `min-height`, y `max-height`.
 
-#### `padding`
+#### Espacio interno
 
 El `padding` hace referencia al margen interior de la caja CSS — entre el límite exterior de la caja del contenido y el límite interior del borde. El tamaño de esta capa puede configurarse en sus cuatro lados a la vez con la propiedad abreviada `padding`, o cada lado por separado con las propiedades: `padding-top`, `padding-right`, `padding-bottom` y `padding-left`.
 
-#### `border`
+#### Linea de Borde
 
 El borde de una caja CSS descansa entre el límite exterior del padding y el límite interior del margen. Por defecto tiene un tamaño de `0` — es decir, invisible — pero podemos cambiar su grosor, estilo y color para hacerlo visible. La propiedad abreviada de `border` permite establecer los cuatro lados a la vez, por ejemplo: `border: 1px solid black`. Pero también se puede dividir en varias propiedades extendidas para su uso en necesidades concretas de estilo:
 
@@ -44,9 +44,9 @@ El borde de una caja CSS descansa entre el límite exterior del padding y el lí
 * `border-width`, `border-style`, `border-color`: establecen únicamente el grosor, el estilo y el color por separado, pero para los cuatro lados del borde al mismo tiempo.
 * Podemos también establecer cada propiedad por separado para cada lado individualmente, usando `border-top-width`, `border-top-style`, `border-top-color`, y así...
 
-?> [Ampliar más información de la propiedad `border`](#border-1)
+?> [Ampliar más información de la propiedad `border`](#border)
 
-#### `margin`
+#### Margen
 
 El margen envuelve la caja CSS, y sostiene a otras cajas del diseño. Se comporta como `padding`; la propiedad abreviada es `margin` y las propiedades individuales son `margin-top`, `margin-right`, `margin-bottom`, y `margin-left`.
 
@@ -325,7 +325,6 @@ div:hover p {
 * [`:not()`](#not)
 * [`:lang`](#lang)
 
-
 ##### `:first-child`
 
 Se usa para referenciar al primer elemento _hijo_; es similar a usar `:nth-child(1)`.
@@ -378,7 +377,7 @@ Por ejemplo:
 
 ```css
 div.clase2 > p.parrafo9 {
-    color: red;    
+    color: red;
 }
 ```
 
@@ -390,13 +389,13 @@ Ejemplo:
 
 ```css
 div.clase2 + p {
-    color: red;    
+    color: red;
 }
 ```
 
 ### `~`
 
-Este selector indica que la regla CSS aplicará al elemento de la derecha sin importar si está precedido o no por el elemento de la izquierda. 
+Este selector indica que la regla CSS aplicará al elemento de la derecha sin importar si está precedido o no por el elemento de la izquierda.
 
 ?> Buscar mejor explicación de éste selector, en el PDF del curso no es clara la explicación que brinda.
 
@@ -453,11 +452,11 @@ _Página 64 y 65_
 
 ## Box Shadow
 
-La propiedad `box-shadow` permite realizar **sombras** con estilos css. Requiere al menos tres valores: _color_, _desplazamiento horizontal_, y _desplazamiento vertical_. Un cuarto valor sería para _difuminar_ la sombra. Si agregamos un quinto valor, será para darle profundidad, podría ser el valor: `inset` si queremos que la sombra sea interna. 
+La propiedad `box-shadow` permite realizar **sombras** con estilos css. Requiere al menos tres valores: _color_, _desplazamiento horizontal_, y _desplazamiento vertical_. Un cuarto valor sería para _difuminar_ la sombra. Si agregamos un quinto valor, será para darle profundidad, podría ser el valor: `inset` si queremos que la sombra sea interna.
 
 Ejemplo para crear _efecto blur_: `box-shadow: 10px 10px 8px #888888;`
 
-Recomiendo ver algunos [ejemplos avanzados de `box-shadow`]](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp) para mejorar su comprensión. 
+Recomiendo ver algunos [ejemplos avanzados de `box-shadow`](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp) para mejorar su comprensión.
 
 ## Text Shadow
 
@@ -467,9 +466,9 @@ Por ejemplo: `text-shadow: 2px 2px #ff0000;` hará que el texto tenga sombra. [V
 
 ## Font Face
 
-La propiedad `@font-face` nos permite tener una fuente especificada desde cualquier ubicación. 
+La propiedad `@font-face` nos permite tener una fuente especificada desde cualquier ubicación.
 
-La propiedad requiere que se defina el valor para la `font-family` y el _source_, es decir el valor de dónde viene la fuente que queremos llamar, con `src`. 
+La propiedad requiere que se defina el valor para la `font-family` y el _source_, es decir el valor de dónde viene la fuente que queremos llamar, con `src`.
 
 Ejemplo [-ver en linea](https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_font-face_rule):
 
@@ -482,13 +481,13 @@ Ejemplo [-ver en linea](https://www.w3schools.com/cssref/tryit.asp?filename=tryc
 
 ## Gradientes CSS
 
-Los gradientes son configurados como fondos degradados. En la documentación de clase aparece como _Gradiente Lineal_. 
+Los gradientes son configurados como fondos degradados. En la documentación de clase aparece como _Gradiente Lineal_.
 
-Los degradados CSS le permiten mostrar transiciones suaves entre dos o más colores especificados. 
+Los degradados CSS le permiten mostrar transiciones suaves entre dos o más colores especificados.
 
-CSS define dos tipos de degradados: 
+CSS define dos tipos de degradados:
 
-* Degradados lineales (baja / sube / izquierda / derecha / diagonalmente) 
+* Degradados lineales (baja / sube / izquierda / derecha / diagonalmente)
 * Degradados radiales (definidos por su centro)
 
 ### Linear Gradient
@@ -527,7 +526,7 @@ Los colores en CSS se especifican utilizando nombres de colores predefinidos o v
 
 En HTML, un color se puede especificar mediante el uso de un nombre de color:
 
-![](../assets/img/css-colors.jpg)
+![Colores CSS](../assets/img/css-colors.jpg)
 
 HTML admite 140 nombres de colores estándar.
 
@@ -558,7 +557,7 @@ Ejemplo [-ver en linea](https://www.w3schools.com/css/tryit.asp?filename=trycss3
 
 ### Opacity
 
-La propiedad de opacidad de CSS establece la opacidad para todo el elemento (tanto el color de fondo como el texto serán opacos / transparentes). 
+La propiedad de opacidad de CSS establece la opacidad para todo el elemento (tanto el color de fondo como el texto serán opacos / transparentes).
 
 Ejemplo [-ver en linea](https://www.w3schools.com/css/tryit.asp?filename=trycss3_color_opacity):
 
@@ -570,9 +569,9 @@ Ejemplo [-ver en linea](https://www.w3schools.com/css/tryit.asp?filename=trycss3
 
 ## Outline
 
-El `outline` es un contorno, es decir, es una línea que se dibuja alrededor de elementos, FUERA de los bordes, para hacer que el elemento se "destaque". Se usa para crear un segundo borde, tiene similares características y usa los mismos parámetros que la propiedad [`border`](#border-1).
+El `outline` es un contorno, es decir, es una línea que se dibuja alrededor de elementos, FUERA de los bordes, para hacer que el elemento se "destaque". Se usa para crear un segundo borde, tiene similares características y usa los mismos parámetros que la propiedad [`border`](#border).
 
-![](../assets/img/css-outline.jpg)
+![CSS Outline](../assets/img/css-outline.jpg)
 
 Su uso básico es:
 
