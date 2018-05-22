@@ -44,6 +44,8 @@ El borde de una caja CSS descansa entre el límite exterior del padding y el lí
 * `border-width`, `border-style`, `border-color`: establecen únicamente el grosor, el estilo y el color por separado, pero para los cuatro lados del borde al mismo tiempo.
 * Podemos también establecer cada propiedad por separado para cada lado individualmente, usando `border-top-width`, `border-top-style`, `border-top-color`, y así...
 
+>? [Ampliar más información de la propiedad `border`](#border-1)
+
 #### `margin`
 
 El margen envuelve la caja CSS, y sostiene a otras cajas del diseño. Se comporta como `padding`; la propiedad abreviada es `margin` y las propiedades individuales son `margin-top`, `margin-right`, `margin-bottom`, y `margin-left`.
@@ -568,7 +570,7 @@ Ejemplo [-ver en linea](https://www.w3schools.com/css/tryit.asp?filename=trycss3
 
 ## Outline
 
-El `outline` es un contorno, es decir, es una línea que se dibuja alrededor de elementos, FUERA de los bordes, para hacer que el elemento se "destaque". Se usa para crear un segundo borde, tiene similares características y usa los mismos parámetros que la propiedad [`border`](#border).
+El `outline` es un contorno, es decir, es una línea que se dibuja alrededor de elementos, FUERA de los bordes, para hacer que el elemento se "destaque". Se usa para crear un segundo borde, tiene similares características y usa los mismos parámetros que la propiedad [`border`](#border-1).
 
 ![](../assets/img/css-outline.jpg)
 
