@@ -400,7 +400,9 @@ Este selector indica que la regla CSS aplicará al elemento de la derecha sin im
 
 <div align="right">_Nota: falta completar ésto con más detalles; PDF1: página53_</div>
 
-## Bordes con `border`
+## Bordes
+
+### `border`
 
 Las propiedades `border` de CSS le permiten especificar el estilo, el ancho y el color del borde de un elemento.
 
@@ -421,7 +423,7 @@ Otras propiedades del borde:
 * [Ver todas](https://www.w3schools.com/css/css_border.asp)
 * `border-radius`
 
-### `border-radius`
+#### `border-radius`
 
 Si tenemos por ejemplo: `border-radius: 25px 80px 1px 15px` veamos cómo queda un texto con este borde:
 
@@ -438,6 +440,14 @@ Ver ejemplo:
 <script async src="//jsfiddle.net/Waldo/39tbxqxg/2/embed/css,result/"></script>
 
 [Ver uso más avanzado aquí](https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_border-radius5).
+
+### `border-image`
+
+Es una propiedad avanzada de CSS, leer [`border-image`](https://www.w3schools.com/css/css3_border_images.asp).
+
+_Página 64 y 65_
+
+<div align="right">_Nota: falta completar ésto con más detalles_</div>
 
 ## Box Shadow
 
@@ -507,23 +517,85 @@ Un gradiente radial se define por su centro. Para crear un degradado radial tamb
 * Establecer forma [`background: radial-gradient(circle, red, yellow, green);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-radial_shape)
 * Repitiendo radiales [`background: repeating-radial-gradient(red, yellow 10%, green 15%);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-radial_repeating)
 
-## RGBA 
+## Colores
 
-_Página 63_
+Los colores en CSS se especifican utilizando nombres de colores predefinidos o valores RGB, HEX, HSL, RGBA, HSLA.
 
-## HSLA
+### Colores Predefinidos
 
-_Página 63_
+En HTML, un color se puede especificar mediante el uso de un nombre de color:
+
+![](../assets/img/css-colors.jpg)
+
+HTML admite 140 nombres de colores estándar.
+
+### RGBA
+
+Los valores de color RGBA son una extensión de los valores de color RGB con un canal alfa, que especifica la opacidad para un color. Un valor de color RGBA se especifica con: `rgba(red, green, blue, alpha)`. El parámetro _alfa_ es un número entre 0.0 (totalmente transparente) y 1.0 (totalmente opaco).
+
+Ejemplo [-ver en línea](https://www.w3schools.com/css/tryit.asp?filename=trycss3_color_rgba):
+
+```css
+#p1 {background-color: rgba(255, 0, 0, 0.3);}  /* red with opacity */
+#p2 {background-color: rgba(0, 255, 0, 0.3);}  /* green with opacity */
+#p3 {background-color: rgba(0, 0, 255, 0.3);}  /* blue with opacity */
+```
+
+### HSLA
+
+Los valores de color HSLA son una extensión de los valores de color HSL con un canal alfa, que especifica la opacidad para un color. Un valor de color HSLA se especifica con: `hsla(hue, saturation, lightness, alpha)`, donde el parámetro _alfa_ define la opacidad. El parámetro alfa es un número entre 0.0 (totalmente transparente) y 1.0 (totalmente opaco).
+
+Ejemplo [-ver en linea](https://www.w3schools.com/css/tryit.asp?filename=trycss3_color_hsla):
+
+```css
+#p1 {background-color: hsla(120, 100%, 50%, 0.3);}  /* green with opacity */
+#p2 {background-color: hsla(120, 100%, 75%, 0.3);}  /* light green with opacity */
+#p3 {background-color: hsla(120, 100%, 25%, 0.3);}  /* dark green with opacity */
+#p4 {background-color: hsla(120, 60%, 70%, 0.3);}   /* pastel green with opacity */
+```
+
+### Opacity
+
+La propiedad de opacidad de CSS establece la opacidad para todo el elemento (tanto el color de fondo como el texto serán opacos / transparentes). 
+
+Ejemplo [-ver en linea](https://www.w3schools.com/css/tryit.asp?filename=trycss3_color_opacity):
+
+```css
+#p1 {background-color:rgb(255,0,0);opacity:0.6;}  /* red with opacity */
+#p2 {background-color:rgb(0,255,0);opacity:0.6;}  /* green with opacity */
+#p3 {background-color:rgb(0,0,255);opacity:0.6;}  /* blue with opacity */
+```
 
 ## Outline
 
-_Página 64_
+El `outline` es un contorno, es decir, es una línea que se dibuja alrededor de elementos, FUERA de los bordes, para hacer que el elemento se "destaque". Se usa para crear un segundo borde, tiene similares características y usa los mismos parámetros que la propiedad [`border`](#border).
 
-## Border-image
+![](../assets/img/css-outline.jpg)
 
-_Página 64_
+Su uso básico es:
+
+```css
+div.outline {
+outline: 2px dotted red;
+outline-offset: 15px;
+margin: 30px;
+}
+```
+
+<script async src="//jsfiddle.net/Waldo/39tbxqxg/3/embed/css,result/"></script>
+
+Propiedades del outline:
+
+* `outline-style`
+* `outline-color`
+* `outline-width`
+* `outline-offset`
+* `outline`
+
+>¡Cuidado con superponer el outline con otro contenido! - [Leer más información sobre `outline`](https://www.w3schools.com/css/css_outline.asp).
 
 ## Transform y Transition
 
 _Página 66_
 
+<div align="right">_Nota: falta completar ésto con más detalles_</div>
