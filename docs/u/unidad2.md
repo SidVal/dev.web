@@ -44,7 +44,7 @@ El borde de una caja CSS descansa entre el límite exterior del padding y el lí
 * `border-width`, `border-style`, `border-color`: establecen únicamente el grosor, el estilo y el color por separado, pero para los cuatro lados del borde al mismo tiempo.
 * Podemos también establecer cada propiedad por separado para cada lado individualmente, usando `border-top-width`, `border-top-style`, `border-top-color`, y así...
 
->? [Ampliar más información de la propiedad `border`](#border-1)
+?> [Ampliar más información de la propiedad `border`](#border-1)
 
 #### `margin`
 
