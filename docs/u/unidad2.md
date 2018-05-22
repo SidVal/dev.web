@@ -578,13 +578,15 @@ Su uso básico es:
 
 ```css
 div.outline {
+border: 1px solid green;
+padding:5px;
 outline: 2px dotted red;
 outline-offset: 15px;
 margin: 30px;
 }
 ```
 
-<script async src="//jsfiddle.net/Waldo/39tbxqxg/3/embed/css,result/"></script>
+<script async src="//jsfiddle.net/Waldo/39tbxqxg/4/embed/css,result/"></script>
 
 Propiedades del outline:
 
