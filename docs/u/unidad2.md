@@ -479,7 +479,25 @@ Ejemplo [-ver en linea](https://www.w3schools.com/cssref/tryit.asp?filename=tryc
 }
 ```
 
-## Gradientes CSS
+## Fondos
+
+### Background
+
+Las propiedades de fondo de CSS se usan para definir los efectos de fondo para los elementos. 
+
+Propiedades de fondo de CSS [-ampliar](https://www.w3schools.com/css/css_background.asp):
+
+* `background-color`
+* `background-image`
+* `background-repeat`
+* `background-attachment`
+* `background-position`
+
+En clase de dio el método _"shorthand"_. Se da cuando se acorta el código, es decir, es posible especificar todas las propiedades de fondo en una sola propiedad. Esto se llama una propiedad _shorthand_.
+
+Ejemplo: `background: #ffffff url("img_tree.png") no-repeat right top;` [-ver](https://www.w3schools.com/css/tryit.asp?filename=trycss_background_shorthand).
+
+### Gradientes CSS
 
 Los gradientes son configurados como fondos degradados. En la documentación de clase aparece como _Gradiente Lineal_.
 
@@ -490,7 +508,7 @@ CSS define dos tipos de degradados:
 * Degradados lineales (baja / sube / izquierda / derecha / diagonalmente)
 * Degradados radiales (definidos por su centro)
 
-### Linear Gradient
+#### Linear Gradient
 
 Para crear un degradado lineal, debe definir al menos dos paradas de color. Las paradas de color son los colores con los que desea hacer transiciones suaves. También puede establecer un punto de inicio y una dirección (o un ángulo) junto con el efecto de degradado.
 
@@ -509,7 +527,7 @@ Si desea más control sobre la dirección del degradado, puede definir un ángul
 
 Los degradados de CSS también admiten **transparencia**, que se puede usar para crear efectos de _desvanecimiento_. Para agregar transparencia, usamos la función `rgba()` para definir las paradas de color. El último parámetro en la función `rgba()` puede ser un valor de 0 a 1, y define la transparencia del color: 0 indica transparencia total, 1 indica color completo (sin transparencia). El siguiente ejemplo muestra un gradiente lineal que comienza desde la izquierda. Comienza completamente transparente, pasando a rojo: [`background: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_trans).
 
-### Radial Gradient
+#### Radial Gradient
 
 Un gradiente radial se define por su centro. Para crear un degradado radial también debe definir al menos dos paradas de color.
 
