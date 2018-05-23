@@ -514,27 +514,27 @@ Para crear un degradado lineal, debe definir al menos dos paradas de color. Las 
 
 Ejemplos:
 
-* Arriba Abajo (default) [`background: linear-gradient(red, yellow);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear)
-* Izquierda a Derecha [`background: linear-gradient(to right, red , yellow);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_ltr)
-* Diagonal [`background: linear-gradient(to bottom right, red, yellow);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_diagonal)
+* Arriba Abajo (default): `background: linear-gradient(red, yellow);` [-ver](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear)
+* Izquierda a Derecha: `background: linear-gradient(to right, red , yellow);` [-ver](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_ltr)
+* Diagonal: `background: linear-gradient(to bottom right, red, yellow);` [-ver](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_diagonal)
 
 Si desea más control sobre la dirección del degradado, puede definir un ángulo, en lugar de las direcciones predefinidas (hacia abajo, hacia arriba, hacia la derecha, hacia la izquierda, hacia abajo a la derecha, etc.).
 
-* Con ángulos [`background: linear-gradient(-90deg, red, yellow);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_angles)
-* Con múltiples colores [`background: linear-gradient(red, yellow, green);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_cs)
-* Otro ejemplo de múltiples colores [`background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_rainbow)
-* Repitiendo colores [`background: repeating-linear-gradient(red, yellow 10%, green 20%);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_repeating)
+* Con ángulos: `background: linear-gradient(-90deg, red, yellow);` [-ver](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_angles)
+* Con múltiples colores: `background: linear-gradient(red, yellow, green);` [-ver](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_cs)
+* Otro ejemplo de múltiples colores: `background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);` [-ver](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_rainbow)
+* Repitiendo colores: `background: repeating-linear-gradient(red, yellow 10%, green 20%);` [-ver](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_repeating)
 
-Los degradados de CSS también admiten **transparencia**, que se puede usar para crear efectos de _desvanecimiento_. Para agregar transparencia, usamos la función `rgba()` para definir las paradas de color. El último parámetro en la función `rgba()` puede ser un valor de 0 a 1, y define la transparencia del color: 0 indica transparencia total, 1 indica color completo (sin transparencia). El siguiente ejemplo muestra un gradiente lineal que comienza desde la izquierda. Comienza completamente transparente, pasando a rojo: [`background: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_trans).
+Los degradados de CSS también admiten **transparencia**, que se puede usar para crear efectos de _desvanecimiento_. Para agregar transparencia, usamos la función `rgba()` para definir las paradas de color. El último parámetro en la función `rgba()` puede ser un valor de 0 a 1, y define la transparencia del color: 0 indica transparencia total, 1 indica color completo (sin transparencia). El siguiente ejemplo muestra un gradiente lineal que comienza desde la izquierda. Comienza completamente transparente, pasando a rojo:  `background: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));` [-ver](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_trans).
 
 #### Radial Gradient
 
 Un gradiente radial se define por su centro. Para crear un degradado radial también debe definir al menos dos paradas de color.
 
-* Radial de color uniformemente espaciados [`background: radial-gradient(red, yellow, green);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-radial)
-* Paradas de color diferentes espaciadas [`background: radial-gradient(red 5%, yellow 15%, green 60%);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-radial2)
-* Establecer forma [`background: radial-gradient(circle, red, yellow, green);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-radial_shape)
-* Repitiendo radiales [`background: repeating-radial-gradient(red, yellow 10%, green 15%);`](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-radial_repeating)
+* Radial de color uniformemente espaciados: `background: radial-gradient(red, yellow, green);` [-ver](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-radial)
+* Paradas de color diferentes espaciadas: `background: radial-gradient(red 5%, yellow 15%, green 60%);` [-ver](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-radial2)
+* Establecer forma: `background: radial-gradient(circle, red, yellow, green);` [-ver](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-radial_shape)
+* Repitiendo radiales: `background: repeating-radial-gradient(red, yellow 10%, green 15%);` [-ver](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-radial_repeating)
 
 ## Colores
 
