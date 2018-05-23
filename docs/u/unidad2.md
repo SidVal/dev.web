@@ -599,6 +599,12 @@ Propiedades del outline:
 
 ## Transform y Transition
 
+### Transform
+
+[Leer más información sobre la propiedad `transform`](https://www.w3schools.com/cssref/css3_pr_transform.asp).
+
+### Transition
+
 _Página 66_
 
 <div align="right">_Nota: falta completar ésto con más detalles_</div>
