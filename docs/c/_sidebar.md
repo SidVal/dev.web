@@ -1,4 +1,4 @@
-* <a href="/dev.web/" target="_self">Inicio</a>
+* <a href="javascript:history.back()">Atrás</a>
 * [Clases](/curso/#diplomatura-en-desarrollo-web)
 * [Unidades](/u/)
 * [Contenido](/c/)
