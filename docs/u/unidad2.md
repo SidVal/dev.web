@@ -271,184 +271,33 @@ Haremos un ejemplo con listas, para entender mejor cómo trabajan todos los _sel
 
 ### Referencia con pseudo clases
 
-En la documentación de clase (aún no se ha dado en profundidad en alguna clase práctica) está muy compleja la explicación sobre pseudo-clases, así que en mi caso he realizado un resúmen siguiendo las explicaciones del [W3School.com sobre pseudo-classes](https://www.w3schools.com/css/css_pseudo_classes.asp).
+En la documentación del curso (aún no se ha dado en profundidad en alguna práctica) está muy compleja la explicación sobre pseudo-clases. En el curso, recién en la última parte de la [clase 2](/curso/clase2.md) y la [clase 3](/curso/clase3.md) se mencionaron las pseudo-clases `:focus` y `:after` (en la clase 2) y se agregó `:hover` en la clase 3, aunque no se mencionó ni se presentó el tema como tal, sino que se hablaba de darle estilo a la acción del mouse arriba de los enlaces.
 
-```css
-selector:pseudo-class {
-    property:value;
-}
-```
-
-En el curso, recién en la última parte de la [clase 2](/curso/clase2.md) y la [clase 3](/curso/clase3.md) se mencionaron las pseudo-clases `:focus` y `:after` (en la clase 2) y se agregó `:hover` en la clase 3, aunque no se mencionó ni se presentó el tema como tal, sino que se hablaba de darle estilo a la acción del mouse arriba de los enlaces.
-
-#### Anchor Pseudo Classes
-
-* `a:link` para enlaces sin visitar
-* `a:visited` para enlaces visitados
-* `a:hover` para enlaces, cuando el mouse está arriba del mismo
-* `a:active` para enlaces, cuando está seleccionado [ver diferencia con `:focus`](https://stackoverflow.com/questions/1677990/what-is-the-difference-between-focus-and-active)
-
-> `a:hover` MUST come after `a:link` and `a:visited` in the CSS definition in order to be effective! `a:active` MUST come after `a:hover` in the CSS definition in order to be effective! Pseudo-class names are not case-sensitive.
-
-#### Pseudo-Classes con CSS classes
-
-Las pseudo-clases pueden ser combinadas con CSS clases.
-
-```css
-a.highlight:hover {
-    color: #ff0000;
-}
-```
-
-El `:hover` puede aplicarse a un elemento `DIV`; por ejemplo:
-
-```css
-p {
-    display: none;
-    background-color: yellow;
-    padding: 20px;
-}
-
-div:hover p {
-    display: block;
-}
-```
-
-[Ver cómo funciona aquí](https://www.w3schools.com/css/tryit.asp?filename=trycss_pseudo-class_hover_tooltip)
-
-#### Pseudo-Classes
-
-* [`:first-child`](#first-child)
-* [`:nth-child()`](#nth-childn)
-* [`:last-child`](#last-child)
-* [`:only-child`](#only-child)
-* [`:not()`](#not)
-* [`:lang`](#lang)
-
-##### `:first-child`
-
-Se usa para referenciar al primer elemento _hijo_; es similar a usar `:nth-child(1)`.
-
-##### `:nth-child(n)`
-
-Se usa para referenciar el _n_ elemento hijo; puede usar una _formula_ como _n_, o bien un número o las palabras clave: _odd_ o bien _even_ - [Ver ejemplos de _even/odd_](https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_nth-child_odd_even).
-
-[Más información `:nth-child()`](https://www.w3schools.com/cssref/sel_nth-child.asp).
-
-##### `:last-child`
-
-Se usa para referenciar al último elemento _hijo_; es similar a usar `:nth-last-child(1)`.
-
-##### `:only-child`
-
-Si el padre tiene un único hijo, esta pseudo-clase es para referenciar a ese único elemento. [Ver ejemplo `:only-child`](https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_only-child).
-
-##### `not()`
-
-Referenciará a todos excepto al elemento o selector que coloca entre paréntesis. [Ver ejemplo `not()`](https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_not).
-
-##### `:lang`
-
-Si un párrafo por ejemplo, tiene declaración de lenguaje, esta pseudo-clase puede dar estilo a dicho párrafo. [Ver ejemplo `:lang`](https://www.w3schools.com/cssref/tryit.asp?filename=trycss_sel_lang).
+?> Ampliar información sobre [Pseudo Clases](/c/css/pseudo-clases.md).
 
 ### Referencia con pseudo elementos
 
-No se explican los pseudo elementos en la documentación de clase, por lo que recomiendo leer [CSS Pseudo-elements](https://www.w3schools.com/css/css_pseudo_elements.asp).
-
-```css
-selector::pseudo-element {
-    property:value;
-}
-```
-
-<div align="right">_Nota: falta completar ésto con más detalles_</div>
+?> Ampliar información sobre [Pseudo Elementos](/c/css/pseudo-elementos.md).
 
 ## Nuevos selectores
+
+En el curso, se vieron éstos "nuevos selectores":
 
 * Selector `>`
 * Selector `+`
 * Selector `~`
 
-### `>`
+Sin embargo, en la referencia de cualquier sitio que hable sobre CSS éstos son combinadores (CSS Combinators).
 
-Este selector indica que la regla CSS aplicará al elemento de la derecha cuando el elemento de la izquierda sea el _padre_ de éste.
-
-Por ejemplo:
-
-```css
-div.clase2 > p.parrafo9 {
-    color: red;
-}
-```
-
-### `+`
-
-Este selector indica que la regla CSS aplicará al elemento de la derecha cuando sea inmediatamente precedido por el elemento de la izquierda. _Ambos elementos deben compartir el mismo padre (?)_
-
-Ejemplo:
-
-```css
-div.clase2 + p {
-    color: red;
-}
-```
-
-### `~`
-
-Este selector indica que la regla CSS aplicará al elemento de la derecha sin importar si está precedido o no por el elemento de la izquierda.
-
-?> Buscar mejor explicación de éste selector, en el PDF del curso no es clara la explicación que brinda.
-
-<div align="right">_Nota: falta completar ésto con más detalles; PDF1: página53_</div>
+?> Ampliar información sobre [Combinadores CSS](/c/css/combinadores.md).
 
 ## Bordes
 
-### `border`
+En clase se vieron éstas propiedades de bordes:
 
-Las propiedades `border` de CSS le permiten especificar el estilo, el ancho y el color del borde de un elemento.
-
-La propiedad `border` en sí, está compuesta por:
-
-* `border-width`
-* `border-style` (requerida)
-* `border-color`
-
-Se presenta así:
-
-```css
-div.borde1 { border: 2px dotted red; }
-```
-
-Otras propiedades del borde:
-
-* [Ver todas](https://www.w3schools.com/css/css_border.asp)
-* `border-radius`
-
-#### `border-radius`
-
-Si tenemos por ejemplo: `border-radius: 25px 80px 1px 15px` veamos cómo queda un texto con este borde:
-
-<script async src="//jsfiddle.net/Waldo/39tbxqxg/1/embed/css,result/"></script>
-
-De éste ejemplo vemos que los números de la propiedad CSS se distribuyen comenzando por la **esquina superior izq**, sigue la **esquina superior derecha**, luego la **esquina inferior derecha** y finalmente la **esquina inferior izquierda**.
-
-En el documento PDF de clases, indican que esta propiedad `border-radius` está en etapa experimental, sin embargo en [W3schools.com](https://www.w3schools.com/cssref/css3_pr_border-radius.asp) no afirman lo mismo. Para lo único que se agregan propiedades experimentales es para darle [_animación_ al borde a través de CSS](https://www.w3schools.com/cssref/tryit.asp?filename=trycss_anim_border-radius).
-
-En el `border-radius` puede colocarse la definición en pares de números separados por una barra `/`, donde los valor de la izquierda de dicha barra será el radio horizontal, mientras que los valores de la derecha de la barra, serán los del radio vertical.
-
-Ver ejemplo:
-
-<script async src="//jsfiddle.net/Waldo/39tbxqxg/2/embed/css,result/"></script>
-
-[Ver uso más avanzado aquí](https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_border-radius5).
-
-### `border-image`
-
-Es una propiedad avanzada de CSS, leer [`border-image`](https://www.w3schools.com/css/css3_border_images.asp).
-
-_Página 64 y 65_
-
-<div align="right">_Nota: falta completar ésto con más detalles_</div>
+* [`border`](///border.md)](/c/css/border.md)
+* [`border-radius`[](/c/css/border-radius.md)
+* [`border-image`](/c/css/border-image.md)
 
 ## Box Shadow
 
