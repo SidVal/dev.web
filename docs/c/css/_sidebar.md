@@ -6,4 +6,7 @@
     * [Pseudo Elementos](/c/css/pseudo-elementos.md)
     * Propiedades
       * [Background](/c/css/background.md)
+      * [Border](/c/css/border.md)
+      * [Border-radius](/c/css/border-radius.md)
+      * [Border-image](/c/css/border-image.md)
       * [Display](/c/css/display.md)
