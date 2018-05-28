@@ -23,5 +23,5 @@ La sintaxis de _single colon_ se usó tanto para las pseudo-clases como para los
 
 ## Referencias
 
-* [](/u/unidad2.md#referencia-con-pseudo-elementos)
+* [Unidad 2: Ref. Pseudo Elementos](/u/unidad2.md#referencia-con-pseudo-elementos)
 * [W2Schools: CSS Pseudo-elements](https://www.w3schools.com/css/css_pseudo_elements.asp)
