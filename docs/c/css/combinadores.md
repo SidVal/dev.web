@@ -53,5 +53,5 @@ Este selector `~` indica que la regla CSS aplicará al elemento de la derecha si
 
 ## Referencias
 
-* [Unidad 2](/u/unidad2.md#nuevos-selectores)
+* [Unidad 2: Nuevos Selectores](/u/unidad2.md#nuevos-selectores)
 * [W3Schools: CSS Combinators](https://www.w3schools.com/css/css_combinators.asp)
