@@ -15,7 +15,7 @@ Hay cuatro diferentes combinadores en CSS:
 
 El selector descendiente coincide con todos los elementos que son descendientes de un elemento especificado. 
 
-El siguiente ejemplo selecciona todos los elementos <p> dentro de elementos <div>:
+El siguiente ejemplo selecciona todos los elementos `<p>` dentro de elementos `<div>`:
 
 ```css
 div p {
