@@ -21,11 +21,3 @@ Empezamos el martes 8 de Mayo con la clase 2 del curso.
 * Microsoft **Visual Studio Code** (_VS Code_), ver [Wiki:Visual](https://github.com/SidVal/dev.web/wiki/Visual-Studio-Code) donde coloco extensiones para probar y otros tips para el programa.
 * Google **Chrome** (browser + depuración)
 * **MongoDB** es el único que requiere instalarse aparte, el resto se descarga vía NPM del Node.JS
-
-***
-
-## Tabla de Contenido
-
-* [Clase 1](/curso/clase1.md)
-* [Clase 2](/curso/clase2.md)
-* [Clase 3](/curso/clase3.md)
