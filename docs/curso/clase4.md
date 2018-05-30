@@ -1,4 +1,4 @@
-# Clase 4 {docsify-ignore-all}
+# Clase 4: Bootstrap #1 {docsify-ignore-all}
 
 Fecha: 22 de Mayo, 2018
 
