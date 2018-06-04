@@ -39,3 +39,7 @@ Realizar éstas modificaciones:
 * En botones sociales meter encolumnado
 
 NOTA: La idea es que al modificar la resolución de la página web el contenido sea responsivo y se puedan ver las distintas entradas de los artículos con tan solo un click en el enlace en el aside.
+
+## TP1 en línea
+
+[Ver versión 10.5](https://sidval.github.io/www/testing/c5/blog2.html) :tada:
