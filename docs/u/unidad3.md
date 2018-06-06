@@ -56,13 +56,12 @@ Referencias:
 * [Bootstrap3: Center](https://getbootstrap.com/docs/3.3/css/#helper-classes-center)
 * [Bootstrap3: Type Alignment](https://getbootstrap.com/docs/3.3/css/#type-alignment)
 
-## Modelo de Rejilla
-
-_12 columnas_
-
-!> Habrá que ver cómo se da en clase este tema.
-
 ## Encabezados
 
 <script async src="//jsfiddle.net/Waldo/7g53vxvp/embed/html,result/"></script>
 
+## Modelo de Rejilla
+
+Modelo que divide la pantalla en _12 columnas_. Es bastante complejo de entender, ver las prácticas de las clases 5: [Grilla](https://sidval.github.io/www/testing/c5/clase5-grillas.html).
+
+?> Recomiendo leer el modelo desde el sitio oficial de Bootstrap: [Grid System](http://getbootstrap.com/docs/4.1/layout/grid/).
