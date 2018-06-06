@@ -1,6 +1,8 @@
 # Clase 5: Bootstrap #2  {docsify-ignore-all}
 
-Temas vistos:
+Fecha: 29 de mayo
+
+## Temas vistos
 
 * Tablas en HTML5 (muy básico, solo se mencionó)
 * Tablas con Bootstrap 3
