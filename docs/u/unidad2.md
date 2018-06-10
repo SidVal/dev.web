@@ -332,7 +332,7 @@ Ejemplo [-ver en linea](https://www.w3schools.com/cssref/tryit.asp?filename=tryc
 
 ### Background
 
-Las propiedades de fondo de CSS se usan para definir los efectos de fondo para los elementos. 
+Las propiedades de fondo de CSS se usan para definir los efectos de fondo para los elementos.
 
 Propiedades de fondo de CSS [-ampliar](https://www.w3schools.com/css/css_background.asp):
 
@@ -468,10 +468,21 @@ Propiedades del outline:
 
 ### Transform
 
+La propiedad `transform` aplica una transformación 2D o 3D a un elemento. Esta propiedad le permite rotar, escalar, mover, sesgar, etc. elementos.
+
+_Sintaxis_
+
+`transform: none|transform-functions|initial|inherit;`
+
 [Leer más información sobre la propiedad `transform`](https://www.w3schools.com/cssref/css3_pr_transform.asp).
 
 ### Transition
 
-_Página 66_
+La propiedad `transition` es una propiedad abreviada de las cuatro propiedades de transición:
 
-<div align="right">_Nota: falta completar ésto con más detalles_</div>
+* `transition-property`
+* `transition-duration`: Especifique siempre la propiedad `transition-duration`; de lo contrario, la duración es 0 y la transición no tendrá efecto.
+* `transition-timing-function`
+* `transition-delay`
+
+[Leer más información sobre la propiedad `transform`](https://www.w3schools.com/cssref/css3_pr_transition.asp).
