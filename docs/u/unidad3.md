@@ -12,6 +12,8 @@ Es un framework Responsive Design diseñado para ayudar a diseñadores y desarro
 
 A finales del 2012, se lanzó la versión 3 (-[_ver en GitHub_](https://github.com/twbs/bootstrap/pull/6342#issue-3439584)) que consistía en una versión más ambiciosa: Bootstrap 3 será primero para dispositivos móviles. En Agosto del 2015, Bootstrap lanzaba el _[prerelease](https://github.com/twbs/bootstrap/releases/tag/v4.0.0-alpha)_ de la versión 4, pero recién en Enero del 2018 se lanza la [versión 4.00](https://github.com/twbs/bootstrap/releases/tag/v4.0.0).
 
+!>[Ver cambios de versión 3 a versión 4 en Bootstrap](https://getbootstrap.com/docs/4.1/migration/#summary).
+
 ### Desactivar Responsive
 
 En la documentación de clase explica que si queremos quitar la propiedad responsive (para que la página web re-adapte el diseño cuando cambia el tamaño de la pantalla que muestra el contenido web), podemos realizar éstos pasos:
@@ -310,7 +312,14 @@ Para indicar lo que "sale" de un programa (como resultado), debemos usar el elem
 * [Flex](https://getbootstrap.com/docs/4.1/utilities/flex/)
 * [Float](https://getbootstrap.com/docs/4.1/utilities/float/)
 * [Reemplazar Imágenes](https://getbootstrap.com/docs/4.1/utilities/image-replacement/)
-* Otros... (completar)
+* [Posición](https://getbootstrap.com/docs/4.1/utilities/position/)
+* [Screenreaders](https://getbootstrap.com/docs/4.1/utilities/screenreaders/)
+* [Sombas](https://getbootstrap.com/docs/4.1/utilities/shadows/)
+* [Sizing](https://getbootstrap.com/docs/4.1/utilities/sizing/)
+* [Spacing](https://getbootstrap.com/docs/4.1/utilities/spacing/)
+* [Textos](https://getbootstrap.com/docs/4.1/utilities/text/)
+* [Vertical-Align](https://getbootstrap.com/docs/4.1/utilities/vertical-align/)
+* [Visibility](https://getbootstrap.com/docs/4.1/utilities/visibility/)
 
 ### Icono para cerrar
 
@@ -321,3 +330,30 @@ Use un icono de cierre genérico para descartar contenido como modales y alertas
   <span aria-hidden="true">&times;</span>
 </button>
 ```
+
+## Formularios
+
+Varios elementos de formulario se han reiniciado para estilos de base más simples. Estos son algunos de los cambios más notables:
+
+* `<fieldset>` no tienen bordes, relleno o margen, por lo que se pueden usar fácilmente como envoltorios para entradas individuales o grupos de entradas.
+* `<legend>`, como fieldsets, también se han rediseñado para mostrarse como un tipo de encabezado.
+* `<label>`están configurados para `display: inline-block` para permitir que el `margin` se aplique.
+* `<input>`, `<select>`, `<textarea>`, y `<button>` son tratados principalmente por _Normalize_, pero _Reboot_ elimina su margen y establece `line-height: inherit`, también.
+* `<textarea>`, se modifica para que solo se puedan redimensionar verticalmente, ya que el cambio de tamaño horizontal a menudo "rompe" el diseño de la página.
+
+Ampliar con [forms](https://getbootstrap.com/docs/4.1/content/reboot/#forms).
+
+## Componentes
+
+* [Alertas](https://getbootstrap.com/docs/4.1/components/alerts/)
+* [Badges](https://getbootstrap.com/docs/4.1/components/badge/)
+* [Breadcrumb](https://getbootstrap.com/docs/4.1/components/breadcrumb/)
+* Otros (completar listado).
+
+### Iconos
+
+Los _glyphicons_ que están disponibles en la versión 3 de Bootstrap (ver [lista aquí](http://marcoceppi.github.io/bootstrap-glyphicons/)) ya no están disponibles en su versión 4; en cambio, se recomienda [cómo extender el uso aquí](https://getbootstrap.com/docs/4.1/extend/icons/). 
+
+### Cards
+
+En la documentación se habla de "paneles" (porque es de Bootstrap versión 3), pero con la nueva versión, ya estamos en versión 4.
