@@ -56,9 +56,6 @@ Referencias:
 * [Bootstrap3: Center](https://getbootstrap.com/docs/3.3/css/#helper-classes-center)
 * [Bootstrap3: Type Alignment](https://getbootstrap.com/docs/3.3/css/#type-alignment)
 
-## Encabezados
-
-<script async src="//jsfiddle.net/Waldo/7g53vxvp/embed/html,result/"></script>
 
 ## Modelo de Rejilla
 
@@ -129,4 +126,198 @@ En la documentación oficial de Bootstrap estas _media queries_ las encontramos 
 
 ## Resetear columnas
 
-Página 21 (PDF2).
+En Bootstrap 4 podemos usar la clase `.clearfix`.
+
+Ver ejemplo práctico:
+<script async src="//jsfiddle.net/Waldo/Lozm1wnr/embed/html,result/"></script>
+
+## Ordenando Columnas
+
+En Bootstrap es posible ordenar las columnas indistintivamente de cómo éstén agregadas vía HTML. Si bien en versión 3 de Bootstrap se usa [_push/pull_](https://getbootstrap.com/docs/3.3/css/#grid-column-ordering), en la versión 4 usaremos la class [.order](https://getbootstrap.com/docs/4.1/layout/grid/#order-classes). 
+
+```css
+<div class="container">
+  <div class="row">
+    <div class="col">
+      Primer columna en HTML, sin orden
+    </div>
+    <div class="col order-12">
+      Segunda en HTML, pero al último
+    </div>
+    <div class="col order-1">
+      Tercera en HTML, primera en mostrarse
+    </div>
+  </div>
+</div>
+```
+
+El código CSS anterior, se vería así:
+
+<script async src="//jsfiddle.net/Waldo/40esfgx1/embed/result/"></script>
+
+También hay clases responsive `.order-first` y `.order-last` que cambian el orden de un elemento al aplicar el `order: -1` y el `order: 13` que sería `(order: $columns + 1)` respectivamente. Estas clases también pueden entremezclarse con las clases numeradas `.order-*`  según sea necesario. 
+
+## Compensar Columnas
+
+Puede compensar las columnas de la cuadrícula de dos maneras: 
+
+* Clases responsive `.offset-`
+* Utilidades de margen
+
+Las clases de cuadrícula se dimensionan para coincidir con las columnas, mientras que los márgenes son más útiles para diseños rápidos donde el ancho del desplazamiento es variable.
+
+### Offset
+
+Mueva las columnas hacia la derecha usando las clases `.offset-md-*`. Estas clases aumentan el margen izquierdo de una columna por `*`  columnas. Por ejemplo, `.offset-md-4` mueve `.col-md-4` en cuatro columnas. En la documentación del curso, aparece como opción para "desplazar" columnas.
+
+```css
+<div class="row">
+  <div class="col-md-4">.col-md-4</div>
+  <div class="col-md-4 offset-md-4">.col-md-4 .offset-md-4</div>
+</div>
+<div class="row">
+  <div class="col-md-3 offset-md-3">.col-md-3 .offset-md-3</div>
+  <div class="col-md-3 offset-md-3">.col-md-3 .offset-md-3</div>
+</div>
+<div class="row">
+  <div class="col-md-6 offset-md-3">.col-md-6 .offset-md-3</div>
+</div>
+```
+
+[Se verá así](https://jsfiddle.net/Waldo/bo8snce0/1/). Jugar con los margenes, si está ampliado no verán las columnas. 
+
+### Utilidades de margen
+
+Con la transición a flexbox en v4, puede usar utilidades de margen como `.mr-auto` para separar las columnas entre sí. Ampliar información sobre el [`.mr-auto`](https://getbootstrap.com/docs/4.1/layout/grid/#margin-utilities).
+
+## Anidar Columnas
+
+Para anidar su contenido con la cuadrícula predeterminada, agregue un nuevo `.row` y un conjunto de columnas `.col-sm-*` dentro de una columna existente `.col-sm-*`.
+
+## Tipografía
+
+### Encabezados
+
+El encabezado se conoce como _heading_ y debemos tener en cuenta que el `margin-top` de éstos elementos se quitó. Tienen un `margin-bottom: .5rem` mientras que los párrafos tienen un `margin-bottom: 1rem` para facilitar su espaciado.
+
+Es más fácil representarlo con una imágen que explique cómo se verían los distintos elementos de HTML:
+
+![Encabezados H1 - H6](../assets/img/heading-css-bootstrap.jpg)
+
+Si queremos jugar con un poco de código HTML y ver cómo queda, podemos ver el código aquí:
+
+<script async src="//jsfiddle.net/Waldo/7g53vxvp/embed/html,result/"></script>
+
+Los elementos de encabezado tradicionales están diseñados para funcionar mejor en el contenido de su página. Cuando necesite un encabezado para destacarse, considere usar un encabezado `.display`: un estilo de encabezado más grande y ligeramente más dogmático. 
+
+Por ejemplo:
+
+```html
+<h1 class="display-1">Display 1</h1>
+<h1 class="display-2">Display 2</h1>
+<h1 class="display-3">Display 3</h1>
+<h1 class="display-4">Display 4</h1>
+```
+
+### Elementos de texto
+
+Hay distintos estilos que podemos darle a los elementos de texto; en Bootstrap 4 los encontramos como [#inline-text-elements](https://getbootstrap.com/docs/4.1/content/typography/#inline-text-elements). Los más interesantes son `<small>` y `<mark>`. Y dentro del elemento `<small>` se podría agregar la class `.text-muted` por ejemplo.
+
+
+Ver ejemplo en línea de cómo trabajan los [estilos en texto](https://jsfiddle.net/Waldo/p18ansx7/).
+
+Cambie la alineación de texto, la transformación, el estilo, el peso y el color con [utilidades de texto](https://getbootstrap.com/docs/4.1/utilities/text/) y [utilidades de color](https://getbootstrap.com/docs/4.1/utilities/colors/).
+
+Se puede destacar texto en un párrafo usando la class `.lead`.
+
+### Abreviaciones
+
+Implementación estilizada del elemento `<abbr>` de HTML para las abreviaturas y los acrónimos para mostrar la versión expandida cuando el mouse (ratón) está arriba del texto (`:hover`). Las abreviaturas tienen un subrayado predeterminado y obtienen un cursor de ayuda para proporcionar contexto adicional en el vuelo estacionario y para los usuarios de tecnologías de asistencia.
+
+Podemos agregar la class `.initialism` a una abreviatura para un tamaño de letra ligeramente más pequeño.
+
+<script async src="//jsfiddle.net/Waldo/p4m7Lnh5/embed/result/"></script>
+
+### Citas Textuales
+
+Para citar bloques de contenido de otra fuente dentro de su documento. Ajustar el elemento `<blockquote>` con la class `.blockquote` alrededor de cualquier HTML como la cita.
+
+Si estamos indicando quién dijo la cita textual, podemos usar la class `.blockquote-footer`, por ejemplo:
+
+```css
+<blockquote class="blockquote">
+  <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+  <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+</blockquote>
+```
+
+Se verá:
+
+<script async src="//jsfiddle.net/Waldo/9mdk4cwy/embed/result/"></script>
+
+### Alinear texto
+
+Podemos usar class `.text-center` para alinear al centro, o bien `.text-right` para alinear a la derecha.
+
+### Otros elementos
+
+* [Listas](https://getbootstrap.com/docs/4.1/content/typography/#lists)
+* [Tamaños Responsive](https://getbootstrap.com/docs/4.1/content/typography/#responsive-typography)
+
+## Códigos
+
+Para código en una línea, se usa `<code>`. Asegúrese de escapar de los corchetes angulares de HTML.
+
+`Por ejemplo, <code>&lt;section&gt;</code>.`
+
+Se vería así: <code>&lt;section&gt;</code>
+
+### Bloques de código
+
+Use `<pre>` para múltiples líneas de código. Una vez más, asegúrese de escapar de los corchetes angulares en el código para una representación adecuada. Opcionalmente, puede agregar la clase `.pre-scrollable`, que establecerá una altura máxima de 340px y proporcionará una barra de desplazamiento del eje vertical.
+
+### Variables
+
+Use el elemento HTML `<var>` para poner variables.
+
+### Teclas
+
+Para indicar teclas del teclado, por ejemplo: "Presionar Ctrl + F para buscar..." debemos usar el elemento `<kbd>`.
+
+Se vería así:
+<script async src="//jsfiddle.net/Waldo/n1uovm6p/embed/result/"></script>
+
+### Salida
+
+Para indicar lo que "sale" de un programa (como resultado), debemos usar el elemento HTML: `<samp>`.
+
+## Tablas
+
+[Ampliar aquí](https://getbootstrap.com/docs/4.1/content/tables/).
+
+## Imágenes
+
+[Ampliar aquí](https://getbootstrap.com/docs/4.1/content/images/)
+
+## Utilidades
+
+* [Bordes](https://getbootstrap.com/docs/4.1/utilities/borders/)
+* [ClearFix](https://getbootstrap.com/docs/4.1/utilities/clearfix/)
+* [Icono para cerrar](/u/unidad3.md#icono-para-cerrar)
+* [Colores](https://getbootstrap.com/docs/4.1/utilities/colors/)
+* [Propiedad Display](https://getbootstrap.com/docs/4.1/utilities/display/)
+* [Embebidos](https://getbootstrap.com/docs/4.1/utilities/embed/)
+* [Flex](https://getbootstrap.com/docs/4.1/utilities/flex/)
+* [Float](https://getbootstrap.com/docs/4.1/utilities/float/)
+* [Reemplazar Imágenes](https://getbootstrap.com/docs/4.1/utilities/image-replacement/)
+* Otros... (completar)
+
+### Icono para cerrar
+
+Use un icono de cierre genérico para descartar contenido como modales y alertas.
+
+```html
+<button type="button" class="close" aria-label="Close">
+  <span aria-hidden="true">&times;</span>
+</button>
+```
