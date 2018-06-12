@@ -1,4 +1,4 @@
-# ¿Cuál es la diferencia entre jQuery, AJAX y AngularJS? ¿Son estos los marcos de JavaScript?
+# ¿Cuál es la diferencia entre jQuery, AJAX y AngularJS?
 
 Primero hay que entender la diferencia entre librería y framework:
 
