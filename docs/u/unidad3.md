@@ -58,7 +58,6 @@ Referencias:
 * [Bootstrap3: Center](https://getbootstrap.com/docs/3.3/css/#helper-classes-center)
 * [Bootstrap3: Type Alignment](https://getbootstrap.com/docs/3.3/css/#type-alignment)
 
-
 ## Modelo de Rejilla
 
 Modelo que divide la pantalla en _12 columnas_. Es bastante complejo de entender, ver las prácticas de las clases 5: [Grilla](https://sidval.github.io/www/testing/c5/clase5-grillas.html).
@@ -135,7 +134,7 @@ Ver ejemplo práctico:
 
 ## Ordenando Columnas
 
-En Bootstrap es posible ordenar las columnas indistintivamente de cómo éstén agregadas vía HTML. Si bien en versión 3 de Bootstrap se usa [_push/pull_](https://getbootstrap.com/docs/3.3/css/#grid-column-ordering), en la versión 4 usaremos la class [.order](https://getbootstrap.com/docs/4.1/layout/grid/#order-classes). 
+En Bootstrap es posible ordenar las columnas indistintivamente de cómo éstén agregadas vía HTML. Si bien en versión 3 de Bootstrap se usa [_push/pull_](https://getbootstrap.com/docs/3.3/css/#grid-column-ordering), en la versión 4 usaremos la class [.order](https://getbootstrap.com/docs/4.1/layout/grid/#order-classes).
 
 ```css
 <div class="container">
@@ -157,11 +156,11 @@ El código CSS anterior, se vería así:
 
 <script async src="//jsfiddle.net/Waldo/40esfgx1/embed/result/"></script>
 
-También hay clases responsive `.order-first` y `.order-last` que cambian el orden de un elemento al aplicar el `order: -1` y el `order: 13` que sería `(order: $columns + 1)` respectivamente. Estas clases también pueden entremezclarse con las clases numeradas `.order-*`  según sea necesario. 
+También hay clases responsive `.order-first` y `.order-last` que cambian el orden de un elemento al aplicar el `order: -1` y el `order: 13` que sería `(order: $columns + 1)` respectivamente. Estas clases también pueden entremezclarse con las clases numeradas `.order-*`  según sea necesario.
 
 ## Compensar Columnas
 
-Puede compensar las columnas de la cuadrícula de dos maneras: 
+Puede compensar las columnas de la cuadrícula de dos maneras:
 
 * Clases responsive `.offset-`
 * Utilidades de margen
@@ -186,7 +185,7 @@ Mueva las columnas hacia la derecha usando las clases `.offset-md-*`. Estas clas
 </div>
 ```
 
-[Se verá así](https://jsfiddle.net/Waldo/bo8snce0/1/). Jugar con los margenes, si está ampliado no verán las columnas. 
+[Se verá así](https://jsfiddle.net/Waldo/bo8snce0/1/). Jugar con los margenes, si está ampliado no verán las columnas.
 
 ### Utilidades de margen
 
@@ -210,7 +209,7 @@ Si queremos jugar con un poco de código HTML y ver cómo queda, podemos ver el 
 
 <script async src="//jsfiddle.net/Waldo/7g53vxvp/embed/html,result/"></script>
 
-Los elementos de encabezado tradicionales están diseñados para funcionar mejor en el contenido de su página. Cuando necesite un encabezado para destacarse, considere usar un encabezado `.display`: un estilo de encabezado más grande y ligeramente más dogmático. 
+Los elementos de encabezado tradicionales están diseñados para funcionar mejor en el contenido de su página. Cuando necesite un encabezado para destacarse, considere usar un encabezado `.display`: un estilo de encabezado más grande y ligeramente más dogmático.
 
 Por ejemplo:
 
@@ -224,7 +223,6 @@ Por ejemplo:
 ### Elementos de texto
 
 Hay distintos estilos que podemos darle a los elementos de texto; en Bootstrap 4 los encontramos como [#inline-text-elements](https://getbootstrap.com/docs/4.1/content/typography/#inline-text-elements). Los más interesantes son `<small>` y `<mark>`. Y dentro del elemento `<small>` se podría agregar la class `.text-muted` por ejemplo.
-
 
 Ver ejemplo en línea de cómo trabajan los [estilos en texto](https://jsfiddle.net/Waldo/p18ansx7/).
 
@@ -272,7 +270,7 @@ Para código en una línea, se usa `<code>`. Asegúrese de escapar de los corche
 
 `Por ejemplo, <code>&lt;section&gt;</code>.`
 
-Se vería así: <code>&lt;section&gt;</code>
+Se vería así: `&lt;section&gt;`
 
 ### Bloques de código
 
@@ -297,9 +295,9 @@ Para indicar lo que "sale" de un programa (como resultado), debemos usar el elem
 
 [Ampliar aquí](https://getbootstrap.com/docs/4.1/content/tables/).
 
-## Imágenes
+## Imagenes
 
-[Ampliar aquí](https://getbootstrap.com/docs/4.1/content/images/)
+[Ampliar aquí](https://getbootstrap.com/docs/4.1/content/images/).
 
 ## Utilidades
 
@@ -352,7 +350,7 @@ Ampliar con [forms](https://getbootstrap.com/docs/4.1/content/reboot/#forms).
 
 ### Iconos
 
-Los _glyphicons_ que están disponibles en la versión 3 de Bootstrap (ver [lista aquí](http://marcoceppi.github.io/bootstrap-glyphicons/)) ya no están disponibles en su versión 4; en cambio, se recomienda [cómo extender el uso aquí](https://getbootstrap.com/docs/4.1/extend/icons/). 
+Los _glyphicons_ que están disponibles en la versión 3 de Bootstrap (ver [lista aquí](http://marcoceppi.github.io/bootstrap-glyphicons/)) ya no están disponibles en su versión 4; en cambio, se recomienda [cómo extender el uso aquí](https://getbootstrap.com/docs/4.1/extend/icons/).
 
 ### Cards
 
