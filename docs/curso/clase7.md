@@ -8,7 +8,9 @@ Fecha: 12 de junio
   * Qué es, para qué se usa, y cómo se usa.
 * Alertas
 * Barras de Progreso
+* Div class modal `<-- revisar`
 
 ## JavaScript
 
 Breve intro a JS. (Ver [Unidad 4](/u/unidad4.md)).
+
