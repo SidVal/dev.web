@@ -12,4 +12,5 @@
       * [Border-image](/c/css/border-image.md)
       * [Display](/c/css/display.md)
       * [Overflow](/c/css/overflow.md)
+  * [jQuery](/c/jquery/)
   * [JS](/c/js/)
