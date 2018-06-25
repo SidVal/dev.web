@@ -14,6 +14,8 @@ Fecha: 12 de junio
 
 Breve intro a JS. (Ver [Unidad 4](/u/unidad4.md)).
 
+Ver en linea [código del profe](https://sidval.github.io/www/curso/c7/clase7.html) y [mi código](https://sidval.github.io/www/testing/c7/clase7.html).
+
 ## Observaciones
 
 No hay una organización del curso. El profesor va lanzando código a medida que da el tema, y es más complicado de seguir así el curso. Si al menos habría un enunciado sobre lo que vamos a hacer, para que cada uno mientras vemos en tiempo real lo que hace el profe, podríamos saber con anterioridad lo que estamos buscando hacer, o solucionar, o ver en una página web.
