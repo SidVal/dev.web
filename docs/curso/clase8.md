@@ -19,7 +19,7 @@ Fecha: 18 de junio
 
 Creamos una página con una imagen de una lámpara, y se usó JS para prender o apagar la lámpara.
 
-[Ver online clase8.html](https://sidval.github.io/www/testing/c8/clase8.html)
+[Ver online mi clase8.html](https://sidval.github.io/www/testing/c8/clase8.html), y [aquí la del profe](https://sidval.github.io/www/curso/c8/clase8.html).
 
 Se recomienda lectura de [JavaScript_basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics).
 
