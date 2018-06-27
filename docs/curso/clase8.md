@@ -25,14 +25,14 @@ Se recomienda lectura de [JavaScript_basics](https://developer.mozilla.org/en-US
 
 ## Intro jQuery
 
-Básicamente lo que se dió es que cuando comprendemos lo que hace JavaScript, podemos reemplazar las funciones de _JS_ que creamos, con una línea de _JQ_. 
+Básicamente lo que se dió es que cuando comprendemos lo que hace JavaScript, podemos reemplazar las funciones de _JS_ que creamos, con una línea de _JQ_.
 
->One important thing to know is that **jQuery is just a JavaScript library**. All the power of jQuery is accessed via JavaScript, so having a strong grasp of JavaScript is essential for understanding, structuring, and debugging your code. 
+>One important thing to know is that **jQuery is just a JavaScript library**. All the power of jQuery is accessed via JavaScript, so having a strong grasp of JavaScript is essential for understanding, structuring, and debugging your code.
 
 Tener en cuenta:
 
-* https://learn.jquery.com/about-jquery/
-* https://learn.jquery.com/about-jquery/how-jquery-works/
+* [About jQuery](https://learn.jquery.com/about-jquery/)
+* [How jQuery Works](https://learn.jquery.com/about-jquery/how-jquery-works/)
 
 ## Observaciones
 
