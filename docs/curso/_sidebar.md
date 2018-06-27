@@ -8,5 +8,6 @@
   * [Clase 6](/curso/clase6.md)
   * [Clase 7](/curso/clase7.md)
   * [Clase 8](/curso/clase8.md)
+  * [Clase 9](/curso/clase9.md)
 * [Unidades](/u/)
 * [Contenido](/c/)
