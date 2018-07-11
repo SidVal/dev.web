@@ -39,7 +39,3 @@ De lo más básico que debe manejar:
 ### Entorno básico de trabajo
 
 En la parte de [#Software Recomendado](/?id=software-recomendado) se detallan programas que deberíamos usar.
-
-***
-
-<div align="center">[Unidad 1](/u/unidad1.md#unidad-1) | [Unidad 2](/u/unidad2.md#unidad-2) </div>
