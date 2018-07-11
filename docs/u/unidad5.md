@@ -4,7 +4,7 @@ Antes de seguir deberías tener:
 
 1. Conocimiento avanzado de HTML5 y CSS3. [_Repasar Unidad 2_](/u/unidad2.md).
 1. Tener a mano la [documentación de jQuery](https://learn.jquery.com/using-jquery-core/).
-1. Conocimiento avanzado del depurador de tu navegador web. (Preferentemente Google Chrome)
+1. Conocimiento avanzado del depurador de tu navegador web. (Preferentemente Google [Chrome: devTools](/c/#chrome-dev-tools))
 
 ## JQuery
 
