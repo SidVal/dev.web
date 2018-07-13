@@ -1,4 +1,4 @@
-# DevOps Roadmap
+# DevOps Roadmap {docsify-ignore-all}
 
 ![DevOps Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/devops.png)
 
