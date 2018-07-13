@@ -11,6 +11,4 @@ La verdad que es un post (en inglés) excelente, he leído pocos aportes tan com
 
 ## Frontpage Roadmap
 
-La infografía continúa en "Frontpage Roadmap".
-
-![Frontpage Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/frontend-v2.png)
+La infografía viene desde "[Frontpage Roadmap](/c/frontpage-roadmap.md)".
