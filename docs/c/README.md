@@ -13,3 +13,9 @@ Es muy importante dominar las herramientas de desarrollo que tiene el navegador 
 ## Otras lecturas
 
 * [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c) - Common mistakes designers make and how to fix them
+
+## Infografías
+
+* [Frontend](/c/frontend-roadmap.md)
+* [Backend](/c/backend-roadmap.md)
+* [Devops](/c/devops-roadmap.md)
