@@ -1,4 +1,4 @@
-# Frontend Roadmap
+# Frontend Roadmap {docsify-ignore-all}
 
 ![Frontend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/frontend-v2.png)
 
