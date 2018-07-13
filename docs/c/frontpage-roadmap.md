@@ -4,4 +4,4 @@
 
 ## Backend Roadmap
 
-La infografía continúa en "[Backend Roadmap](/c/backend-roadmap.md)".
+Imperdible la infografía del "[Backend Roadmap](/c/backend-roadmap.md)".
