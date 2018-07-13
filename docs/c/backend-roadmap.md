@@ -1,4 +1,4 @@
-# Backend Roadmap
+# Backend Roadmap {docsify-ignore-all}
 
 ![Backend Roadmap](https://cdn-images-1.medium.com/max/2000/1*WQviQNNE2cnhVAiQpIXkQg.png)
 
