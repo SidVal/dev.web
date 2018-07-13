@@ -9,6 +9,6 @@ Llegué a una interesante infografía a través de un post en Medium que me inte
 
 La verdad que es un post (en inglés) excelente, he leído pocos aportes tan completos.
 
-## Frontpage Roadmap
+## Frontend Roadmap
 
-No te pierdas la infografía del "[Frontpage Roadmap](/c/frontpage-roadmap.md)".
+No te pierdas la infografía del "[Frontend Roadmap](/c/frontend-roadmap.md)".
