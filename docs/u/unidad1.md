@@ -137,7 +137,9 @@ Toda página _html_ tiene un `DOCTYPE`.
 
 ### Charset
 
-En la [clase 1](/clases/clase1.md) se recomienda usar éste `<meta charset="ISO-8891" />` para que aparezca la letra `ñ` en el código, en cambio si se usa la `UTF-8` dice que no lo interpretan todos los navegadores **(?)**
+En la [clase 1](/clases/clase1.md) se recomienda usar éste `<meta charset="ISO-8891" />` para que aparezca la letra `ñ` en el código, en cambio si se usa la `UTF-8` dice que no lo interpretan todos los navegadores.
+
+Esta parte se conoce como _encoding_, y de acuerdo al documento [Google HTML/CSS Style: Encoding](https://google.github.io/styleguide/htmlcssguide.html#Encoding), se recomienda usar siempre `<meta charset="utf-8">`. 
 
 #### Diferencia de criterios
 
