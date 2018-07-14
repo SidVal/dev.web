@@ -1,4 +1,4 @@
-# Contenido
+# Contenido {docsify-ignore-all}
 
 Esta carpeta es para volcar contenido para profundizar, investigar, probar y aprender a través de la práctica.
 
@@ -10,12 +10,21 @@ Es muy importante dominar las herramientas de desarrollo que tiene el navegador 
 >
 >[Comenzar a depurar JavaScript en Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/?hl=es)
 
-## Otras lecturas
+## Recomendado
 
-* [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c) - Common mistakes designers make and how to fix them
+- [Lecturas de CSS](/c/css/#lecturas)
+- [Lecturas de JavaScript](/c/js/#lecturas)
+- [Lecturas de AngularJS](/c/angularjs/#lecturas)
+- [Lecturas de jQuery](/c/jquery/#lecturas)
 
 ## Infografías
 
-* [Frontend](/c/frontend-roadmap.md)
-* [Backend](/c/backend-roadmap.md)
-* [Devops](/c/devops-roadmap.md)
+- [Frontend](/c/frontend-roadmap.md)
+- [Backend](/c/backend-roadmap.md)
+- [Devops](/c/devops-roadmap.md)
+
+## Tips
+
+En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta decirle, leo muchos artículos con tips importantes sobre desarrollo web, así que he decidido crear un "simple-tips" en cada sección de éste repositorio, para ir alimentando un documento con tips simples, e incluir la fuente y referencia de dichos tips para ampliar la información si es necesario leer en el futuro al respecto.
+
+- [CSS Simple Tips](/c/css/simple-tips.md)
