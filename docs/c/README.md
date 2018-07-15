@@ -28,3 +28,7 @@ Es muy importante dominar las herramientas de desarrollo que tiene el navegador 
 En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta decirle, leo muchos artículos con tips importantes sobre desarrollo web, así que he decidido crear un "simple-tips" en cada sección de éste repositorio, para ir alimentando un documento con tips simples, e incluir la fuente y referencia de dichos tips para ampliar la información si es necesario leer en el futuro al respecto.
 
 - [CSS Simple Tips](/c/css/simple-tips.md)
+
+## Otras lecturas
+
+- [APIs con Node, TypeScript, Koa y TypeORM](http://blog.koalite.com/2018/07/apis-con-node-typescript-koa-y-typeorm/?utm_source=rss&utm_medium=rss&utm_campaign=apis-con-node-typescript-koa-y-typeorm)
