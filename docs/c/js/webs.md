@@ -28,3 +28,7 @@ Una sencilla librería Javascript para la creación de páginas web con desplaza
 ## Hapi
 
 [HapiJS](https://hapijs.com/) permite a los desarrolladores centrarse en escribir lógica de aplicación reutilizable en lugar de perder tiempo construyendo infraestructura.
+
+## face-api.js
+
+[JavaScript API](https://github.com/justadudewhohacks/face-api.js) for Face Recognition in the Browser with [**tensorflow.js**](https://github.com/tensorflow/tfjs-core). [Más info](https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07) - en inglés.
