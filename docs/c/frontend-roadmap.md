@@ -24,7 +24,7 @@ Consejos que se desprenden de éste artículo:
 * Build Tools
   * Linters
   * Parcel
-  * Webpack **(recomendado)**
+  * [Webpack](https://desarrolloweb.com/articulos/primeros-pasos-webpack.html) **(recomendado)**
   * Rollup
   * Browserify 
 * Framework
