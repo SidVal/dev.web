@@ -28,6 +28,7 @@ Es muy importante dominar las herramientas de desarrollo que tiene el navegador 
 En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta decirle, leo muchos artículos con tips importantes sobre desarrollo web, así que he decidido crear un "simple-tips" en cada sección de éste repositorio, para ir alimentando un documento con tips simples, e incluir la fuente y referencia de dichos tips para ampliar la información si es necesario leer en el futuro al respecto.
 
 - [CSS Simple Tips](/c/css/simple-tips.md)
+- [HTML5: elementos que pueden ser omitidos](https://html.spec.whatwg.org/multipage/syntax.html#syntax-tag-omission)
 
 ## Otras lecturas
 
