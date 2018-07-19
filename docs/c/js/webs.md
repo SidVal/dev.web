@@ -1,6 +1,27 @@
-## Webs
+# Webs
 
 Lista de herramientas, frameworks, y otras aplicaciones en javascript que se crucen durante este curso y se irán listando aquí; para posterior análisis. 
+
+Listado completo:
+
+- [Gulp.js]()/c/js/webs#gulpjs)
+- [Emmet]()/c/js/webs#emmet)
+- [FullPage.JS]()/c/js/webs#fullpagejs)
+- [Hapi]()/c/js/webs#hapi)
+- [Face-api.js]()/c/js/webs#face-apijs)
+- [Lodash]()/c/js/webs#lodash)
+- [Underscore]()/c/js/webs#underscore)
+- [Ramda]()/c/js/webs#ramda)
+- [MathJS]()/c/js/webs#mathjs)
+- [Moment.js]()/c/js/webs#momentjs)
+- [Date-fns]()/c/js/webs#date-fns)
+- [Sugar]()/c/js/webs#sugar)
+- [Lazy]()/c/js/webs#lazy)
+- [CollectJS]()/c/js/webs#collectjs)
+- [ChanceJS]()/c/js/webs#chancejs)
+- [ChartJS]()/c/js/webs#chartjs)
+- [Polished]()/c/js/webs#polished)
+- [Mout]()/c/js/webs#mout)
 
 
 ## Gulp.js
@@ -21,17 +42,13 @@ Una sencilla librería Javascript para la creación de páginas web con desplaza
 
 [Más info: FullPageJS (en español)](https://github.com/alvarotrigo/fullPage.js/tree/master/lang/spanish#fullpagejs)
 
-## PopMotion
-
-[Popmotion](https://popmotion.io/) es una biblioteca de animación de JavaScript funcional. Comparado con otras bibliotecas como GreenSock o Anime.js, Popmotion es de bajo nivel y no sofisticado. Contiene un montón de características, como la física de primavera y el seguimiento de puntero, en un tamaño de archivo muy pequeño (11.5kb). Permite a los desarrolladores escribir sus propias características utilizando funciones simples, en lugar de esperar a que el autor de la biblioteca las agregue.
-
 ## Hapi
 
 [HapiJS](https://hapijs.com/) permite a los desarrolladores centrarse en escribir lógica de aplicación reutilizable en lugar de perder tiempo construyendo infraestructura.
 
-## face-api.js
+## Face-api.js
 
-[JavaScript API](https://github.com/justadudewhohacks/face-api.js) for Face Recognition in the Browser with [**tensorflow.js**](https://github.com/tensorflow/tfjs-core). [Más info](https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07) - en inglés.
+[Face-api.js](https://github.com/justadudewhohacks/face-api.js) for Face Recognition in the Browser with [**tensorflow.js**](https://github.com/tensorflow/tfjs-core). [Más info](https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07) - en inglés.
 
 ## Lodash
 
