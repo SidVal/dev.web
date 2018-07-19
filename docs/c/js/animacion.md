@@ -2,9 +2,32 @@
 
 Librerías de Javascript para realizar animaciones; nada más y nada menos.
 
-## three.js
+Lista total de librerías mencionadas en este artículo (a modo índice, para no repetirlas):
 
-[three.js](https://github.com/mrdoob/three.js/) es una excelente forma de crear animaciones 3D en el navegador, usando WebGL de una manera intuitiva. Proporcionando renderizadores `<canvas>`, `<svg>`, CSS3D y WebGL, esta librería nos permite crear experiencias ricas e interactivas en dispositivos móviles y navegadores.
+- [Three.js](/c/js/animacion#threejs)
+- [Anime.js](/c/js/animacion#animejs)
+- [Mo.js](/c/js/animacion#mojs)
+- [Velocity](/c/js/animacion#velocity)
+- [Popmotion](/c/js/animacion#popmotion)
+- [Vivus](/c/js/animacion#vivus)
+- [GreenSock](/c/js/animacion#greenSock)
+- [Scroll Reveal](/c/js/animacion#scroll-reveal)
+- [Kute.js](/c/js/animacion#kutejs)
+- [Typed.js](/c/js/animacion#typedjs)
+- [Lottie](/c/js/animacion#lottie)
+- [_Otras Librerías_](/c/js/animacion#otras)
+  - [Particles](https://github.com/VincentGarreau/particles.js/)
+  - [Parallax JS](https://github.com/wagerfield/parallax)
+  - [Bounce.js](https://github.com/tictail/bounce.js)
+  - [CTA JS](https://github.com/chinchang/cta.js)
+  - [Tooltips JS](https://github.com/ytiurin/html5tooltipsjs)
+  - [Pace JS](https://github.com/HubSpot/pace)
+  - [Anijs](https://github.com/anijs/anijs)
+
+
+## Three.js
+
+[Three.js](https://github.com/mrdoob/three.js/) es una excelente forma de crear animaciones 3D en el navegador, usando WebGL de una manera intuitiva. Proporcionando renderizadores `<canvas>`, `<svg>`, CSS3D y WebGL, esta librería nos permite crear experiencias ricas e interactivas en dispositivos móviles y navegadores.
 
 ## Anime.js
 
