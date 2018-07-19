@@ -47,6 +47,8 @@ Se recomienda darle una leída a [ésta documentación sobre Mo.js](https://css-
 
 [Popmotion](https://github.com/popmotion/popmotion) permite a los desarrolladores crear animaciones e interacciones a partir de acciones, que son flujos de valores que se pueden iniciar y detener, y se crean con CSS, SVG, React, three.js y cualquier API que acepte un número como entrada. Esta librería de animación funcional solo pesa 11kb.
 
+Es una biblioteca de animación de JavaScript funcional. Comparado con otras bibliotecas como [GreenSock](/c/js/animacion#greenSock) o [Anime.js](/c/js/animacion#animejs), Popmotion es de bajo nivel y no sofisticado. Contiene un montón de características, como por ejemplo el seguimiento de puntero, en un tamaño de archivo muy pequeño (11.5kb). Permite a los desarrolladores escribir sus propias características utilizando funciones simples, en lugar de esperar a que el autor de la biblioteca las agregue.
+
 ## Vivus
 
 [Vivus](https://github.com/maxwellito/vivus) es una clase de JavaScript de cero dependencias que permite animar SVG, dándoles la apariencia de estar dibujado. Puedes usar una de muchas animaciones disponibles o crear una secuencia de comandos personalizada para dibujar tu SVG. Ver [ejemplos de Vivus](https://maxwellito.github.io/vivus-instant/).
