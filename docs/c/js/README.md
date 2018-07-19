@@ -8,4 +8,5 @@
 ## Artículos JS
 
 - [Apps, frameworks, etc](/c/js/webs.md)
+- [Librerías para animación con JS](/c/js/animacion.md)
 - [¿Cuál es la diferencia entre jQuery, AJAX y AngularJS?](/c/js/jquery-ajax-angularjs.md)
