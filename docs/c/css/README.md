@@ -9,6 +9,10 @@ El siguiente contenido se expone a fines prácticos, son artículos para aprende
 - [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c) - Common mistakes designers make and how to fix them
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 
+## Webs
+
+- [Animaciones CSS](/c/css/animacion.md)
+
 ## Tips
 
 - [CSS Simple Tips](/c/css/simple-tips.md)
