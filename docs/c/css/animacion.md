@@ -3,7 +3,6 @@
 Lista de estilos para animaciones
 
 - [Animate.css](/c/css/animacion#animate)
-- [Animsition](/c/css/animacion#animsition)
 - [Hover](/c/css/animacion#hover)
 - [Loaders.css](/c/css/animacion#loaders)
 - [Magic](/c/css/animacion#magic)
@@ -17,10 +16,6 @@ Lista de estilos para animaciones
 ## Animate
 
 [Animate.css](https://github.com/daneden/animate.css) es una librería de navegador para animaciones CSS. Tan fácil de usar como algo simplemente fácil.
-
-## Animsition
-
-[Animsition](https://github.com/blivesta/animsition/) no sé si es correcto que esté en la clasificación de animaciones CSS, ya que es un plugin **jQuery** simple y fácil para transiciones de páginas animadas CSS.
 
 ## Hover
 
