@@ -11,7 +11,7 @@ Listado:
 <!--//
 abcdefghijklmnñopqrstuvwxyz
 - []()
-//->
+//-->
 
 ## Colecciones
 
@@ -59,7 +59,7 @@ Las colecciones son páginas que ofrecen ejemplos de cómo lograr los efectos co
 - [8-bit Hovers](http://codepen.io/tstoik/details/EjMzRZ/)
 - [Sullivan Buttons](http://codepen.io/daviddarnes/pen/VLXxMa)
 - [Sexy SCSS Buttons in HSB](http://codepen.io/jgthms/pen/EjxBdR)
-  ![Sexy SCSS Buttons in HSB](https://cdn-images-1.medium.com/max/800/0*hQj5ynmtUEUX3wZr.jpg)
+    ![Sexy SCSS Buttons in HSB](https://cdn-images-1.medium.com/max/800/0*hQj5ynmtUEUX3wZr.jpg)
 - [Clean Button Set](http://codepen.io/oknoblich/pen/jdsIA)
 - [Button Switch](http://codepen.io/geedmo/pen/kBHsI/)
 - [Animated CSS3 Buttons](http://codepen.io/sazzad/pen/yNNNJG)
