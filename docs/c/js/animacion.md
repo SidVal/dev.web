@@ -2,6 +2,8 @@
 
 Librerías de Javascript para realizar animaciones; nada más y nada menos.
 
+?> Tener en cuenta que hay listas de animación disponibles para [CSS](/c/css/animacion.md) y [jQuey](/c/jquery/animacion.md).
+
 Lista total de librerías mencionadas en este artículo (a modo índice, para no repetirlas):
 
 <!-- abcdefghijklmnñopqrstuvwxyz -->
@@ -23,7 +25,7 @@ Lista total de librerías mencionadas en este artículo (a modo índice, para no
 - [Typed.js](/c/js/animacion#typed)
 - [Velocity](/c/js/animacion#velocity)
 - [Vivus](/c/js/animacion#vivus)
-- [_Otras Librerías_](/c/js/animacion#otras)
+- _Otras Librerías no leídas aún_
   - [Anijs](https://github.com/anijs/anijs)
   - [CTA JS](https://github.com/chinchang/cta.js)
   - [Dynamics.js](https://github.com/michaelvillar/dynamics.js)
@@ -60,8 +62,6 @@ El conjunto de _CreateJS_ tiene:
 - [SoundJS](/c/js/animacion#soundjs)
 - [TweenJS](/c/js/animacion#tweenjs)
   
-  
-
 ### EaselJS
 
 [EaselJS](https://createjs.com/easeljs): es una biblioteca de JavaScript que hace que trabajar con el elemento HTML5 Canvas sea fácil. Útil para crear juegos, arte generativo y otras experiencias altamente gráficas.
@@ -125,24 +125,3 @@ Es una biblioteca de animación de JavaScript funcional. Comparado con otras bib
 ## Vivus
 
 [Vivus](https://github.com/maxwellito/vivus) es una clase de JavaScript de cero dependencias que permite animar SVG, dándoles la apariencia de estar dibujado. Puedes usar una de muchas animaciones disponibles o crear una secuencia de comandos personalizada para dibujar tu SVG. Ver [ejemplos de Vivus](https://maxwellito.github.io/vivus-instant/).
-
-## Otras
-
-Son librerías dignas de ver y probar:
-
-- [Anijs](https://github.com/anijs/anijs)
-- [Bounce.js](https://github.com/tictail/bounce.js)
-- [CTA.js](https://github.com/chinchang/cta.js)
-- [Dynamics.js](https://github.com/michaelvillar/dynamics.js)
-- [html5tooltips.js](https://github.com/ytiurin/html5tooltipsjs)
-- [Parallax.js](https://github.com/wagerfield/parallax)
-- [Particles](https://github.com/VincentGarreau/particles.js/)
-- [Rocket](https://github.com/miniMAC/rocket)
-- [ScrollReveal.js](https://github.com/jlmakes/scrollreveal)
-- [snabbt.js](https://github.com/daniel-lundin/snabbt.js)
-- [Tooltips JS](https://github.com/ytiurin/html5tooltipsjs)
-- [WOW.js](https://github.com/matthieua/WOW)
-<!-- abcdefghijklmnñopqrstuvwxyz -->
-<!--//
-- []()
-//-->
