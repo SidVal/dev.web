@@ -1,6 +1,8 @@
 # Animación
 
-Lista de estilos para animaciones
+?> Tener en cuenta que hay listas de animación disponibles para [JavaScript](/c/js/animacion.md) y [jQuey](/c/jquery/animacion.md).
+
+Lista de estilos para animaciones:
 
 - [Animate.css](/c/css/animacion#animate)
 - [Hover](/c/css/animacion#hover)
