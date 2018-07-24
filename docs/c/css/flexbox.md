@@ -48,3 +48,4 @@ Después de un tiempo, pensar en inicial y final en vez de izquierda y derecha s
 - [W3Schools: Flexbox](https://www.w3schools.com/Css/css3_flexbox.asp)
 - [Mozilla: Conceptos Basicos de Flexbox](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout/Conceptos_Basicos_de_Flexbox)
 - [The Complete CSS Flex Box Tutorial](https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc)
+- [5 Minute Beginner’s Guide to CSS Flexbox](https://medium.com/@jillplatts/6-minute-beginners-guide-to-css-flexbox-527b3ff3480b)
