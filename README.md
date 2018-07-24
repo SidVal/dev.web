@@ -27,3 +27,9 @@ También, sé por experiencia previa (con C# por ejemplo), uno va probando disti
 Qué mejor lugar que éste para lanzar los errores, e ir teniendo un lugar para ir documentando lo que se aprende.
 
 En la parte del [Wiki](https://github.com/SidVal/dev.web/wiki), se irá actualizando documentación sobre el curso (lo que pueda publicarse y que nadie se moleste en la Universidad porque el contenido está publicado).
+
+## Sistema de Documentación
+
+![Docsify](https://docsify.js.org/_media/icon.svg)
+
+Uso [Docsify](https://github.com/docsifyjs/docsify#readme) como sistema de documentación para mantener una estructura documental acorde a mis necesidades didácticas -por así decirlo. Fui revisando muchos repositorios en Github, y terminé quedandome con lo que desarrolló [@QingWei-Li](https://github.com/QingWei-Li), y de hecho empecé a ayudarle con la trucción en español para [Docsify/docs-es](https://github.com/docsifyjs/docs-es#readme) :es: y ahora formo parte de su organización :ok_hand:
