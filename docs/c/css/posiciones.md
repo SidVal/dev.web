@@ -23,7 +23,7 @@ Se denominan posiciones de tipo relativo porque permiten que los elementos se co
 
 Pensar en éste posicionamiento con la frase: "relativo a sí mismo". Creo que ésta imagen lo representa perfectamente:
 
-![CSS Position Relative](../assets/img/position-relative.png)
+![CSS Position Relative](../../assets/img/position-relative.png)
 
 Para llegar a ésta imagen, se usa este código CSS:
 
@@ -39,7 +39,7 @@ Hay que recordar que cuando se usa ésta posición de un elemento con `position:
 
 #### Position: absolute
 
-![CSS Position Absolute](../assets/img/position-absolute.png)
+![CSS Position Absolute](../../assets/img/position-absolute.png)
 
 ```css
 .ourBoxesParent {
@@ -54,7 +54,7 @@ Hay que recordar que cuando se usa ésta posición de un elemento con `position:
 
 ### Position: fixed
 
-![CSS Position Fixed](../assets/img/position-fixed.png)
+![CSS Position Fixed](../../assets/img/position-fixed.png)
 
 ```css
 .ourBox {
