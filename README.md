@@ -15,7 +15,7 @@ En términos muy generales se va a desarrollar:
 * Node.JS y Express.js
 * REST
 
-[Más información aquí](https://sidval.github.io/dev.web).
+[:rocket: Ver Versión Web :tada:](https://sidval.github.io/dev.web).
 
 ***
 
