@@ -32,4 +32,4 @@ En la parte del [Wiki](https://github.com/SidVal/dev.web/wiki), se irá actualiz
 
 ![Docsify](https://docsify.js.org/_media/icon.svg)
 
-Uso [Docsify](https://github.com/docsifyjs/docsify#readme) como sistema de documentación para mantener una estructura documental acorde a mis necesidades didácticas -por así decirlo. Fui revisando muchos repositorios en Github, y terminé quedandome con lo que desarrolló [@QingWei-Li](https://github.com/QingWei-Li), y de hecho empecé a ayudarle con la trucción en español para [Docsify/docs-es](https://github.com/docsifyjs/docs-es#readme) :es: y ahora formo parte de su organización :ok_hand:
+Uso [Docsify](https://github.com/docsifyjs/docsify#readme) como sistema de documentación para mantener una estructura documental acorde a mis necesidades didácticas -por así decirlo. Fui revisando muchos repositorios en Github, y terminé quedandome con lo que desarrolló [@QingWei-Li](https://github.com/QingWei-Li), y de hecho empecé a ayudarle con la **traducción en español** para [Docsify/docs-es](https://github.com/docsifyjs/docs-es#readme) y ahora formo parte de su organización :ok_hand:
