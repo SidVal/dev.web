@@ -21,4 +21,4 @@ En secciones de _lecturas_ o _referencias_ dentro de ésta web, **vas a encontra
 
 Puedes pensar que en la web hay contenido gratuito, y no necesitas pagar para leer nada. Estoy de acuerdo, hay contenido gratuito. Pero no será éste contenido que te marco con la estrellita. Igual, no te preocupes... siempre tengo otros enlaces de referencia para explicar lo que te explica el artículo donde sale el enlace a Medium, así que podrás completar tu lectura con otros contenidos web accesibles sin tener que pagar nada.
 
-![Medium Content](https://cdn-images-1.medium.com/max/500/1*SSh2lotzr463YjvAk6_0KQ.gif)
+![Aplausos en Medium](./assets/img/medium-clap.gif)
