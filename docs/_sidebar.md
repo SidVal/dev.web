@@ -9,4 +9,4 @@
 
 * [Contenido](/c/)
 
-* [☆](/medium.md#premium)
+* [☆](/medium.md#estrella)
