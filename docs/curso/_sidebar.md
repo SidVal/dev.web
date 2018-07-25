@@ -10,5 +10,6 @@
   * [Clase 8](/curso/clase8.md)
   * [Clase 9](/curso/clase9.md)
   * [Clase 10](/curso/clase10.md)
+  * [Clase 11](/curso/clase11.md)
 * [Unidades](/u/)
 * [Contenido](/c/)
