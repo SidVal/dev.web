@@ -1,6 +1,6 @@
 # Medium
 
-Desde éste mes formo parte de la red "[Medium, mi nick es Waldo](https://medium.com/@walddo)". Es un espacio digital con muchísimo material -la mayoría en inglés, donde hablan de muchísimos temas. 
+Desde éste mes formo parte de la red "Medium": es un espacio digital con muchísimo material -la mayoría en inglés, donde hablan de muchísimos temas. Puedes ver mi nick es [Waldo](https://medium.com/@walddo)"; la verdad no es mi intención tentar a nadie para que se una a esta plataforma, simplemente me gustó y lo comparto.  
 
 He encontrado en esta plataforma las mejores guías de desarrollo web. En todos los temas que me interesan. Así que... Medium tendrá su sección, principalmente porque destaco ciertos enlaces para hacer referencia a ciertos contenidos desarrollados.
 
