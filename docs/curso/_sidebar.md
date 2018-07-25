@@ -13,3 +13,4 @@
   * [Clase 11](/curso/clase11.md)
 * [Unidades](/u/)
 * [Contenido](/c/)
+* [☆](/medium.md#estrella)
