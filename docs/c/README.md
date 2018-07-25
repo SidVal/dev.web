@@ -16,6 +16,7 @@ Es muy importante dominar las herramientas de desarrollo que tiene el navegador 
 - [Lecturas de JavaScript](/c/js/#lecturas)
 - [Lecturas de AngularJS](/c/angularjs/#lecturas)
 - [Lecturas de jQuery](/c/jquery/#lecturas)
+- [Lecturas sobre Progresive Web Apps](/c/pwa#lecturas)
 
 ## Infografías
 
