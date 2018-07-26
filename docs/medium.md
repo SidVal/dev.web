@@ -21,4 +21,14 @@ En secciones de _lecturas_ o _referencias_ dentro de ésta web, **vas a encontra
 
 Puedes pensar que en la web hay contenido gratuito, y no necesitas pagar para leer nada. Estoy de acuerdo, hay contenido gratuito. Pero no será éste contenido que te marco con la estrellita. Igual, no te preocupes... siempre tengo otros enlaces de referencia para explicar lo que te explica el artículo donde sale el enlace a Medium, así que podrás completar tu lectura con otros contenidos web accesibles sin tener que pagar nada.
 
+## Aplausos
+
+La interacción ideal entre lector y escritor en Medium es el aplauso. Hay un ícono -muy visible- en todo momento, que mientras lees contenido en la plataforma de medium te da la opción a que "aplaudas" sobre lo que lees. _Nada más, nada menos._
+
+### Desaplaudir
+
+_Des-Aplaudir_ o quitar aplausos puede ser una misión complicada para un nuevo lector de la plataforma, ya sea web o en la app móvil de Medium. Yo no entendía cómo hacer para quitar los aplausos una vez que brindé aplausos -sin querer- a algún artículo que no se merecía tanto mis ovaciones. =)
+
+Así que buscando info al respecto llegué a este comentario: "[Pregunta Ingenua: ¿cómo puedo desaplaudir?](https://medium.com/@fvalcruz/no-es-ingenua-la-cierto-es-que-los-aplausos-no-son-tan-intuitivos-como-la-recomendaci%C3%B3n-y-han-tra-16a12525f6d3)". Y así... aprendimos a quitar los aplausos.
+
 ![Aplausos en Medium](./assets/img/medium-clap.gif)
