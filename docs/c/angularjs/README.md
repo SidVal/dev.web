@@ -17,6 +17,7 @@ A priori, AngularJS es MUY distinto de lo que hoy es "Angular" (al momento de re
 - [¿Angular, Reactjs o Vuejs?, mi opinión](https://www.uno-de-piera.com/angular-reactjs-vuejs/)
 - [An AngularJS Style Guide](https://google.github.io/styleguide/angularjs-google-style.html)
 - [You don’t know Angular —A Guide to Angular Projection](https://medium.com/coding-blocks/you-dont-know-angular-a-guide-to-angular-projection-7bef2ea66db0)
+- [Build A Real World Beautiful Web APP with Angular 6 — A to Z Ultimate Guide (2018) — PART I](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
 
 ## Observaciones
 
