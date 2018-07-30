@@ -10,14 +10,14 @@ Consejos que se desprenden de éste artículo:
 
 * Aprender lo básico de HTML
   * DOM
-* Aprender algo de CSS
+* Aprender algo de [CSS](/c/css/)
   * Grid - Flexbox
   * Media Queries
   * CSS Preprocessors: SASS o PostCSS
-  * CSS Frameworks: Bootstrap
+  * CSS Frameworks: [Bootstrap](/c/bootstrap/)
   * CSS Organization: [BEM](https://en.bem.info/methodology/quick-start/)
-* Aprender lo básico de JavaScript
-* Aprender Jquery? No es necesario
+* Aprender lo básico de [JavaScript](/c/js/)
+* ¿Aprender [Jquery](/c/jquery)? No es necesario
 * Gestión de paquetes
   * yarn
   * npm
@@ -33,7 +33,7 @@ Consejos que se desprenden de éste artículo:
     * Mobx
   * Vue
     * Vuex
-  * Angular
+  * [Angular](/c/angularjs/)
     * TypeScript
     * Rx.js
     
