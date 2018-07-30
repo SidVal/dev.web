@@ -1,5 +1,7 @@
 # Bootstrap {docsify-ignore-all}
 
+El [sitio oficial de Bootstrap](https://getbootstrap.com/) posee documentación y guías que son excelentes para lograr webs responsivas sin esfuerzo.
+
 ## Lecturas
 
 - [Dev-Web: Bootstrap desde Cero](/u/unidad3.md#bootstrap)
