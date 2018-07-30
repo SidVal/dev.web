@@ -77,7 +77,7 @@ Las colecciones son páginas que ofrecen ejemplos de cómo lograr los efectos co
 
 ## Frameworks
 
-- [Bootstrap](https://github.com/twbs/bootstrap)
+- [Bootstrap](/c/bootstrap/)
 - [Bulma](https://github.com/jgthms/bulma)
 - [Gutenberg](https://github.com/BafS/Gutenberg)
 - [Lit](https://github.com/ajusa/lit)
