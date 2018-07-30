@@ -17,7 +17,7 @@ Consejos que se desprenden de éste artículo:
   * CSS Frameworks: [Bootstrap](/c/bootstrap/)
   * CSS Organization: [BEM](https://en.bem.info/methodology/quick-start/)
 * Aprender lo básico de [JavaScript](/c/js/)
-* ¿Aprender [Jquery](/c/jquery)? No es necesario
+* ¿Aprender [Jquery](/c/jquery/)? No es necesario
 * Gestión de paquetes
   * yarn
   * npm
