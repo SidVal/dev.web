@@ -10,3 +10,8 @@ El [sitio oficial de Bootstrap](https://getbootstrap.com/) posee documentación 
 - [How the Bootstrap 4 Grid Works](https://uxplanet.org/how-the-bootstrap-4-grid-works-a1b04703a3b7)
 - [Bootstrap Grid: Mastering the Most Useful Flexbox Properties](https://www.sitepoint.com/bootstrap-grid-mastering-flexbox/)
 - [A Beginner’s Guide to the Latest Bootstrap Utility Classes](https://www.sitepoint.com/bootstrap-utility-classes/)
+
+## Plugins
+
+- [Bootstrap Datepicker](https://github.com/uxsolutions/bootstrap-datepicker) - [Docs](https://bootstrap-datepicker.readthedocs.io/en/latest/)
+- [Tablesorter](https://github.com/christianbach/tablesorter)
