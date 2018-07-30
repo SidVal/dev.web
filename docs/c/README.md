@@ -31,6 +31,8 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 - [CSS Simple Tips](/c/css/simple-tips.md)
 - [HTML5: elementos que pueden ser omitidos](https://html.spec.whatwg.org/multipage/syntax.html#syntax-tag-omission)
 - [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)
+- [Cool UX tools](https://coolux.tools)  
+  A curated list of (obviously) cool resources and tools for developers, UX researchers, designers and project managers.
 
 ## Otras lecturas
 
