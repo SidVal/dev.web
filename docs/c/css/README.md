@@ -1,6 +1,6 @@
 # CSS {docsify-ignore-all}
 
-El siguiente contenido se expone a fines prácticos, son artículos para aprender cosas puntuales que se necesitaron profundizar durante el aprendizaje. 
+Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar más los conocimientos sobre ésta parte del desarrollo web.
 
 ## Lecturas
 
