@@ -16,3 +16,9 @@ El [sitio oficial de Bootstrap](https://getbootstrap.com/) posee documentación 
 
 - [Bootstrap Datepicker](https://github.com/uxsolutions/bootstrap-datepicker) - [Docs](https://bootstrap-datepicker.readthedocs.io/en/latest/)
 - [Tablesorter](https://github.com/christianbach/tablesorter)
+
+## Themes
+
+- [Themes Guide](http://themes.guide/#freebies): Unique, Hand-crafted - Bootstrap 4 Themes & Templates
+- [Tophat Themes](https://themesguide.github.io/top-hat/dist/)
+- [Themestr.app for Bootstrap](https://themestr.app/)
