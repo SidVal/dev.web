@@ -7,6 +7,7 @@
     * [Backend](/c/backend-roadmap.md)
     * [Dev Ops](/c/devops-roadmap.md)
   * [AngularJS](/c/angularjs/)
+  * [Bootstrap](/c/bootstrap/)
   * [CSS](/c/css/)
   * [jQuery](/c/jquery/)
   * [JS](/c/js/)
