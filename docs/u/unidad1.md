@@ -41,8 +41,8 @@ Siguiendo la analogía de nuestro cuerpo tendremos músculos y piel; así:
 
   Aquí veremos:
 
-  * CSS
-  * BootStrap
+  * [CSS](/c/css/)
+  * [BootStrap](/c/bootstrap/)  
     Es una librería desarrollada inicialmente por Twitter; hoy sigue evolucionando y generando nuevas versiones. Permite tener apps responsivas, o **responsive**. Tiene componentes desarrollados para mejorar el diseño, y hacerlo más simple a la hora de exponerlo en distintos dispositivos conectados a Internet.
 
 ## Servidor
@@ -50,10 +50,10 @@ Siguiendo la analogía de nuestro cuerpo tendremos músculos y piel; así:
 ### Node.js
 
 * MongoDB (base de datos)
-* JavaScript
+* [JavaScript](/c/js/)
 * _Frameworks_
   * Express.JS
-  * Angular.JS
+  * [Angular.JS](/c/angularjs/)
 * REST (Manejo de APIS, escuchan peticiones y devuelven datos, que serán manejados con **JSON**)
 
 ***
