@@ -40,3 +40,4 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 - [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d) - An illustrated guide to becoming a Frontend or Backend Developer with links to courses
 - [Scrolling interactions and techniques](https://uxdesign.cc/scrolling-interactions-techniques-d6dafbfa4716)
 - [Why is there so much to learn in web development?](https://medium.com/@mattburgess/why-is-there-so-much-to-learn-in-web-development-41adbc54731c)
+- [Testing Your Frontend Code : Part I (Introduction)](https://hackernoon.com/testing-your-frontend-code-part-i-introduction-7e307eac4446)
