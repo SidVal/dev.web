@@ -19,3 +19,17 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
 ## Tips
 
 - [CSS Simple Tips](/c/css/simple-tips.md)
+
+### Cargar CSS
+
+Cuando cargamos hojas de estilo externas, lo mejor es ir probando el impacto en la velocidad de carga de dicha página. Podemos usar herramientas como [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/?hl=es) y monitorear la velocidad de carga y los consejos que nos brinda la página para optimizar la carga.
+
+#### Consejos
+
+- [Eliminate render blocking css](https://varvy.com/pagespeed/render-blocking-css.html)
+- [Optimize CSS delivery](https://varvy.com/pagespeed/optimize-css-delivery.html)
+
+#### Herramientas
+
+- [CSS delivery tool](https://varvy.com/tools/css-delivery/)
+- [PageSpeed tool](https://varvy.com/pagespeed/)
