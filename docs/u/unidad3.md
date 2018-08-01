@@ -6,6 +6,8 @@ Antes de seguir deberías tener:
 1. Tener a mano la [documentación de Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/). (Prestar atención a la versión a utilizar)
 1. Conocimiento del depurador de tu navegador web. (Preferentemente Google [Chrome: devTools](/c/#chrome-dev-tools))
 
+>Esta unidad contiene contenido sobre `Bootstrap`
+
 ## Bootstrap
 
 Es un framework Responsive Design diseñado para ayudar a diseñadores y desarrolladores en el proceso de creación de sitios web y aplicaciones de una manera rápida y fácil controlando la parte _front_ de los sitios web. Bootstrap es un proyecto Open Source (de código abierto) que podemos visualizar en [GitHub: Bootstrap](https://github.com/twbs/bootstrap).
