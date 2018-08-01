@@ -35,4 +35,4 @@ Seguir esta guía: [Angular 5: Inicio rápido con angular-cli y angular material
 
 ### Tarea
 
-Esta tarea se me ocurre a mí, para aprender más: "Ver cómo hacer para que la app de Angular traiga datos de un JSON". =) 
+Esta tarea se me ocurre a mí, para aprender más: "Ver cómo hacer para que la app de Angular traiga datos de un JSON". =)
