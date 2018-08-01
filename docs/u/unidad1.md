@@ -6,6 +6,8 @@ Antes de seguir deberías tener:
 1. Entorno básico de trabajo, leer [#Software Recomendado](/?id=software-recomendado).
 1. Conocimiento básico de `HTML` que podrás leer a continuación.
 
+>Esta unidad contiene contenido sobre `HTML5`
+
 ## Arquitectura básica
 
 Partiendo de la arquitectura cliente - servidor, tenemos:
