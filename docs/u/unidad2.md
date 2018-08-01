@@ -6,6 +6,8 @@ Antes de seguir deberías tener:
 1. Entorno básico de trabajo, leer [#Software Recomendado](/?id=software-recomendado).
 1. Conocimiento básico de HTML y CSS. [_Repasar Unidad 1_](/u/unidad1.md).
 
+>Esta unidad contiene contenido sobre `CSS3`
+
 ## Primer página web
 
 Si bien en la [primer clase](/clases/clase1.md#clase-1) algo se vió, muy por arriba de la estructura básica y cómo una página debía llamar a los elementos que la componen, durante la [segunda clase](/clases/clase2.md#clase-2) se desarrolló con mayor profundidad lo que sería nuestro primer desarrollo web estático.
