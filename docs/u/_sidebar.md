@@ -6,5 +6,7 @@
   * [Unidad 3](/u/unidad3.md)
   * [Unidad 4](/u/unidad4.md)
   * [Unidad 5](/u/unidad5.md)
+  * [Unidad 6](/u/unidad6.md)
+  * [Unidad 7](/u/unidad7.md)
 * [Contenido](/c/)
 * [☆](/medium.md#estrella)
