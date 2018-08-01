@@ -1,6 +1,6 @@
 # node
 
-<img src="../../assets/img/node-favicon.png" alt="" style="float:left;margin-right:10px;" />Sitio oficial: [Node](https://nodejs.org/es/) -en español.
+<img src="../assets/img/node-favicon.png" alt="" style="float:left;margin-right:10px;" />Sitio oficial: [Node](https://nodejs.org/es/) -en español.
 
 ## Lecturas
 
