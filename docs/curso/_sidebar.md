@@ -11,6 +11,7 @@
   * [Clase 9](/curso/clase9.md)
   * [Clase 10](/curso/clase10.md)
   * [Clase 11](/curso/clase11.md)
+  * [Clase 12](/curso/clase12.md)
 * [Unidades](/u/)
 * [Contenido](/c/)
 * [☆](/medium.md#estrella)
