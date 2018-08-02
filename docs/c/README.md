@@ -41,3 +41,5 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 - [Scrolling interactions and techniques](https://uxdesign.cc/scrolling-interactions-techniques-d6dafbfa4716)
 - [Why is there so much to learn in web development?](https://medium.com/@mattburgess/why-is-there-so-much-to-learn-in-web-development-41adbc54731c)
 - [Testing Your Frontend Code : Part I (Introduction)](https://hackernoon.com/testing-your-frontend-code-part-i-introduction-7e307eac4446)
+- [Using Chrome as a Local Web Server](https://medium.com/@jmatix/using-chrome-as-a-local-web-server-af04baffd581) ☆
+- [Launch a Website with a Custom URL using Github Pages and Google Domains](https://medium.com/employbl/launch-a-website-with-a-custom-url-using-github-pages-and-google-domains-3dd8d90cc33b) ☆
