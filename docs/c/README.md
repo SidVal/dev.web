@@ -36,6 +36,7 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 
 ## Otras lecturas
 
+- [Bases de datos relacionales vs. no relacionales: ¿qué es mejor?](https://aukera.es/blog/bases-de-datos-relacionales-vs-no-relacionales/)
 - [APIs con Node, TypeScript, Koa y TypeORM](http://blog.koalite.com/2018/07/apis-con-node-typescript-koa-y-typeorm/?utm_source=rss&utm_medium=rss&utm_campaign=apis-con-node-typescript-koa-y-typeorm)
 - [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d) - An illustrated guide to becoming a Frontend or Backend Developer with links to courses
 - [Scrolling interactions and techniques](https://uxdesign.cc/scrolling-interactions-techniques-d6dafbfa4716)
