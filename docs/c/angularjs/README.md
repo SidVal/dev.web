@@ -14,6 +14,7 @@ A priori, AngularJS es MUY distinto de lo que hoy es "Angular" (al momento de re
 ## Lecturas
 
 - [Las 5 principales ventajas de usar Angular para crear aplicaciones web](https://www.campusmvp.es/recursos/post/las-5-principales-ventajas-de-usar-angular-para-crear-aplicaciones-web.aspx)
+- [Comenzando con Angular 2](https://blog.ng-classroom.com/blog/ionic2/angular2/) - Buen artículo, consultar todo el blog, está en español, son didácticos.
 - [¿Angular, Reactjs o Vuejs?, mi opinión](https://www.uno-de-piera.com/angular-reactjs-vuejs/)
 - [An AngularJS Style Guide](https://google.github.io/styleguide/angularjs-google-style.html)
 - [You don’t know Angular —A Guide to Angular Projection](https://medium.com/coding-blocks/you-dont-know-angular-a-guide-to-angular-projection-7bef2ea66db0)

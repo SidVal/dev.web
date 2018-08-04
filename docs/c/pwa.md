@@ -2,6 +2,8 @@
 
 Las aplicaciones web progresivas son un híbrido de un sitio web y una aplicación que puede usar en una tableta o un dispositivo móvil.
 
+Ver avance de aplicaciones en [GitHub: Topic/PWA](https://github.com/topics/pwa)
+
 ## Lecturas
 
 - [SEO para Progressive Web APPs (PWA) y JavaScript](https://www.analistaseo.es/posicionamiento-buscadores/seo-progressive-web-apps-pwa/)
@@ -14,4 +16,4 @@ Las aplicaciones web progresivas son un híbrido de un sitio web y una aplicaci�
 
 ## Directorio
 
-Nunca imaginé encontrar un [directorio de páginas que son PWA](https://pwa-directory.appspot.com/).
+Nunca imaginé encontrar un [directorio de páginas que son PWA](https://pwa-directory.appspot.com/)
