@@ -31,7 +31,7 @@ En VSCode se va a trabajar con la terminal integrada del programa.
 
 ## Generar componentes
 
-Seguir esta guía: [Angular 5: Inicio rápido con angular-cli y angular material](https://medium.com/williambastidasblog/angular-5-inicio-r%C3%A1pido-con-angular-cli-y-angular-material-e52e4ab0df3a).
+Seguir esta guía: [Angular 5: Inicio rápido con angular-cli y angular material](https://medium.com/williambastidasblog/angular-5-inicio-r%C3%A1pido-con-angular-cli-y-angular-material-e52e4ab0df3a)
 
 ### Tarea
 

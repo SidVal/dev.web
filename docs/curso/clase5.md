@@ -22,7 +22,7 @@ Fecha: 29 de mayo
 
 ## Tarea Clase 5
 
-Modificar el blog que vimos en la [clase 3](https://sidval.github.io/www/curso/c3/).
+Modificar el blog que vimos en la [clase 3](https://sidval.github.io/www/curso/c3/)
 
 Realizar éstas modificaciones:
 

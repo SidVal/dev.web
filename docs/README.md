@@ -10,7 +10,7 @@ Se busca que estos documentos sean un repaso para aquellas personas que quieren 
 
 Con el tiempo se convertirá en mi página para exponer todo lo que sea sobre el _WebMaster_ que llevo adentro. Para nada experto, y siempre aprendiendo cosas nuevas sobre lo que respecta a páginas web y tecnología web en general.
 
-!>Si gustas corregir :pencil2: o sugerir :bulb: algún cambio, [**por favor envía tu mensaje aquí**](https://github.com/SidVal/dev.web/issues/new?assignee=SidVal). :pray:
+!>Si gustas corregir :pencil2: o sugerir :bulb: algún cambio, [**por favor envía tu mensaje aquí**](https://github.com/SidVal/dev.web/issues/new?assignee=SidVal) :pray:
 
 ?>Se creará más adelante una página del tipo "sobre el autor" o algo relacionado, para comentar quién soy, por qué hago todo ésto, etcétera etcétera.
 

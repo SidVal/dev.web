@@ -118,7 +118,7 @@ Los atributos se colocan dentro de la etiqueta de inicio y consisten en un nombr
 <input name=address maxlength="200">
 ```
 
-!>Prestar atención aquí, ya que en el PDF indicado en clase -en la página 9, dice que la etiqueta `<html>` nunca lleva atributos, y eso no es correcto. La etiqueta puede o no llevar atributos, y últimamente se usa mucho colocar el lenguaje de internacionalización para denotar en qué lenguaje se escribirá el contenido del documento HTML, por ejemplo: [`<html lang="es">`](https://www.w3.org/International/questions/qa-html-language-declarations).
+!>Prestar atención aquí, ya que en el PDF indicado en clase -en la página 9, dice que la etiqueta `<html>` nunca lleva atributos, y eso no es correcto. La etiqueta puede o no llevar atributos, y últimamente se usa mucho colocar el lenguaje de internacionalización para denotar en qué lenguaje se escribirá el contenido del documento HTML, por ejemplo: [`<html lang="es">`](https://www.w3.org/International/questions/qa-html-language-declarations)
 
 ## DOCTYPE
 
@@ -235,7 +235,7 @@ Los posibles valores son: `left`, `right`, `center`, y `justify`. Es comúnmente
 
 Es el salto de línea en un párrafo. Como darle "enter" a una oración y que lo siguiente al `<br>` empiece en renglón nuevo.
 
-Tener en cuenta que en HTML el retorno de línea `<br>` no requiere fin (end tag)., mientras que en XHTML sí lo requiere, así: `<br />`. [Más información](https://www.w3schools.com/tags/tag_br.asp).
+Tener en cuenta que en HTML el retorno de línea `<br>` no requiere fin (end tag)., mientras que en XHTML sí lo requiere, así: `<br />`. [Más información: Tag BR](https://www.w3schools.com/tags/tag_br.asp)
 
 ### `<nobr></nobr>`
 
@@ -252,11 +252,11 @@ Aunque, si queremos optimizar, hay que crear una clase "nowrap" con ese estilo, 
 
 ### `<wbr></wbr>`
 
-Si bien esto no aparece en la documentación de clase, es importante saber que existe un tag de HTML5 para que el usuario personalice en qué parte de un texto largo el navegador debería crear un retorno de línea en caso de no tener espacio para mostrar toda la oración. [Más información y ejemplos](https://www.w3schools.com/tags/tag_wbr.asp).
+Si bien esto no aparece en la documentación de clase, es importante saber que existe un tag de HTML5 para que el usuario personalice en qué parte de un texto largo el navegador debería crear un retorno de línea en caso de no tener espacio para mostrar toda la oración. [Más información y ejemplos: Tag WBR](https://www.w3schools.com/tags/tag_wbr.asp)
 
 ### Cabeceras `<h1>` - `<h6>`
 
-Tener en cuenta que las cabeceras no aceptan el atributo `align` en HTML5. [Más información](https://www.w3schools.com/tags/tag_hn.asp)
+Tener en cuenta que las cabeceras no aceptan el atributo `align` en HTML5. [Más información: Tag Hn](https://www.w3schools.com/tags/tag_hn.asp)
 
 ### Destacar texto
 
@@ -267,7 +267,7 @@ Para destacar contenido se puede usar los siguientes elementos:
 * `<mark>texto marcado o destacado</mark>` - [mark](https://www.w3schools.com/tags/tag_mark.asp)
 * `<b>texto en negrita</b>` - [b](https://www.w3schools.com/tags/tag_b.asp)
 
-?>Nota: De acuerdo con la especificación HTML 5, la etiqueta `<b>` debe usarse como ÚLTIMO recurso cuando ninguna otra etiqueta es más apropiada. La especificación de HTML 5 establece que los encabezados se denotan con las etiquetas `<h1>` a `<h6>`, el texto destacado se debe denotar con la etiqueta `<em>`, el texto importante se debe denotar con la etiqueta `<strong>` y el texto marcado o resaltado debería usar la etiqueta `<mark>`. [Más información](https://www.w3schools.com/tags/tag_b.asp).
+?>Nota: De acuerdo con la especificación HTML 5, la etiqueta `<b>` debe usarse como ÚLTIMO recurso cuando ninguna otra etiqueta es más apropiada. La especificación de HTML 5 establece que los encabezados se denotan con las etiquetas `<h1>` a `<h6>`, el texto destacado se debe denotar con la etiqueta `<em>`, el texto importante se debe denotar con la etiqueta `<strong>` y el texto marcado o resaltado debería usar la etiqueta `<mark>`. [Más información: Tag B](https://www.w3schools.com/tags/tag_b.asp)
 
 #### `<i>cursiva</i>`
 
@@ -304,11 +304,3 @@ En la documentación de clase se menciona que el atributo [`pubdate`](https://ww
 ### Más etiquetas
 
 Los tags de HTML son muchísimos, en clase se mencionaron otros a modo general, como `<video>`, `<audio>`, y `<canvas>`. Si se quiere ampliar el conocimiento sobre cualquier etiqueta, yo recomiendo esta página con la [lista completa, conceptos, y ejemplos](https://www.w3schools.com/tags/default.asp) (en inglés).
-
-***
-
-<div align="right">
--- Continuar en [Unidad 2](/u/unidad2.md#unidad-2) _(ref: página 43 pdf)_ --
-</div>
-
-***

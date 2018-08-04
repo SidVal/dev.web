@@ -464,7 +464,7 @@ Propiedades del outline:
 * `outline-offset`
 * `outline`
 
->¡Cuidado con superponer el outline con otro contenido! - [Leer más información sobre `outline`](https://www.w3schools.com/css/css_outline.asp).
+>¡Cuidado con superponer el outline con otro contenido! - [Leer más información sobre `outline`](https://www.w3schools.com/css/css_outline.asp)
 
 ## Transform y Transition
 
@@ -476,7 +476,7 @@ _Sintaxis_
 
 `transform: none|transform-functions|initial|inherit;`
 
-[Leer más información sobre la propiedad `transform`](https://www.w3schools.com/cssref/css3_pr_transform.asp).
+[Leer más información sobre la propiedad `transform`](https://www.w3schools.com/cssref/css3_pr_transform.asp)
 
 ### Transition
 
@@ -487,4 +487,4 @@ La propiedad `transition` es una propiedad abreviada de las cuatro propiedades d
 * `transition-timing-function`
 * `transition-delay`
 
-[Leer más información sobre la propiedad `transform`](https://www.w3schools.com/cssref/css3_pr_transition.asp).
+[Leer más información sobre la propiedad `transform`](https://www.w3schools.com/cssref/css3_pr_transition.asp)

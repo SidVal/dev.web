@@ -6,8 +6,8 @@ Fecha: 26 de junio
 
 ## Instalaciones
 
-* Se indica que vayamos instalando [node.js](https://nodejs.org/es/) y [mongo.db](https://www.mongodb.com/download-center?jmp=nav#community). Leer también la [documentación de MondoDB](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/).
-* Se indica también descargar el [RoboMongo](https://robomongo.org/).
+* Se indica que vayamos instalando [node.js](https://nodejs.org/es/) y [mongo.db](https://www.mongodb.com/download-center?jmp=nav#community). Leer también la [documentación de MondoDB](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
+* Se indica también descargar el [RoboMongo](https://robomongo.org/)
 
 ## Temas vistos
 

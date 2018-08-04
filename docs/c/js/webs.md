@@ -1,6 +1,6 @@
 # Webs
 
-Lista de herramientas, frameworks, y otras aplicaciones en javascript que se crucen durante este curso y se irán listando aquí; para posterior análisis. 
+Lista de herramientas, frameworks, y otras aplicaciones en javascript que se crucen durante este curso y se irán listando aquí; para posterior análisis.
 
 Listado completo:
 
@@ -23,16 +23,21 @@ Listado completo:
 - [Polished](/c/js/webs#polished)
 - [Mout](/c/js/webs#mout)
 
-
 ## Gulp.js
 
-https://gulpjs.com - Gulp es una herramienta, en forma de script en `NodeJS`, que te ayuda a automatizar tareas comunes en el desarrollo de una aplicación, como pueden ser: mover archivos de una carpeta a otra, eliminarlos, minificar código, sincronizar el navegador cuando modificas tu código, validar sintaxis y un largo etcétera. (_[Fuente](https://www.returngis.net/2016/07/que-es-gulp-y-para-que-sirve/)_)
+[Gulp](https://gulpjs.com) es una herramienta, en forma de script en `NodeJS`, que te ayuda a automatizar tareas comunes en el desarrollo de una aplicación, como pueden ser: mover archivos de una carpeta a otra, eliminarlos, minificar código, sincronizar el navegador cuando modificas tu código, validar sintaxis y un largo etcétera. (_[Fuente](https://www.returngis.net/2016/07/que-es-gulp-y-para-que-sirve/)_)
 
 También se menciona Gulp en este doc de VS Code para [automatizar la compilación de MD](https://code.visualstudio.com/docs/languages/markdown#_step-1-install-gulp-and-some-plugins) en HTML.
 
+### Gulp CSS
+
+Para minimizar CSS y depurar, he leído que hay librerías que usan _Gulp_ para llevar más allá la depuración de las hojas de estilo en los sitios web y optimizar la carga y uso de los recursos. Leer ["Generate Clean CSS"](https://github.com/uncompiled/amp-bootstrap-example#step-4-generate-clean-css) para tener una idea de lo que se podría hacer, está muy interesante.
+
+Referencias [#CSS](/c/css/), [#AMP](/c/amp.md), [#NODE](/c/node/)
+
 ## Emmet
 
-https://emmet.io/ - Anteriormente conocido como Zen Coding; es un **plugin** para muchos editores de texto desarrollado y optimizado para desarrolladores web cuyo flujo de trabajo depende de HTML / XML y CSS, pero se puede utilizar con los lenguajes de programación también.
+[Emmet](https://emmet.io/) - Anteriormente conocido como Zen Coding; es un **plugin** para muchos editores de texto desarrollado y optimizado para desarrolladores web cuyo flujo de trabajo depende de HTML / XML y CSS, pero se puede utilizar con los lenguajes de programación también.
 
 El mejor ejemplo de cómo podría funcionar Emmet es con abreviaciones en código. [Leer](https://docs.emmet.io/abbreviations/).
 
@@ -58,7 +63,7 @@ Una sencilla librería Javascript para la creación de páginas web con desplaza
 
 ## Underscore
 
-[Underscore](https://github.com/jashkenas/underscore) es una biblioteca de JavaScript que proporciona todo un lío de útiles ayudantes de programación funcionales sin extender ningún objeto incorporado. Es la respuesta a la pregunta: "Si me siento delante de una página HTML en blanco y quiero comenzar a ser productivo inmediatamente, ¿qué necesito?" 
+[Underscore](https://github.com/jashkenas/underscore) es una biblioteca de JavaScript que proporciona todo un lío de útiles ayudantes de programación funcionales sin extender ningún objeto incorporado. Es la respuesta a la pregunta: "Si me siento delante de una página HTML en blanco y quiero comenzar a ser productivo inmediatamente, ¿qué necesito?"
 
 ## Ramda
 

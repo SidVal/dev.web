@@ -14,7 +14,7 @@ Fecha: 12 de junio
 
 Breve intro a JS. (Ver [Unidad 4](/u/unidad4.md)).
 
-Ver en linea [código del profe](https://sidval.github.io/www/curso/c7/clase7.html) y [mi código](https://sidval.github.io/www/testing/c7/clase7.html).
+Ver en linea [código del profe](https://sidval.github.io/www/curso/c7/clase7.html) y [mi código](https://sidval.github.io/www/testing/c7/clase7.html)
 
 ## Observaciones
 

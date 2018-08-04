@@ -5,8 +5,8 @@ Librerías de Javascript para realizar animaciones; nada más y nada menos.
 ?> Tener en cuenta que hay listas de animación disponibles para [CSS](/c/css/animacion.md) y [jQuey](/c/jquery/animacion.md).
 
 Lista total de librerías mencionadas en este artículo (a modo índice, para no repetirlas):
-
 <!-- abcdefghijklmnñopqrstuvwxyz -->
+
 - [Anime.js](/c/js/animacion#anime)
 - [Aos](/c/js/animacion#aos)
 - [Bounce](/c/js/animacion#bounce)
@@ -86,11 +86,11 @@ El conjunto de _CreateJS_ tiene:
 
 ## GreenSock
 
-[GreenSock JS](https://github.com/greensock/GreenSock-JS), conocido como _GSAP_, es una librería JavaScript para crear alto rendimiento, con cero dependencias, y animaciones entre navegadores. GSAP es flexible y funciona con React, Vue, Angular y vanilla JS. 
+[GreenSock JS](https://github.com/greensock/GreenSock-JS), conocido como _GSAP_, es una librería JavaScript para crear alto rendimiento, con cero dependencias, y animaciones entre navegadores. GSAP es flexible y funciona con React, Vue, Angular y vanilla JS.
 
 ## Kute
 
-[Kute.js](https://github.com/thednp/kute.js/) es un motor de animación de JavaScript completamente desarrollado con características esenciales para las animaciones entre navegadores. El foco es la calidad del código, la flexibilidad, el rendimiento y el tamaño (el motor central tiene 17k min y 5.5k gzip). 
+[Kute.js](https://github.com/thednp/kute.js/) es un motor de animación de JavaScript completamente desarrollado con características esenciales para las animaciones entre navegadores. El foco es la calidad del código, la flexibilidad, el rendimiento y el tamaño (el motor central tiene 17k min y 5.5k gzip).
 
 ## Lottie
 
