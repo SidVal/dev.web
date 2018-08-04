@@ -8,6 +8,7 @@ Lista total de librerías mencionadas en este artículo (a modo índice, para no
 
 <!-- abcdefghijklmnñopqrstuvwxyz -->
 - [Anime.js](/c/js/animacion#anime)
+- [Aos](/c/js/animacion#aos)
 - [Bounce](/c/js/animacion#bounce)
 - [CreateJS](/c/js/animacion#createjs)
   - [EaselJS](/c/js/animacion#easeljs)
@@ -47,6 +48,10 @@ abcdefghijklmnñopqrstuvwxyz
 ## Anime
 
 [Anime.js](https://github.com/juliangarnier/anime) es una librería de animación de JavaScript que funciona con propiedades CSS, transformaciones CSS individuales, SVG o cualquier atributo DOM, y objetos JavaScript. Esta librería le permite encadenar múltiples propiedades de animación, sincronizar múltiples instancias, crear cronogramas y más.
+
+## Aos
+
+[Aos](https://github.com/michalsnik/aos) es una librería excelente, para ver todo el poder que se puede ejecutar con las llamadas de `AOS.init();` leer su página en github. Los [ejemplos](http://michalsnik.github.io/aos/) que tiene publicado en su página muestran lo que se puede lograr para las páginas de inicio de los sitios web (landing pages).
 
 ## Bounce
 
