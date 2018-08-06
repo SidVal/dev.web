@@ -5,6 +5,7 @@
 ## Lecturas
 
 - [Gulp CSS](/c/js/webs.md#gulp-css)
+- [¿Simplemente qué es Node.js?](https://www.ibm.com/developerworks/ssa/opensource/library/os-nodejs/index.html)
 - [Node en español](http://nodejs-es.github.io/api/)
 - [La guía de Node en español](http://nodejskoans.com/)
 - [El Libro para Principiantes en Node.js](https://www.nodebeginner.org/index-es.html)
