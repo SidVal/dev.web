@@ -19,6 +19,7 @@ El [sitio oficial de Bootstrap](https://getbootstrap.com/) posee documentación 
 
 ## Themes
 
-- [Themes Guide](http://themes.guide/#freebies): Unique, Hand-crafted - Bootstrap 4 Themes & Templates
+- [Themes Guide](http://themes.guide/#freebies) - Unique, Hand-crafted - Bootstrap 4 Themes & Templates
 - [Tophat Themes](https://themesguide.github.io/top-hat/dist/)
 - [Themestr.app for Bootstrap](https://themestr.app/)
+- [Bootstrap Material Design](https://github.com/FezVrasta/bootstrap-material-design) - Material design theme for Bootstrap 3 and 4

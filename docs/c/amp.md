@@ -17,3 +17,10 @@ Otras páginas oficiales:
 ## Lecturas
 
 - [Gulp CSS](/c/js/webs.md#gulp-css), en mi afán de minimizar al máximo las cargas de varios proyectos web, me topé con herramientas de _node_ que permiten limpiar css para su optimización. Está bueno investigar cómo usan _gulp_ para este fin, y aprender más al respecto. Si leemos el proyecto de ["Generate Clean CSS"](https://github.com/uncompiled/amp-bootstrap-example#step-4-generate-clean-css) nos daremos cuenta cómo usa Gulp para automatizar el proceso hacia una HTML que sea AMP válida.
+
+## Críticas
+
+- [Una carta sobre Google AMP](http://ampletter.org/?lang=es)
+- [AMP: the missing controversy](https://ferdychristant.com/amp-the-missing-controversy-3b424031047)
+- [Why AMP is bad for your site and for the Web](https://medium.com/@danbuben/why-amp-is-bad-for-your-site-and-for-the-web-e4d060a4ff31)
+- [The Two Faces of AMP](https://timkadlec.com/remembers/2018-02-14-the-two-faces-of-amp/)
