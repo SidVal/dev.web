@@ -10,6 +10,7 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 - [The Ultimate Guide to CSS + Cheat Sheets](https://medium.com/level-up-web/the-ultimate-guide-to-css-103b0f883de3)
 - [CSS Grid — The Swiss Army Knife For Website and Application Layouts](https://medium.com/@js_tut/css-grid-the-swiss-army-knife-for-cutting-website-and-application-layouts-c1bd7a6b4e56) ☆
+- [How to get better at writing CSS](https://medium.freecodecamp.org/how-to-get-better-at-writing-css-a1732c32a72f)
 
 ## Webs
 
