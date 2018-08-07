@@ -10,3 +10,7 @@
 - [Apps, frameworks, etc](/c/js/webs.md)
 - [Librerías para animación con JS](/c/js/animacion.md)
 - [¿Cuál es la diferencia entre jQuery, AJAX y AngularJS?](/c/js/jquery-ajax-angularjs.md)
+
+## Hacks
+
+- [Quickjack](https://github.com/samyk/quickjack) is a point-and-click tool for intuitively producing advanced clickjacking and frame slicing attacks.
