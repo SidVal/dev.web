@@ -1,6 +1,5 @@
 # Dev.Web
-
-<div align="right"><i><a href="https://github.com/SidVal/dev.web/releases" target="_new">v.0.2.5-beta ½</a></i> :smile: </div>
+![](https://badgen.net/github/release/sidval/dev.web) ![](https://badgen.net/github/tag/sidval/dev.web) ![](https://badgen.net/github/license/sidval/dev.web) ![](https://badgen.net/badge/be/happy%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86/green)<div align="right" style="float:right;"><i><a href="https://github.com/SidVal/dev.web/releases" target="_new">v.0.2.5-beta ½</a></i> :smile: </div>
 
 ## Presentación del repo
 
