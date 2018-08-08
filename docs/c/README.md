@@ -1,6 +1,14 @@
-# Contenido {docsify-ignore-all}
+# Desarrollo Web {docsify-ignore-all}
 
-Esta carpeta es para volcar contenido para profundizar, investigar, probar y aprender a través de la práctica.
+Como les voy a comentar en las infografías a continuación, encontré en GitHub un desarrollador que hace estos interesantes gráficos, y lo más importante que debemos tener en cuenta es la referencia de colores que se destaca en esta imagen:
+
+![Web Development 2018](../assets/img/web-dev-2018.png)
+
+## Infografías
+
+- [Frontend](/c/frontend-roadmap.md)
+- [Backend](/c/backend-roadmap.md)
+- [Devops](/c/devops-roadmap.md)
 
 ## Chrome Dev Tools
 
@@ -18,12 +26,6 @@ Es muy importante dominar las herramientas de desarrollo que tiene el navegador 
 - [Lecturas de jQuery](/c/jquery/#lecturas)
 - [Lecturas sobre Progressive Web Apps](/c/pwa.md#lecturas)
 - [Lecturas sobre AMP](/c/amp.md)
-
-## Infografías
-
-- [Frontend](/c/frontend-roadmap.md)
-- [Backend](/c/backend-roadmap.md)
-- [Devops](/c/devops-roadmap.md)
 
 ## Tips
 
