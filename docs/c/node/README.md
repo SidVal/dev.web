@@ -2,6 +2,10 @@
 
 <img src="/dev.web/assets/img/node-favicon.png" alt="Node Favicon" style="float:left;margin-right:10px;" />Sitio oficial: [Node](https://nodejs.org/es/) -en español.
 
+## Videos
+
+- [Qué es Node](/c/node/que-es)
+
 ## Lecturas
 
 - [Gulp CSS](/c/js/webs.md#gulp-css)
