@@ -1,7 +1,5 @@
 # Backend Roadmap {docsify-ignore-all}
 
-![Backend Roadmap](https://cdn-images-1.medium.com/max/2000/1*WQviQNNE2cnhVAiQpIXkQg.png)
-
 El roadmap del desarrollador que quiere dedicarse al backend entonces más o menos sería lo siguiente:
 
 1. Debemos elegir un lenguaje:
@@ -124,6 +122,10 @@ El roadmap del desarrollador que quiere dedicarse al backend entonces más o men
     - SOAP
 
 ***
+
+Lo veamos gráficamente:
+
+![Backend Roadmap](https://cdn-images-1.medium.com/max/2000/1*WQviQNNE2cnhVAiQpIXkQg.png)
 
 Llegué a una interesante infografía a través de un post en Medium que me interesó apenas leí las primeras líneas:
 >El desarrollo web de hoy es completamente diferente de lo que era hace unos años... 
