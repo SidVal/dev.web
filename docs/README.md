@@ -1,6 +1,6 @@
 # Dev.Web
 
-<div align="right"><i><a href="https://github.com/SidVal/dev.web/releases" target="_new">v.0.2.0-beta</a></i> :smile: </div>
+<div align="right"><i><a href="https://github.com/SidVal/dev.web/releases" target="_new">v.0.2.5-beta ½</a></i> :smile: </div>
 
 ## Presentación del repo
 
