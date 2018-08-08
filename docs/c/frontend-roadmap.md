@@ -59,12 +59,9 @@ Consejos que se desprenden de éste artículo:
   - [Angular](/c/angularjs/)
     - TypeScript
     - Rx.js
-    - ngrx
-    
+    - ngrx    
   _Curvas de aprendizaje React.js vs Angular_
-  ![Curvas de aprendizaje React.js vs Angular](https://cdn-images-1.medium.com/max/1000/1-j8mUsMxSnyJMix7aFiwLeA.png)
-
-
+  ![Curvas de aprendizaje React.js vs Angular](../assets/img/react-vs-angular-learning.jpg)
 - Progressive WebApps: [PWA](/c/pwa.md)
 - Testing
   - Jest
