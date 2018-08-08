@@ -54,7 +54,7 @@ Empezar con pruebas unitarias para las tareas prácticas que necesitemos testear
 Aquí hay muchas opciones, sin embargo si has aprendido una, suele ser más fácil aprender las demás opciones. La mayoría empieza con mySQL, también tienes: Oracle, MariaDB, PostgreSQL, MSSQL.
 
 9. Tiempo de prácticas
-Crea una aplicación simple que use todo lo que hemos mencionado hasta aquí, debe tener opciones de registro, login, y CRUD. Crea un blog, por ejemplo. Donde cualquier persona pueda registrarse y tener un perfil público, pueda publicar, editar o borrar sus propios escritos, y los muestre a otros lectores.
+Crea una aplicación simple que use todo lo que hemos mencionado hasta aquí, debe tener opciones de registro, login, y [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete). Crea un blog, por ejemplo. Donde cualquier persona pueda registrarse y tener un perfil público, pueda publicar, editar o borrar sus propios escritos, y los muestre a otros lectores.
 
 ?>Asegúrate de seguir las buenas prácticas, los estándares, y de escribir los pasos de pruebas. También ten en cuenta la base de datos, agrega indexes, usa el motores de bases de datos apropiado, y asegúrate de analizar las consultas de SQL antes de llevarlas a la aplicación final.
 
