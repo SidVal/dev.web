@@ -15,9 +15,11 @@ A priori, AngularJS es MUY distinto de lo que hoy es "Angular" (al momento de re
 
 - [Las 5 principales ventajas de usar Angular para crear aplicaciones web](https://www.campusmvp.es/recursos/post/las-5-principales-ventajas-de-usar-angular-para-crear-aplicaciones-web.aspx)
 - [Comenzando con Angular 2](https://blog.ng-classroom.com/blog/ionic2/angular2/) - Buen artículo, consultar todo el blog, está en español, son didácticos.
+- [¿Angular, Reactjs o Vuejs?, mi opinión](https://www.uno-de-piera.com/angular-reactjs-vuejs/)
 - Series
   - Creating a Blogging App Using Angular & MongoDB: [Login](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-angular-mongodb-login--cms-30125), [Home](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-angular-mongodb-home--cms-30129), [Show Post](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-angular-mongodb-show-post--cms-30140), [Add Post](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-angular-mongodb-add-post--cms-30151), [Edit Post](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-angular-mongodb-edit-post--cms-30173), and [Delete Post](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-angular-mongodb-delete-post--cms-30187). 
-- [¿Angular, Reactjs o Vuejs?, mi opinión](https://www.uno-de-piera.com/angular-reactjs-vuejs/)
+  - [Creating Your First Angular App](https://code.tutsplus.com/series/creating-your-first-angular-app--cms-1248)
+  - [Beginner's Guide to Angular 4](https://code.tutsplus.com/series/beginners-guide-to-angular-4--cms-1244)
 - [An AngularJS Style Guide](https://google.github.io/styleguide/angularjs-google-style.html)
 - [You don’t know Angular —A Guide to Angular Projection](https://medium.com/coding-blocks/you-dont-know-angular-a-guide-to-angular-projection-7bef2ea66db0)
 - [Build A Real World Beautiful Web APP with Angular 6 — A to Z Ultimate Guide (2018) — PART I](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
