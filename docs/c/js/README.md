@@ -14,3 +14,4 @@
 ## Hacks
 
 - [Quickjack](https://github.com/samyk/quickjack) is a point-and-click tool for intuitively producing advanced clickjacking and frame slicing attacks.
+- Idea: [JSON to HTML](https://github.com/SidVal/SidV/issues/16#issue-245083959) - El _24 de Julio del **2017**_ se me ocurrió pasar el contenido que lanzaba el foro de `Consultoria-SAP.com` a un html puro. En ese enlace dejo el análisis de lo que fue ese momento de investigación y desarrollo. =)
