@@ -21,6 +21,7 @@ Ver avance de aplicaciones en [GitHub: Topic/PWA](https://github.com/topics/pwa)
 - [Turning an Angular 6 app into a Progressive Web App](https://itnext.io/turning-an-angular-6-app-into-a-progressive-web-app-9e6fc6361ba6)
 - [PWA Workshop](https://pwa-workshop.js.org/)
 - [Progressive Web Apps Cookbook](https://pwa-cookbook.js.org/)
+- [Learn how to build a PWA in 5 minutes](https://medium.com/dev-channel/learn-how-to-build-a-pwa-in-under-5-minutes-c860ad406ed)
 
 ## Directorio
 
@@ -31,3 +32,11 @@ Nunca imaginé encontrar un [directorio de páginas que son PWA](https://pwa-dir
 - [Generate your Progressive Web App](https://www.pwabuilder.com)
 - [Web App Manifest Generator](https://app-manifest.firebaseapp.com/)
 - [PWA Tools for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=johnpapa.pwa-tools)
+
+### GitHubs
+
+- [Código fuente para una aplicación progresiva básica que puede ser modificada según sus necesidades](https://github.com/Montellanos/pwa-angular-firebase)
+
+### Otros conocimientos
+
+- [Aprender Firebase](https://firebase.google.com/docs/)
