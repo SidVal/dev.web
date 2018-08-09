@@ -15,6 +15,8 @@ A priori, AngularJS es MUY distinto de lo que hoy es "Angular" (al momento de re
 
 - [Las 5 principales ventajas de usar Angular para crear aplicaciones web](https://www.campusmvp.es/recursos/post/las-5-principales-ventajas-de-usar-angular-para-crear-aplicaciones-web.aspx)
 - [Comenzando con Angular 2](https://blog.ng-classroom.com/blog/ionic2/angular2/) - Buen artículo, consultar todo el blog, está en español, son didácticos.
+- Series
+  - Creating a Blogging App Using Angular & MongoDB: [Login](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-angular-mongodb-login--cms-30125), [Home](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-angular-mongodb-home--cms-30129), [Show Post](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-angular-mongodb-show-post--cms-30140), [Add Post](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-angular-mongodb-add-post--cms-30151), [Edit Post](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-angular-mongodb-edit-post--cms-30173), and [Delete Post](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-angular-mongodb-delete-post--cms-30187). 
 - [¿Angular, Reactjs o Vuejs?, mi opinión](https://www.uno-de-piera.com/angular-reactjs-vuejs/)
 - [An AngularJS Style Guide](https://google.github.io/styleguide/angularjs-google-style.html)
 - [You don’t know Angular —A Guide to Angular Projection](https://medium.com/coding-blocks/you-dont-know-angular-a-guide-to-angular-projection-7bef2ea66db0)
