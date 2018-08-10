@@ -24,6 +24,10 @@ A priori, AngularJS es MUY distinto de lo que hoy es "Angular" (al momento de re
 - [You don’t know Angular —A Guide to Angular Projection](https://medium.com/coding-blocks/you-dont-know-angular-a-guide-to-angular-projection-7bef2ea66db0)
 - [Build A Real World Beautiful Web APP with Angular 6 — A to Z Ultimate Guide (2018) — PART I](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
 
+## Prácticos
+
+- [Creating Reusable Animations in Angular](https://netbasal.com/creating-reusable-animations-in-angular-6a2350d6191a)
+
 ## Observaciones
 
 - Tener entre ojos [Vuejs](https://vuejs.org/), dicen que es un Framework con una curva de aprendizaje MENOR que AngularJS, de hecho, [aquí se compara VUE con AngularJS -en inglés](https://vuejs.org/v2/guide/comparison.html#AngularJS-Angular-1).
