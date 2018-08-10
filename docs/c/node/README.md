@@ -8,6 +8,7 @@
 
 ## Lecturas
 
+- [NodeJS: Best Practices en Español](https://github.com/i0natan/nodebestpractices/blob/spanish-translation/README.spanish.md#bienvenido-3-cosas-que-necesitas-saber-primero)
 - [Gulp CSS](/c/js/webs.md#gulp-css)
 - [¿Simplemente qué es Node.js?](https://www.ibm.com/developerworks/ssa/opensource/library/os-nodejs/index.html)
 - [Node en español](http://nodejs-es.github.io/api/)
