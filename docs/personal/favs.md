@@ -2,16 +2,16 @@
 
 He re-organizado algunas carpetas de la parte Bookmarks del Chrome, y me daría lástima perder unos favoritos que ya no estoy visitando para nada, así que lanzaré aquí dichos sitios web.
 
-### Arquitectura SO
+## Arquitectura SO
 
-- - [¿Cuantos Bits tiene un Byte?](https://asm86.wordpress.com/2008/12/27/%C2%BFcuantos-bits-tiene-un-byte/)
-- - [Tutorial Completo de lenguaje ensamblador](https://comunidad.dragonjar.info/discussion/3469/tutorial-completo-de-lenguaje-ensamblador)
-- - [Redes GPON, las nuevas redes de operador](http://www.telequismo.com/2013/02/gpon-operador.html)
-- - [¿FTTH o FTTB?, ésa es la cuestión](http://www.telequismo.com/2013/03/ftth-fttb.html/)
-- - [Ensamblador](http://platea.pntic.mec.es/jdelucas/ensamblador.htm)
-- - [Tutorial ASM (básico) + ejemplos ](https://foro.elhacker.net/asm/tutorial_asm_basico_ejemplos-t102701.0.html)
+- [¿Cuantos Bits tiene un Byte?](https://asm86.wordpress.com/2008/12/27/%C2%BFcuantos-bits-tiene-un-byte/)
+- [Tutorial Completo de lenguaje ensamblador](https://comunidad.dragonjar.info/discussion/3469/tutorial-completo-de-lenguaje-ensamblador)
+- [Redes GPON, las nuevas redes de operador](http://www.telequismo.com/2013/02/gpon-operador.html)
+- [¿FTTH o FTTB?, ésa es la cuestión](http://www.telequismo.com/2013/03/ftth-fttb.html/)
+- [Ensamblador](http://platea.pntic.mec.es/jdelucas/ensamblador.htm)
+- [Tutorial ASM (básico) + ejemplos](https://foro.elhacker.net/asm/tutorial_asm_basico_ejemplos-t102701.0.html)
 
-### C-SHARP
+## C-SHARP
 
 - [\- [C#\] Evitar caracteres no numéricos - Pastebin.com](http://pastebin.com/nxueCPZd)
 - [How do I make a textbox that only accepts numbers ? C#, VB.Net, Asp.Net](http://net-informations.com/q/faq/txtbox.html)
