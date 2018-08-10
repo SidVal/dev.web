@@ -5,6 +5,7 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 ## Lecturas
 
 - [How to attract traffic to your website](https://medium.com/@vaibhavm_84328/attract-traffic-to-your-website-ea72079d887)
+- [SEO Basics for Thrifty Bloggers](https://writingcooperative.com/seo-basics-for-thrifty-bloggers-869a53425fb9)
 
 ## Leer más
 
