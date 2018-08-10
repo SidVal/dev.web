@@ -13,17 +13,6 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
 - [Progressive enhancement with CSS Grid](https://medium.freecodecamp.org/progressive-enhancement-with-css-grid-8138d4c7508c)
 - [How to get better at writing CSS](https://medium.freecodecamp.org/how-to-get-better-at-writing-css-a1732c32a72f)
 
-## Webs
-
-- [Animaciones CSS](/c/css/animacion.md)
-- [CSS in JS](/c/css/css-in-js.md)
-- [Lista de Webs](/c/css/webs.md)
-- [Gulp CSS](/c/js/webs.md#gulp-css)
-
-## Tips
-
-- [CSS Simple Tips](/c/css/simple-tips.md)
-
 ### Cargar CSS
 
 Cuando cargamos hojas de estilo externas, lo mejor es ir probando el impacto en la velocidad de carga de dicha página. Podemos usar herramientas como [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/?hl=es) y monitorear la velocidad de carga y los consejos que nos brinda la página para optimizar la carga.
