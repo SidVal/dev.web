@@ -2,11 +2,15 @@
 
 >La interfaz de programación de aplicaciones, conocida también por la sigla API del inglés application programming interface, es un conjunto de subrutinas, funciones y procedimientos (o métodos, en la programación orientada a objetos) que ofrece cierta biblioteca para ser utilizado por otro software como una capa de abstracción. _--Definición tomada desde [Wikipedia: API](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones)_
 
-Básicamente es un conjunto de funciones que nos permite comunicarnos con cierta página web (la que ofrece la API) para acceder a información y gestionar dicho acceso (manipular o mostrar los datos). 
+Básicamente es un conjunto de funciones que nos permite comunicarnos con cierta página web (la que ofrece la API) para acceder a información y gestionar dicho acceso (manipular o mostrar los datos).
 
 ## API Economy
 
 > ... a term used to describe how APIs can positively affect an organization’s profitability. _--Source: [6 Interesting APIs to Check Out in 2018](https://codeburst.io/6-interesting-apis-to-check-out-in-2018-5d6830063f29)_
+
+## Lecturas
+
+- [An Intro to GraphQL (by a Beginner)](https://blog.usejournal.com/an-intro-to-graphql-by-a-beginner-82444f538d84) ☆
 
 ## Lista <!-- abcdefghijklmnñopqrstuvwxyz -->
 
@@ -28,4 +32,4 @@ Básicamente es un conjunto de funciones que nos permite comunicarnos con cierta
 
 ### NASA
 
-La astronomía es una de esas áreas raras que la mayoría de la gente puede aceptar como fascinante. Casi todo el mundo está familiarizado con la NASA, el cuerpo aeronáutico y de exploración espacial más famoso del mundo. Pero tal vez no sabías que la NASA tiene sus propias API. Estas fascinantes [API de la NASA](https://api.nasa.gov/#getting-started) hacen que los increíbles datos de la NASA, incluidas sus espectaculares imágenes, estén disponibles para los desarrolladores. 
+La astronomía es una de esas áreas raras que la mayoría de la gente puede aceptar como fascinante. Casi todo el mundo está familiarizado con la NASA, el cuerpo aeronáutico y de exploración espacial más famoso del mundo. Pero tal vez no sabías que la NASA tiene sus propias API. Estas fascinantes [API de la NASA](https://api.nasa.gov/#getting-started) hacen que los increíbles datos de la NASA, incluidas sus espectaculares imágenes, estén disponibles para los desarrolladores.
