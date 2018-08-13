@@ -48,3 +48,7 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 - [Testing Your Frontend Code : Part I (Introduction)](https://hackernoon.com/testing-your-frontend-code-part-i-introduction-7e307eac4446)
 - [Using Chrome as a Local Web Server](https://medium.com/@jmatix/using-chrome-as-a-local-web-server-af04baffd581) ☆
 - [Launch a Website with a Custom URL using Github Pages and Google Domains](https://medium.com/employbl/launch-a-website-with-a-custom-url-using-github-pages-and-google-domains-3dd8d90cc33b) ☆
+
+## Herramientas
+
+- [Framer X Preview](https://blog.prototypr.io/framer-x-preview-9d067f35cf9a)
