@@ -32,3 +32,9 @@ _Des-Aplaudir_ o quitar aplausos puede ser una misión complicada para un nuevo 
 Así que buscando info al respecto llegué a este comentario: "[Pregunta Ingenua: ¿cómo puedo desaplaudir?](https://medium.com/@fvalcruz/no-es-ingenua-la-cierto-es-que-los-aplausos-no-son-tan-intuitivos-como-la-recomendaci%C3%B3n-y-han-tra-16a12525f6d3)". Y así... aprendimos a quitar los aplausos.
 
 ![Aplausos en Medium](./assets/img/medium-clap.gif)
+
+## Kill the metabar
+
+Tanta lectura en Medium me hizo ver que la barra de navegación que usa la versión web del sitio sigue al lector, es decir, cuando vas leyendo en la página, y haces scroll hacia abajo, cuando haces hacia arriba aparece una barra de navegación al _top_ que a mi modo de ver es molesta.
+
+Por lo tanto surgió hacer un boton de favoritos que se coloca en el navegador, y al presionarlo hace que toda la barra de navegación que molesta al lector, desaparezca. Le llamé: ["Kill the metabar"](https://sidval.github.io/kill-metabar-maximized/)
