@@ -1,0 +1,5 @@
+- Otros temas
+  - [AMP](/c/amp.md)
+  - [API](/c/api.md)
+  - [PWA](/c/pwa.md)
+  - [SEO](/c/seo.md)
