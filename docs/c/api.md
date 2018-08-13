@@ -14,6 +14,10 @@ Básicamente es un conjunto de funciones que nos permite comunicarnos con cierta
 - [NASA](/c/api.md#nasa)
 - [Slack](/c/api.md#slack)
 
+### Prácticos
+
+- [Mastering the Spotify API -> part1](https://medium.com/@esmerycornielle/mastering-the-spotify-api-part1-c836b89eb68e)
+
 ### Chute
 
 [Chute](https://chute.docs.apiary.io/#) es una plataforma de marketing visual que permite a los usuarios buscar datos de tipo _media_ como fotos y videos que se alinean con sus necesidades de marketing.
