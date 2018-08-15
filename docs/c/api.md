@@ -15,6 +15,7 @@ Básicamente es un conjunto de funciones que nos permite comunicarnos con cierta
 - [An Intro to GraphQL (by a Beginner)](https://blog.usejournal.com/an-intro-to-graphql-by-a-beginner-82444f538d84) ☆
 - [A Case for GraphQL](https://medium.com/@rijulg/a-case-for-graphql-935ba205e3d) ☆
 - [REST: Good Practices for API Design](https://medium.com/hashmapinc/rest-good-practices-for-api-design-881439796dc9)
+- [REST is the new SOAP](https://medium.freecodecamp.org/rest-is-the-new-soap-97ff6c09896d)
 - [Getting started with JSON Hyper-Schema](https://blog.apisyouwonthate.com/getting-started-with-json-hyper-schema-184775b91f)
 - [API Evolution for REST/HTTP APIs](https://blog.apisyouwonthate.com/api-evolution-for-rest-http-apis-b4296519e564)
 - [Understanding RPC, REST and GraphQL](https://blog.apisyouwonthate.com/understanding-rpc-rest-and-graphql-2f959aadebe7)
