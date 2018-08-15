@@ -1,16 +1,83 @@
 # JavaScript
 
+Para muchos desarrolladores front-end, JavaScript fue su primera experiencia en lenguajes de scripting y/o interpretados. Para estos desarrolladores, el concepto y las implicaciones de las variables de tipado blando quizas son de segunda naturaleza. Como siempre, el crecimiento explosivo en demanda para aplicaciones web modernas, ha resultado en un crecimiento en el número de desarrolladores `back-end` que han tenido que meter sus manos en tecnologías del lado del cliente. Muchos de estos programadores llegan experiencia en lenguajes de tipado fuerte, tales como `C#` o `Java`, y le resultan desconocidas las libertades y las potenciales trampas envueltas en el trabajo con variables de tipado blando (se conoce como _Loose Typing_).
+
+## Guías
+
+- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) - This document serves as the complete definition of Google’s coding standards for source code in the JavaScript programming language. By [google/styleguide](https://github.com/google/styleguide)
+- [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript.
+- [JavaScript Style Guides And Beautifiers](https://addyosmani.com/blog/javascript-style-guides-and-beautifiers/)
+- [JavaScript Style Guide and Coding Conventions](https://www.w3schools.com/js/js_conventions.asp)
+- [Style Guide](https://google.github.io/styleguide/javascriptguide.xml) by Google
+- [A Beginner's Guide to Regular Expressions in JavaScript](https://code.tutsplus.com/tutorials/a-beginners-guide-to-regular-expressions-in-javascript--cms-31130)
+
 ## Lecturas
 
-- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) by [google/styleguide](https://github.com/google/styleguide)
+- [Fundamentos de JavaScript](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [Guía de JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide)
+- [Lenguaje JavaScript](https://lenguajejs.com/)
+- [Manual JavaScript](https://desarrolloweb.com/javascript/)
+- [Referencia de ECMAScript 5.1](https://www.todojs.com/ref/javascript/)
+- [15 HTML element methods you’ve potentially never heard of](https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a)
+- [JavaScript - The Right Way](http://jstherightway.org/es-es/)
+- Una buena referencia sobre las versiones, documentación, noticias y demás sobre JavaScript puede encontrarse en la [Red de Desarrolladores de Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript).
+- [Principios para escribir JavaScript consistente e idiomático](https://github.com/rwaldron/idiomatic.js/tree/master/translations/es_ES)
+- [Introducción a JavaScript Orientado a Objetos](https://developer.mozilla.org/es/docs/Web/JavaScript/Introducci%C3%B3n_a_JavaScript_orientado_a_objetos) - JavaScript tiene un fuerte enfoque de programación orientada a objetos, a pesar de algunos debates que tienen lugar debido a las diferencias de la orientación a objetos en Javascript comparado con otros lenguajes.
+- [Funciones Anónimas](http://helephant.com/2008/08/23/javascript-anonymous-functions/) - Funciones anónimas que son declaradas dinámicamente en tiempo de ejecución. Son llamadas anónimas porque no poseen un nombre de la misma manera que las funciones normales.
+- [Las funciones son objetos de primera clase en JavaScript](http://helephant.com/2008/08/19/functions-are-first-class-objects-in-javascript/) - Las funciones en JavaScript son objetos de primera clase. Esto significa que las funciones son simplemente un tipo de objeto especial, con las cuales se pueden hacer las mismas cosas que cualquier otro objeto podría hacer.
+- [Promesas de JavaScript: Introducción](https://developers.google.com/web/fundamentals/primers/promises)
+- [Service Workers: introducción](https://developers.google.com/web/fundamentals/primers/service-workers/)
+
+### En inglés
+
+- [JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+  - [JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+  - [Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators)
+- [JavaScript The Right Way](http://jstherightway.org) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
+- [Code Conventions for the JavaScript](http://crockford.com/javascript/code.html)
+- [Javascript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) - Software engineering principles, from Robert C. Martin's book [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), adapted for JavaScript.
+- [How to start with JavaScript Programming](http://jugoncalv.es/blog/javascript/how-to-start-with-javascript)
+- [Simplified JavaScript Jargon](http://jargon.js.org/)
+- [Universal JavaScript](https://cdb.reacttraining.com/universal-javascript-4761051b7ae9)
+- [Best of JS](https://bestof.js.org/)
+- [JavaScript async/await: The Good Part, Pitfalls and How to Use](https://hackernoon.com/javascript-async-await-the-good-part-pitfalls-and-how-to-use-9b759ca21cda)
+- [JavaScript Alert ⚠ Boxes and Customized Alert Banners [Tutorial]](https://love2dev.com/blog/custom-javascript-alert/)
+- [Level up your programming skills (JS)](http://exercism.io/languages/javascript/about)
 - [JavaScript has primitives, objects and functions](https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf). All of them are values. All are treated as objects, even primitives.
 - [Articles about Gulp](https://github.com/gulpjs/gulp/blob/v3.9.1/docs/README.md#articles)
+- [JavaScript 30 for 30](https://javascript30.com/) — Learn to build 30 things in 30 days with 30 tutorials. No Frameworks, No Compilers, No Libraries, No Boilerplate.
+- [Loose Typing](http://blog.jeremymartin.name/2008/03/understanding-loose-typing-in.html)
+- CodeBurst JavaScript Articles
+  - [JavaScript — The keyword ‘this’ for beginners](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85)
+  - [JavaScript — Arrow Functions for Beginners](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc)
+  - [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
+  - [JavaScript: What the heck is an Immediately-Invoked Function Expression?](https://codeburst.io/javascript-what-the-heck-is-an-immediately-invoked-function-expression-a0ed32b66c18)
+  - [JavaScript for Beginners: The new Operator](https://codeburst.io/javascript-for-beginners-the-new-operator-cee35beb669e)
+  - [Javascript: Learn Regular Expressions for Beginners](https://codeburst.io/javascript-learn-regular-expressions-for-beginners-bb6107015d91)
+  - [JavaScript Template Literals and Tag Functions for Beginners](https://codeburst.io/javascript-template-literals-tag-functions-for-beginners-758a041160e1)
+  - [JavaScript & the spread operator](https://codeburst.io/javascript-the-spread-operator-a867a71668ca)
+  - [JavaScript: What is short-circuit evaluation?](https://codeburst.io/javascript-what-is-short-circuit-evaluation-ff22b2f5608c)
+  - [JavaScript: What is the ternary operator?](https://codeburst.io/javascript-what-is-the-ternary-operator-c819af8a7f6c)
+  - [JavaScript: Why does 3 + true = 4? (and 7 other tricky equations)](https://codeburst.io/javascript-why-does-3-true-4-and-7-other-tricky-equations-9dd13cb2a92a)
+  - [JavaScript — What’s the difference between Null & Undefined?](https://codeburst.io/javascript-whats-the-difference-between-null-undefined-37793b5bfce6)
+  - [Learn and Understand Recursion in JavaScript](https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea)
+  - [Understand Closures in JavaScript](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7)
+
+
+## Cursos
+
+- [Learn FrontEnd Frameworks](https://www.udacity.com/course/front-end-frameworks--ud894) — Free 8 Week course focused on JavaScript Frameworks. Learn to build SPA’s (Single Page Applications) in both Angular and Ember from scratch.
 
 ## Artículos JS
 
 - [Apps, frameworks, etc](/c/js/webs.md)
 - [Librerías para animación con JS](/c/js/animacion.md)
 - [¿Cuál es la diferencia entre jQuery, AJAX y AngularJS?](/c/js/jquery-ajax-angularjs.md)
+
+## Prácticos
+
+- [Create JavaScript-Powered Data Charts With Billboard.js](https://www.hongkiat.com/blog/create-javascript-powered-data-charts-billboardjs/)
 
 ## Hacks
 
