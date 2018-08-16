@@ -11,6 +11,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [JavaScript Style Guide and Coding Conventions](https://www.w3schools.com/js/js_conventions.asp)
 - [Style Guide](https://google.github.io/styleguide/javascriptguide.xml) by Google
 - [A Beginner's Guide to Regular Expressions in JavaScript](https://code.tutsplus.com/tutorials/a-beginners-guide-to-regular-expressions-in-javascript--cms-31130)
+- [A Practical Guide to Regular Expressions (RegEx) In JavaScript](https://blog.bitsrc.io/a-beginners-guide-to-regular-expressions-regex-in-javascript-9c58feb27eb4)
 
 ## Lecturas
 
