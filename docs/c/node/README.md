@@ -23,6 +23,7 @@
 - [Keeping Node.js Fast: Tools, Techniques, And Tips For Making High-Performance Node.js Servers](https://medium.com/@smashingmag/keeping-node-js-fast-tools-techniques-and-tips-for-making-high-performance-node-js-servers-8cfcb55e3d7) ☆
 - [Getting Started With Node.js : A Begginers Guide](https://medium.com/@jigneshkumar1494/getting-started-with-node-js-a-begginers-guide-af37b802d595)
 - [Using Passport, Bcrypt, Express, & Handlebars in a Nodejs Full-Stack App for User Authentication](https://medium.com/b0bbybaldi/using-passport-bcrypt-for-full-stack-app-user-authentication-fe30a013604e) ☆
+- [The Top 10 Most Common Mistakes That Node.js Developers Make](https://www.toptal.com/nodejs/top-10-common-nodejs-developer-mistakes)
 - [Mastering Node](http://visionmedia.github.io/masteringnode/book.html) - _Incomplete_
 
 ## Prácticos
