@@ -11,4 +11,5 @@ Me animaría a decir que es el ["Todologo"](https://www.consultoria-sap.com/2017
 
 ## Guías
 
+- [Init.js: A Guide to the Why and How of Full-Stack JavaScript](https://www.toptal.com/javascript/guide-to-full-stack-javascript-initjs) - [_versión en español_](https://www.toptal.com/javascript/init-js-una-gu-a-de-los-por-qu-y-c-mos-en-el-conjunto-de-tecnolog-as-de-javascript/es)
 - [Serverless Stack](http://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications. Create a note taking app from scratch using React.js, AWS Lambda, API Gateway, DynamoDB, and Cognito.
