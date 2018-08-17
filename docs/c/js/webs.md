@@ -27,7 +27,11 @@ Listado completo:
 
 [Gulp](https://gulpjs.com) es una herramienta, en forma de script en `NodeJS`, que te ayuda a automatizar tareas comunes en el desarrollo de una aplicación, como pueden ser: mover archivos de una carpeta a otra, eliminarlos, minificar código, sincronizar el navegador cuando modificas tu código, validar sintaxis y un largo etcétera. (_[Fuente](https://www.returngis.net/2016/07/que-es-gulp-y-para-que-sirve/)_)
 
-También se menciona Gulp en este doc de VS Code para [automatizar la compilación de MD](https://code.visualstudio.com/docs/languages/markdown#_step-1-install-gulp-and-some-plugins) en HTML.
+### Lecturas Gulp
+
+- [Automatizar la compilación de MD en Visual Code](https://code.visualstudio.com/docs/languages/markdown#_step-1-install-gulp-and-some-plugins)
+- [An Introduction to JavaScript Automation with Gulp](https://www.toptal.com/nodejs/an-introduction-to-automation-with-gulp)
+- [Gulp: A Web Developer's Secret Weapon for Maximizing Site Speed](https://www.toptal.com/javascript/optimize-js-and-css-with-gulp)
 
 ### Gulp CSS
 
