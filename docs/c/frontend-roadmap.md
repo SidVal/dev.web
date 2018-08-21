@@ -80,6 +80,10 @@ Consejos que se desprenden de éste artículo:
   - TC39
   - ... _etcetera!_
 
+## Lecturas
+
+- [Testing Your Frontend Code : Part I (Introduction)](https://hackernoon.com/testing-your-frontend-code-part-i-introduction-7e307eac4446)
+
 ## Backend Roadmap
 
 Imperdible la infografía del "[Backend Roadmap](/c/backend-roadmap.md)".
