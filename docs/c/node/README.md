@@ -32,3 +32,4 @@
 - [Creación de proyecto base en Angular 6 y despliegue en Google Cloud App Engine](https://medium.com/proyecto-arquetipo/creaci%C3%B3n-de-proyecto-base-en-angular-6-y-despliegue-en-google-cloud-app-engine-adb6d398774f)
 - [Create awesome cli tools with Node.js](https://medium.com/@tulsisapkota/create-awesome-cli-tools-with-node-js-bf94f9728310)
 - [Hello world in Node.js with Express Framework](https://medium.com/@jigneshkumar1494/hello-world-in-node-js-with-express-framework-83c51100502c)
+- [Build a simple chat app with node.js and socket.io](https://medium.com/@noufel.gouirhate/build-a-simple-chat-app-with-node-js-and-socket-io-ea716c093088) ☆
