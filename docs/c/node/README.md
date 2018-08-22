@@ -24,7 +24,7 @@
 - [Getting Started With Node.js : A Begginers Guide](https://medium.com/@jigneshkumar1494/getting-started-with-node-js-a-begginers-guide-af37b802d595)
 - [Using Passport, Bcrypt, Express, & Handlebars in a Nodejs Full-Stack App for User Authentication](https://medium.com/b0bbybaldi/using-passport-bcrypt-for-full-stack-app-user-authentication-fe30a013604e) ☆
 - [The Top 10 Most Common Mistakes That Node.js Developers Make](https://www.toptal.com/nodejs/top-10-common-nodejs-developer-mistakes)
-- [Mastering Node](http://visionmedia.github.io/masteringnode/book.html) - _Incomplete_
+- Lista de tutoriales, están clasificados, muy buen sitio (en inglés). - [Node Tutorial](https://grokonez.com/nodejs-tutorial)
 
 ## Prácticos
 
