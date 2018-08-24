@@ -19,6 +19,7 @@
   - [Node: Debugging Guide](https://nodejs.org/en/docs/guides/debugging-getting-started/)
 - [How I built a job scraping web app using Node.js](https://medium.freecodecamp.org/how-i-built-a-job-scraping-web-app-using-node-js-and-indreed-7fbba124bbdc)
 - [What exactly is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
+- [You don’t know Node](https://edgecoders.com/you-dont-know-node-6515a658a1ed) ☆
 - [Supercharge your debugging experience for Node.js](https://medium.com/@wesharehoodies/supercharge-your-debugging-experience-for-node-js-3f0ddfaffbb2) ☆
 - [Keeping Node.js Fast: Tools, Techniques, And Tips For Making High-Performance Node.js Servers](https://medium.com/@smashingmag/keeping-node-js-fast-tools-techniques-and-tips-for-making-high-performance-node-js-servers-8cfcb55e3d7) ☆
 - [Getting Started With Node.js : A Begginers Guide](https://medium.com/@jigneshkumar1494/getting-started-with-node-js-a-begginers-guide-af37b802d595)
