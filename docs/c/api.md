@@ -20,6 +20,7 @@ Básicamente es un conjunto de funciones que nos permite comunicarnos con cierta
 - [API Evolution for REST/HTTP APIs](https://blog.apisyouwonthate.com/api-evolution-for-rest-http-apis-b4296519e564)
 - [Understanding RPC, REST and GraphQL](https://blog.apisyouwonthate.com/understanding-rpc-rest-and-graphql-2f959aadebe7)
 - [APIs con Node, TypeScript, Koa y TypeORM](http://blog.koalite.com/2018/07/apis-con-node-typescript-koa-y-typeorm/?utm_source=rss&utm_medium=rss&utm_campaign=apis-con-node-typescript-koa-y-typeorm)
+- [A Proposal for RESTful API’s with Mongoose and Express](https://medium.com/@therealchrisrutherford/a-proposal-for-restful-apis-497924397192)
 
 
 ## Lista <!-- abcdefghijklmnñopqrstuvwxyz -->
