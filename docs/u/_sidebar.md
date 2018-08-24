@@ -8,5 +8,7 @@
   * [Unidad 5](/u/unidad5.md)
   * [Unidad 6](/u/unidad6.md)
   * [Unidad 7](/u/unidad7.md)
+  * [Unidad 8](/u/unidad8.md)
+  * [Unidad 9](/u/unidad9.md)
 * [Contenido](/c/)
 * [☆](/medium.md#estrella)
