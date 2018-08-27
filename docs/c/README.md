@@ -43,6 +43,8 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 - [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d) - An illustrated guide to becoming a Frontend or Backend Developer with links to courses
 - [Why is there so much to learn in web development?](https://medium.com/@mattburgess/why-is-there-so-much-to-learn-in-web-development-41adbc54731c)
 - [Using Chrome as a Local Web Server](https://medium.com/@jmatix/using-chrome-as-a-local-web-server-af04baffd581) ☆
+- [An OAuth 2.0 introduction for beginners](https://itnext.io/an-oauth-2-0-introduction-for-beginners-6e386b19f7a9)
+- [Warning: Your programming career](https://medium.com/sololearn/warning-your-programming-career-b9579b3a878b)
 
 ## Prácticos
 
