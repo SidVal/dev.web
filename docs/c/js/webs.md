@@ -22,6 +22,7 @@ Listado completo:
 - [ChartJS](/c/js/webs#chartjs)
 - [Polished](/c/js/webs#polished)
 - [Mout](/c/js/webs#mout)
+- [Vue.js](/c/js/webs#vue)
 
 ## Gulp.js
 
@@ -112,3 +113,11 @@ Una sencilla librería Javascript para la creación de páginas web con desplaza
 ## Mout
 
 [Mout.js](https://github.com/mout/mout) es una colección de utilidades modulares de JavaScript que se pueden utilizar en el navegador como módulos AMD o en node.js, proporcionando métodos auxiliares similares a los que se encuentran en otras bibliotecas estándar de idiomas (Python, Ruby, PHP, etc).
+
+## Vue
+
+[Vue.JS](https://github.com/vuejs/vue) (pronunciado /vjuː/ en inglés, como view) es un framework progresivo para construir interfaces de usuario. A diferencia de otros frameworks monolíticos, Vue está diseñado desde el inicio para ser adoptado incrementalmente. La biblioteca principal se enfoca solo en la capa de la vista, y es muy simple de utilizar e integrar con otros proyectos o bibliotecas existentes. Por otro lado, Vue también es perfectamente capaz de soportar aplicaciones sofisticadas de una sola página (en inglés single-page-application o SPA) cuando se utiliza en combinación con herramientas modernas y librerías compatibles. [Más información en su sitio oficial en español](https://es-vuejs.github.io/vuejs.org/v2/guide/)
+
+### Lecturas Vue
+
+- [Quickly develop static websites with VueJS, a headless CMS and GraphQL](https://medium.com/@marcmintel/quickly-develop-static-websites-with-vuejs-a-headless-cms-and-graphql-bf64e75910d6)
