@@ -22,6 +22,7 @@ Ver avance de aplicaciones en [GitHub: Topic/PWA](https://github.com/topics/pwa)
 - [PWA Workshop](https://pwa-workshop.js.org/)
 - [Progressive Web Apps Cookbook](https://pwa-cookbook.js.org/)
 - [Learn how to build a PWA in 5 minutes](https://medium.com/dev-channel/learn-how-to-build-a-pwa-in-under-5-minutes-c860ad406ed)
+- [Building a Search-Engine Optimized PWA with Angular — Part 1](https://blog.bitsrc.io/building-a-search-engine-optimized-pwa-with-angular-part-1-237ec0dc888e)
 
 ## Directorio
 
