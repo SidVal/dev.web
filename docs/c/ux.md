@@ -8,6 +8,7 @@
   A curated list of (obviously) cool resources and tools for developers, UX researchers, designers and project managers.
 - [Scrolling interactions and techniques](https://uxdesign.cc/scrolling-interactions-techniques-d6dafbfa4716)
 - [How to Write Good Error Messages](https://uxplanet.org/how-to-write-good-error-messages-858e4551cd4)
+- [What Makes Customers Leave Your Website](https://medium.com/web-development-zone/what-makes-someone-leave-a-website-48bd06ae3c5e)
 
 ## Herramientas
 
