@@ -9,6 +9,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript.
 - [JavaScript Style Guides And Beautifiers](https://addyosmani.com/blog/javascript-style-guides-and-beautifiers/)
 - [JavaScript Style Guide and Coding Conventions](https://www.w3schools.com/js/js_conventions.asp)
+- [standard](https://github.com/standard/standard): JavaScript Style Guide, with linter & automatic code fixer 
 - [Style Guide](https://google.github.io/styleguide/javascriptguide.xml) by Google
 - [A Beginner's Guide to Regular Expressions in JavaScript](https://code.tutsplus.com/tutorials/a-beginners-guide-to-regular-expressions-in-javascript--cms-31130)
 - [A Practical Guide to Regular Expressions (RegEx) In JavaScript](https://blog.bitsrc.io/a-beginners-guide-to-regular-expressions-regex-in-javascript-9c58feb27eb4)
