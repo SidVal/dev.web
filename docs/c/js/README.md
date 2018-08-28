@@ -13,6 +13,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Style Guide](https://google.github.io/styleguide/javascriptguide.xml) by Google
 - [A Beginner's Guide to Regular Expressions in JavaScript](https://code.tutsplus.com/tutorials/a-beginners-guide-to-regular-expressions-in-javascript--cms-31130)
 - [A Practical Guide to Regular Expressions (RegEx) In JavaScript](https://blog.bitsrc.io/a-beginners-guide-to-regular-expressions-regex-in-javascript-9c58feb27eb4)
+- [How to Write Accessible JavaScript](https://medium.com/dailyjs/4-javascript-techniques-for-building-accessible-web-interfaces-348f820c157f)
 
 ## Lecturas
 
