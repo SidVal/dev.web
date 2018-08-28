@@ -30,6 +30,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Las funciones son objetos de primera clase en JavaScript](http://helephant.com/2008/08/19/functions-are-first-class-objects-in-javascript/) - Las funciones en JavaScript son objetos de primera clase. Esto significa que las funciones son simplemente un tipo de objeto especial, con las cuales se pueden hacer las mismas cosas que cualquier otro objeto podría hacer.
 - [Promesas de JavaScript: Introducción](https://developers.google.com/web/fundamentals/primers/promises)
 - [Service Workers: introducción](https://developers.google.com/web/fundamentals/primers/service-workers/)
+- [Learning Javascript and Meteor from scratch; Putting an Instagram Clone in the App Stores](https://medium.com/@jracollins/my-first-app-carspot-an-instagram-clone-for-cars-was-approved-for-the-itunes-store-on-the-18-8-f4668f8b17de)
 
 ### En inglés
 
