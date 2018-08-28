@@ -12,6 +12,7 @@ Básicamente es un conjunto de funciones que nos permite comunicarnos con cierta
 
 - [Picking the right API Paradigm](https://blog.apisyouwonthate.com/picking-the-right-api-paradigm-d476f1a622e8)
 - [Understanding RPC, REST and GraphQL](https://blog.apisyouwonthate.com/understanding-rpc-rest-and-graphql-2f959aadebe7)
+- [What is difference between REST and API?](https://stackoverflow.com/a/41189936/4822186)
 - [An Intro to GraphQL (by a Beginner)](https://blog.usejournal.com/an-intro-to-graphql-by-a-beginner-82444f538d84) ☆
 - [A Case for GraphQL](https://medium.com/@rijulg/a-case-for-graphql-935ba205e3d) ☆
 - [REST: Good Practices for API Design](https://medium.com/hashmapinc/rest-good-practices-for-api-design-881439796dc9)
@@ -26,6 +27,7 @@ Básicamente es un conjunto de funciones que nos permite comunicarnos con cierta
 ## Lista <!-- abcdefghijklmnñopqrstuvwxyz -->
 
 - [Chute](/c/api.md#chute)
+- [Elasticsearch](/c/api.md#elasticsearch)
 - [NASA](/c/api.md#nasa)
 - [Slack](/c/api.md#slack)
 
@@ -38,6 +40,10 @@ Básicamente es un conjunto de funciones que nos permite comunicarnos con cierta
 ### Chute
 
 [Chute](https://chute.docs.apiary.io/#) es una plataforma de marketing visual que permite a los usuarios buscar datos de tipo _media_ como fotos y videos que se alinean con sus necesidades de marketing.
+
+### Elasticsearch
+
+[elasticsearch](https://www.elastic.co/products/elasticsearch) es un motor de búsqueda y análisis distribuido, RESTful, capaz de resolver un número creciente de casos de uso. Como corazón de _Elastic Stack_, almacena centralmente sus datos para que pueda descubrir lo esperado y descubrir lo inesperado.
 
 ### Slack
 
