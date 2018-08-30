@@ -53,7 +53,9 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Articles about Gulp](https://github.com/gulpjs/gulp/blob/v3.9.1/docs/README.md#articles)
 - [JavaScript 30 for 30](https://javascript30.com/) — Learn to build 30 things in 30 days with 30 tutorials. No Frameworks, No Compilers, No Libraries, No Boilerplate.
 - [Loose Typing](http://blog.jeremymartin.name/2008/03/understanding-loose-typing-in.html)
-- CodeBurst JavaScript Articles
+- [Modern JavaScript features which you should be using every day for better development and what problems do they solve](https://medium.com/@tkwebdev/modern-javascript-features-which-you-should-be-using-every-day-for-better-development-and-what-66d74633e896) ☆
+
+### CodeBurst JavaScript Articles
   - [JavaScript — The keyword ‘this’ for beginners](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85)
   - [JavaScript — Arrow Functions for Beginners](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc)
   - [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
@@ -75,6 +77,8 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Learn FrontEnd Frameworks](https://www.udacity.com/course/front-end-frameworks--ud894) — Free 8 Week course focused on JavaScript Frameworks. Learn to build SPA’s (Single Page Applications) in both Angular and Ember from scratch.
 
 ## Artículos JS
+
+Artículos y páginas propias sobre JS:
 
 - [Apps, frameworks, etc](/c/js/webs.md)
 - [Librerías para animación con JS](/c/js/animacion.md)
