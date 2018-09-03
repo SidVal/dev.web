@@ -10,6 +10,7 @@ Básicamente es un conjunto de funciones que nos permite comunicarnos con cierta
 
 ## Lecturas
 
+- [What is an API? In English, please](https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82)
 - [Picking the right API Paradigm](https://blog.apisyouwonthate.com/picking-the-right-api-paradigm-d476f1a622e8)
 - [Understanding RPC, REST and GraphQL](https://blog.apisyouwonthate.com/understanding-rpc-rest-and-graphql-2f959aadebe7)
 - [What is difference between REST and API?](https://stackoverflow.com/a/41189936/4822186)
