@@ -13,3 +13,4 @@
 ## Videos
 
 - Hay videos en español que habría que evaluar: [1](http://www.faztweb.com/tutorial/nodejs-mongodb-crud), [2](http://www.faztweb.com/tutorial/crud-mean-angular-5), ...
+- Seguir [este video](http://www.faztweb.com/curso/mean-stack) porque usa Angular
