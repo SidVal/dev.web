@@ -18,6 +18,7 @@ Otras páginas oficiales:
 
 - [Gulp CSS](/c/js/webs.md#gulp-css), en mi afán de minimizar al máximo las cargas de varios proyectos web, me topé con herramientas de _node_ que permiten limpiar css para su optimización. Está bueno investigar cómo usan _gulp_ para este fin, y aprender más al respecto. Si leemos el proyecto de ["Generate Clean CSS"](https://github.com/uncompiled/amp-bootstrap-example#step-4-generate-clean-css) nos daremos cuenta cómo usa Gulp para automatizar el proceso hacia una HTML que sea AMP válida.
 - [Why AMP is fast](https://medium.com/@cramforce/why-amp-is-fast-7d2ff1f48597)
+- [PWA vs AMP : Choosing the best for me?](https://codeburst.io/pwa-vs-amp-choosing-the-best-for-me-91c8c48ff152)
 
 ## Críticas
 
