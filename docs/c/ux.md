@@ -8,6 +8,7 @@
 - [How to Write Good Error Messages](https://uxplanet.org/how-to-write-good-error-messages-858e4551cd4)
 - [What Makes Customers Leave Your Website](https://medium.com/web-development-zone/what-makes-someone-leave-a-website-48bd06ae3c5e)
 - [Bidirectional Scrolling is here to save Responsive Design](https://uxplanet.org/bidirectional-scrolling-is-here-to-save-responsive-design-be1afe53206d)
+- [User experience mapping for dummies](https://uxdesign.cc/user-experience-mapping-alice-emma-walker-868259547ba8)
 - Form Design: 
   - [Checkbox vs Toggle Switch](https://uxplanet.org/checkbox-vs-toggle-switch-7fc6e83f10b8)
   - [Form fields — Required vs Optional](https://uxdesign.cc/form-field-required-vs-optional-9b4d7cdbf400) ☆
