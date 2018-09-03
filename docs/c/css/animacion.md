@@ -2,6 +2,12 @@
 
 ?> Tener en cuenta que hay listas de animación disponibles para [JavaScript](/c/js/animacion.md) y [jQuey](/c/jquery/animacion.md).
 
+## Prácticos
+
+- [How I built a mood changing animation using CSS masks](https://medium.freecodecamp.org/how-i-built-a-mood-changing-animation-using-css-masks-565b16ed051f)
+
+## Librerías
+
 Lista de estilos para animaciones:
 
 - [Animate.css](/c/css/animacion#animate)
@@ -23,7 +29,7 @@ abcdefghijklmnñopqrstuvwxyz
 
 ## Hover
 
-[Hover](https://github.com/IanLunn/Hover) es una na colección de efectos de desplazamiento de CSS3 que se aplicarán a enlaces, botones, logotipos, SVG, imágenes destacadas, etc. Aplica fácilmente a tus propios elementos, modifica o simplemente usa como inspiración. Disponible en CSS, Sass y LESS.
+[Hover](https://github.com/IanLunn/Hover) es una colección de efectos de desplazamiento de CSS3 que se aplicarán a enlaces, botones, logotipos, SVG, imágenes destacadas, etc. Aplica fácilmente a tus propios elementos, modifica o simplemente usa como inspiración. Disponible en CSS, Sass y LESS.
 
 ## Loaders
 
