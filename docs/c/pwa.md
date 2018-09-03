@@ -9,6 +9,7 @@ Ver avance de aplicaciones en [GitHub: Topic/PWA](https://github.com/topics/pwa)
 - [SEO para Progressive Web APPs (PWA) y JavaScript](https://www.analistaseo.es/posicionamiento-buscadores/seo-progressive-web-apps-pwa/)
 - [How you can make a progressive web app in an hour](https://medium.freecodecamp.org/how-you-can-make-a-progressive-web-app-in-an-hour-7e36d560610e) ☆
 - [Smashing Magazine: A Beginner’s Guide To Progressive Web Apps](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/)
+- [What is a PWA and why should you care?](https://blog.bitsrc.io/what-is-a-pwa-and-why-should-you-care-388afb6c0bad)
 - [PWA from scratch guide (yet another one)](https://itnext.io/pwa-from-scratch-guide-yet-another-one-bdfa438b50aa)
 - Microsoft: [Get started with Progressive Web Apps](https://docs.microsoft.com/en-us/microsoft-edge/progressive-web-apps/get-started)
 - [PWA on Windows. Part 1: Publishing Your App As Is](https://blog.ailon.org/pwa-on-windows-part-1-publishing-your-app-as-is-d884133fc96d)
