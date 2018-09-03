@@ -6,6 +6,7 @@ Listado:
 
 - [Collecciones](/c/css/webs.md#colecciones)
   - [Botones](/c/css/webs.md#colecciones-botones)
+- [FlowType](/c/css/webs.md#flowtype)
 - [Frameworks](/c/css/webs.md#frameworks)
   - Bootstrap
   - Bulma
@@ -79,6 +80,12 @@ Las colecciones son páginas que ofrecen ejemplos de cómo lograr los efectos co
 - [Button Switch](http://codepen.io/geedmo/pen/kBHsI/)
 - [Animated CSS3 Buttons](http://codepen.io/sazzad/pen/yNNNJG)
 - [Colorful CSS Buttons](http://codepen.io/chrisdothtml/pen/waKBdM/)
+
+## FlowType
+
+[FlowType](http://simplefocus.com/flowtype/) básicamente es un experimento de simplefocus, y es sorprendente!
+
+- [Introducing Responsive Web Typography With FlowType.JS](https://www.smashingmagazine.com/2013/09/introducing-flowtype-js/)
 
 ## Frameworks
 
