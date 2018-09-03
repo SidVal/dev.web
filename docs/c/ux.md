@@ -10,6 +10,7 @@
 - [How to Write Good Error Messages](https://uxplanet.org/how-to-write-good-error-messages-858e4551cd4)
 - [What Makes Customers Leave Your Website](https://medium.com/web-development-zone/what-makes-someone-leave-a-website-48bd06ae3c5e)
 - [Bidirectional Scrolling is here to save Responsive Design](https://uxplanet.org/bidirectional-scrolling-is-here-to-save-responsive-design-be1afe53206d)
+- [Form fields — Required vs Optional](https://uxdesign.cc/form-field-required-vs-optional-9b4d7cdbf400) ☆
 
 ## Herramientas
 
