@@ -10,13 +10,9 @@ Como les voy a comentar en las infografías a continuación, encontré en GitHub
 - [Backend](/c/backend-roadmap.md)
 - [Devops](/c/devops-roadmap.md)
 
-## Chrome Dev Tools
+## Conceptos
 
-Es muy importante dominar las herramientas de desarrollo que tiene el navegador Chrome. Hay un importante repositorio de guías y documentación en español aquí: [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/?hl=es)
-
->Hacer éste ejercicio ayuda a entender cómo debuguear los archivos javascript. La explicación está en español, y es muy simple de seguir.
->
->[Comenzar a depurar JavaScript en Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/?hl=es)
+- Librerías o Frameworks >> No es lo mismo. [Leer](https://stackoverflow.com/questions/148747/what-is-the-difference-between-a-framework-and-a-library)
 
 ## Recomendado
 
@@ -55,3 +51,12 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 ## Herramientas
 
 - [Framer X Preview](https://blog.prototypr.io/framer-x-preview-9d067f35cf9a)
+
+## Chrome Dev Tools
+
+Es muy importante dominar las herramientas de desarrollo que tiene el navegador Chrome. Hay un importante repositorio de guías y documentación en español aquí: [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/?hl=es)
+
+>Hacer éste ejercicio ayuda a entender cómo debuguear los archivos javascript. La explicación está en español, y es muy simple de seguir.
+>
+>[Comenzar a depurar JavaScript en Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/?hl=es)
+
