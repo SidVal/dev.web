@@ -36,6 +36,7 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 
 - [Follow these simple rules and you’ll become a Git and GitHub master](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
 - [Bases de datos relacionales vs. no relacionales: ¿qué es mejor?](https://aukera.es/blog/bases-de-datos-relacionales-vs-no-relacionales/)
+- [The Wide World of Databases](https://blog.usejournal.com/a-light-introduction-to-databases-1154183ab852)
 - [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d) - An illustrated guide to becoming a Frontend or Backend Developer with links to courses
 - [Why is there so much to learn in web development?](https://medium.com/@mattburgess/why-is-there-so-much-to-learn-in-web-development-41adbc54731c)
 - [Using Chrome as a Local Web Server](https://medium.com/@jmatix/using-chrome-as-a-local-web-server-af04baffd581) ☆
