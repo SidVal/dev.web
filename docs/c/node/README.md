@@ -17,6 +17,7 @@
 - [Servidor HTTP / Node.Js](https://medium.com/@germancutraro/servidor-http-node-js-4725004bf386)
 - [Node](https://nodejs.org/en/)
   - [Node: Debugging Guide](https://nodejs.org/en/docs/guides/debugging-getting-started/)
+- [The definitive Node.js handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e) - **Recomendado**
 - [Node JS : Getting Started](https://codeburst.io/node-js-getting-started-4c671313a1ae)
 - [How I built a job scraping web app using Node.js](https://medium.freecodecamp.org/how-i-built-a-job-scraping-web-app-using-node-js-and-indreed-7fbba124bbdc)
 - [What exactly is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
@@ -27,6 +28,7 @@
 - [Using Passport, Bcrypt, Express, & Handlebars in a Nodejs Full-Stack App for User Authentication](https://medium.com/b0bbybaldi/using-passport-bcrypt-for-full-stack-app-user-authentication-fe30a013604e) ☆
 - [The Top 10 Most Common Mistakes That Node.js Developers Make](https://www.toptal.com/nodejs/top-10-common-nodejs-developer-mistakes)
 - [The Dangers of Malicious Modules](https://medium.com/intrinsic/common-node-js-attack-vectors-the-dangers-of-malicious-modules-863ae949e7e8)
+- [The Best of "npm install -g"](https://hackernoon.com/the-best-of-npm-install-g-9ab9d749eeb1)
 - Lista de tutoriales, están clasificados, muy buen sitio (en inglés). - [Node Tutorial](https://grokonez.com/nodejs-tutorial)
 
 ## Prácticos
