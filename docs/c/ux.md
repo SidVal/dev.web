@@ -10,6 +10,9 @@
 - [Bidirectional Scrolling is here to save Responsive Design](https://uxplanet.org/bidirectional-scrolling-is-here-to-save-responsive-design-be1afe53206d)
 - [User experience mapping for dummies](https://uxdesign.cc/user-experience-mapping-alice-emma-walker-868259547ba8)
 - [The art of designing accessible websites](https://uxdesign.cc/design-accessible-websites-6ebffcf583e2)
+- [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
+- [Material Design Guide](https://material.io/design/)
+- [Data Visualization — Best Practices and Foundations](https://uxplanet.org/data-visualization-best-practices-and-foundations-48f4a08d354e)
 - Form Design: 
   - [Checkbox vs Toggle Switch](https://uxplanet.org/checkbox-vs-toggle-switch-7fc6e83f10b8)
   - [Form fields — Required vs Optional](https://uxdesign.cc/form-field-required-vs-optional-9b4d7cdbf400) ☆
