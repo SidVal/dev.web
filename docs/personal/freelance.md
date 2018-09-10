@@ -19,3 +19,4 @@
   - Lesson №3: If you are going to take risks, first protect the downside
 - [How to price your services as a freelance writer](https://medium.com/swlh/how-to-price-your-services-as-a-freelance-writer-8984d76b3158) ☆  
   ![Hourly Rate](../assets/img/hourly-rate.png)
+- [I have an App Idea… but I’m not a Programmer](https://hackernoon.com/i-have-an-app-idea-but-im-not-a-programmer-77327fe448c3)
