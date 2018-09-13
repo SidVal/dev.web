@@ -44,3 +44,8 @@ Lista Completa
 
 - [D3 is not a Data Visualization Library](https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualization-library-67ba549e8520)
 
+***
+
+## Lecturas
+
+- [11 Javascript Data Visualization Libraries for 2018](https://blog.bitsrc.io/11-javascript-charts-and-data-visualization-libraries-for-2018-f01a283a5727)
