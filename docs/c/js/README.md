@@ -87,6 +87,7 @@ Artículos y páginas propias sobre JS:
 ## Prácticos
 
 - [Create JavaScript-Powered Data Charts With Billboard.js](https://www.hongkiat.com/blog/create-javascript-powered-data-charts-billboardjs/)
+- [Let’s create an Instagram bot to show you the power of Selenium!](https://medium.com/@mottet.dev/lets-create-an-instagram-bot-to-show-you-the-power-of-selenium-349d7a6744f7) ☆
 
 ## Hacks
 
