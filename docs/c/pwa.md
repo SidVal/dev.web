@@ -36,10 +36,12 @@ Nunca imaginé encontrar un [directorio de páginas que son PWA](https://pwa-dir
 - [Generate your Progressive Web App](https://www.pwabuilder.com)
 - [Web App Manifest Generator](https://app-manifest.firebaseapp.com/)
 - [PWA Tools for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=johnpapa.pwa-tools)
+- [Stencil PWA Toolkit](https://stenciljs.com/pwa)
 
 ### GitHubs
 
 - [Código fuente para una aplicación progresiva básica que puede ser modificada según sus necesidades](https://github.com/Montellanos/pwa-angular-firebase)
+- [stenciljs](https://github.com/ionic-team/stencil): A Web Component compiler for building fast, reusable UI components and Progressive Web Apps 💎 Built by the Ionic Framework team https://stenciljs.com/
 
 ### Otros conocimientos
 
