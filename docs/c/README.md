@@ -32,6 +32,10 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 - [Generador de logos en linea](https://www.shopify.es/herramientas/generador-logos)
 - [HTML5: elementos que pueden ser omitidos](https://html.spec.whatwg.org/multipage/syntax.html#syntax-tag-omission)
 
+## Videos
+
+- [MongoDB Full Course w/ Node.js, Express, & Mongoose](/c/mongodb-full-course-nodejs-express-mongoose.md)
+
 ## Otras lecturas
 
 - [Follow these simple rules and you’ll become a Git and GitHub master](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
