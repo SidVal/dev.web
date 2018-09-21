@@ -2,6 +2,12 @@
 
 !>Simple Tips es una recopilación de tips, y artículos sobre diseño. Cosas que hay que tener en cuenta cuando uno se sienta a tocar el diseño de un sitio web.
 
+Índice de artículos que componen esta recopilación:
+
+- 
+-
+- [50 Things You -Probably- Forgot To Design]
+
 ***
 
 ## Use color and weight to create hierarchy instead of size 
@@ -143,3 +149,7 @@ Reglas Generales:
 ?> [Ver repo del autor de éste artículo](https://github.com/Nickersoft/design#a-style-guide-for-modernist-design)
 
 ***
+
+## 50 Things You -_Probably_- Forgot To Design
+
+Realmente imperdible artículo, pensaba resumirlo, pero justo ahora no tengo tiempo. [50 Things You -_Probably_- Forgot To Design](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914)
