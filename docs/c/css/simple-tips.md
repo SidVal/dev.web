@@ -4,11 +4,13 @@
 
 Índice de artículos que componen esta recopilación:
 
-- 
--
-- [50 Things You -Probably- Forgot To Design]
+- [7 Practical Tips for Cheating at Design](/c/css/simple-tips.md#use-color-and-weight-to-create-hierarchy-instead-of-size)
+- [Designing as a developer in 2018](/c/css/simple-tips.md#first-impressions-are-everything)
+- [50 Things You -Probably- Forgot To Design](/c/css/simple-tips.md#50-things-you--probably--forgot-to-design)
 
 ***
+
+?> Tips del artículo: [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 
 ## Use color and weight to create hierarchy instead of size 
 
@@ -65,7 +67,6 @@ En lugar de utilizar grandes difuminados y valores de dispersión para hacer que
 
 ![](https://cdn-images-1.medium.com/max/1000/1*SIfuJd-3ZFYyA_W1Nme1Yw.png)
 
-?> Hasta aquí, para ampliar más tips leer: [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 
 ***
 
