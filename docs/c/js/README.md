@@ -9,7 +9,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript.
 - [JavaScript Style Guides And Beautifiers](https://addyosmani.com/blog/javascript-style-guides-and-beautifiers/)
 - [JavaScript Style Guide and Coding Conventions](https://www.w3schools.com/js/js_conventions.asp)
-- [standard](https://github.com/standard/standard): JavaScript Style Guide, with linter & automatic code fixer 
+- [standard](https://github.com/standard/standard): JavaScript Style Guide, with linter & automatic code fixer
 - [Style Guide](https://google.github.io/styleguide/javascriptguide.xml) by Google
 - [A Beginner's Guide to Regular Expressions in JavaScript](https://code.tutsplus.com/tutorials/a-beginners-guide-to-regular-expressions-in-javascript--cms-31130)
 - [A Practical Guide to Regular Expressions (RegEx) In JavaScript](https://blog.bitsrc.io/a-beginners-guide-to-regular-expressions-regex-in-javascript-9c58feb27eb4)
@@ -55,23 +55,26 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Loose Typing](http://blog.jeremymartin.name/2008/03/understanding-loose-typing-in.html)
 - [Modern JavaScript features which you should be using every day for better development and what problems do they solve](https://medium.com/@tkwebdev/modern-javascript-features-which-you-should-be-using-every-day-for-better-development-and-what-66d74633e896) ☆
 - [The Good and the Bad of JavaScript Full Stack Development](https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-javascript-full-stack-development/)
+- [Using Promises, async / await with MongoDB](https://medium.com/@rossbulat/using-promises-async-await-with-mongodb-613ed8243900) ☆
+- [Building an async / await Promise Based MongoDB Query Library](https://medium.com/@rossbulat/building-an-async-await-promise-based-mongodb-query-library-7312003b0cf4) ☆
+- [Building a Scalable Promise Based NodeJS Library](https://medium.com/@rossbulat/building-a-scalable-promise-based-nodejs-library-for-your-apps-cf669de03bfb) ☆
 
 ### CodeBurst JavaScript Articles
-  - [JavaScript — The keyword ‘this’ for beginners](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85)
-  - [JavaScript — Arrow Functions for Beginners](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc)
-  - [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
-  - [JavaScript: What the heck is an Immediately-Invoked Function Expression?](https://codeburst.io/javascript-what-the-heck-is-an-immediately-invoked-function-expression-a0ed32b66c18)
-  - [JavaScript for Beginners: The new Operator](https://codeburst.io/javascript-for-beginners-the-new-operator-cee35beb669e)
-  - [Javascript: Learn Regular Expressions for Beginners](https://codeburst.io/javascript-learn-regular-expressions-for-beginners-bb6107015d91)
-  - [JavaScript Template Literals and Tag Functions for Beginners](https://codeburst.io/javascript-template-literals-tag-functions-for-beginners-758a041160e1)
-  - [JavaScript & the spread operator](https://codeburst.io/javascript-the-spread-operator-a867a71668ca)
-  - [JavaScript: What is short-circuit evaluation?](https://codeburst.io/javascript-what-is-short-circuit-evaluation-ff22b2f5608c)
-  - [JavaScript: What is the ternary operator?](https://codeburst.io/javascript-what-is-the-ternary-operator-c819af8a7f6c)
-  - [JavaScript: Why does 3 + true = 4? (and 7 other tricky equations)](https://codeburst.io/javascript-why-does-3-true-4-and-7-other-tricky-equations-9dd13cb2a92a)
-  - [JavaScript — What’s the difference between Null & Undefined?](https://codeburst.io/javascript-whats-the-difference-between-null-undefined-37793b5bfce6)
-  - [Learn and Understand Recursion in JavaScript](https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea)
-  - [Understand Closures in JavaScript](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7)
 
+- [JavaScript — The keyword ‘this’ for beginners](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85)
+- [JavaScript — Arrow Functions for Beginners](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc)
+- [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
+- [JavaScript: What the heck is an Immediately-Invoked Function Expression?](https://codeburst.io/javascript-what-the-heck-is-an-immediately-invoked-function-expression-a0ed32b66c18)
+- [JavaScript for Beginners: The new Operator](https://codeburst.io/javascript-for-beginners-the-new-operator-cee35beb669e)
+- [Javascript: Learn Regular Expressions for Beginners](https://codeburst.io/javascript-learn-regular-expressions-for-beginners-bb6107015d91)
+- [JavaScript Template Literals and Tag Functions for Beginners](https://codeburst.io/javascript-template-literals-tag-functions-for-beginners-758a041160e1)
+- [JavaScript & the spread operator](https://codeburst.io/javascript-the-spread-operator-a867a71668ca)
+- [JavaScript: What is short-circuit evaluation?](https://codeburst.io/javascript-what-is-short-circuit-evaluation-ff22b2f5608c)
+- [JavaScript: What is the ternary operator?](https://codeburst.io/javascript-what-is-the-ternary-operator-c819af8a7f6c)
+- [JavaScript: Why does 3 + true = 4? (and 7 other tricky equations)](https://codeburst.io/javascript-why-does-3-true-4-and-7-other-tricky-equations-9dd13cb2a92a)
+- [JavaScript — What’s the difference between Null & Undefined?](https://codeburst.io/javascript-whats-the-difference-between-null-undefined-37793b5bfce6)
+- [Learn and Understand Recursion in JavaScript](https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea)
+- [Understand Closures in JavaScript](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7)
 
 ## Cursos
 
