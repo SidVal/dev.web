@@ -60,6 +60,8 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Building an async / await Promise Based MongoDB Query Library](https://medium.com/@rossbulat/building-an-async-await-promise-based-mongodb-query-library-7312003b0cf4) ☆
 - [Building a Scalable Promise Based NodeJS Library](https://medium.com/@rossbulat/building-a-scalable-promise-based-nodejs-library-for-your-apps-cf669de03bfb) ☆
 - [Why JavaScript is an OOP Language (Even Though It Doesn’t Have Classes)](https://medium.com/background-thread/why-javascript-is-an-oop-language-even-though-it-doesnt-have-classes-92a4e202176f)
+- [Implementing the async/await syntax for promise request JavaScript](https://medium.com/@salmaeng71/implementing-the-async-await-syntax-for-promise-request-javascript-c4a193827bd2)
+- [Learning JavaScript: Call By Sharing, Parameter Passing](https://blog.bitsrc.io/master-javascript-call-by-sharing-parameter-passing-7049d65163ed)
 
 ### CodeBurst JavaScript Articles
 
