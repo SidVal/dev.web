@@ -61,7 +61,6 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Building a Scalable Promise Based NodeJS Library](https://medium.com/@rossbulat/building-a-scalable-promise-based-nodejs-library-for-your-apps-cf669de03bfb) ☆
 - [Why JavaScript is an OOP Language (Even Though It Doesn’t Have Classes)](https://medium.com/background-thread/why-javascript-is-an-oop-language-even-though-it-doesnt-have-classes-92a4e202176f)
 - [Implementing the async/await syntax for promise request JavaScript](https://medium.com/@salmaeng71/implementing-the-async-await-syntax-for-promise-request-javascript-c4a193827bd2)
-- [Learning JavaScript: Call By Sharing, Parameter Passing](https://blog.bitsrc.io/master-javascript-call-by-sharing-parameter-passing-7049d65163ed)
 
 ### CodeBurst JavaScript Articles
 
@@ -79,6 +78,10 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [JavaScript — What’s the difference between Null & Undefined?](https://codeburst.io/javascript-whats-the-difference-between-null-undefined-37793b5bfce6)
 - [Learn and Understand Recursion in JavaScript](https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea)
 - [Understand Closures in JavaScript](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7)
+
+### React
+
+- [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
 
 ## Cursos
 
@@ -99,6 +102,7 @@ Artículos y páginas propias sobre JS:
 - [Hit The Ground Running With Vue.js And Firestore](https://medium.com/@smashingmag/hit-the-ground-running-with-vue-js-and-firestore-8b45d6a9fa0b) ☆
 - [Why (And How) I Built My Own News Website](https://medium.com/@kieranmaher13/why-and-how-i-built-my-own-news-website-7e025b8e20e) ☆
 - [Make multipage HTML development suck less with Pug](https://medium.freecodecamp.org/make-multipage-html-development-suck-less-with-pug-fb23bc8e7874) ☆
+- [Client-side web scraping with JavaScript using jQuery and Regex](https://medium.freecodecamp.org/client-side-web-scraping-with-javascript-using-jquery-and-regex-5b57a271cb86)
 
 ## Hacks
 
