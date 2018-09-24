@@ -31,6 +31,7 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 - [CSS Simple Tips](/c/css/simple-tips.md)
 - [Generador de logos en linea](https://www.shopify.es/herramientas/generador-logos)
 - [HTML5: elementos que pueden ser omitidos](https://html.spec.whatwg.org/multipage/syntax.html#syntax-tag-omission)
+- [Writing Blazing Fast HTML Code](https://medium.com/@thomlom/writing-blazing-fast-html-code-97d19413af41)
 
 ## Videos
 
