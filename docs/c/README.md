@@ -36,7 +36,7 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 
 ## Videos
 
-- [MongoDB Full Course w/ Node.js, Express, & Mongoose](/c/mongodb-full-course-nodejs-express-mongoose.md)
+- [MongoDB Full Course w/ Node.js, Express, & Mongoose](/c/mongodb/mongodb-full-course-nodejs-express-mongoose.md)
 
 ## Otras lecturas
 
