@@ -48,6 +48,10 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Universal JavaScript](https://cdb.reacttraining.com/universal-javascript-4761051b7ae9)
 - [Best of JS](https://bestof.js.org/)
 - [JavaScript async/await: The Good Part, Pitfalls and How to Use](https://hackernoon.com/javascript-async-await-the-good-part-pitfalls-and-how-to-use-9b759ca21cda)
+- [Using Promises, async / await with MongoDB](https://medium.com/@rossbulat/using-promises-async-await-with-mongodb-613ed8243900) ☆
+- [Building an async / await Promise Based MongoDB Query Library](https://medium.com/@rossbulat/building-an-async-await-promise-based-mongodb-query-library-7312003b0cf4) ☆
+- [Implementing the async/await syntax for promise request JavaScript](https://medium.com/@salmaeng71/implementing-the-async-await-syntax-for-promise-request-javascript-c4a193827bd2)
+- [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
 - [JavaScript Alert ⚠ Boxes and Customized Alert Banners [Tutorial]](https://love2dev.com/blog/custom-javascript-alert/)
 - [Level up your programming skills (JS)](http://exercism.io/languages/javascript/about)
 - [JavaScript has primitives, objects and functions](https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf). All of them are values. All are treated as objects, even primitives.
@@ -56,11 +60,9 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Loose Typing](http://blog.jeremymartin.name/2008/03/understanding-loose-typing-in.html)
 - [Modern JavaScript features which you should be using every day for better development and what problems do they solve](https://medium.com/@tkwebdev/modern-javascript-features-which-you-should-be-using-every-day-for-better-development-and-what-66d74633e896) ☆
 - [The Good and the Bad of JavaScript Full Stack Development](https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-javascript-full-stack-development/)
-- [Using Promises, async / await with MongoDB](https://medium.com/@rossbulat/using-promises-async-await-with-mongodb-613ed8243900) ☆
-- [Building an async / await Promise Based MongoDB Query Library](https://medium.com/@rossbulat/building-an-async-await-promise-based-mongodb-query-library-7312003b0cf4) ☆
 - [Building a Scalable Promise Based NodeJS Library](https://medium.com/@rossbulat/building-a-scalable-promise-based-nodejs-library-for-your-apps-cf669de03bfb) ☆
 - [Why JavaScript is an OOP Language (Even Though It Doesn’t Have Classes)](https://medium.com/background-thread/why-javascript-is-an-oop-language-even-though-it-doesnt-have-classes-92a4e202176f)
-- [Implementing the async/await syntax for promise request JavaScript](https://medium.com/@salmaeng71/implementing-the-async-await-syntax-for-promise-request-javascript-c4a193827bd2)
+
 
 ### CodeBurst JavaScript Articles
 
