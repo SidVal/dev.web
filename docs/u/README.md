@@ -1,6 +1,6 @@
 # Unidades {docsify-ignore-all}
 
->Arranquemos; cabe aclarar que el contenido de éste documento es una mezcla entre lo que se dió en clase ([ver curso](/curso/utn/dw)), y mi propia interpretación mientras voy estudiando y perfeccionando mi conocimiento previo (y nuevo) sobre el tema. No destaco a cada rato lo que se dió en x clase y lo que yo agrego, porque sería un desastre de redacción y muy complejo para volver a leer el documento, y sacar algo bueno del mismo.
+>Arranquemos; cabe aclarar que el contenido de éste documento es una mezcla entre lo que se dió en clase ([ver curso](/curso/utn/dw/)), y mi propia interpretación mientras voy estudiando y perfeccionando mi conocimiento previo (y nuevo) sobre el tema. No destaco a cada rato lo que se dió en x clase y lo que yo agrego, porque sería un desastre de redacción y muy complejo para volver a leer el documento, y sacar algo bueno del mismo.
 >
 >Se busca que estos documentos sean un repaso para aquellas personas que quieren aprender a desarrollar web, o afianzar sus conocimientos.
 >
