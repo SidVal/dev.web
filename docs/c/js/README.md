@@ -40,6 +40,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
   - [JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
   - [Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators)
 - [JavaScript Essentials: Arrays](https://codeburst.io/javascript-essentials-arrays-2d275b9598c5)
+- [window.fetch polyfill](https://github.com/github/fetch#readme) - [Fetch Docs](https://github.github.io/fetch/)
 - [JavaScript The Right Way](http://jstherightway.org) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
 - [Code Conventions for the JavaScript](http://crockford.com/javascript/code.html)
 - [Javascript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) - Software engineering principles, from Robert C. Martin's book [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), adapted for JavaScript.
