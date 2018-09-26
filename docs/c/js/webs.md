@@ -100,6 +100,10 @@ Referencias [#CSS](/c/css/), [#AMP](/c/amp.md), [#NODE](/c/node/)
 
 [moment.js](https://github.com/moment/moment/) es una biblioteca de manipulación de fecha y hora de JavaScript para analizar, validar, manipular y formatear fechas.
 
+### Lecturas Moment
+
+- Me pareció muy interesante este repositorio que afirma [You don't (may not) need Moment.js](https://github.com/you-dont-need/You-Dont-Need-Momentjs#readme). Hay que leer las alternativas que ofrece y por qué no recomienda `moments.js`.
+
 ## Mout
 
 [Mout.js](https://github.com/mout/mout) es una colección de utilidades modulares de JavaScript que se pueden utilizar en el navegador como módulos AMD o en node.js, proporcionando métodos auxiliares similares a los que se encuentran en otras bibliotecas estándar de idiomas (Python, Ruby, PHP, etc).
