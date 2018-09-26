@@ -27,6 +27,10 @@ Ver avance de aplicaciones en [GitHub: Topic/PWA](https://github.com/topics/pwa)
 - [A Simple Progressive Web App Tutorial](https://medium.com/james-johnson/a-simple-progressive-web-app-tutorial-f9708e5f2605)
 - [PWA vs AMP : Choosing the best for me?](https://codeburst.io/pwa-vs-amp-choosing-the-best-for-me-91c8c48ff152)
 
+## Prácticos
+
+- [Building A PWA Using Angular 6](https://www.smashingmagazine.com/2018/09/pwa-angular-6/)
+
 ## Directorio
 
 Nunca imaginé encontrar un [directorio de páginas que son PWA](https://pwa-directory.appspot.com/)
