@@ -47,7 +47,21 @@ alert("¡Hola Mundo!");
 
 ### Tipos de Datos
 
+Los tipos de datos es la clase de valor que puede tomar un identificador (variables, o constantes), por ejemplo una fecha. A diferencia de otros lenguajes declarados, en JS se asigna automáticamente el tipo de dato cuando se asigna valor al identificador, no es necesario declarar antes el tipo de datos que debe tener la variable.
+
 #### Variables
+
+Las variables son los nombres que ponemos a los lugares donde se ocupa la información. En JS deben empezar con una letra, o un subrayado "`_`", pudiendo además haber dígitos entre los caracteres. No es necesario declarar variables, si no se declaran son de ámbito global, y en caso de declararse, dependerá si están dentro de una función (y serán de ámbito local a esa función), o bien fuera de la función (donde serán de ámbito global).
+
+```js
+var x = 10; // variable 'x' (declarada) con valor 10, ámbito global
+y = 20; // variable 'y' (no declarada) con valor 20, ámbito global
+
+function contar() {
+var m = 1; // variable 'm' (declarada) con valor 1, ámbito local
+n = 2; // variable 'n' (no declarada) con valor 2, ámbito local
+}
+```
 
 #### Referencias
 
