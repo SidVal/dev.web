@@ -47,9 +47,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Code Conventions for the JavaScript](http://crockford.com/javascript/code.html)
 - [Javascript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) - Software engineering principles, from Robert C. Martin's book [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), adapted for JavaScript.
 - [How to start with JavaScript Programming](http://jugoncalv.es/blog/javascript/how-to-start-with-javascript)
-- [Simplified JavaScript Jargon](http://jargon.js.org/)
-- [Universal JavaScript](https://cdb.reacttraining.com/universal-javascript-4761051b7ae9)
-- [Best of JS](https://bestof.js.org/)
+- [Variable and Function Hoisting in JavaScript](https://medium.com/@e.be.walk/variable-and-function-hoisting-in-javascript-e0c8ce1d31a5) ☆
 - [JavaScript async/await: The Good Part, Pitfalls and How to Use](https://hackernoon.com/javascript-async-await-the-good-part-pitfalls-and-how-to-use-9b759ca21cda)
 - [Using Promises, async / await with MongoDB](https://medium.com/@rossbulat/using-promises-async-await-with-mongodb-613ed8243900) ☆
 - [Building an async / await Promise Based MongoDB Query Library](https://medium.com/@rossbulat/building-an-async-await-promise-based-mongodb-query-library-7312003b0cf4) ☆
@@ -65,6 +63,9 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [The Good and the Bad of JavaScript Full Stack Development](https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-javascript-full-stack-development/)
 - [Building a Scalable Promise Based NodeJS Library](https://medium.com/@rossbulat/building-a-scalable-promise-based-nodejs-library-for-your-apps-cf669de03bfb) ☆
 - [Why JavaScript is an OOP Language (Even Though It Doesn’t Have Classes)](https://medium.com/background-thread/why-javascript-is-an-oop-language-even-though-it-doesnt-have-classes-92a4e202176f)
+- [Simplified JavaScript Jargon](http://jargon.js.org/)
+- [Universal JavaScript](https://cdb.reacttraining.com/universal-javascript-4761051b7ae9)
+- [Best of JS](https://bestof.js.org/)
 
 
 ### CodeBurst JavaScript Articles
