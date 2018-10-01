@@ -4,31 +4,47 @@ Lista de herramientas, frameworks, y otras aplicaciones en javascript que se cru
 
 Listado completo:
 
+- [Angular](/c/angularjs/)
+- [Aurelia](/c/js/webs#aurelia)
+- [Backbone](/c/js/webs#backbone)
 - [ChanceJS](/c/js/webs#chancejs)
 - [ChartJS](/c/js/webs#chartjs)
 - [CollectJS](/c/js/webs#collectjs)
 - [Date-fns](/c/js/webs#date-fns)
+- [Ember](/c/js/webs#ember)
 - [Emmet](/c/js/webs#emmet)
 - [Face-api.js](/c/js/webs#face-apijs)
 - [FullPage.JS](/c/js/webs#fullpagejs)
 - [Gulp.js](/c/js/webs#gulpjs)
 - [Hapi](/c/js/webs#hapi)
+- [Knockout](/c/js/webs#knockout)
 - [Lazy](/c/js/webs#lazy)
 - [Lodash](/c/js/webs#lodash)
 - [MathJS](/c/js/webs#mathjs)
+- [Mithril](/c/js/webs#mithril)
 - [Moment.js](/c/js/webs#momentjs)
 - [Mout](/c/js/webs#mout)
 - [Parcel](/c/js/webs#parcel)
+- [Polymer](/c/js/webs#polymer)
 - [Polished](/c/js/webs#polished)
 - [Prettier](/c/js/webs#prettier)
 - [Ramda](/c/js/webs#ramda)
 - [React](/c/js/webs#react)
+- [Riot](/c/js/webs#riot)
 - [Sugar](/c/js/webs#sugar)
 - [Underscore](/c/js/webs#underscore)
 - [Vue.js](/c/js/webs#vue)
 - [VuePress](/c/js/webs#vuepress)
 
 <!--abcdefghijklmnñopqrstuvwxyz-->
+
+## Aurelia
+
+Conocido como "_the next generation UI Framework_" por sus creadores, [Aurelia](https://github.com/aurelia/framework#readme) es muy bien recibida debido a algunas de sus características. A pesar de que Aurelia es un marco completo, abarca una serie de bibliotecas que trabajan en conjunto con interfaces bien definidas, lo que lo hace modular y flexible, una característica que no estaba presente en [_Angular_](/c/angularjs/) ya que estaba idealmente construida como un marco monolítico con todas componentes envueltos en un solo paquete. Además, no es necesario especificar los controladores de los modelos de vista, a diferencia de Angular. La flexibilidad de Aurelia hace que sea un marco fácil de usar y una alternativa perfecta a _Angular_.
+
+## Backbone
+
+Lanzado poco después de Angular, [Backbone.js](https://github.com/jashkenas/backbone) es una biblioteca de JavaScript basada en el modelo de diseño de la aplicación **Model-view-presenter (MVP)**. Las colecciones en Backbone están estrechamente integradas con la biblioteca de JavaScript [`Underscore.js`](/c/js/webs#underscore), lo que permite a los desarrolladores llamar a los métodos de subrayado (funciones que permiten a los desarrolladores manipular datos) directamente en los objetos de la red troncal. Además, Backbone es muy flexible y liviano, y a diferencia de _Angular_, tiene un enfoque más no ionizado. Dado que ha existido más tiempo que la mayoría de los marcos disponibles en el mercado, tiene una gran cantidad de seguidores y una gran cantidad de proyectos creados Backbone están disponibles en línea.
 
 ## ChanceJS
 
@@ -45,6 +61,10 @@ Listado completo:
 ## Date-fns
 
 [Date-fns](https://github.com/date-fns/date-fns) es una biblioteca de manipulación del tiempo cada vez más popular para Javascript, elegido por muchos desarrolladores para reemplazar a moment.js ([ver comparación](https://github.com/date-fns/date-fns/issues/275#issuecomment-264934189))
+
+## Ember
+
+[Ember.js](https://github.com/emberjs/ember.js) es un framework web JS de código abierto lanzado en diciembre de 2011. Es popular entre los desarrolladores ya que les ayuda a crear aplicaciones web escalables, utilizando expresiones comunes en el marco. El marco se basa en el **Model-view-view-model (MVVM)**. Muchos sitios web populares y aplicaciones como _LinkedIn, Vine, Twitch, Chipotle, Apple Music y Discourse_ usan Ember. Esto se debe a una API fácil de entender, un acceso más fácil a las características de jQuery y un conjunto de plantillas de actualización automática. Pero el mayor **inconveniente de Ember** es su tamaño, lo que podría hacer que sea excesivo utilizarlo en proyectos simples.
 
 ## Emmet
 
@@ -82,6 +102,10 @@ Referencias [#CSS](/c/css/), [#AMP](/c/amp.md), [#NODE](/c/node/)
 
 [HapiJS](https://hapijs.com/) permite a los desarrolladores centrarse en escribir lógica de aplicación reutilizable en lugar de perder tiempo construyendo infraestructura.
 
+## Knockout
+
+Lanzado a principios de 2017, [Knockout.js](https://github.com/knockout/knockout) ha ido ganando terreno en el ámbito de los desarrolladores como una implementación de JavaScript independiente del patrón **Model-View-View-Model (MVVM)** con plantillas. Knockout es principalmente popular entre los principiantes ya que es muy fácil de aprender y tiene una baja barrera de entrada. Las características principales de Knockout incluyen soporte profundo del navegador, ejercicios integrados para facilitar el aprendizaje, modelos dinámicos, enlace de datos fácil y soporte de plantillas incorporado. Si bien puede no ser la alternativa perfecta a _Angular_, cada vez más desarrolladores se están reubicando en Knockout.
+
 ## Lazy
 
 [lazy.js](https://github.com/dtao/lazy.js) es una biblioteca de utilidad funcional para JavaScript con un motor lento que "se esfuerza por hacer el menor trabajo posible" sin dejar de ser lo suficientemente flexible. La biblioteca no tiene dependencias externas.
@@ -95,6 +119,10 @@ Referencias [#CSS](/c/css/), [#AMP](/c/amp.md), [#NODE](/c/node/)
 ## MathJS
 
 [Math.js](https://github.com/josdejong/mathjs) es una extensa biblioteca de matemáticas para JavaScript y Node.js, que es compatible con la biblioteca de matemáticas incorporada de JavaScript. La biblioteca contiene un analizador de expresiones flexible, es capaz de realizar cálculos simbólicos y viene con un gran conjunto de funciones y constantes incorporadas. Incluso puedes extenderlo tú mismo.
+
+## Mithril
+
+[Mithril](https://github.com/MithrilJS/mithril.js) es una biblioteca de JavaScript diminuta y fácil de aprender, lanzada inicialmente en 2014. Es una pequeña API que requiere que los usuarios aprendan solo unas pocas funciones para comenzar, lo que la convierte en la primera opción para muchos. Junto con una curva de aprendizaje fácil, Mithril es extremadamente rápido en comparación con _Angular_, ya que utiliza una menor magnitud de código para ejecutarse. Las actualizaciones regulares han hecho que Mithril sea aún más rápido, y los nuevos complementos han facilitado la edición y el formateo.
 
 ## Moment.js
 
@@ -112,6 +140,10 @@ Referencias [#CSS](/c/css/), [#AMP](/c/amp.md), [#NODE](/c/node/)
 
 [Parcel](https://github.com/parcel-bundler/parcel) es un paquete de aplicaciones web, diferenciado por su experiencia de desarrollador. Ofrece un rendimiento increíblemente rápido utilizando el procesamiento multinúcleo y no requiere configuración.
 
+## Polymer
+
+[Polymer](https://github.com/Polymer/polymer) es una biblioteca JS de código abierto creada para crear aplicaciones web utilizando componentes. Ha recibido varios lanzamientos estables y está siendo desarrollado por desarrolladores de _Google_ y varios colaboradores de _GitHub_. La popularidad de Polymer se puede comprender por el hecho de que compañías como _Netflix, Electronic Arts (EA), Coca-Cola, IBM y McDonald's_ emplean Polymer, junto con servicios de _Google_ como _Google Play Music, YouTube_ y su parte _YouTube Gaming_, y el nuevo _Google Earth_. Esto se debe a sus características, como un sistema liviano, componentes de diseño flexibles y un ecosistema fácilmente accesible.
+
 ## Polished
 
 [Polished](https://github.com/styled-components/polished) es un gran conjunto de herramientas livianas para escribir estilos en JavaScript con funciones auxiliares y mezclas de estilo Sass. La biblioteca es compatible con los estilos de estilo, Afrodita, Radium o estilos simples en línea.
@@ -126,7 +158,11 @@ Referencias [#CSS](/c/css/), [#AMP](/c/amp.md), [#NODE](/c/node/)
 
 ## React
 
-[React](https://github.com/facebook/react) React es la biblioteca de JavaScript de Facebook para construir interfaces de usuario. A continuación se detallan las características distintivas de React según su documentación oficial. 
+[React](https://github.com/facebook/react) React es la biblioteca de JavaScript de Facebook para construir interfaces de usuario. Desde su lanzamiento, React ha sido una biblioteca popular de JavaScript y ha sido una opción para muchos. Lanzado en 2013 y mantenido por _Facebook_, React fue desarrollado principalmente para construir interfaces de usuario. Se ha convertido en la elección principal para muchos desarrolladores, que eligen React sobre _Angular_ porque es fácil de aprender, mucho más flexible, una alta tasa de actualización, un peso ligero y soporte de Facebook para facilitar el proceso de migración entre diferentes versiones. Debido a estas características, compañías como _Netflix, Yahoo, Codecademy, Whatsapp_ y muchos otros han optado por React.
+
+## Riot
+
+[Riot](https://github.com/riot/riot) es una biblioteca de UI basada en componentes simples, que ofrece algunas características sorprendentes sobre otros contendientes en el mercado. Riot trae etiquetas personalizadas en la mezcla, que crean un componente reutilizable a partir de una combinación de HTML y JavaScript relevantes. Estas etiquetas permiten a los desarrolladores crear vistas complejas utilizando HTML, lo que hace que la sintaxis sea legible por los humanos. Además, es liviano pero no compromete las características necesarias para una biblioteca de UI. Junto con un peso insignificante, es muy fácil de aprender, por lo que es muy popular entre los desarrolladores.
 
 ## Sugar
 
