@@ -108,6 +108,7 @@ Artículos y páginas propias sobre JS:
 - [Why (And How) I Built My Own News Website](https://medium.com/@kieranmaher13/why-and-how-i-built-my-own-news-website-7e025b8e20e) ☆
 - [Make multipage HTML development suck less with Pug](https://medium.freecodecamp.org/make-multipage-html-development-suck-less-with-pug-fb23bc8e7874) ☆
 - [Client-side web scraping with JavaScript using jQuery and Regex](https://medium.freecodecamp.org/client-side-web-scraping-with-javascript-using-jquery-and-regex-5b57a271cb86)
+- [Best HTML, CSS, Javascript Practice : Chrome Extension](https://medium.com/@thejungwon/best-html-css-javascript-practice-chrome-extension-ae4e5e7839e) ☆
 
 ## Hacks
 
