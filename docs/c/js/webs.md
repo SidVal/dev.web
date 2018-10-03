@@ -165,6 +165,10 @@ Lanzado a principios de 2017, [Knockout.js](https://github.com/knockout/knockout
 
 [React](https://github.com/facebook/react) React es la biblioteca de JavaScript de Facebook para construir interfaces de usuario. Desde su lanzamiento, React ha sido una biblioteca popular de JavaScript y ha sido una opción para muchos. Lanzado en 2013 y mantenido por _Facebook_, React fue desarrollado principalmente para construir interfaces de usuario. Se ha convertido en la elección principal para muchos desarrolladores, que eligen React sobre _Angular_ porque es fácil de aprender, mucho más flexible, una alta tasa de actualización, un peso ligero y soporte de Facebook para facilitar el proceso de migración entre diferentes versiones. Debido a estas características, compañías como _Netflix, Yahoo, Codecademy, Whatsapp_ y muchos otros han optado por React.
 
+### Lecturas React
+
+- [Why I chose Vue.js over React](https://medium.com/@luistinygod/why-i-chose-vue-js-over-react-509ad12d7b53) ☆
+
 ## Riot
 
 [Riot](https://github.com/riot/riot) es una biblioteca de UI basada en componentes simples, que ofrece algunas características sorprendentes sobre otros contendientes en el mercado. Riot trae etiquetas personalizadas en la mezcla, que crean un componente reutilizable a partir de una combinación de HTML y JavaScript relevantes. Estas etiquetas permiten a los desarrolladores crear vistas complejas utilizando HTML, lo que hace que la sintaxis sea legible por los humanos. Además, es liviano pero no compromete las características necesarias para una biblioteca de UI. Junto con un peso insignificante, es muy fácil de aprender, por lo que es muy popular entre los desarrolladores.
@@ -184,6 +188,7 @@ Lanzado a principios de 2017, [Knockout.js](https://github.com/knockout/knockout
 ### Lecturas Vue
 
 - [Quickly develop static websites with VueJS, a headless CMS and GraphQL](https://medium.com/@marcmintel/quickly-develop-static-websites-with-vuejs-a-headless-cms-and-graphql-bf64e75910d6)
+- [Why I chose Vue.js over React](https://medium.com/@luistinygod/why-i-chose-vue-js-over-react-509ad12d7b53) ☆
 
 ## VuePress
 

@@ -5,3 +5,4 @@
   - [PWA](/c/pwa.md)
   - [SEO](/c/seo.md)
   - [UX](/c/ux.md)
+  - [Hosting](/c/hosting.md)
