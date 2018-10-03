@@ -59,6 +59,11 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 
 - [Framer X Preview](https://blog.prototypr.io/framer-x-preview-9d067f35cf9a)
 
+## Referencias
+
+- [DevDocs API Documentation](https://devdocs.io/)  
+  Para encontrar referencia directa al uso de cualquier lenguaje web. Realmente para darle una buena leída y tenerlo en favoritos.
+
 ## Chrome Dev Tools
 
 Es muy importante dominar las herramientas de desarrollo que tiene el navegador Chrome. Hay un importante repositorio de guías y documentación en español aquí: [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/?hl=es)
