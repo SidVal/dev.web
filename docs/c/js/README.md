@@ -66,6 +66,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Simplified JavaScript Jargon](http://jargon.js.org/)
 - [Universal JavaScript](https://cdb.reacttraining.com/universal-javascript-4761051b7ae9)
 - [Best of JS](https://bestof.js.org/)
+- [Goodbye JavaScript, Hello WebAssembly](https://www.telerik.com/blogs/goodbye-javascript-hello-webassembly)
 
 
 ### CodeBurst JavaScript Articles
