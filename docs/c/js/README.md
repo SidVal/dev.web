@@ -111,6 +111,7 @@ Artículos y páginas propias sobre JS:
 - [Make multipage HTML development suck less with Pug](https://medium.freecodecamp.org/make-multipage-html-development-suck-less-with-pug-fb23bc8e7874) ☆
 - [Client-side web scraping with JavaScript using jQuery and Regex](https://medium.freecodecamp.org/client-side-web-scraping-with-javascript-using-jquery-and-regex-5b57a271cb86)
 - [Best HTML, CSS, Javascript Practice : Chrome Extension](https://medium.com/@thejungwon/best-html-css-javascript-practice-chrome-extension-ae4e5e7839e) ☆
+- [An Introduction to Web Scraping with Puppeteer](https://medium.com/swlh/an-introduction-to-web-scraping-with-puppeteer-3d35a51fdca0)
 
 ## Hacks
 
