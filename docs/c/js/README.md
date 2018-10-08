@@ -86,6 +86,21 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Learn and Understand Recursion in JavaScript](https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea)
 - [Understand Closures in JavaScript](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7)
 
+## Scraping
+
+?> Me interesé en el tema Scraping cuando estuve buscando cómo desarrollar [esta idea](https://github.com/SidVal/SidV/issues/27#issuecomment-411623167).
+
+- [Client-side web scraping with JavaScript using jQuery and Regex](https://medium.freecodecamp.org/client-side-web-scraping-with-javascript-using-jquery-and-regex-5b57a271cb86)
+- [An Introduction to Web Scraping with Puppeteer](https://medium.com/swlh/an-introduction-to-web-scraping-with-puppeteer-3d35a51fdca0)
+- [Getting started with Puppeteer and Chrome Headless for Web Scraping](https://medium.com/@e_mad_ehsan/getting-started-with-puppeteer-and-chrome-headless-for-web-scrapping-6bf5979dee3e)
+- [Awesome: JavaScript Web Scraping](https://github.com/lorien/awesome-web-scraping/blob/master/javascript.md)
+- [Scraping an AngularJS application](https://stackoverflow.com/questions/27026930/scraping-an-angularjs-application)
+- [Scraping the Web With Node.js](https://scotch.io/tutorials/scraping-the-web-with-node-js)
+- [Client-side web scraping with JavaScript using jQuery and Regex](https://medium.freecodecamp.org/client-side-web-scraping-with-javascript-using-jquery-and-regex-5b57a271cb86)
+- [Scraping data in 3 minutes with Javascript](https://medium.com/data-scraper-tips-tricks/scraping-data-with-javascript-in-3-minutes-8a7cf8275b31)
+- [Web Scraping with a Headless Browser: A Puppeteer Tutorial](https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial)
+- [Using JQuery & NodeJS to scrape the web](https://medium.com/@asimmittal/using-jquery-nodejs-to-scrape-the-web-9bb5d439413b)
+
 ### React
 
 - [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
@@ -100,6 +115,7 @@ Artículos y páginas propias sobre JS:
 
 - [Apps, frameworks, etc](/c/js/webs.md)
 - [Librerías para animación con JS](/c/js/animacion.md)
+- [Visualización de Datos con JS](/c/js/data-visualization.md)
 - [¿Cuál es la diferencia entre jQuery, AJAX y AngularJS?](/c/js/jquery-ajax-angularjs.md)
 
 ## Prácticos
@@ -109,7 +125,6 @@ Artículos y páginas propias sobre JS:
 - [Hit The Ground Running With Vue.js And Firestore](https://medium.com/@smashingmag/hit-the-ground-running-with-vue-js-and-firestore-8b45d6a9fa0b) ☆
 - [Why (And How) I Built My Own News Website](https://medium.com/@kieranmaher13/why-and-how-i-built-my-own-news-website-7e025b8e20e) ☆
 - [Make multipage HTML development suck less with Pug](https://medium.freecodecamp.org/make-multipage-html-development-suck-less-with-pug-fb23bc8e7874) ☆
-- [Client-side web scraping with JavaScript using jQuery and Regex](https://medium.freecodecamp.org/client-side-web-scraping-with-javascript-using-jquery-and-regex-5b57a271cb86)
 - [Best HTML, CSS, Javascript Practice : Chrome Extension](https://medium.com/@thejungwon/best-html-css-javascript-practice-chrome-extension-ae4e5e7839e) ☆
 
 ## Hacks
