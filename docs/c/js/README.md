@@ -53,6 +53,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Building an async / await Promise Based MongoDB Query Library](https://medium.com/@rossbulat/building-an-async-await-promise-based-mongodb-query-library-7312003b0cf4) ☆
 - [Implementing the async/await syntax for promise request JavaScript](https://medium.com/@salmaeng71/implementing-the-async-await-syntax-for-promise-request-javascript-c4a193827bd2)
 - [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
+- [Async JavaScript, a Pocket Reference](https://medium.com/@ajmeyghani/async-javascript-a-pocket-reference-2bb16ac40d21) ☆
 - [JavaScript Alert ⚠ Boxes and Customized Alert Banners [Tutorial]](https://love2dev.com/blog/custom-javascript-alert/)
 - [Level up your programming skills (JS)](http://exercism.io/languages/javascript/about)
 - [JavaScript has primitives, objects and functions](https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf). All of them are values. All are treated as objects, even primitives.
