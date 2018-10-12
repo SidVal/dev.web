@@ -136,6 +136,7 @@ Lanzado a principios de 2017, [Knockout.js](https://github.com/knockout/knockout
 ### Lecturas Moment
 
 - Me pareció muy interesante este repositorio que afirma [You don't (may not) need Moment.js](https://github.com/you-dont-need/You-Dont-Need-Momentjs#readme). Hay que leer las alternativas que ofrece y por qué no recomienda `moments.js`.
+- [Wait a Moment.js!](https://hackernoon.com/wait-a-moment-js-80e329fcfc3)
 
 ## Mout
 
