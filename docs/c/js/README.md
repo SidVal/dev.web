@@ -23,7 +23,6 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Lenguaje JavaScript](https://lenguajejs.com/)
 - [Manual JavaScript](https://desarrolloweb.com/javascript/)
 - [Referencia de ECMAScript 5.1](https://www.todojs.com/ref/javascript/)
-- [15 HTML element methods you’ve potentially never heard of](https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a)
 - [JavaScript - The Right Way](http://jstherightway.org/es-es/)
 - Una buena referencia sobre las versiones, documentación, noticias y demás sobre JavaScript puede encontrarse en la [Red de Desarrolladores de Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript).
 - [Principios para escribir JavaScript consistente e idiomático](https://github.com/rwaldron/idiomatic.js/tree/master/translations/es_ES)
@@ -42,6 +41,9 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [JavaScript Essentials: Arrays](https://codeburst.io/javascript-essentials-arrays-2d275b9598c5)
 - [JavaScript Essentials: Types & Data Structures](https://codeburst.io/javascript-essentials-types-data-structures-3ac039f9877b)
 - [JavaScript ES6+: var, let, or const?](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75)
+- [A practical ES6 guide on how to perform HTTP requests using the Fetch API](https://medium.freecodecamp.org/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547)
+- [These JavaScript methods will boost your skills in just a few minutes](https://medium.freecodecamp.org/7-javascript-methods-that-will-boost-your-skills-in-less-than-8-minutes-4cc4c3dca03f)
+- [15 HTML element methods you’ve potentially never heard of](https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a)
 - [window.fetch polyfill](https://github.com/github/fetch#readme) - [Fetch Docs](https://github.github.io/fetch/)
 - [JavaScript The Right Way](http://jstherightway.org) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
 - [Code Conventions for the JavaScript](http://crockford.com/javascript/code.html)
