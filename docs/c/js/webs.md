@@ -194,6 +194,7 @@ Lanzado a principios de 2017, [Knockout.js](https://github.com/knockout/knockout
 - [Quickly develop static websites with VueJS, a headless CMS and GraphQL](https://medium.com/@marcmintel/quickly-develop-static-websites-with-vuejs-a-headless-cms-and-graphql-bf64e75910d6)
 - [Why I chose Vue.js over React](https://medium.com/@luistinygod/why-i-chose-vue-js-over-react-509ad12d7b53) ☆
 - [Build a task app with Hapi, MongoDB and Vue.js](https://medium.com/employbl/build-a-task-app-with-hapi-mongodb-and-vue-js-dc05c1bb8778) ☆
+- [Build a Project Management Tool with Vue.js, node.js and Apollo — Part1](https://medium.com/@kenzotakahashi2/build-a-project-management-software-with-vue-js-and-apollo-part1-d12ee75a7641)
 
 ## VuePress
 
