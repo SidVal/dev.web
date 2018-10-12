@@ -24,7 +24,6 @@ Básicamente es un conjunto de funciones que nos permite comunicarnos con cierta
 - [APIs con Node, TypeScript, Koa y TypeORM](http://blog.koalite.com/2018/07/apis-con-node-typescript-koa-y-typeorm/?utm_source=rss&utm_medium=rss&utm_campaign=apis-con-node-typescript-koa-y-typeorm)
 - [A Proposal for RESTful API’s with Mongoose and Express](https://medium.com/@therealchrisrutherford/a-proposal-for-restful-apis-497924397192)
 
-
 ## Lista <!-- abcdefghijklmnñopqrstuvwxyz -->
 
 - [Chute](/c/api.md#chute)
@@ -35,6 +34,7 @@ Básicamente es un conjunto de funciones que nos permite comunicarnos con cierta
 ### Prácticos
 
 - [Mastering the Spotify API -> part1](https://medium.com/@esmerycornielle/mastering-the-spotify-api-part1-c836b89eb68e)
+- [A practical ES6 guide on how to perform HTTP requests using the Fetch API](https://medium.freecodecamp.org/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547)
 
 ***
 
