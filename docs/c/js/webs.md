@@ -103,6 +103,10 @@ Referencias [#CSS](/c/css/), [#AMP](/c/amp.md), [#NODE](/c/node/)
 
 [HapiJS](https://hapijs.com/) permite a los desarrolladores centrarse en escribir lógica de aplicación reutilizable en lugar de perder tiempo construyendo infraestructura.
 
+### Lecturas Hapi
+
+- [Build a task app with Hapi, MongoDB and Vue.js](https://medium.com/employbl/build-a-task-app-with-hapi-mongodb-and-vue-js-dc05c1bb8778) ☆
+
 ## Knockout
 
 Lanzado a principios de 2017, [Knockout.js](https://github.com/knockout/knockout) ha ido ganando terreno en el ámbito de los desarrolladores como una implementación de JavaScript independiente del patrón **Model-View-View-Model (MVVM)** con plantillas. Knockout es principalmente popular entre los principiantes ya que es muy fácil de aprender y tiene una baja barrera de entrada. Las características principales de Knockout incluyen soporte profundo del navegador, ejercicios integrados para facilitar el aprendizaje, modelos dinámicos, enlace de datos fácil y soporte de plantillas incorporado. Si bien puede no ser la alternativa perfecta a _Angular_, cada vez más desarrolladores se están reubicando en Knockout.
@@ -189,6 +193,7 @@ Lanzado a principios de 2017, [Knockout.js](https://github.com/knockout/knockout
 
 - [Quickly develop static websites with VueJS, a headless CMS and GraphQL](https://medium.com/@marcmintel/quickly-develop-static-websites-with-vuejs-a-headless-cms-and-graphql-bf64e75910d6)
 - [Why I chose Vue.js over React](https://medium.com/@luistinygod/why-i-chose-vue-js-over-react-509ad12d7b53) ☆
+- [Build a task app with Hapi, MongoDB and Vue.js](https://medium.com/employbl/build-a-task-app-with-hapi-mongodb-and-vue-js-dc05c1bb8778) ☆
 
 ## VuePress
 
