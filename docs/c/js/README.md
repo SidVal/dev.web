@@ -103,6 +103,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Scraping data in 3 minutes with Javascript](https://medium.com/data-scraper-tips-tricks/scraping-data-with-javascript-in-3-minutes-8a7cf8275b31)
 - [Web Scraping with a Headless Browser: A Puppeteer Tutorial](https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial)
 - [Using JQuery & NodeJS to scrape the web](https://medium.com/@asimmittal/using-jquery-nodejs-to-scrape-the-web-9bb5d439413b)
+- [Introduction to web scraping with Node.js](https://dev.to/aurelkurtula/introduction-to-web-scraping-with-nodejs-9h2)
 
 ### React
 
