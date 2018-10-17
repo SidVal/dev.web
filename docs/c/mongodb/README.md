@@ -15,6 +15,7 @@
 - [Building a Scalable Promise Based NodeJS Library](https://medium.com/@rossbulat/building-a-scalable-promise-based-nodejs-library-for-your-apps-cf669de03bfb) ☆
 - [Using Promises, async / await with MongoDB](https://medium.com/@rossbulat/using-promises-async-await-with-mongodb-613ed8243900) ☆
 - [The State of NoSQL with MongoDB and Node.js 2018](https://blog.bitsrc.io/the-state-of-nosql-with-mongodb-and-node-js-2018-690588c03650)
+- [Aggregation in MongoDB](https://medium.com/@vsvaibhav2016/aggregation-in-mongodb-4f638df0add0)
 
 ## Prácticos
 
