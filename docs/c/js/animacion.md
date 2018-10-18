@@ -50,6 +50,7 @@ abcdefghijklmnñopqrstuvwxyz
 [Anime.js](https://github.com/juliangarnier/anime) es una librería de animación de JavaScript que funciona con propiedades CSS, transformaciones CSS individuales, SVG o cualquier atributo DOM, y objetos JavaScript. Esta librería le permite encadenar múltiples propiedades de animación, sincronizar múltiples instancias, crear cronogramas y más.
 
 - [Creating JavaScript Animations with Anime.js](https://medium.com/@ajmeyghani/creating-javascript-animations-with-anime-js-f2b14716cdc6) ☆
+- [Create a revealing animation with Anime.JS](https://codeburst.io/create-a-revealing-animation-with-anime-js-25a49bc98cd7)
 
 ## Aos
 

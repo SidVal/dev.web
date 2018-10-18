@@ -44,3 +44,4 @@
 - [Create a Scalable Node.js App Using the Express Application Generator Tool](https://medium.com/mtholla/create-a-node-js-app-using-the-express-application-generator-tool-6bdc00e797dc)
 - [Create a Discord bot using Node](https://blog.bitsrc.io/create-a-discord-bot-using-node-dc198817b1a)  
   In this tutorial, I’ll create a simple Discord bot using Node.js. The bot will be connected to a Discord server and translate every message that’s not written in English.
+- [Extracting the content from Word files in NodeJS](https://medium.com/@kieranmaher13/extracting-the-content-from-word-files-in-nodejs-1ccf93ac011f) ☆

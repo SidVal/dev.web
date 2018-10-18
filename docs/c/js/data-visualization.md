@@ -12,6 +12,7 @@ Lista Completa
 - [Datamaps](https://github.com/markmarkoh/datamaps)
 - [D3js](/c/js/data-visualization.md#d3js)
 - [Echarts](https://github.com/apache/incubator-echarts)
+- [F2](https://github.com/antvis/f2)
 - Metabase
 - Metric-Graphics
 - [NVD3](https://github.com/novus/nvd3)

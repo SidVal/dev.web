@@ -23,7 +23,6 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Lenguaje JavaScript](https://lenguajejs.com/)
 - [Manual JavaScript](https://desarrolloweb.com/javascript/)
 - [Referencia de ECMAScript 5.1](https://www.todojs.com/ref/javascript/)
-- [15 HTML element methods you’ve potentially never heard of](https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a)
 - [JavaScript - The Right Way](http://jstherightway.org/es-es/)
 - Una buena referencia sobre las versiones, documentación, noticias y demás sobre JavaScript puede encontrarse en la [Red de Desarrolladores de Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript).
 - [Principios para escribir JavaScript consistente e idiomático](https://github.com/rwaldron/idiomatic.js/tree/master/translations/es_ES)
@@ -42,6 +41,9 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [JavaScript Essentials: Arrays](https://codeburst.io/javascript-essentials-arrays-2d275b9598c5)
 - [JavaScript Essentials: Types & Data Structures](https://codeburst.io/javascript-essentials-types-data-structures-3ac039f9877b)
 - [JavaScript ES6+: var, let, or const?](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75)
+- [A practical ES6 guide on how to perform HTTP requests using the Fetch API](https://medium.freecodecamp.org/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547)
+- [These JavaScript methods will boost your skills in just a few minutes](https://medium.freecodecamp.org/7-javascript-methods-that-will-boost-your-skills-in-less-than-8-minutes-4cc4c3dca03f)
+- [15 HTML element methods you’ve potentially never heard of](https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a)
 - [window.fetch polyfill](https://github.com/github/fetch#readme) - [Fetch Docs](https://github.github.io/fetch/)
 - [JavaScript The Right Way](http://jstherightway.org) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
 - [Code Conventions for the JavaScript](http://crockford.com/javascript/code.html)
@@ -53,6 +55,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Building an async / await Promise Based MongoDB Query Library](https://medium.com/@rossbulat/building-an-async-await-promise-based-mongodb-query-library-7312003b0cf4) ☆
 - [Implementing the async/await syntax for promise request JavaScript](https://medium.com/@salmaeng71/implementing-the-async-await-syntax-for-promise-request-javascript-c4a193827bd2)
 - [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
+- [Async JavaScript, a Pocket Reference](https://medium.com/@ajmeyghani/async-javascript-a-pocket-reference-2bb16ac40d21) ☆
 - [JavaScript Alert ⚠ Boxes and Customized Alert Banners [Tutorial]](https://love2dev.com/blog/custom-javascript-alert/)
 - [Level up your programming skills (JS)](http://exercism.io/languages/javascript/about)
 - [JavaScript has primitives, objects and functions](https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf). All of them are values. All are treated as objects, even primitives.
@@ -100,6 +103,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Scraping data in 3 minutes with Javascript](https://medium.com/data-scraper-tips-tricks/scraping-data-with-javascript-in-3-minutes-8a7cf8275b31)
 - [Web Scraping with a Headless Browser: A Puppeteer Tutorial](https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial)
 - [Using JQuery & NodeJS to scrape the web](https://medium.com/@asimmittal/using-jquery-nodejs-to-scrape-the-web-9bb5d439413b)
+- [Introduction to web scraping with Node.js](https://dev.to/aurelkurtula/introduction-to-web-scraping-with-nodejs-9h2)
 
 ### React
 
@@ -126,6 +130,7 @@ Artículos y páginas propias sobre JS:
 - [Why (And How) I Built My Own News Website](https://medium.com/@kieranmaher13/why-and-how-i-built-my-own-news-website-7e025b8e20e) ☆
 - [Make multipage HTML development suck less with Pug](https://medium.freecodecamp.org/make-multipage-html-development-suck-less-with-pug-fb23bc8e7874) ☆
 - [Best HTML, CSS, Javascript Practice : Chrome Extension](https://medium.com/@thejungwon/best-html-css-javascript-practice-chrome-extension-ae4e5e7839e) ☆
+- [How to Build a Chrome Extension in JavaScript](https://towardsdatascience.com/how-to-build-a-chrome-extension-in-javascript-157ba8713df6)
 
 ## Hacks
 
