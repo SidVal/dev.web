@@ -22,7 +22,7 @@ Fecha: 29 de mayo
 
 ## Tarea Clase 5
 
-Modificar el blog que vimos en la [clase 3](https://sidval.github.io/www/curso/c3/)
+Modificar el blog que vimos en la [clase 3](https://sidval.github.io/www/curso/utn/dw/c3/)
 
 Realizar éstas modificaciones:
 
@@ -44,8 +44,8 @@ NOTA: La idea es que al modificar la resolución de la página web el contenido 
 
 ## TP1 en línea
 
-[Ver versión 10.5](https://sidval.github.io/www/testing/c5/blog2.html) :tada:
+[Ver versión 10.5](https://sidval.github.io/www/testing/utn/dw/c5/blog2.html) :tada:
 
 ### Observaciones al TP1
 
-En la [clase 6 del curso](/curso/clase6.md), se vió mi TP y dijo que está muy bien, que hay cosas que aún no habíamos visto. La única observación que se vió es cuando cambia de resolución la pantalla y se va achicando mucho, lo ideal sería que el `aside` desaparezca y no que pase abajo.
+En la [clase 6 del curso](/curso/utn/dw/clase6.md), se vió mi TP y dijo que está muy bien, que hay cosas que aún no habíamos visto. La única observación que se vió es cuando cambia de resolución la pantalla y se va achicando mucho, lo ideal sería que el `aside` desaparezca y no que pase abajo.

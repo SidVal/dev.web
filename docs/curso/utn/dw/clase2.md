@@ -6,9 +6,9 @@ Lugar: Remoto, _GoToMeeting.es_
 
 ## Introducción a HTML y CSS
 
-Se profundizaron aún más los conceptos vistos en la [clase 1](/curso/clase1.md), se puso más énfasis en los conceptos claves de `CSS` y formas de estructurar estilos en `HTML`.
+Se profundizaron aún más los conceptos vistos en la [clase 1](/curso/utn/dw/clase1.md), se puso más énfasis en los conceptos claves de `CSS` y formas de estructurar estilos en `HTML`.
 
-[Ver página en línea](https://sidval.github.io/www/curso/c2/) para ampliar los conceptos
+[Ver página en línea](https://sidval.github.io/www/curso/utn/dw/c2/) para ampliar los conceptos
 
 ### META-Tags
 

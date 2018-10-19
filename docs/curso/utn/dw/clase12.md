@@ -8,7 +8,7 @@ Arrancamos haciendo un proyecto nuevo "book-store". Empezamos directamente desde
 
 ### Clases anteriores
 
-Si para la [clase anterior (clase 11)](/curso/clase11.md) nos sentimos algo perdidos, lo que viene en esta clase es directamente la perdición en sí misma.
+Si para la [clase anterior (clase 11)](/curso/utn/dw/clase11.md) nos sentimos algo perdidos, lo que viene en esta clase es directamente la perdición en sí misma.
 
 ## Observación
 
