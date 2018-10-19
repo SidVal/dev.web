@@ -82,7 +82,7 @@ Una vez que se vota, el candidato seleccionado suma un punto y pasa a las estad�
 >Luego de votar pasa al formulario de estadísticas que se ve bastante bien, resolviste bien la captura de los datos salvo que vi que pusiste `Votos.find({numeroCandidato: 1}).countDocuments();` lo cual estas haciendo 2 querys a la base de mongo, uno para el filtrado y otro para el conteo, cuando podrías haberlo resuelto tan solo usando `Votos.countDocuments({numeroCandidato: 1});` en una sola llamada, es mejor, lo otro que veo que no pudiste lograr es lo de mostrar los datos ordenados de mayor a menor, esto lo podrias haber resuelto si usabas esta función en el _Ajax_:
 >
 >
-> ```
+```
 $.ajax({
 
                 url: '/api/porcentajes',
