@@ -27,15 +27,15 @@ Si lo descargas, necesitas ejecutar primero el: `npm i` para instalar todos los 
 
 Inicio de la web:
 
-[!Elecciones](../docs/assets/img/elecciones-final.jpg)
+![Elecciones](../docs/assets/img/elecciones-final.jpg)
 
 Votar:
 
-[!Votar](../../../assets/img/votar.jpg)
+![Votar](../../../assets/img/votar.jpg)
 
 Validación:
 
-[!Validación](../../../assets/img/validacion.jpg)
+![Validación](../../../assets/img/validacion.jpg)
 
 Si el usuario ya se encuentra en la base de datos, sale un aviso para que NO pueda votar y que siga otra persona.
 
@@ -43,16 +43,16 @@ Votando:
 
 En el caso de que la persona no se encuentre en la base de datos, significa que puede votar. Entonces aparece un listado de candidatos para que seleccione su voto.
 
-[!Votando](../../../assets/img/votando.jpg)
+![Votando](../../../assets/img/votando.jpg)
 
 Votando al candidato:
 
 Cuando se selecciona a un candidato, un aviso aparece para que el votante indique su consentimiento al voto.
 
-[!Votando al Candidato](../../../assets/img/votando-candidato.jpg)
+![Votando al Candidato](../../../assets/img/votando-candidato.jpg)
 
 Estadísticas
 
 Una vez que se vota, el candidato seleccionado suma un punto y pasa a las estadísticas. Con un progress-bar de bootstrap se muestra el avance hasta el momento.
 
-[!Estadísticas](../../../assets/img/estadisticas.jpg)
+![Estadísticas](../../../assets/img/estadisticas.jpg)
