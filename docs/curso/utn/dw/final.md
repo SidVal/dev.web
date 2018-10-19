@@ -82,54 +82,31 @@ Una vez que se vota, el candidato seleccionado suma un punto y pasa a las estad�
 >Luego de votar pasa al formulario de estadísticas que se ve bastante bien, resolviste bien la captura de los datos salvo que vi que pusiste `Votos.find({numeroCandidato: 1}).countDocuments();` lo cual estas haciendo 2 querys a la base de mongo, uno para el filtrado y otro para el conteo, cuando podrías haberlo resuelto tan solo usando `Votos.countDocuments({numeroCandidato: 1});` en una sola llamada, es mejor, lo otro que veo que no pudiste lograr es lo de mostrar los datos ordenados de mayor a menor, esto lo podrias haber resuelto si usabas esta función en el _Ajax_:
 >
 >
-```
+
+```jquery
 $.ajax({
-
                 url: '/api/porcentajes',
-
                 method: "GET",
-
                 type: "JSONP",
-
                 success: function(data) {
-
                     const porc = JSON.parse(data);
-
                     console.log(porc);
-
                     //$(".progress > .progress-bar").css("width", resp + "%").text(resp + " %");
-
                     $.each(porc, function(index, value) {
-
                         $('.progress-bar').eq(index).attr("votos", value).css("width", value + "%").text(value + " %");
-
                     });
-
- 
-
                     $('tbody').html($('tbody tr').sort(function(a, b) {
-
                         return $(b).find('.progress-bar').attr('votos') - $(a).find('.progress-bar').attr('votos')
-
                    }));
-
- 
-
                 },
-
                 error: function(jqXHR, status, error) {
-
                     alert('Hubo un error: ' + jqXHR + '-' + error);
-
                     //$('#listaCandidatos').removeClass('d-none');
-
                     console.log("Error: " + error);
-
                 }
-
             });
 ```
->
+
 >Fijate que primero aggregué el dato de los porcentajes de votos en un attributo “votos” para luego usarlo con el sort que está mas abajo y reemplazarlo en el tbody.
 >
 >Con eso solamente se ordenan los datos.
