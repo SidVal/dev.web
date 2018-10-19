@@ -29,6 +29,7 @@ A priori, AngularJS es MUY distinto de lo que hoy es "Angular" (al momento de re
 - [Adjustable sidebar using Angular](https://medium.com/@nicuvlad89/adjustable-sidebar-using-angular-76a77b02d169) ☆
 - [The Good and the Bad of Angular Development](https://medium.com/@AltexSoft/the-good-and-the-bad-of-angular-development-b30220bf010a)
 - [A comparison between Angular and React and their core languages](https://medium.freecodecamp.org/a-comparison-between-angular-and-react-and-their-core-languages-9de52f485a76)
+- [Best practices for a clean and performant Angular application](https://medium.freecodecamp.org/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f)
 
 ## Prácticos
 
