@@ -27,7 +27,7 @@ Si lo descargas, necesitas ejecutar primero el: `npm i` para instalar todos los 
 
 Inicio de la web:
 
-![Elecciones](../docs/assets/img/elecciones-final.jpg)
+![Elecciones](../../../assets/img/elecciones-final.jpg)
 
 Votar:
 
