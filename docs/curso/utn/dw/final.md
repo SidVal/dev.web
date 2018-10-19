@@ -25,34 +25,132 @@ Si lo descargas, necesitas ejecutar primero el: `npm i` para instalar todos los 
 
 ### Capturas de pantalla
 
-Inicio de la web:
+**Inicio de la web:**
 
 ![Elecciones](../../../assets/img/elecciones-final.jpg)
 
-Votar:
+Es la presentación de la web, con textos descriptivos. Se aclara que la web es con tono de humor, y pese a que Juan Manuel de la Sota tuvo un terrible accidente donde falleció, se va a mantener como candidato expuesto en la aplicación web.
+
+**Votar:**
+
+Para el final teníamos que presentar un formulario que valide cada campo, por lo tanto si se completa algún campo con datos inválidos, se marca en focus con rojo:
 
 ![Votar](../../../assets/img/votar.jpg)
 
-Validación:
+**Validación:**
+
+Si el usuario ya se encuentra en la base de datos, sale un aviso para que NO pueda votar y que siga otra persona:
 
 ![Validación](../../../assets/img/validacion.jpg)
 
-Si el usuario ya se encuentra en la base de datos, sale un aviso para que NO pueda votar y que siga otra persona.
-
-Votando:
+**Votando:**
 
 En el caso de que la persona no se encuentre en la base de datos, significa que puede votar. Entonces aparece un listado de candidatos para que seleccione su voto.
 
 ![Votando](../../../assets/img/votando.jpg)
 
-Votando al candidato:
+**Votando al candidato:**
 
 Cuando se selecciona a un candidato, un aviso aparece para que el votante indique su consentimiento al voto.
 
 ![Votando al Candidato](../../../assets/img/votando-candidato.jpg)
 
-Estadísticas
+**Estadísticas:**
 
 Una vez que se vota, el candidato seleccionado suma un punto y pasa a las estadísticas. Con un progress-bar de bootstrap se muestra el avance hasta el momento.
 
 ![Estadísticas](../../../assets/img/estadisticas.jpg)
+
+***
+
+## Calificación
+
+>Como estás?, antes que nada gracias por haber cursado la diplomatura.
+>
+>Te cuento que estuve revisando tu examen y esta es mi devolución.
+>
+>Descargué e instalé los archivos que dejaste en Google drive y como no vi ningún archivo tipo README, decidí ver lo que enviaste para darme cuenta de como iniciar todo.
+>
+>Vi el directorio data y el startmongo.bat, por ende decidí arrancar la base de datos y anduvo de 10.
+>
+>Luego hice npm install donde estaba el package.json, se instalaron los archivos sin problemas, por último ejecuté npm start y arrancó el sitio con los mensajes que todo estaba corriendo correctamente.
+>
+>Me metí entonces a localhost:3000 y me encontré con tu página de inicio, muy buena!, con muy buen diseño responsiva e intuitiva, pasé a la página de votar y vi el formulario muy sobrio y con las validaciones pedidas de forma correcta, salvo que la validación del dni la hiciste por dni y sexo es decir que hice la votación con mi dni y sexo masculino y me dejó votar, use el back del browser y cambié el sexo a femenino y también me dejó votar con el mismo dni y distinto sexo, creo que solo el dni era suficiente para evitar votos duplicados, pero más allá de eso la validación funciona.
+>
+>El formulario de votación es el mismo solo que hiciste visible la lista de candidatos, bien resuelto por cierto, pero tampoco era lo pedido, se pedía hacerlo en otra página y pasar el parámetro de dni de alguna manera, pero no importa la tuya es una solución válida que evita el problema del manejo de variables entre páginas (ya sea por parámetro, session o storage), lo que no quedó tan bien es que la lista de candidatos no renderiza bien en resoluciones mas pequeñas se corta un poco los elementos pero se puede usar así que no es un impedimento al fin.
+>
+>Luego de votar pasa al formulario de estadísticas que se ve bastante bien, resolviste bien la captura de los datos salvo que vi que pusiste `Votos.find({numeroCandidato: 1}).countDocuments();` lo cual estas haciendo 2 querys a la base de mongo, uno para el filtrado y otro para el conteo, cuando podrías haberlo resuelto tan solo usando `Votos.countDocuments({numeroCandidato: 1});` en una sola llamada, es mejor, lo otro que veo que no pudiste lograr es lo de mostrar los datos ordenados de mayor a menor, esto lo podrias haber resuelto si usabas esta función en el _Ajax_:
+>
+>
+>```
+$.ajax({
+
+                url: '/api/porcentajes',
+
+                method: "GET",
+
+                type: "JSONP",
+
+                success: function(data) {
+
+                    const porc = JSON.parse(data);
+
+                    console.log(porc);
+
+                    //$(".progress > .progress-bar").css("width", resp + "%").text(resp + " %");
+
+                    $.each(porc, function(index, value) {
+
+                        $('.progress-bar').eq(index).attr("votos", value).css("width", value + "%").text(value + " %");
+
+                    });
+
+ 
+
+                    $('tbody').html($('tbody tr').sort(function(a, b) {
+
+                        return $(b).find('.progress-bar').attr('votos') - $(a).find('.progress-bar').attr('votos')
+
+                   }));
+
+ 
+
+                },
+
+                error: function(jqXHR, status, error) {
+
+                    alert('Hubo un error: ' + jqXHR + '-' + error);
+
+                    //$('#listaCandidatos').removeClass('d-none');
+
+                    console.log("Error: " + error);
+
+                }
+
+            });
+```
+>
+>Fijate que primero aggregué el dato de los porcentajes de votos en un attributo “votos” para luego usarlo con el sort que está mas abajo y reemplazarlo en el tbody.
+>
+>Con eso solamente se ordenan los datos.
+>
+>Veo que usaste `EJS` para usar templates de HTML, eso no estaba en el programa ya que íbamos a usar `Angular` para hacer eso, pero bien resuelto y funciona correctamente.
+>
+>El esquema de los datos también es el adecuado el usar `await` y `async` para eliminar los `callbacks` es algo que también no estaba en el curso dado que es un nuevo estándar que se aprobó para el `ES7` y nosotros estábamos trabajando con `ES6`, pero muy bien por haberlo usado, eso muestra inventiva a la hora de resolver problemas.
+>
+>Creo que salvo por el problema de renderizado de la lista de candidatos y resultados y la validación del `dni + sexo` en vez de solo `dni` el resto está perfecto, pero se compensa con el uso del `ejs` y el estándar de `ES7`.
+>
+> **Tu nota es un 10 (diez).**
+>
+>Pronto la gente de la facultad se estará comunicando contigo para hacerte entrega del diploma correspondiente.
+>
+>Espero te haya gustado el curso, creo que ya estas listo para ir por `Angular 5`!, espero este curso te sirva para lo que tengas planeado a futuro.
+>
+>Por mi lado decirte que he disfrutado mucho en dar estas clases y espero nos veamos en alguna otra diplomatura.
+>
+>Te dejo un link a una encuesta para evaluar la cursada, sentite libre de decirnos lo que quieras.
+>_Enlace a la encuesta_
+>
+>Saludos.
+>
+>Lic. Mario Di Giorgio
