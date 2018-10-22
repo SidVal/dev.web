@@ -25,6 +25,7 @@ Lista Completa
 - [Sheetsee.js](https://github.com/jlord/sheetsee.js)
 - [Sigma.js](https://github.com/jacomyal/sigma.js): A JavaScript library dedicated to graph drawing
 - tauCharts
+- [Tabulator](https://github.com/olifolkerd/tabulator)
 - [TOAST UI Chart](https://github.com/nhnent/tui.chart)
 - [ThreeJS](https://github.com/mrdoob/three.js/): JavaScript 3D library.
 - Victory
