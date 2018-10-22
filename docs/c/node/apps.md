@@ -29,6 +29,7 @@ Clasificación de aplicaciones en NodeJS:
 * [Strapi](https://github.com/strapi/strapi) ([website](http://strapi.io)) - Open source Node.js ecosystem to build, deploy and manage your own API.
 * [Enduro.js](https://github.com/Gottwik/enduro) ([website](http://endurojs.com)) - Minimalistic, flat-file, full-fledged cms that gets your website running in minutes.
 * [Raneto](https://github.com/gilbitron/Raneto) ([website](http://raneto.com/)) - Markdown powered Knowledgebase for Nodejs
+* [CogearJS](https://github.com/codemotion/cogear.js) ([Website](https://cogearjs.org/)) - Modern static websites generator (Node.JS/Webpack) 
 
 **Meteor apps**
 * [TelescopeJS](https://github.com/TelescopeJS/Telescope) ([website](http://www.telescopeapp.org)) - Telescope Nova is a free, open-source app platform built with React and powered by Meteor on the back-end. Nova provides simple building blocks such as posts, comments, forms, and modals, and makes it easy to quickly customize them to build modern, social web apps.
