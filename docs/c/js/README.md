@@ -105,9 +105,9 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Using JQuery & NodeJS to scrape the web](https://medium.com/@asimmittal/using-jquery-nodejs-to-scrape-the-web-9bb5d439413b)
 - [Introduction to web scraping with Node.js](https://dev.to/aurelkurtula/introduction-to-web-scraping-with-nodejs-9h2)
 
-### React
+### Scraping Apps
 
-- [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
+[Apify-js](https://github.com/apifytech/apify-js) - Apify-js: The scalable web crawling and scraping library for JavaScript. 
 
 ## Cursos
 
@@ -137,3 +137,7 @@ Artículos y páginas propias sobre JS:
 - [Quickjack](https://github.com/samyk/quickjack) is a point-and-click tool for intuitively producing advanced clickjacking and frame slicing attacks.
 - Idea: [JSON to HTML](https://github.com/SidVal/SidV/issues/16#issue-245083959) - El _24 de Julio del **2017**_ se me ocurrió pasar el contenido que lanzaba el foro de `Consultoria-SAP.com` a un html puro. En ese enlace dejo el análisis de lo que fue ese momento de investigación y desarrollo. =)
   - Ejemplo de cómo con JS busca y trae contenido desde un `get()` al API de GitHub: [github-status-board](https://github.com/jwarby/github-status-board)
+
+## React
+
+- [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
