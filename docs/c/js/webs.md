@@ -97,6 +97,8 @@ Una sencilla librería Javascript para la creación de páginas web con desplaza
 
 Para minimizar CSS y depurar, he leído que hay librerías que usan _Gulp_ para llevar más allá la depuración de las hojas de estilo en los sitios web y optimizar la carga y uso de los recursos. Leer ["Generate Clean CSS"](https://github.com/uncompiled/amp-bootstrap-example#step-4-generate-clean-css) para tener una idea de lo que se podría hacer, está muy interesante.
 
+- [How to minify your CSS with gulp](https://medium.freecodecamp.org/how-to-minify-your-css-with-gulp-6ff3f4a896b5)
+
 Referencias [#CSS](/c/css/), [#AMP](/c/amp.md), [#NODE](/c/node/)
 
 ## Hapi
