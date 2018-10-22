@@ -34,8 +34,8 @@ A priori, AngularJS es MUY distinto de lo que hoy es "Angular" (al momento de re
 
 ## Prácticos
 
+- [PWA with Angular](/c/pwa.md#prácticos)
 - [Creating Reusable Animations in Angular](https://netbasal.com/creating-reusable-animations-in-angular-6a2350d6191a)
-- [Building A PWA Using Angular 6](https://www.smashingmagazine.com/2018/09/pwa-angular-6/)
 
 ## Observaciones
 
