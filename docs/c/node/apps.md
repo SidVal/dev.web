@@ -79,6 +79,7 @@ Clasificación de aplicaciones en NodeJS:
 * [Gadael](https://github.com/gadael/gadael) ([website](http://www.gadael.org)) Leave management software with french work regulations support.
 * [Basic Hospital Information Management Application](https://github.com/IMA-WorldHealth/bhima-2.X) ([website](https://bhi.ma/)) - Hospital management suite for the developing world.
 * [Agile GPS](https://github.com/llambda/agilegps) - Real-time fleet tracking software
+* [ZenBot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 
 ## Science
 
