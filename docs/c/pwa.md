@@ -30,6 +30,8 @@ Ver avance de aplicaciones en [GitHub: Topic/PWA](https://github.com/topics/pwa)
 ## Prácticos
 
 - [Building A PWA Using Angular 6](https://www.smashingmagazine.com/2018/09/pwa-angular-6/)
+- [Building a Search-Engine Optimized PWA with Angular — Part 1](https://blog.bitsrc.io/building-a-search-engine-optimized-pwa-with-angular-part-1-237ec0dc888e)
+- [Building a Search-Engine Optimized PWA with Angular — Part 2](https://blog.bitsrc.io/building-an-search-engine-optimized-pwa-with-angular-part-2-4473aed90c14)
 
 ## Directorio
 
