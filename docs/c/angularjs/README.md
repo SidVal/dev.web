@@ -30,6 +30,7 @@ A priori, AngularJS es MUY distinto de lo que hoy es "Angular" (al momento de re
 - [The Good and the Bad of Angular Development](https://medium.com/@AltexSoft/the-good-and-the-bad-of-angular-development-b30220bf010a)
 - [A comparison between Angular and React and their core languages](https://medium.freecodecamp.org/a-comparison-between-angular-and-react-and-their-core-languages-9de52f485a76)
 - [Best practices for a clean and performant Angular application](https://medium.freecodecamp.org/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f)
+- [Want to learn Angular? Here’s our free 33-part course by Dan Wahlin!](https://medium.freecodecamp.org/want-to-learn-angular-heres-our-free-33-part-course-by-dan-wahlin-fc2ff27ab451)
 
 ## Prácticos
 
