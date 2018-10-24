@@ -6,6 +6,7 @@ Ver avance de aplicaciones en [GitHub: Topic/PWA](https://github.com/topics/pwa)
 
 ## Lecturas
 
+- [An introduction to Progressive Web Apps](https://medium.freecodecamp.org/an-introduction-to-progressive-web-apps-6aa75f32816f)
 - [SEO para Progressive Web APPs (PWA) y JavaScript](https://www.analistaseo.es/posicionamiento-buscadores/seo-progressive-web-apps-pwa/)
 - [How you can make a progressive web app in an hour](https://medium.freecodecamp.org/how-you-can-make-a-progressive-web-app-in-an-hour-7e36d560610e) ☆
 - [Smashing Magazine: A Beginner’s Guide To Progressive Web Apps](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/)
