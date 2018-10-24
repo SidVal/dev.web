@@ -15,6 +15,7 @@ Lista Completa
 - [F2](https://github.com/antvis/f2)
 - Metabase
 - Metric-Graphics
+- [Muze](https://github.com/chartshq/muze): Composable data visualisation library for web with a data-first approach
 - [NVD3](https://github.com/novus/nvd3)
 - Raphael
 - Raw graphs
