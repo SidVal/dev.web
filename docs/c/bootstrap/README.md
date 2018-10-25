@@ -1,6 +1,8 @@
 # Bootstrap {docsify-ignore-all}
 
-El [sitio oficial de Bootstrap](https://getbootstrap.com/) posee documentación y guías que son excelentes para lograr webs responsivas sin esfuerzo.
+<img src="/dev.web/assets/img/bootstrap-favicon.png" alt="Bootstrap Favicon" style="float:left;margin-right:10px;" />[![Bootstrap web](https://badgen.net/badge/www/getbootstrap.com/cyan)](https://getbootstrap.com/) ![Bootstrap](https://badgen.net/github/stars/twbs/bootstrap)
+
+El sitio oficial de Bootstrap posee documentación y guías que son excelentes para lograr webs responsivas sin esfuerzo.
 
 ## Lecturas
 

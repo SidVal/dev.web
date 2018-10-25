@@ -17,6 +17,10 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
   - [Creating horizontal scrolling containers the right way [CSS Grid]](https://uxdesign.cc/creating-horizontal-scrolling-containers-the-right-way-css-grid-c256f64fc585)
   - [How to Recreate the Banksy Artwork Shredder Using CSS Grid](https://medium.com/@leemartin/how-to-recreate-the-banksy-artwork-shredder-using-css-grid-ff20c0f5a19)
 
+## Guías
+
+- [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css#readme)
+
 ## Lecturas
 
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)

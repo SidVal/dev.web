@@ -74,3 +74,10 @@ Hacer éste ejercicio ayuda a entender cómo debuguear los archivos javascript. 
 - [Comenzar a depurar JavaScript en Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/?hl=es)
 - [How to stop using console.log() and start using your browser’s debugger](https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff)
 - [Cool Chrome DevTools tips and tricks you wish you knew already](https://medium.freecodecamp.org/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2)
+
+### Distintivos
+
+Se conocen como `badges` y son íconos que tienen contenido específico que traen dinámicamente por lo general a través de una `API`.
+
+- [Shields](https://github.com/badges/shields) - [Sitio Web](https://shields.io/)
+- [Badgen](https://github.com/amio/badgen-service) - [Sitio Web](https://badgen.net/)
