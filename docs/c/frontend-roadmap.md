@@ -1,6 +1,6 @@
 # Frontend Roadmap {docsify-ignore-all}
 
-![Frontend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/frontend-v2.png)
+![Frontend Roadmap](https://cdn-images-1.medium.com/max/1000/1*_EfUP-q18EfebxPgZ6BCbA.png)
 
 ## Frontend
 
@@ -44,7 +44,7 @@ Consejos que se desprenden de éste artículo:
     - JSHint
     - JSCS
   - Bundlers
-    - Webpack - (_Recomendado para apps_) - [Primeros pasos](https://desarrolloweb.com/articulos/primeros-pasos-webpack.html) 
+    - [Webpack](/c/js/webpack.md) - (_Recomendado para apps_) 
     - Rollup - (_Recomendado para librerías_)
     - Parcel
     - Browserify
