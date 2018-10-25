@@ -1,6 +1,6 @@
-# ![Bootstrap](https://sidval.github.io/dev.web/assets/img/bootstrap-favicon.png) Bootstrap {docsify-ignore-all}
+# Bootstrap {docsify-ignore-all}
 
-[![Bootstrap web](https://badgen.net/badge/www/getbootstrap.com/cyan)](https://getbootstrap.com/) [![Bootstrap](https://badgen.net/github/stars/twbs/bootstrap)](https://github.com/twbs/bootstrap)
+<img src="/dev.web/assets/img/bootstrap-favicon.png" alt="Bootstrap Favicon" style="float:left;margin-right:10px;" />[![Bootstrap web](https://badgen.net/badge/www/getbootstrap.com/cyan)](https://getbootstrap.com/) [![Bootstrap](https://badgen.net/github/stars/twbs/bootstrap)](https://github.com/twbs/bootstrap)
 
 El sitio oficial de Bootstrap posee documentación y guías que son excelentes para lograr webs responsivas sin esfuerzo.
 
