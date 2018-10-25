@@ -11,6 +11,6 @@
   * [CSS](/c/css/)
   * [jQuery](/c/jquery/)
   * [JS](/c/js/)
-  * [MongoDB](/c/mongodb)
+  * [MongoDB](/c/mongodb/)
   * [Node](/c/node/)
 * [☆](/medium.md#estrella)
