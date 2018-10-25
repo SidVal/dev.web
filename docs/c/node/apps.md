@@ -29,6 +29,7 @@ Clasificación de aplicaciones en NodeJS:
 * [Strapi](https://github.com/strapi/strapi) ([website](http://strapi.io)) - Open source Node.js ecosystem to build, deploy and manage your own API.
 * [Enduro.js](https://github.com/Gottwik/enduro) ([website](http://endurojs.com)) - Minimalistic, flat-file, full-fledged cms that gets your website running in minutes.
 * [Raneto](https://github.com/gilbitron/Raneto) ([website](http://raneto.com/)) - Markdown powered Knowledgebase for Nodejs
+* [CogearJS](https://github.com/codemotion/cogear.js) ([Website](https://cogearjs.org/)) - Modern static websites generator (Node.JS/Webpack) 
 
 **Meteor apps**
 * [TelescopeJS](https://github.com/TelescopeJS/Telescope) ([website](http://www.telescopeapp.org)) - Telescope Nova is a free, open-source app platform built with React and powered by Meteor on the back-end. Nova provides simple building blocks such as posts, comments, forms, and modals, and makes it easy to quickly customize them to build modern, social web apps.
@@ -79,6 +80,7 @@ Clasificación de aplicaciones en NodeJS:
 * [Gadael](https://github.com/gadael/gadael) ([website](http://www.gadael.org)) Leave management software with french work regulations support.
 * [Basic Hospital Information Management Application](https://github.com/IMA-WorldHealth/bhima-2.X) ([website](https://bhi.ma/)) - Hospital management suite for the developing world.
 * [Agile GPS](https://github.com/llambda/agilegps) - Real-time fleet tracking software
+* [ZenBot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 
 ## Science
 

@@ -45,3 +45,4 @@
 - [Create a Discord bot using Node](https://blog.bitsrc.io/create-a-discord-bot-using-node-dc198817b1a)  
   In this tutorial, I’ll create a simple Discord bot using Node.js. The bot will be connected to a Discord server and translate every message that’s not written in English.
 - [Extracting the content from Word files in NodeJS](https://medium.com/@kieranmaher13/extracting-the-content-from-word-files-in-nodejs-1ccf93ac011f) ☆
+- [Updating an SQL Database Schema using Node.js](https://itnext.io/updating-an-sql-database-schema-using-node-js-6c58173a455a) ☆

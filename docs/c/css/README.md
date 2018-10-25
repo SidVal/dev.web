@@ -28,6 +28,10 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
 - [Time-saving CSS techniques to create responsive images](https://medium.freecodecamp.org/time-saving-css-techniques-to-create-responsive-images-ebb1e84f90d5)
 - [Responsive Data Tables](https://css-tricks.com/responsive-data-tables/)
 
+## Prácticos
+
+- [How to minify your CSS with gulp](https://medium.freecodecamp.org/how-to-minify-your-css-with-gulp-6ff3f4a896b5)
+
 ### Cargar CSS
 
 Cuando cargamos hojas de estilo externas, lo mejor es ir probando el impacto en la velocidad de carga de dicha página. Podemos usar herramientas como [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/?hl=es) y monitorear la velocidad de carga y los consejos que nos brinda la página para optimizar la carga.

@@ -24,19 +24,22 @@ Básicamente es un conjunto de funciones que nos permite comunicarnos con cierta
 - [APIs con Node, TypeScript, Koa y TypeORM](http://blog.koalite.com/2018/07/apis-con-node-typescript-koa-y-typeorm/?utm_source=rss&utm_medium=rss&utm_campaign=apis-con-node-typescript-koa-y-typeorm)
 - [A Proposal for RESTful API’s with Mongoose and Express](https://medium.com/@therealchrisrutherford/a-proposal-for-restful-apis-497924397192)
 
-## Lista <!-- abcdefghijklmnñopqrstuvwxyz -->
-
-- [Chute](/c/api.md#chute)
-- [Elasticsearch](/c/api.md#elasticsearch)
-- [NASA](/c/api.md#nasa)
-- [Slack](/c/api.md#slack)
-
 ### Prácticos
 
 - [Mastering the Spotify API -> part1](https://medium.com/@esmerycornielle/mastering-the-spotify-api-part1-c836b89eb68e)
 - [A practical ES6 guide on how to perform HTTP requests using the Fetch API](https://medium.freecodecamp.org/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547)
 
 ***
+
+## Lista <!-- abcdefghijklmnñopqrstuvwxyz -->
+
+- [Chute](/c/api.md#chute)
+- [Elasticsearch](/c/api.md#elasticsearch)
+- [Graphql-editor](/c/api.md#graphql-editor)
+- [NASA](/c/api.md#nasa)
+- [Slack](/c/api.md#slack)
+
+
 
 ### Chute
 
@@ -45,6 +48,10 @@ Básicamente es un conjunto de funciones que nos permite comunicarnos con cierta
 ### Elasticsearch
 
 [elasticsearch](https://www.elastic.co/products/elasticsearch) es un motor de búsqueda y análisis distribuido, RESTful, capaz de resolver un número creciente de casos de uso. Como corazón de _Elastic Stack_, almacena centralmente sus datos para que pueda descubrir lo esperado y descubrir lo inesperado.
+
+### Graphql-editor
+
+[Graphql-editor](https://github.com/slothking-online/graphql-editor) facilita la comprensión de los esquemas de GrapHQL. Crea un esquema uniendo bloques visuales. GraphQLEditor los transformará en código.
 
 ### Slack
 

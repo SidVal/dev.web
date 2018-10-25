@@ -6,6 +6,7 @@ Ver avance de aplicaciones en [GitHub: Topic/PWA](https://github.com/topics/pwa)
 
 ## Lecturas
 
+- [An introduction to Progressive Web Apps](https://medium.freecodecamp.org/an-introduction-to-progressive-web-apps-6aa75f32816f)
 - [SEO para Progressive Web APPs (PWA) y JavaScript](https://www.analistaseo.es/posicionamiento-buscadores/seo-progressive-web-apps-pwa/)
 - [How you can make a progressive web app in an hour](https://medium.freecodecamp.org/how-you-can-make-a-progressive-web-app-in-an-hour-7e36d560610e) ☆
 - [Smashing Magazine: A Beginner’s Guide To Progressive Web Apps](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/)
@@ -30,6 +31,8 @@ Ver avance de aplicaciones en [GitHub: Topic/PWA](https://github.com/topics/pwa)
 ## Prácticos
 
 - [Building A PWA Using Angular 6](https://www.smashingmagazine.com/2018/09/pwa-angular-6/)
+- [Building a Search-Engine Optimized PWA with Angular — Part 1](https://blog.bitsrc.io/building-a-search-engine-optimized-pwa-with-angular-part-1-237ec0dc888e)
+- [Building a Search-Engine Optimized PWA with Angular — Part 2](https://blog.bitsrc.io/building-an-search-engine-optimized-pwa-with-angular-part-2-4473aed90c14)
 
 ## Directorio
 

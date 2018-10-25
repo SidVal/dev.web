@@ -15,6 +15,7 @@ Lista Completa
 - [F2](https://github.com/antvis/f2)
 - Metabase
 - Metric-Graphics
+- [Muze](https://github.com/chartshq/muze): Composable data visualisation library for web with a data-first approach
 - [NVD3](https://github.com/novus/nvd3)
 - Raphael
 - Raw graphs
@@ -25,6 +26,7 @@ Lista Completa
 - [Sheetsee.js](https://github.com/jlord/sheetsee.js)
 - [Sigma.js](https://github.com/jacomyal/sigma.js): A JavaScript library dedicated to graph drawing
 - tauCharts
+- [Tabulator](https://github.com/olifolkerd/tabulator)
 - [TOAST UI Chart](https://github.com/nhnent/tui.chart)
 - [ThreeJS](https://github.com/mrdoob/three.js/): JavaScript 3D library.
 - Victory

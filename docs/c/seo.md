@@ -2,13 +2,16 @@
 
 El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este documento para volcar el contenido y organizarlo.
 
+![SEO Ranking Factors](https://cdn-images-1.medium.com/max/800/0*Kp4yxlzReKWksqUG.jpg)
+
 ## Lecturas
 
 - [How to attract traffic to your website](https://medium.com/@vaibhavm_84328/attract-traffic-to-your-website-ea72079d887)
 - [SEO Basics for Thrifty Bloggers](https://writingcooperative.com/seo-basics-for-thrifty-bloggers-869a53425fb9)
 - [The Complete Guide to Lazy Loading Images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
+- [New SEO Ranking Factors Study Points to Massive Changes in Google Search Algorithms](https://medium.com/inc./new-seo-ranking-factors-study-points-to-massive-changes-in-google-search-algorithms-115820dc0d31) ☆
 
-## Leer más
+## Tags
 
 - [Medium: SEO](https://medium.com/tag/seo/latest)
 - [Medium: Traffic Optimization](https://medium.com/tag/traffic-optimization/latest)

@@ -91,23 +91,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 
 ## Scraping
 
-?> Me interesé en el tema Scraping cuando estuve buscando cómo desarrollar [esta idea](https://github.com/SidVal/SidV/issues/27#issuecomment-411623167).
-
-- [Client-side web scraping with JavaScript using jQuery and Regex](https://medium.freecodecamp.org/client-side-web-scraping-with-javascript-using-jquery-and-regex-5b57a271cb86)
-- [An Introduction to Web Scraping with Puppeteer](https://medium.com/swlh/an-introduction-to-web-scraping-with-puppeteer-3d35a51fdca0)
-- [Getting started with Puppeteer and Chrome Headless for Web Scraping](https://medium.com/@e_mad_ehsan/getting-started-with-puppeteer-and-chrome-headless-for-web-scrapping-6bf5979dee3e)
-- [Awesome: JavaScript Web Scraping](https://github.com/lorien/awesome-web-scraping/blob/master/javascript.md)
-- [Scraping an AngularJS application](https://stackoverflow.com/questions/27026930/scraping-an-angularjs-application)
-- [Scraping the Web With Node.js](https://scotch.io/tutorials/scraping-the-web-with-node-js)
-- [Client-side web scraping with JavaScript using jQuery and Regex](https://medium.freecodecamp.org/client-side-web-scraping-with-javascript-using-jquery-and-regex-5b57a271cb86)
-- [Scraping data in 3 minutes with Javascript](https://medium.com/data-scraper-tips-tricks/scraping-data-with-javascript-in-3-minutes-8a7cf8275b31)
-- [Web Scraping with a Headless Browser: A Puppeteer Tutorial](https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial)
-- [Using JQuery & NodeJS to scrape the web](https://medium.com/@asimmittal/using-jquery-nodejs-to-scrape-the-web-9bb5d439413b)
-- [Introduction to web scraping with Node.js](https://dev.to/aurelkurtula/introduction-to-web-scraping-with-nodejs-9h2)
-
-### React
-
-- [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
+!> Contanido migrado a [`../c/js/scraping`](/c/js/scraping.md)
 
 ## Cursos
 
@@ -137,3 +121,7 @@ Artículos y páginas propias sobre JS:
 - [Quickjack](https://github.com/samyk/quickjack) is a point-and-click tool for intuitively producing advanced clickjacking and frame slicing attacks.
 - Idea: [JSON to HTML](https://github.com/SidVal/SidV/issues/16#issue-245083959) - El _24 de Julio del **2017**_ se me ocurrió pasar el contenido que lanzaba el foro de `Consultoria-SAP.com` a un html puro. En ese enlace dejo el análisis de lo que fue ese momento de investigación y desarrollo. =)
   - Ejemplo de cómo con JS busca y trae contenido desde un `get()` al API de GitHub: [github-status-board](https://github.com/jwarby/github-status-board)
+
+## React
+
+- [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)

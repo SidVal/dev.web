@@ -33,6 +33,7 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 - [HTML5: elementos que pueden ser omitidos](https://html.spec.whatwg.org/multipage/syntax.html#syntax-tag-omission)
 - [Writing Blazing Fast HTML Code](https://medium.com/@thomlom/writing-blazing-fast-html-code-97d19413af41)
 - [A tale of Webpack 4 and how to finally configure it in the right way](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1)
+- [10 Tips for Designing Perfect Forms](https://medium.com/@onepixelout/10-tips-for-designing-perfect-forms-14c5f25b0dec) ☆
 
 ## Videos
 
@@ -72,3 +73,4 @@ Hacer éste ejercicio ayuda a entender cómo debuguear los archivos javascript. 
 
 - [Comenzar a depurar JavaScript en Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/?hl=es)
 - [How to stop using console.log() and start using your browser’s debugger](https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff)
+- [Cool Chrome DevTools tips and tricks you wish you knew already](https://medium.freecodecamp.org/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2)
