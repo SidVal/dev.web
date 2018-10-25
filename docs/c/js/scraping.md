@@ -19,6 +19,7 @@ _Scraping_ de _Web Scraping_ no debe confundirse con el término _scrapping_.
 - [Using JQuery & NodeJS to scrape the web](https://medium.com/@asimmittal/using-jquery-nodejs-to-scrape-the-web-9bb5d439413b)
 - [Introduction to web scraping with Node.js](https://dev.to/aurelkurtula/introduction-to-web-scraping-with-nodejs-9h2)
 - [Using Puppeteer in Google Cloud Functions](https://rominirani.com/using-puppeteer-in-google-cloud-functions-809a14856e14)
+- [Web Scraping With Express And Puppeteer](https://medium.com/@joshblf/web-scraping-with-express-and-puppeteer-1c1b47bb2a21) ☆
 
 ### Scraping Apps
 
