@@ -33,6 +33,7 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 - [HTML5: elementos que pueden ser omitidos](https://html.spec.whatwg.org/multipage/syntax.html#syntax-tag-omission)
 - [Writing Blazing Fast HTML Code](https://medium.com/@thomlom/writing-blazing-fast-html-code-97d19413af41)
 - [A tale of Webpack 4 and how to finally configure it in the right way](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1)
+- [10 Tips for Designing Perfect Forms](https://medium.com/@onepixelout/10-tips-for-designing-perfect-forms-14c5f25b0dec) ☆
 
 ## Videos
 
