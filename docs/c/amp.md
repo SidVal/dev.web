@@ -1,5 +1,7 @@
 # Accelerated Mobile Pages
 
+<img src="/dev.web/assets/img/amp-favicon.png" alt="AMP Favicon" style="float:left;margin-right:10px;" />[![AMP Project web](https://badgen.net/badge/www/ampproject.org/cyan)](https://www.ampproject.org/) [![AMP Project](https://badgen.net/github/stars/ampproject/amphtml)](https://github.com/ampproject/amphtml)
+
 Su sitio oficial en inglés es [Accelerated Mobile Pages Project – AMP](https://www.ampproject.org) y está también en _español_, aunque recomiendo siempre que se pueda leer la versión en inglés que -por lo general- está más actualizada.
 
 >El proyecto AMP es una iniciativa de código abierto que busca mejorar la web para todos. El proyecto permite la creación de sitios web y anuncios consistentemente rápidos, bellos y de alto rendimiento en dispositivos y plataformas de distribución.

@@ -1,5 +1,7 @@
 # jQuery
 
+<img src="/dev.web/assets/img/jquery-favicon.png" alt="jQuery Favicon" style="float:left;margin-right:10px;" />[![jQuery web](https://badgen.net/badge/www/jquery.com/cyan)](https://jquery.com/) [![jQuey](https://badgen.net/github/stars/jquery/jquery)](https://github.com/jquery/jquery)
+
 Este apartado es para leer todo sobre jQuery.
 
 Referencia por defecto: [jquery.com](https://jquery.com/)

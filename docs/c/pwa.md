@@ -1,8 +1,8 @@
 # Progressive Web Apps
 
-Las aplicaciones web progresivas son un híbrido de un sitio web y una aplicación que puede usar en una tableta o un dispositivo móvil.
+<img src="/dev.web/assets/img/pwa-favicon.png" alt="PWA Favicon" style="float:left;margin-right:10px;" /> - [GitHub: Topic/PWA](https://github.com/topics/pwa)
 
-Ver avance de aplicaciones en [GitHub: Topic/PWA](https://github.com/topics/pwa)
+Las aplicaciones web progresivas son un híbrido de un sitio web y una aplicación que puede usar en una tableta o un dispositivo móvil.
 
 ## Lecturas
 
