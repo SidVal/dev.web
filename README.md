@@ -1,7 +1,15 @@
 # dev.web
-![](https://badgen.net/github/release/sidval/dev.web) ![](https://badgen.net/github/tag/sidval/dev.web) ![](https://badgen.net/github/license/sidval/dev.web) ![](https://badgen.net/badge/be/happy%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86/green)
+![Release](https://badgen.net/github/release/sidval/dev.web) ![Commits](https://badgen.net/github/commits/sidval/dev.web) ![License](https://badgen.net/github/license/sidval/dev.web) ![Be Happy](https://badgen.net/badge/be/happy%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86/green)<div align="right" style="float:right;"><i><a href="https://github.com/SidVal/dev.web/releases" target="_new">v.0.2.5-beta ½</a></i> :smile: </div>
 
-Repo público sobre el curso de Desarrollo Web a iniciar en Mayo 2018
+Repositorio público sobre conocimientos de "Desarrollo Web".
+
+Se busca que estos documentos sean un repaso para aquellas personas que quieren aprender a desarrollar web, o afianzar sus conocimientos.
+
+Con el tiempo se convertirá en mi página para exponer todo lo que sea sobre el _WebMaster_ que llevo adentro. Para nada experto, y siempre aprendiendo cosas nuevas sobre lo que respecta a páginas web y tecnología web en general.
+
+>Si gustas corregir :pencil2: o sugerir :bulb: algún cambio, [**por favor envía tu mensaje aquí**](https://github.com/SidVal/dev.web/issues/new?assignee=SidVal) :pray:
+>
+>Se creará más adelante una página del tipo "sobre el autor" o algo relacionado, para comentar quién soy, por qué hago todo ésto, etcétera etcétera.
 
 ## Contenidos del curso
 
