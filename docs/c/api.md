@@ -25,6 +25,7 @@ Para ampliar y conocer más _APIs_: [GitHub: API](https://github.com/topics/api)
 - [Understanding RPC, REST and GraphQL](https://blog.apisyouwonthate.com/understanding-rpc-rest-and-graphql-2f959aadebe7)
 - [APIs con Node, TypeScript, Koa y TypeORM](http://blog.koalite.com/2018/07/apis-con-node-typescript-koa-y-typeorm/?utm_source=rss&utm_medium=rss&utm_campaign=apis-con-node-typescript-koa-y-typeorm)
 - [A Proposal for RESTful API’s with Mongoose and Express](https://medium.com/@therealchrisrutherford/a-proposal-for-restful-apis-497924397192)
+- [Beginner’s Guide to the Giphy API](https://medium.com/@mattcroak718/beginners-guide-to-the-giphy-api-316f98459d06) ☆
 
 ### Prácticos
 
