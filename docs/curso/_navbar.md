@@ -1,3 +1,2 @@
-# Cursos
-
-- [Diplomatura Web](/curso/utn/dw/)
+- Cursos
+  - [Diplomatura Web](/curso/utn/dw/)
