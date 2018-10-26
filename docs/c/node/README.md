@@ -1,6 +1,6 @@
 # node
 
-<img src="/dev.web/assets/img/node-favicon.png" alt="Node Favicon" style="float:left;margin-right:10px;" />Sitio oficial: [Node](https://nodejs.org/es/) -en español.
+<img src="/dev.web/assets/img/node-favicon.png" alt="Node Favicon" style="float:left;margin-right:10px;" />[![NodeJS web](https://badgen.net/badge/www/nodejs.org/cyan)](https://nodejs.org) [![NodeJS](https://badgen.net/github/stars/nodejs/node)](https://github.com/nodejs/node)
 
 ## Videos
 

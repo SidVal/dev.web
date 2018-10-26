@@ -1,5 +1,7 @@
 # MongoDB
 
+<img src="/dev.web/assets/img/mongodb-favicon.png" alt="MongoDB Favicon" style="float:left;margin-right:10px;" />[![MongoDB web](https://badgen.net/badge/www/mongodb.com/cyan)](https://www.mongodb.com) [![MongoDB](https://badgen.net/github/stars/mongodb/mongo)](https://github.com/mongodb/mongo)
+
 - [Reference](https://docs.mongodb.com/manual/reference/)
 - [Introduction to MongoDB](https://docs.mongodb.com/manual/introduction/)
 

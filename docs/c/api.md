@@ -4,6 +4,8 @@
 
 Básicamente es un conjunto de funciones que nos permite comunicarnos con cierta página web (la que ofrece la API) para acceder a información y gestionar dicho acceso (manipular o mostrar los datos).
 
+Para ampliar y conocer más _APIs_: [GitHub: API](https://github.com/topics/api)
+
 ## API Economy
 
 > ... a term used to describe how APIs can positively affect an organization’s profitability. _--Source: [6 Interesting APIs to Check Out in 2018](https://codeburst.io/6-interesting-apis-to-check-out-in-2018-5d6830063f29)_
@@ -38,8 +40,6 @@ Básicamente es un conjunto de funciones que nos permite comunicarnos con cierta
 - [Graphql-editor](/c/api.md#graphql-editor)
 - [NASA](/c/api.md#nasa)
 - [Slack](/c/api.md#slack)
-
-
 
 ### Chute
 
