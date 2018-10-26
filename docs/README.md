@@ -1,9 +1,9 @@
 # Dev.Web
-![](https://badgen.net/github/release/sidval/dev.web) ![](https://badgen.net/github/tag/sidval/dev.web) ![](https://badgen.net/github/license/sidval/dev.web) ![](https://badgen.net/badge/be/happy%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86/green)<div align="right" style="float:right;"><i><a href="https://github.com/SidVal/dev.web/releases" target="_new">v.0.2.5-beta ½</a></i> :smile: </div>
+![Release](https://badgen.net/github/release/sidval/dev.web) ![Commits](https://badgen.net/github/commits/sidval/dev.web) ![License](https://badgen.net/github/license/sidval/dev.web) ![Be Happy](https://badgen.net/badge/be/happy%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86/green)<div align="right" style="float:right;"><i><a href="https://github.com/SidVal/dev.web/releases" target="_new">v.0.2.5-beta ½</a></i> :smile: </div>
 
 ## Presentación del repo
 
-Repo público sobre el curso de Desarrollo Web a iniciar en Mayo 2018
+Repositorio público sobre conocimientos de "Desarrollo Web".
 
 Se busca que estos documentos sean un repaso para aquellas personas que quieren aprender a desarrollar web, o afianzar sus conocimientos.
 
@@ -13,7 +13,7 @@ Con el tiempo se convertirá en mi página para exponer todo lo que sea sobre el
 
 ?>Se creará más adelante una página del tipo "sobre el autor" o algo relacionado, para comentar quién soy, por qué hago todo ésto, etcétera etcétera.
 
-## Contenidos del curso
+## Contenidos vistos
 
 En términos muy generales se va a desarrollar:
 
@@ -26,7 +26,7 @@ En términos muy generales se va a desarrollar:
 * Node.JS y Express.js
 * REST
 
-Más información sobre el avance, ver [logs](https://github.com/SidVal/dev.web/wiki/logs).
+Más información sobre el avance del repositorio, ver [logs](https://github.com/SidVal/dev.web/wiki/logs).
 
 ## Software recomendado
 
@@ -44,19 +44,3 @@ También, sé por experiencia previa (con C# por ejemplo), uno va probando disti
 Qué mejor lugar que éste para lanzar los errores, e ir teniendo un lugar para ir documentando lo que se aprende.
 
 En la parte del [Wiki](https://github.com/SidVal/dev.web/wiki), se irá actualizando documentación sobre el curso (lo que pueda publicarse y que nadie se moleste en la Universidad porque el contenido está publicado).
-
-***
-
-### Para recordar
-
-Esto será eliminado cuando termine de publicar este espacio.
-
-`!> **Time** is money, my friend!`
-
-`?> _TODO_ unit test`
-
-`[link](/demo/ ':ignore title')`
-
-`[link](/demo ':disabled')`
-
-`-[ ] Recoardar que sirve para tareas` :exclamation:
