@@ -1,6 +1,6 @@
 # AngularJS
 
-<img src="/dev.web/assets/img/angular-favicon.png" alt="Angular Favicon" style="float:left;margin-right:10px;" />[![Angular web](https://badgen.net/badge/www/angularjs.org/cyan)](https://angularjs.org/) [![Angular](https://badgen.net/github/stars/angular/angular.js)](https://github.com/angular/angular.js)
+<img src="/dev.web/assets/img/angular-favicon.png" alt="AngularJS Favicon" style="float:left;margin-right:10px;" />
 
 >Angular es un framework JavaScript, gratuito y Open Source, creado por Google y destinado a facilitar la creación de aplicaciones web modernas de tipo SPA (Single Page Application).
 
@@ -8,8 +8,8 @@ A priori, AngularJS es MUY distinto de lo que hoy es "Angular" (al momento de re
 
 ## Sitio Oficial
 
-- [AngularJS](https://angularjs.org/) - Versión 1.x
-- [Angular](https://angular.io/) - Versión +2 
+- [AngularJS](https://angularjs.org/) - Versión 1.x - [![AngularJS web](https://badgen.net/badge/www/angularjs.org/cyan)](https://angularjs.org/) [![AngularJS](https://badgen.net/github/stars/angular/angular.js)](https://github.com/angular/angular.js)
+- [Angular](https://angular.io/) - Versión +2 - [![Angular web](https://badgen.net/badge/www/angular.io/cyan)](https://angular.io/) [![Angular](https://badgen.net/github/stars/angular/angular)](https://github.com/angular/angular)
 
 ?>¿Por qué AngularJS y no Angular? Aunque parezca una diferencia menor, no lo es. Leer las [10 diferencias entre AngularJS y Angular](https://www.campusmvp.es/recursos/post/las-10-principales-diferencias-entre-angularjs-y-angular.aspx).
 
