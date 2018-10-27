@@ -1,5 +1,7 @@
 # AngularJS
 
+<img src="/dev.web/assets/img/angular-favicon.png" alt="Angular Favicon" style="float:left;margin-right:10px;" />[![Angular web](https://badgen.net/badge/www/angularjs.org/cyan)](https://angularjs.org/) [![Angular](https://badgen.net/github/stars/angular/angular.js)](https://github.com/angular/angular.js)
+
 >Angular es un framework JavaScript, gratuito y Open Source, creado por Google y destinado a facilitar la creación de aplicaciones web modernas de tipo SPA (Single Page Application).
 
 A priori, AngularJS es MUY distinto de lo que hoy es "Angular" (al momento de redactar éste documento, vamos por la versión 6 de Angular).
