@@ -1,6 +1,6 @@
 # AngularJS
 
-<img src="/dev.web/assets/img/angular-favicon.png" alt="AngularJS Favicon" style="float:left;margin-right:10px;" />
+<img src="/dev.web/assets/img/angular-favicon.png" alt="AngularJS Favicon" style="float:right;margin-top: -50px;" />
 
 >Angular es un framework JavaScript, gratuito y Open Source, creado por Google y destinado a facilitar la creación de aplicaciones web modernas de tipo SPA (Single Page Application).
 
