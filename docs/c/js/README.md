@@ -126,4 +126,7 @@ Artículos y páginas propias sobre JS:
 
 ## React
 
+- [_Medium - Tag: React_](https://medium.com/tag/react)
 - [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
+- [How to Build a Chat Application using React, Redux, Redux-Saga, and Web Sockets](https://medium.freecodecamp.org/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a)
+- [9 React Styled-Components UI Libraries for 2018](https://blog.bitsrc.io/9-react-styled-components-ui-libraries-for-2018-4e1a0bd3e179)
