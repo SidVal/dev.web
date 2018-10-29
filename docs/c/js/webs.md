@@ -33,6 +33,7 @@ Listado completo:
 - [Polymer](/c/js/webs#polymer)
 - [Polished](/c/js/webs#polished)
 - [Prettier](/c/js/webs#prettier)
+- [Progressive-image](/c/js/webs#progressive-image)
 - [Ramda](/c/js/webs#ramda)
 - [React](/c/js/webs#react)
 - [Riot](/c/js/webs#riot)
@@ -199,6 +200,10 @@ Lanzado a principios de 2017, [Knockout.js](https://github.com/knockout/knockout
 ## Prettier
 
 [Prettier](https://github.com/prettier/prettier) es un dogmático formateador de código. Aplica un estilo coherente al analizar su código y volver a imprimirlo con sus propias reglas, que tienen en cuenta la longitud de línea máxima y envuelven el código cuando sea necesario.
+
+## Progressive-image
+
+[progressive-image.js](https://github.com/craigbuckler/progressive-image.js) es una imagen progresiva de "lazy-loading" similar a las que se ven en _Facebook_ y en _Medium_.
 
 ## Ramda
 
