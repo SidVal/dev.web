@@ -244,6 +244,8 @@ Lanzado a principios de 2017, [Knockout.js](https://github.com/knockout/knockout
 - [Why I chose Vue.js over React](https://medium.com/@luistinygod/why-i-chose-vue-js-over-react-509ad12d7b53) ☆
 - [Build a task app with Hapi, MongoDB and Vue.js](https://medium.com/employbl/build-a-task-app-with-hapi-mongodb-and-vue-js-dc05c1bb8778) ☆
 - [Build a Project Management Tool with Vue.js, node.js and Apollo — Part1](https://medium.com/@kenzotakahashi2/build-a-project-management-software-with-vue-js-and-apollo-part1-d12ee75a7641)
+- [Hit The Ground Running With Vue.js And Firestore](https://medium.com/@smashingmag/hit-the-ground-running-with-vue-js-and-firestore-8b45d6a9fa0b) ☆
+- [How to Make Form Submissions Secure on an API Website](https://itnext.io/how-to-make-form-submissions-secure-on-an-api-website-d80bcfdb5149)
 
 ## VuePress
 
