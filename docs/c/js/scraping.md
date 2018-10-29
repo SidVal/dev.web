@@ -6,6 +6,7 @@ _Scraping_ de _Web Scraping_ no debe confundirse con el término _scrapping_.
 
 ## Lecturas
 
+- [_Medium: Scraping_](https://medium.com/tag/scraping)
 - [Qué es el Web scraping? Introducción y herramientas](https://sitelabs.es/web-scraping-introduccion-y-herramientas/)
 - [Client-side web scraping with JavaScript using jQuery and Regex](https://medium.freecodecamp.org/client-side-web-scraping-with-javascript-using-jquery-and-regex-5b57a271cb86)
 - [An Introduction to Web Scraping with Puppeteer](https://medium.com/swlh/an-introduction-to-web-scraping-with-puppeteer-3d35a51fdca0)
