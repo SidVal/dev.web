@@ -1,6 +1,6 @@
 # JavaScript
 
-<img src="/dev.web/assets/img/js-favicon.png" alt="JavaScript Favicon" style="float:left;margin-right:10px;" />GitHub: [Javascript](https://github.com/topics/javascript)
+<img src="/dev.web/assets/img/js-favicon.png" alt="JavaScript Favicon" style="float:left;margin-right:10px;" /> [GitHub: Javascript](https://github.com/topics/javascript) - [Medium: JavaScript](https://medium.com/tag/javascript) - [Medium Topic: Javascript](https://medium.com/topic/javascript)
 
 Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia en lenguajes de scripting y/o interpretados. Para estos desarrolladores, el concepto y las implicaciones de las variables de tipado blando quizas son de segunda naturaleza. Como siempre, el crecimiento explosivo en demanda para aplicaciones web modernas, ha resultado en un crecimiento en el número de desarrolladores `back-end` que han tenido que meter sus manos en tecnologías del lado del cliente. Muchos de estos programadores llegan experiencia en lenguajes de tipado fuerte, tales como `C#` o `Java`, y le resultan desconocidas las libertades y las potenciales trampas envueltas en el trabajo con variables de tipado blando (se conoce como _Loose Typing_).
 
@@ -112,7 +112,6 @@ Artículos y páginas propias sobre JS:
 
 - [Create JavaScript-Powered Data Charts With Billboard.js](https://www.hongkiat.com/blog/create-javascript-powered-data-charts-billboardjs/)
 - [Let’s create an Instagram bot to show you the power of Selenium!](https://medium.com/@mottet.dev/lets-create-an-instagram-bot-to-show-you-the-power-of-selenium-349d7a6744f7) ☆
-- [Hit The Ground Running With Vue.js And Firestore](https://medium.com/@smashingmag/hit-the-ground-running-with-vue-js-and-firestore-8b45d6a9fa0b) ☆
 - [Why (And How) I Built My Own News Website](https://medium.com/@kieranmaher13/why-and-how-i-built-my-own-news-website-7e025b8e20e) ☆
 - [Make multipage HTML development suck less with Pug](https://medium.freecodecamp.org/make-multipage-html-development-suck-less-with-pug-fb23bc8e7874) ☆
 - [Best HTML, CSS, Javascript Practice : Chrome Extension](https://medium.com/@thejungwon/best-html-css-javascript-practice-chrome-extension-ae4e5e7839e) ☆
@@ -123,7 +122,3 @@ Artículos y páginas propias sobre JS:
 - [Quickjack](https://github.com/samyk/quickjack) is a point-and-click tool for intuitively producing advanced clickjacking and frame slicing attacks.
 - Idea: [JSON to HTML](https://github.com/SidVal/SidV/issues/16#issue-245083959) - El _24 de Julio del **2017**_ se me ocurrió pasar el contenido que lanzaba el foro de `Consultoria-SAP.com` a un html puro. En ese enlace dejo el análisis de lo que fue ese momento de investigación y desarrollo. =)
   - Ejemplo de cómo con JS busca y trae contenido desde un `get()` al API de GitHub: [github-status-board](https://github.com/jwarby/github-status-board)
-
-## React
-
-- [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
