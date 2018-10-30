@@ -15,7 +15,6 @@ Listado completo:
 - [Emmet](/c/js/webs#emmet)
 - [Face-api.js](/c/js/webs#face-apijs)
 - [FullPage.JS](/c/js/webs#fullpagejs)
-- [Gatsbyjs](/c/js/webs#gatsbyjs)
 - [Gulp.js](/c/js/webs#gulpjs)
 - [Hapi](/c/js/webs#hapi)
 - [Knockout](/c/js/webs#knockout)
@@ -83,10 +82,6 @@ El mejor ejemplo de cómo podría funcionar Emmet es con abreviaciones en códig
 Una sencilla librería Javascript para la creación de páginas web con desplazamiento a pantalla completa. También conocida popularmente como "single page websites" o "onepage sites". Permite crear un desplazamiento a pantalla completa, así como añadir diapositivas horizontales en las secciones.
 
 [Más info: FullPageJS (en español)](https://github.com/alvarotrigo/fullPage.js/tree/master/lang/spanish#fullpagejs)
-
-## Gatsbyjs
-
-[Gatsbyjs](https://github.com/gatsbyjs/gatsby) es un generador de sitios moderno y rápido para React. [_-Ver tutorial_](https://www.gatsbyjs.org/tutorial/)
 
 ## Gulp.js
 
