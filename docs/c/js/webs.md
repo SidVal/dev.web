@@ -17,8 +17,8 @@ Listado completo:
 - [Face-api.js](/c/js/webs#face-apijs)
 - [FullPage.JS](/c/js/webs#fullpagejs)
 - [FuseBox](/c/js/webs#fusebox)
-- [Google Closure Compiler](/c/js/webs#google-closure-compiler)
 - [Gatsbyjs](/c/js/webs#gatsbyjs)
+- [Google Closure Compiler](/c/js/webs#google-closure-compiler)
 - [Gulp.js](/c/js/webs#gulpjs)
 - [Hapi](/c/js/webs#hapi)
 - [Knockout](/c/js/webs#knockout)
@@ -105,15 +105,15 @@ Una sencilla librería Javascript para la creación de páginas web con desplaza
 
 - [Leer comparación de bundlers](https://medium.com/@ajmeyghani/javascript-bundlers-a-comparison-e63f01f2a364) ☆
 
+## Gatsbyjs
+
+[Gatsbyjs](https://github.com/gatsbyjs/gatsby) es un generador de sitios moderno y rápido para React. [_-Ver tutorial_](https://www.gatsbyjs.org/tutorial/)
+
 ## Google Closure Compiler
 
 [Closure Compiler](https://github.com/google/closure-compiler) es una herramienta para realizar descargas de JavaScript y ejecutarlas más rápido. Es un verdadero compilador para JavaScript. En lugar de compilar desde un código fuente a código de máquina, se compila de JavaScript a JavaScript mejor. Analiza su JavaScript, lo analiza, elimina el código muerto y vuelve a escribir y minimiza lo que queda. También verifica la sintaxis, las referencias de variables y los tipos, y advierte sobre las fallas comunes de JavaScript.
 
 - [Leer comparación de bundlers](https://medium.com/@ajmeyghani/javascript-bundlers-a-comparison-e63f01f2a364) ☆
-
-## Gatsbyjs
-
-[Gatsbyjs](https://github.com/gatsbyjs/gatsby) es un generador de sitios moderno y rápido para React. [_-Ver tutorial_](https://www.gatsbyjs.org/tutorial/)
 
 ## Gulp.js
 
