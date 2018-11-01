@@ -50,6 +50,7 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 - [An OAuth 2.0 introduction for beginners](https://itnext.io/an-oauth-2-0-introduction-for-beginners-6e386b19f7a9)
 - [Warning: Your programming career](https://medium.com/sololearn/warning-your-programming-career-b9579b3a878b)
 - [What is a Web Server?](https://codeburst.io/what-is-a-web-server-97362996d229) ☆
+- [Continuous Integration: The What, Why and How](https://css-tricks.com/continuous-integration-the-what-why-and-how/)
 
 ## Prácticos
 
