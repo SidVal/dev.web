@@ -51,6 +51,10 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 - [Warning: Your programming career](https://medium.com/sololearn/warning-your-programming-career-b9579b3a878b)
 - [What is a Web Server?](https://codeburst.io/what-is-a-web-server-97362996d229) ☆
 
+### Continuous Integration
+- [Continuous Integration: The What, Why and How](https://css-tricks.com/continuous-integration-the-what-why-and-how/)
+  - [Developer CI Benefits Docs](https://github.com/yowainwright/developer-ci-benefits/tree/master/docs#readme)
+
 ## Prácticos
 
 - [Launch a Website with a Custom URL using Github Pages and Google Domains](https://medium.com/employbl/launch-a-website-with-a-custom-url-using-github-pages-and-google-domains-3dd8d90cc33b) ☆
