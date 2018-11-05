@@ -38,6 +38,7 @@ A priori, AngularJS es MUY distinto de lo que hoy es "Angular" (al momento de re
 
 - [PWA with Angular](/c/pwa.md#prácticos)
 - [Creating Reusable Animations in Angular](https://netbasal.com/creating-reusable-animations-in-angular-6a2350d6191a)
+- [Lazy loading offscreen images for Angular ngFor list](https://medium.com/@bob.bumsuk.lee/lazy-loading-offscreen-images-for-angular-ngfor-list-520f551a28fd) ☆
 
 ## Observaciones
 
