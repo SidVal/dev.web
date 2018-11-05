@@ -62,6 +62,8 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Level up your programming skills (JS)](http://exercism.io/languages/javascript/about)
 - [JavaScript has primitives, objects and functions](https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf). All of them are values. All are treated as objects, even primitives.
 - [Articles about Gulp](https://github.com/gulpjs/gulp/blob/v3.9.1/docs/README.md#articles)
+- [Understanding Currying in JavaScript](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339)
+- [Let’s clear up the confusion around the slice( ), splice( ), & split( ) methods in JavaScript](https://medium.freecodecamp.org/lets-clear-up-the-confusion-around-the-slice-splice-split-methods-in-javascript-8ba3266c29ae)
 - [JavaScript 30 for 30](https://javascript30.com/) — Learn to build 30 things in 30 days with 30 tutorials. No Frameworks, No Compilers, No Libraries, No Boilerplate.
 - [Loose Typing](http://blog.jeremymartin.name/2008/03/understanding-loose-typing-in.html)
 - [Modern JavaScript features which you should be using every day for better development and what problems do they solve](https://medium.com/@tkwebdev/modern-javascript-features-which-you-should-be-using-every-day-for-better-development-and-what-66d74633e896) ☆
