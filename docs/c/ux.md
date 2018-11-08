@@ -16,7 +16,7 @@
 - Form Design: 
   - [Checkbox vs Toggle Switch](https://uxplanet.org/checkbox-vs-toggle-switch-7fc6e83f10b8)
   - [Form fields — Required vs Optional](https://uxdesign.cc/form-field-required-vs-optional-9b4d7cdbf400) ☆
-
+- [How to Make User’s Life Miserable (UX From Hell)](https://medium.com/@bradley_nice/how-to-make-users-life-miserable-ux-from-hell-6e7c92eb350c)
 
 ## Herramientas
 
