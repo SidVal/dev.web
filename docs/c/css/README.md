@@ -33,6 +33,7 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
 - [How to get better at writing CSS](https://medium.freecodecamp.org/how-to-get-better-at-writing-css-a1732c32a72f)
 - [Time-saving CSS techniques to create responsive images](https://medium.freecodecamp.org/time-saving-css-techniques-to-create-responsive-images-ebb1e84f90d5)
 - [Responsive Data Tables](https://css-tricks.com/responsive-data-tables/)
+- [Detect a touch device with only CSS](https://medium.com/@ferie/detect-a-touch-device-with-only-css-9f8e30fa1134) ☆
 
 ## Prácticos
 
