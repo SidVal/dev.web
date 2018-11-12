@@ -13,6 +13,7 @@ Para ampliar y conocer más _APIs_: [GitHub: API](https://github.com/topics/api)
 ## Lecturas
 
 - [What is an API? In English, please](https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82)
+- [An OAuth 2.0 introduction for beginners](https://itnext.io/an-oauth-2-0-introduction-for-beginners-6e386b19f7a9)
 - [Picking the right API Paradigm](https://blog.apisyouwonthate.com/picking-the-right-api-paradigm-d476f1a622e8)
 - [Understanding RPC, REST and GraphQL](https://blog.apisyouwonthate.com/understanding-rpc-rest-and-graphql-2f959aadebe7)
 - [What is difference between REST and API?](https://stackoverflow.com/a/41189936/4822186)
