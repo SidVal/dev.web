@@ -76,7 +76,9 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Universal JavaScript](https://cdb.reacttraining.com/universal-javascript-4761051b7ae9)
 - [Best of JS](https://bestof.js.org/)
 - [Goodbye JavaScript, Hello WebAssembly](https://www.telerik.com/blogs/goodbye-javascript-hello-webassembly)
-
+  - [WebAssembly High-Level Goals](https://webassembly.org/docs/high-level-goals/)
+  - [WebAssembly’s post-MVP future: A cartoon skill tree](https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/)
+- [Start Performance Budgeting](https://medium.com/@addyosmani/start-performance-budgeting-dabde04cf6a3)
 
 ### CodeBurst JavaScript Articles
 
