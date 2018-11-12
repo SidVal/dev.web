@@ -31,6 +31,7 @@
 - [The Dangers of Malicious Modules](https://medium.com/intrinsic/common-node-js-attack-vectors-the-dangers-of-malicious-modules-863ae949e7e8)
 - [The Best of "npm install -g"](https://hackernoon.com/the-best-of-npm-install-g-9ab9d749eeb1)
 - Lista de tutoriales, están clasificados, muy buen sitio (en inglés). - [Node Tutorial](https://grokonez.com/nodejs-tutorial)
+- [Is It Time to Use Node 8?](https://www.toptal.com/nodejs/is-it-time-to-use-node-8)
 
 ## Prácticos
 
