@@ -6,6 +6,7 @@ Listado:
 
 - [Collecciones](/c/css/webs.md#colecciones)
   - [Botones](/c/css/webs.md#colecciones-botones)
+- [BEM](/c/css/webs.md#bem)
 - [FlowType](/c/css/webs.md#flowtype)
 - [Frameworks](/c/css/webs.md#frameworks)
   - Basscss
@@ -93,6 +94,13 @@ Las colecciones son páginas que ofrecen ejemplos de cómo lograr los efectos co
 - [Button Switch](http://codepen.io/geedmo/pen/kBHsI/)
 - [Animated CSS3 Buttons](http://codepen.io/sazzad/pen/yNNNJG)
 - [Colorful CSS Buttons](http://codepen.io/chrisdothtml/pen/waKBdM/)
+
+## BEM
+
+[BEM](https://github.com/getbem/getbem.com/) es `Block Element Modifier`. Ver [sitio oficial de BEM](http://getbem.com/)
+
+- [BEM: Quick Start](https://en.bem.info/methodology/quick-start/)
+- [A quick introduction to Block Element Modifiers (BEM)](https://medium.freecodecamp.org/a-quick-introduction-to-block-element-modifiers-bem-9df46d29b64c)
 
 ## FlowType
 
