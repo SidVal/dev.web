@@ -69,6 +69,7 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 
 - [DevDocs API Documentation](https://devdocs.io/)  
   Para encontrar referencia directa al uso de cualquier lenguaje web. Realmente para darle una buena leída y tenerlo en favoritos.
+- [DevHints.io](https://devhints.io/)
 
 ## Chrome Dev Tools
 
