@@ -32,7 +32,7 @@ Consejos que se desprenden de éste artículo:
   - Materialize CSS
   - Bulma
 - CSS Arquitecture - Si bien hay varias formas para definir la estructura del CSS, y dejar el código más manejable y fácil de mantener, las opciones son:
-  - [BEM](https://en.bem.info/methodology/quick-start/) - (_Recomendado_)
+  - [BEM](/c/css/webs.md#bem) - (_Recomendado_)
   - OOCSS
   - SMACSS
   - SUITCSS
