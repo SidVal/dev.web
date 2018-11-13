@@ -8,6 +8,7 @@ Me animaría a decir que es el ["Todologo"](https://www.consultoria-sap.com/2017
 
 - [Como ser Desarrollador Web Full-stack sin morir en el intento](https://medium.com/@JManzoSistemas/como-ser-desarrollador-web-full-stack-sin-morir-en-el-intento-42c0f8e605c2)
 - [What is a Full Stack developer?](https://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/)
+- [The 2018 Guide to Learning Web Development](https://codeburst.io/the-ultimate-guide-to-learning-full-stack-web-development-in-6-months-for-30-72b3854a7458)
 
 ## Guías
 
