@@ -2,6 +2,9 @@
 
 El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este documento para volcar el contenido y organizarlo.
 
+- [Medium: SEO](https://medium.com/tag/seo/latest)
+- [Medium: Traffic Optimization](https://medium.com/tag/traffic-optimization/latest)
+
 ![SEO Ranking Factors](https://cdn-images-1.medium.com/max/800/0*Kp4yxlzReKWksqUG.jpg)
 
 ## Lecturas
@@ -11,7 +14,12 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 - [SEO Basics for Thrifty Bloggers](https://writingcooperative.com/seo-basics-for-thrifty-bloggers-869a53425fb9)
 - [The Complete Guide to Lazy Loading Images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
 - [New SEO Ranking Factors Study Points to Massive Changes in Google Search Algorithms](https://medium.com/inc./new-seo-ranking-factors-study-points-to-massive-changes-in-google-search-algorithms-115820dc0d31) ☆
+- [Guía de SEO en WordPress: Todo lo que debes saber para optimizar tu sitio en WordPress](https://neoattack.com/seo-en-wordpress/)
+
+## Ecommerce
+
 - [WooCommerce, SEO and how to build a perfect site](https://medium.com/@senormunoz/woocommerce-seo-and-how-to-build-a-perfect-site-543d29b16d47)
+- [SEO para ecommerce: 10 claves y los mejores consejos para mejorar el seo de tu web](https://neoattack.com/seo-para-ecommerce/)
 
 ### Keyword Research
 
@@ -24,11 +32,6 @@ Para mas información sobre el  **Keyword Research** , ya de paso, varias URLs 
 - Carles: [Recursos para crear un Keyword Research](http://www.adrenalina.es/keyword-research/), un artículo de Keyword Research en el blog de Adrenalina
 - Diego Polares: [Cómo hacer un Keyword research para un e-commerce](http://www.izenius.com/blog/keyword-research-ecommerce/), en el blog de izenius
 - Jose B. Moreno: tres artículos sobre la ordenación y la elección de palabras claves: [estrategia de posicionamiento web y palabras claves](http://www.jbmoreno.es/estrategia-de-posicionamiento-web-palabras-clave/), [script para trabajar palabras claves para SEO](http://www.jbmoreno.es/script-palabras-clave-trabajar-seo/), [análisis de palabras clave agrupadas](http://www.jbmoreno.es/analisis-palabras-clave-agrupado-spreadsheet/)
-
-## Tags
-
-- [Medium: SEO](https://medium.com/tag/seo/latest)
-- [Medium: Traffic Optimization](https://medium.com/tag/traffic-optimization/latest)
 
 ## Herramientas
 
