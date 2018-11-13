@@ -6,3 +6,4 @@
   - [SEO](/c/seo.md)
   - [UX](/c/ux.md)
   - [Hosting](/c/hosting.md)
+  - [Templates](/c/templates.md)
