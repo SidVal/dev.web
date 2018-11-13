@@ -19,6 +19,7 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 ## Ecommerce
 
 - [WooCommerce, SEO and how to build a perfect site](https://medium.com/@senormunoz/woocommerce-seo-and-how-to-build-a-perfect-site-543d29b16d47)
+- [The Top 21 Best Practices for Running a Successful Ecommerce Website](https://www.quicksprout.com/2018/05/18/the-top-21-best-practices-for-running-a-successful-ecommerce-website/)
 - [SEO para ecommerce: 10 claves y los mejores consejos para mejorar el seo de tu web](https://neoattack.com/seo-para-ecommerce/)
 
 ### Keyword Research
