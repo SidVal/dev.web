@@ -41,6 +41,7 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 
 ## Otras lecturas
 
+- [La relación entre atributos HTML y propiedades JavaScript](https://www.jasoft.org/Blog/post/la-relacion-entre-atributos-html-y-propiedades-javascript.aspx)
 - [Follow these simple rules and you’ll become a Git and GitHub master](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
 - [Bases de datos relacionales vs. no relacionales: ¿qué es mejor?](https://aukera.es/blog/bases-de-datos-relacionales-vs-no-relacionales/)
 - [The Wide World of Databases](https://blog.usejournal.com/a-light-introduction-to-databases-1154183ab852)
@@ -68,6 +69,7 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 
 - [DevDocs API Documentation](https://devdocs.io/)  
   Para encontrar referencia directa al uso de cualquier lenguaje web. Realmente para darle una buena leída y tenerlo en favoritos.
+- [DevHints.io](https://devhints.io/)
 
 ## Chrome Dev Tools
 

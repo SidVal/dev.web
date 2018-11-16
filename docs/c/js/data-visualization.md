@@ -17,6 +17,7 @@ Lista Completa
 - Metric-Graphics
 - [Muze](https://github.com/chartshq/muze): Composable data visualisation library for web with a data-first approach
 - [NVD3](https://github.com/novus/nvd3)
+- [Plotly](/c/js/data-visualization.md#ploty)
 - Raphael
 - Raw graphs
 - React virtualized
@@ -46,6 +47,17 @@ Lista Completa
 [D3](https://github.com/d3/d3) está diseñado para manipular documentos basados en datos y hacer que los datos cobren vida con HTML, SVG y CSS. D3 pone énfasis en los estándares web le brinda las capacidades de los navegadores modernos sin unirlos a un marco propietario, combinando componentes de visualización y un enfoque basado en datos para la manipulación de DOM. Le permite vincular datos arbitrarios a un Modelo de objetos de documento (DOM) y luego aplicar transformaciones basadas en datos al documento. Ver [galería de ejemplo](https://github.com/d3/d3/wiki/Gallery).
 
 - [D3 is not a Data Visualization Library](https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualization-library-67ba549e8520)
+
+## Ploty
+
+[Plotly.js](https://github.com/plotly/plotly.js/) es una biblioteca ideal para aplicaciones de JavaScript que utilizan gráficos y tablas. Existen algunas razones para considerar su uso para su próximo proyecto de visualización de datos: 
+
+1. Plotly.js usa tanto D3.js (SVG) como WebGL para la representación de gráficos. 
+2. Plotly.js es un "paquete todo en uno" con d3.js y Módulos de stack.gl 
+3. Funciona con el esquema JSON 
+4. Plotly.js admite gráficos básicos, estadísticos, científicos, financieros y de mapas.
+
+- [An introduction to plotly.js — an open source graphing library](https://medium.freecodecamp.org/an-introduction-to-plotly-js-an-open-source-graphing-library-c036a1876e2e)
 
 ***
 

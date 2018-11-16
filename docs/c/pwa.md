@@ -27,6 +27,7 @@ Las aplicaciones web progresivas son un híbrido de un sitio web y una aplicaci�
 - [Building a Search-Engine Optimized PWA with Angular — Part 1](https://blog.bitsrc.io/building-a-search-engine-optimized-pwa-with-angular-part-1-237ec0dc888e)
 - [A Simple Progressive Web App Tutorial](https://medium.com/james-johnson/a-simple-progressive-web-app-tutorial-f9708e5f2605)
 - [PWA vs AMP : Choosing the best for me?](https://codeburst.io/pwa-vs-amp-choosing-the-best-for-me-91c8c48ff152)
+- [PWA — The Power of simplicity](https://medium.com/@krukmat/pwa-the-power-of-simplicity-aabbdba26e37) ☆
 
 ## Prácticos
 
@@ -45,11 +46,14 @@ Nunca imaginé encontrar un [directorio de páginas que son PWA](https://pwa-dir
 - [PWA Tools for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=johnpapa.pwa-tools)
 - [Stencil PWA Toolkit](https://stenciljs.com/pwa)
 - [Universal PWA Builder](https://github.com/lukeed/pwa) - https://pwa.cafe/
+- [PWA Starter Kit](https://polymer.github.io/pwa-starter-kit/)
+- [PWA for ecommerce](https://www.vuestorefront.io/)
 
 ### GitHubs
 
 - [Código fuente para una aplicación progresiva básica que puede ser modificada según sus necesidades](https://github.com/Montellanos/pwa-angular-firebase)
-- [stenciljs](https://github.com/ionic-team/stencil): A Web Component compiler for building fast, reusable UI components and Progressive Web Apps 💎 Built by the Ionic Framework team https://stenciljs.com/
+- [stenciljs](https://github.com/ionic-team/stencil): A Web Component compiler for building fast, reusable UI components and Progressive Web Apps 💎 Built by the Ionic Framework team [stenciljs.com](https://stenciljs.com/)
+- [vue-storefront](https://github.com/DivanteLtd/vue-storefront) - Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported.
 
 ### Otros conocimientos
 

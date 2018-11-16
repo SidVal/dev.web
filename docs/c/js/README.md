@@ -17,6 +17,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [A Practical Guide to Regular Expressions (RegEx) In JavaScript](https://blog.bitsrc.io/a-beginners-guide-to-regular-expressions-regex-in-javascript-9c58feb27eb4)
 - [How to Write Accessible JavaScript](https://medium.com/dailyjs/4-javascript-techniques-for-building-accessible-web-interfaces-348f820c157f)
 - [TypeScript Quick Start Guide](https://levelup.gitconnected.com/typescript-quick-start-guide-7257c2b71538)
+- [JavaScript Tutorial — Lexical Environment](https://medium.com/@js_tut/javascript-tutorial-lexical-environment-3ee161bb2295) ☆
 
 ## Lecturas
 
@@ -43,9 +44,12 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [JavaScript Essentials: Arrays](https://codeburst.io/javascript-essentials-arrays-2d275b9598c5)
 - [JavaScript Essentials: Types & Data Structures](https://codeburst.io/javascript-essentials-types-data-structures-3ac039f9877b)
 - [JavaScript ES6+: var, let, or const?](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75)
+- [Understanding ES6 | Difference between ‘var’, ‘const’ & ‘let’ keywords](https://medium.com/@ashish.panchal/understanding-es6-difference-between-var-const-let-keywords-2fffe1434db6)
+- [Conditional JavaScript for Experts](https://hackernoon.com/conditional-javascript-for-experts-d2aa456ef67c)
 - [A practical ES6 guide on how to perform HTTP requests using the Fetch API](https://medium.freecodecamp.org/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547)
 - [These JavaScript methods will boost your skills in just a few minutes](https://medium.freecodecamp.org/7-javascript-methods-that-will-boost-your-skills-in-less-than-8-minutes-4cc4c3dca03f)
 - [15 HTML element methods you’ve potentially never heard of](https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a)
+- [10 things to learn on the way to becoming a JavaScript Master](https://levelup.gitconnected.com/10-things-to-learn-on-the-way-to-become-a-javascript-master-f4fc632b2bb7)
 - [window.fetch polyfill](https://github.com/github/fetch#readme) - [Fetch Docs](https://github.github.io/fetch/)
 - [JavaScript The Right Way](http://jstherightway.org) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
 - [Code Conventions for the JavaScript](http://crockford.com/javascript/code.html)
@@ -62,6 +66,8 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Level up your programming skills (JS)](http://exercism.io/languages/javascript/about)
 - [JavaScript has primitives, objects and functions](https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf). All of them are values. All are treated as objects, even primitives.
 - [Articles about Gulp](https://github.com/gulpjs/gulp/blob/v3.9.1/docs/README.md#articles)
+- [Understanding Currying in JavaScript](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339)
+- [Let’s clear up the confusion around the slice( ), splice( ), & split( ) methods in JavaScript](https://medium.freecodecamp.org/lets-clear-up-the-confusion-around-the-slice-splice-split-methods-in-javascript-8ba3266c29ae)
 - [JavaScript 30 for 30](https://javascript30.com/) — Learn to build 30 things in 30 days with 30 tutorials. No Frameworks, No Compilers, No Libraries, No Boilerplate.
 - [Loose Typing](http://blog.jeremymartin.name/2008/03/understanding-loose-typing-in.html)
 - [Modern JavaScript features which you should be using every day for better development and what problems do they solve](https://medium.com/@tkwebdev/modern-javascript-features-which-you-should-be-using-every-day-for-better-development-and-what-66d74633e896) ☆
@@ -72,7 +78,9 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Universal JavaScript](https://cdb.reacttraining.com/universal-javascript-4761051b7ae9)
 - [Best of JS](https://bestof.js.org/)
 - [Goodbye JavaScript, Hello WebAssembly](https://www.telerik.com/blogs/goodbye-javascript-hello-webassembly)
-
+  - [WebAssembly High-Level Goals](https://webassembly.org/docs/high-level-goals/)
+  - [WebAssembly’s post-MVP future: A cartoon skill tree](https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/)
+- [Start Performance Budgeting](https://medium.com/@addyosmani/start-performance-budgeting-dabde04cf6a3)
 
 ### CodeBurst JavaScript Articles
 

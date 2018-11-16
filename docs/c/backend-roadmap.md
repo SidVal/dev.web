@@ -134,10 +134,12 @@ Llegué a una interesante infografía a través de un post en Medium que me inte
 
 La verdad que es un post (en inglés) excelente, he leído pocos aportes tan completos.
 
+## Lecturas Backend
+
+- [Beginner’s Web Development Guide Part 2: Backend](https://medium.com/devtrailsio/beginners-web-development-guide-part-2-backend-fd466212dbfc)
+   ![This is the heart and brains of your application](https://cdn-images-1.medium.com/max/1000/1*1DSs5H0UvHru5L1tL9IrMA.png)
+   >The color coding of the chart is very simple: yellow lines show the basic things you need to learn, orange represents more advanced topics that you can leave for later, and grey are niche topics that might be useful for special projects.
+
 ## Frontend Roadmap
 
 No te pierdas la infografía del "[Frontend Roadmap](/c/frontend-roadmap.md)".
-
-## Fuente
-
-Este increíble trabajo es propiedad de [@kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap).

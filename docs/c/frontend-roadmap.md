@@ -27,12 +27,14 @@ Consejos que se desprenden de éste artículo:
 - Preprocesadores CSS (CSS Preprocessors): agregan funcionalidad en la parte superior del CSS para permitir hacer cosas que con CSS no se podría. Hay que aprender cualquiera de éstos, y ver cómo funcionan:
   - SASS (se recomienda comenzar por éste)
   - PostCSS
+  - Less
 - CSS Frameworks (si bien no es necesario aprenderlos, es bueno saber que existen y lo que se puede lograr con ellos)
   - [Bootstrap](/c/bootstrap/)
   - Materialize CSS
+  - Semantic UI
   - Bulma
 - CSS Arquitecture - Si bien hay varias formas para definir la estructura del CSS, y dejar el código más manejable y fácil de mantener, las opciones son:
-  - [BEM](https://en.bem.info/methodology/quick-start/) - (_Recomendado_)
+  - [BEM](/c/css/webs.md#bem) - (_Recomendado_)
   - OOCSS
   - SMACSS
   - SUITCSS
@@ -50,7 +52,7 @@ Consejos que se desprenden de éste artículo:
     - Browserify
   - NPM Scripts
     - Gulp
-- Framework
+- Framework (JS)
   - React
     - Redux
     - Mobx
@@ -83,6 +85,8 @@ Consejos que se desprenden de éste artículo:
 ## Lecturas
 
 - [Testing Your Frontend Code : Part I (Introduction)](https://hackernoon.com/testing-your-frontend-code-part-i-introduction-7e307eac4446)
+- [Beginner’s Web Development Guide Part 1: Frontend](https://medium.com/devtrailsio/beginners-web-development-guide-part-1-frontend-ca59f1877ec5)
+   ![Frontend development languages and tools](https://cdn-images-1.medium.com/max/800/1*dTugtD0bF1g4_eEWzYiaxg.png)
 
 ## Backend Roadmap
 

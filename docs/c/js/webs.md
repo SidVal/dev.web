@@ -25,6 +25,7 @@ Listado completo:
 - [Lazy](/c/js/webs#lazy)
 - [Lodash](/c/js/webs#lodash)
 - [MathJS](/c/js/webs#mathjs)
+- [Melody](/c/js/webs#melody)
 - [Mithril](/c/js/webs#mithril)
 - [Moment.js](/c/js/webs#momentjs)
 - [Mout](/c/js/webs#mout)
@@ -159,6 +160,11 @@ Lanzado a principios de 2017, [Knockout.js](https://github.com/knockout/knockout
 
 [Math.js](https://github.com/josdejong/mathjs) es una extensa biblioteca de matemáticas para JavaScript y Node.js, que es compatible con la biblioteca de matemáticas incorporada de JavaScript. La biblioteca contiene un analizador de expresiones flexible, es capaz de realizar cálculos simbólicos y viene con un gran conjunto de funciones y constantes incorporadas. Incluso puedes extenderlo tú mismo.
 
+## Melody
+
+[Melody](https://github.com/trivago/melody) es una biblioteca para construir aplicaciones web JavaScript. Melody es un desarrollo de _Trivago_. Ver repositorio: [`github:melody-web`](https://github.com/trivago/melody-web) para mayor información sobre la web de Melody. Otro ejemplo: [`/melody-template`](https://github.com/trivago/melody-template)
+
+
 ## Mithril
 
 [Mithril](https://github.com/MithrilJS/mithril.js) es una biblioteca de JavaScript diminuta y fácil de aprender, lanzada inicialmente en 2014. Es una pequeña API que requiere que los usuarios aprendan solo unas pocas funciones para comenzar, lo que la convierte en la primera opción para muchos. Junto con una curva de aprendizaje fácil, Mithril es extremadamente rápido en comparación con _Angular_, ya que utiliza una menor magnitud de código para ejecutarse. Las actualizaciones regulares han hecho que Mithril sea aún más rápido, y los nuevos complementos han facilitado la edición y el formateo.
@@ -257,6 +263,7 @@ Lanzado a principios de 2017, [Knockout.js](https://github.com/knockout/knockout
 - [Build a Project Management Tool with Vue.js, node.js and Apollo — Part1](https://medium.com/@kenzotakahashi2/build-a-project-management-software-with-vue-js-and-apollo-part1-d12ee75a7641)
 - [Hit The Ground Running With Vue.js And Firestore](https://medium.com/@smashingmag/hit-the-ground-running-with-vue-js-and-firestore-8b45d6a9fa0b) ☆
 - [How to Make Form Submissions Secure on an API Website](https://itnext.io/how-to-make-form-submissions-secure-on-an-api-website-d80bcfdb5149)
+- [A Guide To Writing Awesome Unit Tests For The First Time](https://medium.com/@NAPOLEON039/a-guide-to-writing-awesome-unit-tests-for-the-first-time-6eecb6e016ea)
 
 ## VuePress
 
