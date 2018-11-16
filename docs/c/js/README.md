@@ -44,6 +44,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [JavaScript Essentials: Arrays](https://codeburst.io/javascript-essentials-arrays-2d275b9598c5)
 - [JavaScript Essentials: Types & Data Structures](https://codeburst.io/javascript-essentials-types-data-structures-3ac039f9877b)
 - [JavaScript ES6+: var, let, or const?](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75)
+- [Understanding ES6 | Difference between ‘var’, ‘const’ & ‘let’ keywords](https://medium.com/@ashish.panchal/understanding-es6-difference-between-var-const-let-keywords-2fffe1434db6)
 - [Conditional JavaScript for Experts](https://hackernoon.com/conditional-javascript-for-experts-d2aa456ef67c)
 - [A practical ES6 guide on how to perform HTTP requests using the Fetch API](https://medium.freecodecamp.org/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547)
 - [These JavaScript methods will boost your skills in just a few minutes](https://medium.freecodecamp.org/7-javascript-methods-that-will-boost-your-skills-in-less-than-8-minutes-4cc4c3dca03f)
