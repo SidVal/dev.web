@@ -27,6 +27,7 @@ A priori, AngularJS es MUY distinto de lo que hoy es "Angular" (al momento de re
 - [Build A Real World Beautiful Web APP with Angular 6 — A to Z Ultimate Guide (2018) — PART I](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
 - [An Angular 5 Tutorial: Step by Step Guide to Your First Angular 5 App](https://www.toptal.com/angular/angular-5-tutorial)
 - [Angular Tutorial Starter](https://grokonez.com/angular-tutorial#Angular_Starter)
+- [Learn Angular in 5 hpurs - Full Tutorial Course](https://www.freecodecamp.org/news/beaucarnes/angular-tutorial-course--OHbjepWjQ)
 - [Angular 6: Dynamic Themes Without a Library](https://medium.com/atom-platform/angular-6-dynamic-themes-without-a-library-c21dfb2cb580) ☆
 - [Adjustable sidebar using Angular](https://medium.com/@nicuvlad89/adjustable-sidebar-using-angular-76a77b02d169) ☆
 - [The Good and the Bad of Angular Development](https://medium.com/@AltexSoft/the-good-and-the-bad-of-angular-development-b30220bf010a)
