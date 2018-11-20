@@ -4,6 +4,7 @@
 
 - [Reference](https://docs.mongodb.com/manual/reference/)
 - [Introduction to MongoDB](https://docs.mongodb.com/manual/introduction/)
+- [Sharding](https://github.com/jaebradley/notes/blob/master/databases/mongo/sharding.md#sharding)
 
 
 ## Lecturas
