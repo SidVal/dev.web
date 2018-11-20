@@ -18,6 +18,7 @@ Listado completo:
 - [FullPage.JS](/c/js/webs#fullpagejs)
 - [FuseBox](/c/js/webs#fusebox)
 - [Gatsbyjs](/c/js/webs#gatsbyjs)
+- [Glider](/c/js/webs#glider)
 - [Google Closure Compiler](/c/js/webs#google-closure-compiler)
 - [Gulp.js](/c/js/webs#gulpjs)
 - [Hapi](/c/js/webs#hapi)
@@ -109,6 +110,10 @@ Una sencilla librería Javascript para la creación de páginas web con desplaza
 ## Gatsbyjs
 
 [Gatsbyjs](https://github.com/gatsbyjs/gatsby) es un generador de sitios moderno y rápido para React. [_-Ver tutorial_](https://www.gatsbyjs.org/tutorial/)
+
+## Glider
+
+[Glider.js](https://github.com/NickPiscitelli/Glider.js) es una lista de desplazamiento (`scrolling`) nativo rápido, ligero, sin dependencia, sensible, accesible, extensible, con controles de paginación, métodos y eventos. Ver [demostraciones](https://nickpiscitelli.github.io/Glider.js/#demos)
 
 ## Google Closure Compiler
 
