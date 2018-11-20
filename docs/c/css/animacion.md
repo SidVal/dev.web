@@ -6,6 +6,7 @@
 
 - [How I built a mood changing animation using CSS masks](https://medium.freecodecamp.org/how-i-built-a-mood-changing-animation-using-css-masks-565b16ed051f)
 - [How to create pure CSS illustrations and animate them - Part 1](https://dev.to/agathacco/how-to-create-pure-css-illustrations-and-animate-them---part-1-1j1k)
+- [Learning CSS Animations by Example](https://www.leejamesrobinson.com/blog/learning-css-animations-by-example/)
 
 ## Librerías
 
