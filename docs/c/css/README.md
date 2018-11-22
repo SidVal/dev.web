@@ -18,6 +18,7 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
   - [How to Create Website Layouts Using CSS Grid](https://youtu.be/HgwCeNVPlo0) - _Video!_
   - [Creating horizontal scrolling containers the right way [CSS Grid]](https://uxdesign.cc/creating-horizontal-scrolling-containers-the-right-way-css-grid-c256f64fc585)
   - [How to Recreate the Banksy Artwork Shredder Using CSS Grid](https://medium.com/@leemartin/how-to-recreate-the-banksy-artwork-shredder-using-css-grid-ff20c0f5a19)
+  - [Magic Grid: A simple, lightweight Javascript library for dynamic grid layouts](https://codeburst.io/magic-grid-f8e2221e7cef)
 
 ## Guías
 
