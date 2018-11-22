@@ -25,6 +25,7 @@ Listado completo:
 - [Knockout](/c/js/webs#knockout)
 - [Lazy](/c/js/webs#lazy)
 - [Lodash](/c/js/webs#lodash)
+- [Magic-Grid](/c/js/webs#magic-grid)
 - [MathJS](/c/js/webs#mathjs)
 - [Melody](/c/js/webs#melody)
 - [Mithril](/c/js/webs#mithril)
@@ -160,6 +161,16 @@ Lanzado a principios de 2017, [Knockout.js](https://github.com/knockout/knockout
 [Lodash](https://github.com/lodash/lodash): Una biblioteca moderna de utilidades de JavaScript que ofrece modularidad, rendimiento y extras.
 >"Lodash.js es una de las librerías de referencia en JavaScript a la hora de trabajar con colecciones de objetos. Lodash fue en su momento un fork de Underscore.js pero con el paso del tiempo se ha rediseñado por completo y añadido mayor funcionalidad. "
 >Fuente: [Genbeta](https://www.genbeta.com/desarrollo/lodash-js-y-sus-funciones-de-filtrado)
+
+## Magic-Grid
+
+Una biblioteca de JavaScript simple y liviana para diseños de cuadrícula dinámicos: CSS Grid
+
+El problema
+Implementar un diseño de cuadrícula puede convertirse rápidamente en una tarea difícil. Si tiene elementos de cuadrícula que siempre tienen la misma altura, entonces probablemente pueda hacerlo con una cuadrícula Flexbox o alguna otra implementación de cuadrícula CSS. Sin embargo, si está tratando con contenido generado por usuarios, es probable que no tenga el lujo de componentes de igual altura. Un componente más largo o más corto estiraría al otro los componentes en su fila, o dejaría algunos espacios en blanco desagradables en la parte inferior de la fila. De repente, nuestra querida cuadrícula CSS se ha vuelto insuficiente.
+
+La solución
+Solo necesitamos un poco de ayuda de Javascript. Magic Grid es una biblioteca de `JS` que simplifica enormemente la creación de diseños de cuadrícula. Más información: [CodeBurst: Magic-Grid](https://codeburst.io/magic-grid-f8e2221e7cef)
 
 ## MathJS
 
