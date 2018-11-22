@@ -32,6 +32,7 @@ Listado completo:
 - [Moment.js](/c/js/webs#momentjs)
 - [Mout](/c/js/webs#mout)
 - [NativeScript](/c/js/webs#nativescript)
+- [Omi](/c/js/webs#omi)
 - [Pax](/c/js/webs#pax)
 - [Parcel](/c/js/webs#parcel)
 - [Polymer](/c/js/webs#polymer)
@@ -201,6 +202,10 @@ Solo necesitamos un poco de ayuda de Javascript. Magic Grid es una biblioteca de
 ## NativeScript
 
 [NativeScript](https://github.com/NativeScript/NativeScript) es un framework de código abierto para crear aplicaciones móviles verdaderamente nativas con JavaScript. Use habilidades web, como _Angular_ y _Vue.js_, _FlexBox_ y _CSS_, y obtenga una interfaz de usuario y un rendimiento nativos en **iOS** y **Android**.
+
+## OMI
+
+[OMIjs](https://github.com/Tencent/omi) es un framework web de próxima generación. 4kb (Web Components + JSX + Proxy + Store + Path Updating)
 
 ## Pax
 
