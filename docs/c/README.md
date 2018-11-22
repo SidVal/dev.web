@@ -43,12 +43,11 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 
 - [La relación entre atributos HTML y propiedades JavaScript](https://www.jasoft.org/Blog/post/la-relacion-entre-atributos-html-y-propiedades-javascript.aspx)
 - [Follow these simple rules and you’ll become a Git and GitHub master](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
+- [An illustrated guide to setting up your website using GitHub and Cloudflare](https://medium.freecodecamp.org/an-illustrated-guide-for-setting-up-your-website-using-github-cloudflare-5a7a11ca9465)
 - [Bases de datos relacionales vs. no relacionales: ¿qué es mejor?](https://aukera.es/blog/bases-de-datos-relacionales-vs-no-relacionales/)
 - [The Wide World of Databases](https://blog.usejournal.com/a-light-introduction-to-databases-1154183ab852)
 - [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d) - An illustrated guide to becoming a Frontend or Backend Developer with links to courses
 - [Why is there so much to learn in web development?](https://medium.com/@mattburgess/why-is-there-so-much-to-learn-in-web-development-41adbc54731c)
-- [Using Chrome as a Local Web Server](https://medium.com/@jmatix/using-chrome-as-a-local-web-server-af04baffd581) ☆
-- [An OAuth 2.0 introduction for beginners](https://itnext.io/an-oauth-2-0-introduction-for-beginners-6e386b19f7a9)
 - [Warning: Your programming career](https://medium.com/sololearn/warning-your-programming-career-b9579b3a878b)
 - [What is a Web Server?](https://codeburst.io/what-is-a-web-server-97362996d229) ☆
 
@@ -65,11 +64,20 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 
 - [Framer X Preview](https://blog.prototypr.io/framer-x-preview-9d067f35cf9a)
 
-## Referencias
+## Blogging
 
-- [DevDocs API Documentation](https://devdocs.io/)  
-  Para encontrar referencia directa al uso de cualquier lenguaje web. Realmente para darle una buena leída y tenerlo en favoritos.
-- [DevHints.io](https://devhints.io/)
+Plataformas, herramientas, tips, lecturas... por ahora aquí.
+
+- [Blogger](/c/blogger.md) - _[Sección completa]_
+- [Headless WordPress + Next.js — What We Learned](https://medium.com/kata-engineering/headless-wordpress-next-js-what-we-learned-c10abdf80f6a)
+
+## E-Commerce
+
+- [`Medium: Ecommerce`](https://medium.com/tag/ecommerce)
+- [`Medium: Online-Shopping`](https://medium.com/tag/online-shopping)
+- [WooCommerce, SEO and how to build a perfect site](https://medium.com/@senormunoz/woocommerce-seo-and-how-to-build-a-perfect-site-543d29b16d47)
+- [How to design a payment form your customers will actually complete](https://medium.com/swlh/how-to-design-a-payment-form-your-customers-will-actually-complete-55a986fe3ada)
+- [The Digital Fashion World — Bigger Than You Thought](https://medium.com/@waamofficial/the-digital-fashion-world-bigger-than-you-thought-bc933a4b49d6)
 
 ## Chrome Dev Tools
 
@@ -80,10 +88,19 @@ Hacer éste ejercicio ayuda a entender cómo debuguear los archivos javascript. 
 - [Comenzar a depurar JavaScript en Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/?hl=es)
 - [How to stop using console.log() and start using your browser’s debugger](https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff)
 - [Cool Chrome DevTools tips and tricks you wish you knew already](https://medium.freecodecamp.org/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2)
+- [Using Chrome as a Local Web Server](https://medium.com/@jmatix/using-chrome-as-a-local-web-server-af04baffd581) ☆
 
-### Distintivos
+## Distintivos
 
 Se conocen como `badges` y son íconos que tienen contenido específico que traen dinámicamente por lo general a través de una `API`.
 
 - [Shields](https://github.com/badges/shields) - [Sitio Web](https://shields.io/)
 - [Badgen](https://github.com/amio/badgen-service) - [Sitio Web](https://badgen.net/)
+
+## Referencias
+
+Sitios webs que contienen referencias de sintaxis sobre otros lenguajes.
+
+- [DevDocs API Documentation](https://devdocs.io/)  
+  Para encontrar referencia directa al uso de cualquier lenguaje web. Realmente para darle una buena leída y tenerlo en favoritos.
+- [DevHints.io](https://devhints.io/)
