@@ -34,6 +34,7 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
 - [Time-saving CSS techniques to create responsive images](https://medium.freecodecamp.org/time-saving-css-techniques-to-create-responsive-images-ebb1e84f90d5)
 - [Responsive Data Tables](https://css-tricks.com/responsive-data-tables/)
 - [Detect a touch device with only CSS](https://medium.com/@ferie/detect-a-touch-device-with-only-css-9f8e30fa1134) ☆
+- [Advantages of Using a Preprocessor (Sass) in CSS Development](https://medium.com/swlh/advantages-of-using-a-preprocessor-sass-in-css-eb7310179944)
 
 ## Prácticos
 
