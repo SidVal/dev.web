@@ -35,3 +35,13 @@
 - [Google DevTools Device Mode](https://developers.google.com/web/tools/chrome-devtools/device-mode/)
 - [Screenfly](http://quirktools.com/screenfly/)
 - [MobiReady](https://ready.mobi/)
+
+### Comentarios
+
+- [Disqus](https://disqus.com/)
+- [Spot.im](https://www.spot.im/)
+- [HTML Comment Box](http://www.htmlcommentbox.com/)
+- [Facebook Comments](https://developers.facebook.com/docs/plugins/comments/)
+- [IntenseDebate](https://intensedebate.com/)
+- [GraphComment](https://graphcomment.com/en/features.html)
+- [Commento](https://commento.io/)
