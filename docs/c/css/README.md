@@ -27,6 +27,7 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
 ## Lecturas
 
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+- [CSS and Network Performance](https://csswizardry.com/2018/11/css-and-network-performance)
 - [7 Basic Rules for Button Design](https://uxplanet.org/7-basic-rules-for-button-design-63dcdf5676b4)
 - [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c) - Common mistakes designers make and how to fix them
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
