@@ -18,6 +18,7 @@
   - [Form fields — Required vs Optional](https://uxdesign.cc/form-field-required-vs-optional-9b4d7cdbf400) ☆
 - [How to Make User’s Life Miserable (UX From Hell)](https://medium.com/@bradley_nice/how-to-make-users-life-miserable-ux-from-hell-6e7c92eb350c)
 - [How to Design for the Modern Web](https://medium.com/s/silicon-satire/how-to-design-for-the-modern-web-52eaa926bae2)
+- [Bad Practices in UI/UX Design That You Should Avoid](https://medium.com/level-up-web/bad-practices-in-ui-ux-design-that-you-should-avoid-82e4862e47e0)
 
 ## Herramientas
 
