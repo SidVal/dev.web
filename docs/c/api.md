@@ -36,6 +36,7 @@ Para ampliar y conocer más _APIs_: [GitHub: API](https://github.com/topics/api)
 - [How to Make Form Submissions Secure on an API Website](https://itnext.io/how-to-make-form-submissions-secure-on-an-api-website-d80bcfdb5149)
 - [How to set up a GraphQL Server using Node.js, Express & MongoDB](https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474)
 - [Creating a GraphQL server with NodeJS](https://medium.com/crowdbotics/creating-a-graphql-server-with-nodejs-ef9814a7e0e6)
+- [A Fruit Flavoured Guide to Creating a REST API powered by Node and MongoDB](https://medium.com/@danielmechea/a-fruit-flavoured-guide-to-creating-a-rest-api-powered-by-node-and-mongodb-6d31e3797a50)
 
 ***
 
