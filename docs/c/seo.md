@@ -15,6 +15,7 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 - [The Complete Guide to Lazy Loading Images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
 - [New SEO Ranking Factors Study Points to Massive Changes in Google Search Algorithms](https://medium.com/inc./new-seo-ranking-factors-study-points-to-massive-changes-in-google-search-algorithms-115820dc0d31) ☆
 - [Guía de SEO en WordPress: Todo lo que debes saber para optimizar tu sitio en WordPress](https://neoattack.com/seo-en-wordpress/)
+- [Measure, Optimize & Monitor](https://medium.com/@addyosmani/measure-optimize-monitor-33e36108e014)
 
 ## Ecommerce
 
