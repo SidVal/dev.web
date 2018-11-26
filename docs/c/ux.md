@@ -21,6 +21,7 @@
 - [Bad Practices in UI/UX Design That You Should Avoid](https://medium.com/level-up-web/bad-practices-in-ui-ux-design-that-you-should-avoid-82e4862e47e0)
 - [10 Small Design Mistakes We Still Make](https://uxplanet.org/10-small-design-mistakes-we-still-make-1cd5f60bc708)
 - [Gamification: Understanding The Basics](https://uxplanet.org/gamification-understanding-the-basics-2bbcce365c33)
+- [Building a responsive image](https://medium.com/9elements/building-a-responsive-image-e4c6229fa1f6)
 
 ## Herramientas
 
