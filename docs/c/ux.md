@@ -19,6 +19,8 @@
 - [How to Make User’s Life Miserable (UX From Hell)](https://medium.com/@bradley_nice/how-to-make-users-life-miserable-ux-from-hell-6e7c92eb350c)
 - [How to Design for the Modern Web](https://medium.com/s/silicon-satire/how-to-design-for-the-modern-web-52eaa926bae2)
 - [Bad Practices in UI/UX Design That You Should Avoid](https://medium.com/level-up-web/bad-practices-in-ui-ux-design-that-you-should-avoid-82e4862e47e0)
+- [10 Small Design Mistakes We Still Make](https://uxplanet.org/10-small-design-mistakes-we-still-make-1cd5f60bc708)
+- [Gamification: Understanding The Basics](https://uxplanet.org/gamification-understanding-the-basics-2bbcce365c33)
 
 ## Herramientas
 
