@@ -46,16 +46,18 @@ Para mas información sobre el  **Keyword Research** , ya de paso, varias URLs 
 - [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster)
 - [Botify](https://www.botify.com/)
 - [BrightLocal](https://www.brightlocal.com/)
+- [Browseo](http://www.browseo.net/)
 - [Bulk Google Rank Checker](https://www.seoreviewtools.com/rank-checker/)
 - [Can I Rank](https://www.canirank.com/)
 - [Dareboost](https://www.dareboost.com/en)
 - [Google Analytics](https://www.google.com/analytics/)
 - [Google Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
-- [Google Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [Google Search Console](https://www.google.com/webmasters/tools/)
 - [Google Search Console XML Sitemap Report](https://www.google.com/webmasters/tools/sitemap-list)
 - [Google’s Schema.org Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/)
 - [GTMetrix Page Speed Report](https://gtmetrix.com/)
+- [Haro](https://www.helpareporter.com/)
 - [Keys4Up](http://www.keys4up.com/)
 - [Keyworddit](https://www.keyworddit.com/)
 - [Keywords Everywhere](https://keywordseverywhere.com/)
@@ -69,12 +71,24 @@ Para mas información sobre el  **Keyword Research** , ya de paso, varias URLs 
 - [SEMrush](https://www.semrush.com/)
 - [Seobility](https://www.seobility.net/en/)
 - [SEO-Browser](http://www.seo-browser.com/)
+- [SEO Site Checkup](https://seositecheckup.com/)
+- [SEO Writing Assistant by SEMrush](https://www.semrush.com/swa/)
 - [Siteliner](http://www.siteliner.com/)
 - [Ubersuggest](https://neilpatel.com/ubersuggest/)
 - [Varvy SEO Tool](https://varvy.com/)
 - [W3C Validator](https://validator.w3.org/)
 - [Web Developer Toolbar](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=en-US)
 - [WebPagetest](https://www.webpagetest.org/)
+- [Website Grader](https://website.grader.com/)
 - [Woorank’s SEO & Website Analysis Tool](https://www.woorank.com/)
 - [Wordtracker Scout](https://www.wordtracker.com/scout)
 - [Whitespark](https://whitespark.ca/)
+
+### Wordpress Tools
+
+- [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/)
+- [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/)
+
+
+
+<!--abcdefghijklmnñopqrstuvwxyz-->
