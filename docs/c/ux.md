@@ -18,6 +18,10 @@
   - [Form fields — Required vs Optional](https://uxdesign.cc/form-field-required-vs-optional-9b4d7cdbf400) ☆
 - [How to Make User’s Life Miserable (UX From Hell)](https://medium.com/@bradley_nice/how-to-make-users-life-miserable-ux-from-hell-6e7c92eb350c)
 - [How to Design for the Modern Web](https://medium.com/s/silicon-satire/how-to-design-for-the-modern-web-52eaa926bae2)
+- [Bad Practices in UI/UX Design That You Should Avoid](https://medium.com/level-up-web/bad-practices-in-ui-ux-design-that-you-should-avoid-82e4862e47e0)
+- [10 Small Design Mistakes We Still Make](https://uxplanet.org/10-small-design-mistakes-we-still-make-1cd5f60bc708)
+- [Gamification: Understanding The Basics](https://uxplanet.org/gamification-understanding-the-basics-2bbcce365c33)
+- [Building a responsive image](https://medium.com/9elements/building-a-responsive-image-e4c6229fa1f6)
 
 ## Herramientas
 
@@ -35,3 +39,13 @@
 - [Google DevTools Device Mode](https://developers.google.com/web/tools/chrome-devtools/device-mode/)
 - [Screenfly](http://quirktools.com/screenfly/)
 - [MobiReady](https://ready.mobi/)
+
+### Comentarios
+
+- [Disqus](https://disqus.com/)
+- [Spot.im](https://www.spot.im/)
+- [HTML Comment Box](http://www.htmlcommentbox.com/)
+- [Facebook Comments](https://developers.facebook.com/docs/plugins/comments/)
+- [IntenseDebate](https://intensedebate.com/)
+- [GraphComment](https://graphcomment.com/en/features.html)
+- [Commento](https://commento.io/)

@@ -18,18 +18,21 @@ Listado completo:
 - [FullPage.JS](/c/js/webs#fullpagejs)
 - [FuseBox](/c/js/webs#fusebox)
 - [Gatsbyjs](/c/js/webs#gatsbyjs)
+- [Glider](/c/js/webs#glider)
 - [Google Closure Compiler](/c/js/webs#google-closure-compiler)
 - [Gulp.js](/c/js/webs#gulpjs)
 - [Hapi](/c/js/webs#hapi)
 - [Knockout](/c/js/webs#knockout)
 - [Lazy](/c/js/webs#lazy)
 - [Lodash](/c/js/webs#lodash)
+- [Magic-Grid](/c/js/webs#magic-grid)
 - [MathJS](/c/js/webs#mathjs)
 - [Melody](/c/js/webs#melody)
 - [Mithril](/c/js/webs#mithril)
 - [Moment.js](/c/js/webs#momentjs)
 - [Mout](/c/js/webs#mout)
 - [NativeScript](/c/js/webs#nativescript)
+- [Omi](/c/js/webs#omi)
 - [Pax](/c/js/webs#pax)
 - [Parcel](/c/js/webs#parcel)
 - [Polymer](/c/js/webs#polymer)
@@ -110,6 +113,10 @@ Una sencilla librería Javascript para la creación de páginas web con desplaza
 
 [Gatsbyjs](https://github.com/gatsbyjs/gatsby) es un generador de sitios moderno y rápido para React. [_-Ver tutorial_](https://www.gatsbyjs.org/tutorial/)
 
+## Glider
+
+[Glider.js](https://github.com/NickPiscitelli/Glider.js) es una lista de desplazamiento (`scrolling`) nativo rápido, ligero, sin dependencia, sensible, accesible, extensible, con controles de paginación, métodos y eventos. Ver [demostraciones](https://nickpiscitelli.github.io/Glider.js/#demos)
+
 ## Google Closure Compiler
 
 [Closure Compiler](https://github.com/google/closure-compiler) es una herramienta para realizar descargas de JavaScript y ejecutarlas más rápido. Es un verdadero compilador para JavaScript. En lugar de compilar desde un código fuente a código de máquina, se compila de JavaScript a JavaScript mejor. Analiza su JavaScript, lo analiza, elimina el código muerto y vuelve a escribir y minimiza lo que queda. También verifica la sintaxis, las referencias de variables y los tipos, y advierte sobre las fallas comunes de JavaScript.
@@ -156,6 +163,16 @@ Lanzado a principios de 2017, [Knockout.js](https://github.com/knockout/knockout
 >"Lodash.js es una de las librerías de referencia en JavaScript a la hora de trabajar con colecciones de objetos. Lodash fue en su momento un fork de Underscore.js pero con el paso del tiempo se ha rediseñado por completo y añadido mayor funcionalidad. "
 >Fuente: [Genbeta](https://www.genbeta.com/desarrollo/lodash-js-y-sus-funciones-de-filtrado)
 
+## Magic-Grid
+
+Una biblioteca de JavaScript simple y liviana para diseños de cuadrícula dinámicos: CSS Grid
+
+El problema
+Implementar un diseño de cuadrícula puede convertirse rápidamente en una tarea difícil. Si tiene elementos de cuadrícula que siempre tienen la misma altura, entonces probablemente pueda hacerlo con una cuadrícula Flexbox o alguna otra implementación de cuadrícula CSS. Sin embargo, si está tratando con contenido generado por usuarios, es probable que no tenga el lujo de componentes de igual altura. Un componente más largo o más corto estiraría al otro los componentes en su fila, o dejaría algunos espacios en blanco desagradables en la parte inferior de la fila. De repente, nuestra querida cuadrícula CSS se ha vuelto insuficiente.
+
+La solución
+Solo necesitamos un poco de ayuda de Javascript. Magic Grid es una biblioteca de `JS` que simplifica enormemente la creación de diseños de cuadrícula. Más información: [CodeBurst: Magic-Grid](https://codeburst.io/magic-grid-f8e2221e7cef)
+
 ## MathJS
 
 [Math.js](https://github.com/josdejong/mathjs) es una extensa biblioteca de matemáticas para JavaScript y Node.js, que es compatible con la biblioteca de matemáticas incorporada de JavaScript. La biblioteca contiene un analizador de expresiones flexible, es capaz de realizar cálculos simbólicos y viene con un gran conjunto de funciones y constantes incorporadas. Incluso puedes extenderlo tú mismo.
@@ -185,6 +202,10 @@ Lanzado a principios de 2017, [Knockout.js](https://github.com/knockout/knockout
 ## NativeScript
 
 [NativeScript](https://github.com/NativeScript/NativeScript) es un framework de código abierto para crear aplicaciones móviles verdaderamente nativas con JavaScript. Use habilidades web, como _Angular_ y _Vue.js_, _FlexBox_ y _CSS_, y obtenga una interfaz de usuario y un rendimiento nativos en **iOS** y **Android**.
+
+## OMI
+
+[OMIjs](https://github.com/Tencent/omi) es un framework web de próxima generación. 4kb (Web Components + JSX + Proxy + Store + Path Updating)
 
 ## Pax
 

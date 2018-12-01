@@ -49,6 +49,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [A practical ES6 guide on how to perform HTTP requests using the Fetch API](https://medium.freecodecamp.org/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547)
 - [These JavaScript methods will boost your skills in just a few minutes](https://medium.freecodecamp.org/7-javascript-methods-that-will-boost-your-skills-in-less-than-8-minutes-4cc4c3dca03f)
 - [15 HTML element methods you’ve potentially never heard of](https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a)
+- [Cross-origin Resource Sharing](https://github.com/jaebradley/notes/blob/master/javascript/cors.md#cross-origin-resource-sharing)
 - [10 things to learn on the way to becoming a JavaScript Master](https://levelup.gitconnected.com/10-things-to-learn-on-the-way-to-become-a-javascript-master-f4fc632b2bb7)
 - [window.fetch polyfill](https://github.com/github/fetch#readme) - [Fetch Docs](https://github.github.io/fetch/)
 - [JavaScript The Right Way](http://jstherightway.org) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
@@ -73,6 +74,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Modern JavaScript features which you should be using every day for better development and what problems do they solve](https://medium.com/@tkwebdev/modern-javascript-features-which-you-should-be-using-every-day-for-better-development-and-what-66d74633e896) ☆
 - [The Good and the Bad of JavaScript Full Stack Development](https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-javascript-full-stack-development/)
 - [Building a Scalable Promise Based NodeJS Library](https://medium.com/@rossbulat/building-a-scalable-promise-based-nodejs-library-for-your-apps-cf669de03bfb) ☆
+- [An introduction to Object-Oriented Programming in JavaScript](https://medium.freecodecamp.org/an-introduction-to-object-oriented-programming-in-javascript-8900124e316a)
 - [Why JavaScript is an OOP Language (Even Though It Doesn’t Have Classes)](https://medium.com/background-thread/why-javascript-is-an-oop-language-even-though-it-doesnt-have-classes-92a4e202176f)
 - [Simplified JavaScript Jargon](http://jargon.js.org/)
 - [Universal JavaScript](https://cdb.reacttraining.com/universal-javascript-4761051b7ae9)

@@ -28,6 +28,7 @@ Las aplicaciones web progresivas son un híbrido de un sitio web y una aplicaci�
 - [A Simple Progressive Web App Tutorial](https://medium.com/james-johnson/a-simple-progressive-web-app-tutorial-f9708e5f2605)
 - [PWA vs AMP : Choosing the best for me?](https://codeburst.io/pwa-vs-amp-choosing-the-best-for-me-91c8c48ff152)
 - [PWA — The Power of simplicity](https://medium.com/@krukmat/pwa-the-power-of-simplicity-aabbdba26e37) ☆
+- [Progressive Web Apps: A Convincing Case for Native-like Apps on the Web](https://blog.bitsrc.io/progressive-web-apps-a-convincing-case-for-native-like-apps-on-the-web-8732bfa07945)
 
 ## Prácticos
 

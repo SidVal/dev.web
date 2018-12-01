@@ -18,6 +18,7 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
   - [How to Create Website Layouts Using CSS Grid](https://youtu.be/HgwCeNVPlo0) - _Video!_
   - [Creating horizontal scrolling containers the right way [CSS Grid]](https://uxdesign.cc/creating-horizontal-scrolling-containers-the-right-way-css-grid-c256f64fc585)
   - [How to Recreate the Banksy Artwork Shredder Using CSS Grid](https://medium.com/@leemartin/how-to-recreate-the-banksy-artwork-shredder-using-css-grid-ff20c0f5a19)
+  - [Magic Grid: A simple, lightweight Javascript library for dynamic grid layouts](https://codeburst.io/magic-grid-f8e2221e7cef)
 
 ## Guías
 
@@ -26,6 +27,7 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
 ## Lecturas
 
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+- [CSS and Network Performance](https://csswizardry.com/2018/11/css-and-network-performance)
 - [7 Basic Rules for Button Design](https://uxplanet.org/7-basic-rules-for-button-design-63dcdf5676b4)
 - [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c) - Common mistakes designers make and how to fix them
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
@@ -34,10 +36,16 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
 - [Time-saving CSS techniques to create responsive images](https://medium.freecodecamp.org/time-saving-css-techniques-to-create-responsive-images-ebb1e84f90d5)
 - [Responsive Data Tables](https://css-tricks.com/responsive-data-tables/)
 - [Detect a touch device with only CSS](https://medium.com/@ferie/detect-a-touch-device-with-only-css-9f8e30fa1134) ☆
+- [Advantages of Using a Preprocessor (Sass) in CSS Development](https://medium.com/swlh/advantages-of-using-a-preprocessor-sass-in-css-eb7310179944)
+- [CSS Specificity and the use of !important: a case study](https://dev.to/munamohamed94/css-specificity-and-the-use-of-important-a-case-study--11)
+- [CSS Border-Radius Can Do That?](https://medium.com/9elements/css-border-radius-can-do-that-d46df1d013ae)
+- [How I remember CSS Grid properties](https://dev.to/zellwk/how-i-remember-css-grid-properties-9i5)
+- [How to Organize Your CSS with a Modular Architecture (OOCSS, BEM, SMACSS)](https://snipcart.com/blog/organize-css-modular-architecture)
 
 ## Prácticos
 
 - [How to minify your CSS with gulp](https://medium.freecodecamp.org/how-to-minify-your-css-with-gulp-6ff3f4a896b5)
+- [How to center things with style in CSS](https://medium.freecodecamp.org/how-to-center-things-with-style-in-css-dc87b7542689) ☆
 
 ### Cargar CSS
 

@@ -2,6 +2,8 @@
 
 Estoy al 100% de acuerdo con un artículo que he leído en Medium sobre cómo entender el posicionamiento en CSS., y hablo de la propiedad: `position`. El artículo "[Understanding Position in CSS](https://medium.com/@jacobgreenaway12/taming-the-css-beast-master-positioning-5882bad14458)" explica que desarrollar una comprensión de la propiedad de posición en CSS puede ser una de las experiencias más frustrantes para un principiante en el desarrollo web.
 
+Recomiendo leer también: "[How to understand CSS Position Absolute once and for all](https://medium.freecodecamp.org/how-to-understand-css-position-absolute-once-and-for-all-b71ca10cd3fd)"
+
 ## Tipos
 
 Hay dos tipos de posicionamiento: estático y relativo.

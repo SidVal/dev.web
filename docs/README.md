@@ -1,4 +1,4 @@
-# Dev.Web
+# Dev.Web {docsify-ignore-all}
 ![Release](https://badgen.net/github/release/sidval/dev.web) ![Commits](https://badgen.net/github/commits/sidval/dev.web) ![License](https://badgen.net/github/license/sidval/dev.web) ![Be Happy](https://badgen.net/badge/be/happy%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86/green)<div align="right" style="float:right;"><i><a href="https://github.com/SidVal/dev.web/releases" target="_new">v.1.0.0-beta</a></i> :smile: </div>
 
 ## Presentación del repo
@@ -12,6 +12,10 @@ Con el tiempo se convertirá en mi página para exponer todo lo que sea sobre el
 !>Si gustas corregir :pencil2: o sugerir :bulb: algún cambio, [**por favor envía tu mensaje aquí**](https://github.com/SidVal/dev.web/issues/new?assignee=SidVal) :pray:
 
 ?>Se creará más adelante una página del tipo "sobre el autor" o algo relacionado, para comentar quién soy, por qué hago todo ésto, etcétera etcétera.
+>
+>Todo esto se hace a pulmón, y con muuuuuuchas dosis de cafeína (_y a veces fernet con coca_).
+>
+>[![Más Café por favor](https://sidval.github.io/SidV/assets/img/cafe.png)](https://ko-fi.com/J3J1MAVL)
 
 ## Contenidos vistos
 

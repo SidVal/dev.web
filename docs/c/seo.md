@@ -15,6 +15,7 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 - [The Complete Guide to Lazy Loading Images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
 - [New SEO Ranking Factors Study Points to Massive Changes in Google Search Algorithms](https://medium.com/inc./new-seo-ranking-factors-study-points-to-massive-changes-in-google-search-algorithms-115820dc0d31) ☆
 - [Guía de SEO en WordPress: Todo lo que debes saber para optimizar tu sitio en WordPress](https://neoattack.com/seo-en-wordpress/)
+- [Measure, Optimize & Monitor](https://medium.com/@addyosmani/measure-optimize-monitor-33e36108e014)
 
 ## Ecommerce
 
@@ -40,23 +41,35 @@ Para mas información sobre el  **Keyword Research** , ya de paso, varias URLs 
 <!-- abcdefghijklmnñopqrstuvwxyz -->
 
 - [Ahrefs](https://ahrefs.com/)
+- [Am I Responsive?](http://ami.responsivedesign.is/)
 - [Answer The Public](https://answerthepublic.com/)
 - [Barracuda Panguin](https://barracuda.digital/panguin-seo-tool/)
+- [Beam Us Up](http://beamusup.com/)
 - [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster)
 - [Botify](https://www.botify.com/)
 - [BrightLocal](https://www.brightlocal.com/)
+- [Browseo](http://www.browseo.net/)
 - [Bulk Google Rank Checker](https://www.seoreviewtools.com/rank-checker/)
 - [Can I Rank](https://www.canirank.com/)
+- [Copyscape](http://www.copyscape.com/)
 - [Dareboost](https://www.dareboost.com/en)
+- [Detailed.com](https://detailed.com/)
+- [disavow.it by Distilled](http://disavow.it/)
+- [Drop My Link](http://dropmylink.com/)
 - [Google Analytics](https://www.google.com/analytics/)
 - [Google Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
-- [Google Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [Google Search Console](https://www.google.com/webmasters/tools/)
 - [Google Search Console XML Sitemap Report](https://www.google.com/webmasters/tools/sitemap-list)
 - [Google’s Schema.org Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/)
 - [GTMetrix Page Speed Report](https://gtmetrix.com/)
+- [Haro](https://www.helpareporter.com/)
+- [HEADMasterSEO](https://headmasterseo.com/)
+- [Hemingway Editor](http://hemingwayapp.com/)
+- [I Search From](http://isearchfrom.com/)
 - [Keys4Up](http://www.keys4up.com/)
 - [Keyworddit](https://www.keyworddit.com/)
+- [Keyword Hero](https://www.99signals.com/go/keyword-hero/)
 - [Keywords Everywhere](https://keywordseverywhere.com/)
 - [KWFinder](https://kwfinder.com/)
 - [LSI Graph](https://lsigraph.com/)
@@ -68,12 +81,36 @@ Para mas información sobre el  **Keyword Research** , ya de paso, varias URLs 
 - [SEMrush](https://www.semrush.com/)
 - [Seobility](https://www.seobility.net/en/)
 - [SEO-Browser](http://www.seo-browser.com/)
+- [SEO Site Checkup](https://seositecheckup.com/)
+- [SEO Writing Assistant by SEMrush](https://www.semrush.com/swa/)
+- [SERPs Keyword Rank Checker](https://serps.com/tools/rank-checker/)
+- [SimilarWeb](https://www.similarweb.com/)
 - [Siteliner](http://www.siteliner.com/)
+- [Soovle](https://soovle.com/)
+- [TinyPNG](https://tinypng.com/)
 - [Ubersuggest](https://neilpatel.com/ubersuggest/)
 - [Varvy SEO Tool](https://varvy.com/)
 - [W3C Validator](https://validator.w3.org/)
+- [What Does My Site Cost?](https://whatdoesmysitecost.com/)
 - [Web Developer Toolbar](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=en-US)
 - [WebPagetest](https://www.webpagetest.org/)
+- [Website Grader](https://website.grader.com/)
 - [Woorank’s SEO & Website Analysis Tool](https://www.woorank.com/)
 - [Wordtracker Scout](https://www.wordtracker.com/scout)
 - [Whitespark](https://whitespark.ca/)
+- [Yandex Metrica](https://metrica.yandex.com/about?)
+
+### Wordpress Tools
+
+- [All in One SEO Pack](https://wordpress.org/plugins/all-in-one-seo-pack/)
+- [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/)
+- [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/)
+
+### Githubs
+
+- [SiteAudit](https://github.com/thecreazy/siteaudit)  
+  ![Site audit for your site from terminal](https://github.com/thecreazy/siteaudit/raw/master/docs/terminal.gif)
+
+
+
+<!--abcdefghijklmnñopqrstuvwxyz-->
