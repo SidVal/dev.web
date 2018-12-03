@@ -42,6 +42,7 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 ## Otras lecturas
 
 - [La relación entre atributos HTML y propiedades JavaScript](https://www.jasoft.org/Blog/post/la-relacion-entre-atributos-html-y-propiedades-javascript.aspx)
+- [Noobs Guide: Javascript vs JQuery vs ECMAScript vs Typescript](https://medium.com/@brenn.a.hill/noobs-guide-javascript-vs-jquery-vs-ecmascript-vs-typescript-85d87a2d8465) ☆
 - [Follow these simple rules and you’ll become a Git and GitHub master](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
 - [Git for beginner++](https://medium.com/datadriveninvestor/git-for-beginner-f438adfc3599)
 - [An illustrated guide to setting up your website using GitHub and Cloudflare](https://medium.freecodecamp.org/an-illustrated-guide-for-setting-up-your-website-using-github-cloudflare-5a7a11ca9465)
