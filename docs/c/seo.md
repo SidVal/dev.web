@@ -9,6 +9,7 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 
 ## Lecturas
 
+- [Guía de optimización en buscadores (SEO) para principiantes](https://support.google.com/webmasters/answer/7451184)
 - [Web Performance 101](https://3perf.com/talks/web-perf-101/?utm_source=devweb&utm_medium=blog&utm_campaign=recreandoninja)
 - [How to attract traffic to your website](https://medium.com/@vaibhavm_84328/attract-traffic-to-your-website-ea72079d887)
 - [SEO Basics for Thrifty Bloggers](https://writingcooperative.com/seo-basics-for-thrifty-bloggers-869a53425fb9)
