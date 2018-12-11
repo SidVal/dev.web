@@ -2,6 +2,7 @@
 
 ## Lecturas
 
+- [Simple Tips](/c/css/simple-tips.md) - Recopilación de artículos con tips prácticos de diseño _[**Recomendado**]_
 - [A developer’s guide to web design for non-designers](https://medium.freecodecamp.org/a-developers-guide-to-web-design-for-non-designers-1f64ce28c38d)
 - [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)
 - [Scrolling interactions and techniques](https://uxdesign.cc/scrolling-interactions-techniques-d6dafbfa4716)
