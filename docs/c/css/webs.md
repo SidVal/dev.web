@@ -110,7 +110,7 @@ Las colecciones son páginas que ofrecen ejemplos de cómo lograr los efectos co
 
 ## Frameworks
 
->? [CSS Frameworks Awesome List](https://github.com/troxler/awesome-css-frameworks#readme)
+>? [CSS Frameworks Awesome List](/awesome-css-frameworks)
 
 - [Basscss](https://github.com/basscss/basscss/)
 - [Bootflat](https://github.com/bootflat/bootflat.github.io)
