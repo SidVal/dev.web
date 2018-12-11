@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>Curso Desarrollo Web Gratis</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Curso de desarrollo web gratis: html5, javascript, css, y node">
+  <meta name="description" content="Curso de desarrollo web gratis: html5, javascript, css, node y mucho más">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="https://sidval.github.io/dev.web/assets/css/vue.css">
   <link rel="icon" href="/dev.web/favicon.ico" type="image/x-icon" />
@@ -46,10 +46,13 @@
       paths: 'auto', // [] or 'auto'
       placeholder: 'Buscar',
       noData: '¡Sin Resultados!',
-      depth: 5 }//,
-      // alias: {
+      depth: 5 },
+      alias: {
       // '/.*/_sidebar.md': '/_sidebar.md'
-      // }
+        '.*?/awesome-css-frameworks': 'https://raw.githubusercontent.com/troxler/awesome-css-frameworks/master/readme.md',
+        '.*?/awesome-javascript': 'https://raw.githubusercontent.com/sorrycc/awesome-javascript/master/README.md',
+        '.*?/awesome-nodejs': 'https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md'
+      }
   }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
