@@ -7,6 +7,8 @@ Las aplicaciones web progresivas son un híbrido de un sitio web y una aplicaci�
 ## Lecturas
 
 - [An introduction to Progressive Web Apps](https://medium.freecodecamp.org/an-introduction-to-progressive-web-apps-6aa75f32816f)
+- [Progressive Web Apps, The future of the Mobile Web [Free - Ebook]](https://www.awwwards.com/PWA-ebook/)
+- [How Progressive Web Apps can address UX issues](https://medium.com/dev-channel/mobile-web-through-the-users-eyes-d07689842ff8)
 - [SEO para Progressive Web APPs (PWA) y JavaScript](https://www.analistaseo.es/posicionamiento-buscadores/seo-progressive-web-apps-pwa/)
 - [How you can make a progressive web app in an hour](https://medium.freecodecamp.org/how-you-can-make-a-progressive-web-app-in-an-hour-7e36d560610e) ☆
 - [Smashing Magazine: A Beginner’s Guide To Progressive Web Apps](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/)
