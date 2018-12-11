@@ -22,6 +22,7 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
 - [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c) - Common mistakes designers make and how to fix them
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 - [The Ultimate Guide to CSS + Cheat Sheets](https://medium.com/level-up-web/the-ultimate-guide-to-css-103b0f883de3)
+- [When to use the :empty and :blank CSS pseudo selectors](https://medium.freecodecamp.org/empty-and-blank-53b9e96151cd)
 - [How to get better at writing CSS](https://medium.freecodecamp.org/how-to-get-better-at-writing-css-a1732c32a72f)
 - [Time-saving CSS techniques to create responsive images](https://medium.freecodecamp.org/time-saving-css-techniques-to-create-responsive-images-ebb1e84f90d5)
 - [Responsive Data Tables](https://css-tricks.com/responsive-data-tables/)
