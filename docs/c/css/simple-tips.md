@@ -154,3 +154,10 @@ Reglas Generales:
 ## 50 Things You -_Probably_- Forgot To Design
 
 Realmente imperdible artículo, pensaba resumirlo, pero justo ahora no tengo tiempo. [50 Things You -_Probably_- Forgot To Design](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914)
+
+***
+
+## Más lecturas
+
+- [Creating a Style Guide: One-Stop Place for Your UI Design Team](https://uxplanet.org/creating-a-style-guide-one-stop-place-for-your-ui-design-team-af504d6b7adf)
+- [Building a UI Component Design System](https://blog.bitsrc.io/building-a-consistent-ui-design-system-4481fb37470f)

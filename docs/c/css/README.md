@@ -8,17 +8,7 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
 
 - [Box Model](https://css-tricks.com/the-css-box-model/)
 - [Flex Model](/c/css/flexbox.md)
-- Grid Model
-  - [CSS Grid Tutorial](https://medium.com/@js_tut/css-grid-tutorial-filling-in-the-gaps-c596c9534611) ☆
-  - [CSS Grid — The Swiss Army Knife For Website and Application Layouts](https://medium.com/@js_tut/css-grid-the-swiss-army-knife-for-cutting-website-and-application-layouts-c1bd7a6b4e56) ☆
-  - [Progressive enhancement with CSS Grid](https://medium.freecodecamp.org/progressive-enhancement-with-css-grid-8138d4c7508c)
-  - [CSS Grid — a simple layout design tutorial](https://medium.freecodecamp.org/css-grid-a-simple-layout-design-tutorial-5312a4a8bcaf)
-  - [Introducing CSS Grids — A think “inside-the-box” theory!](https://medium.com/quick-code/introducing-css-grids-a-think-inside-the-box-theory-c74e96c2f626)
-  - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-  - [How to Create Website Layouts Using CSS Grid](https://youtu.be/HgwCeNVPlo0) - _Video!_
-  - [Creating horizontal scrolling containers the right way [CSS Grid]](https://uxdesign.cc/creating-horizontal-scrolling-containers-the-right-way-css-grid-c256f64fc585)
-  - [How to Recreate the Banksy Artwork Shredder Using CSS Grid](https://medium.com/@leemartin/how-to-recreate-the-banksy-artwork-shredder-using-css-grid-ff20c0f5a19)
-  - [Magic Grid: A simple, lightweight Javascript library for dynamic grid layouts](https://codeburst.io/magic-grid-f8e2221e7cef)
+- [Grid Model](/c/css/grid.md)
 
 ## Guías
 
@@ -32,6 +22,7 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
 - [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c) - Common mistakes designers make and how to fix them
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 - [The Ultimate Guide to CSS + Cheat Sheets](https://medium.com/level-up-web/the-ultimate-guide-to-css-103b0f883de3)
+- [When to use the :empty and :blank CSS pseudo selectors](https://medium.freecodecamp.org/empty-and-blank-53b9e96151cd)
 - [How to get better at writing CSS](https://medium.freecodecamp.org/how-to-get-better-at-writing-css-a1732c32a72f)
 - [Time-saving CSS techniques to create responsive images](https://medium.freecodecamp.org/time-saving-css-techniques-to-create-responsive-images-ebb1e84f90d5)
 - [Responsive Data Tables](https://css-tricks.com/responsive-data-tables/)
