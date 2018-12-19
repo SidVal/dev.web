@@ -248,6 +248,7 @@ Solo necesitamos un poco de ayuda de Javascript. Magic Grid es una biblioteca de
 ### Lecturas React
 
 - [_Medium - Tag: React_](https://medium.com/tag/react)
+- [React Developer Roadmap](/react-developer-roadmap) - _[Recomendado]_
 - [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
 - [How to Build a Chat Application using React, Redux, Redux-Saga, and Web Sockets](https://medium.freecodecamp.org/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a)
 - [Why I chose Vue.js over React](https://medium.com/@luistinygod/why-i-chose-vue-js-over-react-509ad12d7b53) ☆
