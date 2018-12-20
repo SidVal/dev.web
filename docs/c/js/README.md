@@ -104,7 +104,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 
 ## Scraping
 
-!> Contanido migrado a [`../c/js/scraping`](/c/js/scraping.md)
+!> Contenido migrado a [`../c/js/scraping`](/c/js/scraping.md)
 
 ## Cursos
 
