@@ -10,14 +10,19 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 ## Lecturas
 
 - [Guía de optimización en buscadores (SEO) para principiantes](https://support.google.com/webmasters/answer/7451184)
+- [Guía de SEO en WordPress: Todo lo que debes saber para optimizar tu sitio en WordPress](https://neoattack.com/seo-en-wordpress/)
+- [SEO OnPage – Cómo posicionar un nicho desde cero](https://www.vivirdelared.com/posicionar-nichos/)
+
+### Inglés
+
 - [Web Performance 101](https://3perf.com/talks/web-perf-101/?utm_source=devweb&utm_medium=blog&utm_campaign=recreandoninja)
 - [How to attract traffic to your website](https://medium.com/@vaibhavm_84328/attract-traffic-to-your-website-ea72079d887)
 - [SEO Basics for Thrifty Bloggers](https://writingcooperative.com/seo-basics-for-thrifty-bloggers-869a53425fb9)
 - [The Complete Guide to Lazy Loading Images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
 - [New SEO Ranking Factors Study Points to Massive Changes in Google Search Algorithms](https://medium.com/inc./new-seo-ranking-factors-study-points-to-massive-changes-in-google-search-algorithms-115820dc0d31) ☆
-- [Guía de SEO en WordPress: Todo lo que debes saber para optimizar tu sitio en WordPress](https://neoattack.com/seo-en-wordpress/)
 - [Measure, Optimize & Monitor](https://medium.com/@addyosmani/measure-optimize-monitor-33e36108e014)
 - [9 EASY Link Building Strategies (That ANYONE Can Use)](https://ahrefs.com/blog/link-building-strategies/)
+
 
 ## Ecommerce
 
