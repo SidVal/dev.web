@@ -12,6 +12,7 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 - [Guía de optimización en buscadores (SEO) para principiantes](https://support.google.com/webmasters/answer/7451184)
 - [Guía de SEO en WordPress: Todo lo que debes saber para optimizar tu sitio en WordPress](https://neoattack.com/seo-en-wordpress/)
 - [SEO OnPage – Cómo posicionar un nicho desde cero](https://www.vivirdelared.com/posicionar-nichos/)
+- [Herramientas para analizar la competencia](https://vilmanunez.com/herramientas-para-analizar-la-competencia/)
 
 ### Inglés
 
