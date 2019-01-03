@@ -12,9 +12,9 @@ Antes de seguir deberías tener:
 
 Es un framework Responsive Design diseñado para ayudar a diseñadores y desarrolladores en el proceso de creación de sitios web y aplicaciones de una manera rápida y fácil controlando la parte _front_ de los sitios web. Bootstrap es un proyecto Open Source (de código abierto) que podemos visualizar en [GitHub: Bootstrap](https://github.com/twbs/bootstrap).
 
-A finales del 2012, se lanzó la versión 3 (-[_ver en GitHub_](https://github.com/twbs/bootstrap/pull/6342#issue-3439584)) que consistía en una versión más ambiciosa: Bootstrap 3 será primero para dispositivos móviles. En Agosto del 2015, Bootstrap lanzaba el _[prerelease](https://github.com/twbs/bootstrap/releases/tag/v4.0.0-alpha)_ de la versión 4, pero recién en Enero del 2018 se lanza la [versión 4.00](https://github.com/twbs/bootstrap/releases/tag/v4.0.0).
+A finales del 2012, se lanzó la versión 3 (-[_ver en GitHub_](https://github.com/twbs/bootstrap/pull/6342#issue-3439584)) que consistía en una versión más ambiciosa: Bootstrap 3 será primero para dispositivos móviles. En Agosto del 2015, Bootstrap lanzaba el _[prerelease](https://github.com/twbs/bootstrap/releases/tag/v4.0.0-alpha)_ de la versión 4, pero recién en Enero del 2018 se lanza la [versión 4.00](https://github.com/twbs/bootstrap/releases/tag/v4.0.0). [Ver cambios de versión 3 a versión 4 en Bootstrap](https://getbootstrap.com/docs/4.1/migration/#summary).
 
-!>[Ver cambios de versión 3 a versión 4 en Bootstrap](https://getbootstrap.com/docs/4.1/migration/#summary).
+!>Para tener en cuenta, la última versión de Bootstrap es la: [![Release](https://badgen.net/github/release/twbs/bootstrap)](https://github.com/twbs/bootstrap/releases)
 
 ### Desactivar Responsive
 
