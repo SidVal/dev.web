@@ -222,7 +222,7 @@ El selector de ID consta de un símbolo hash (`#`), seguido del nombre ID de un 
 ***
 
 <div align="right">
--- Hasta aquí se mencionaron los conceptos en la [clase 1](/clases/clase1.md) _(ref: página 28 pdf)_ --
+Hasta aquí se mencionaron los conceptos en la [clase 1](/curso/utn/dw/clase1) _(ref: página 28 pdf)_ 
 </div>
 
 ***
