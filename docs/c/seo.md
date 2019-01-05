@@ -12,6 +12,7 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 - [Guía de optimización en buscadores (SEO) para principiantes](https://support.google.com/webmasters/answer/7451184)
 - [Guía de SEO en WordPress: Todo lo que debes saber para optimizar tu sitio en WordPress](https://neoattack.com/seo-en-wordpress/)
 - [SEO OnPage – Cómo posicionar un nicho desde cero](https://www.vivirdelared.com/posicionar-nichos/)
+- [Herramientas para analizar la competencia](https://vilmanunez.com/herramientas-para-analizar-la-competencia/)
 
 ### Inglés
 
@@ -22,6 +23,7 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 - [New SEO Ranking Factors Study Points to Massive Changes in Google Search Algorithms](https://medium.com/inc./new-seo-ranking-factors-study-points-to-massive-changes-in-google-search-algorithms-115820dc0d31) ☆
 - [Measure, Optimize & Monitor](https://medium.com/@addyosmani/measure-optimize-monitor-33e36108e014)
 - [9 EASY Link Building Strategies (That ANYONE Can Use)](https://ahrefs.com/blog/link-building-strategies/)
+- [4 Ahrefs and SEMrush alternatives that bring innovation to competitive analysis](https://searchenginewatch.com/2019/01/02/ahrefs-semrush-alternatives-competitive-analysis/)
 
 
 ## Ecommerce
@@ -88,6 +90,7 @@ Para mas información sobre el  **Keyword Research** , ya de paso, varias URLs 
 - [Moz Bar](https://moz.com/products/pro/seo-toolbar)
 - [Open Site Explorer](https://moz.com/link-explorer)
 - [Panguin Tool](https://barracuda.digital/panguin-seo-tool/)
+- [Rankedy](https://rankedy.com/)
 - [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/)
 - [Seed Keywords](https://www.seedkeywords.com/)
 - [SEMrush](https://www.semrush.com/)
@@ -97,9 +100,11 @@ Para mas información sobre el  **Keyword Research** , ya de paso, varias URLs 
 - [SEO Site Checkup](https://seositecheckup.com/)
 - [SEO Writing Assistant by SEMrush](https://www.semrush.com/swa/)
 - [SERPs Keyword Rank Checker](https://serps.com/tools/rank-checker/)
+- [Serpstat](https://serpstat.com)
 - [SimilarWeb](https://www.similarweb.com/)
 - [Siteliner](http://www.siteliner.com/)
 - [Soovle](https://soovle.com/)
+- [SpyFu](https://www.spyfu.com/)
 - [TinyPNG](https://tinypng.com/)
 - [Ubersuggest](https://neilpatel.com/ubersuggest/)
 - [Varvy SEO Tool](https://varvy.com/)
