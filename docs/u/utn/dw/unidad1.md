@@ -72,7 +72,7 @@ Pero antes de HTML5 empecemos con HTML, y su significado: _Hyper Text Markup Lan
 >
 >HTML es un lenguaje de marcado. Se utiliza para definir estructuras y no se considera programación porque carece de expresiones (sumas, restas, variables, etc) y operadores lógicos (if, for, while, bucles, etc), por lo que no se puede programar nada utilizando solamente HTML. [Fuente](https://es.quora.com/Por-qu%C3%A9-no-se-considera-HTML-como-lenguaje-de-programaci%C3%B3n/answer/Rolan-Gonzalez)
 
-Veremos cómo se compone una página HTML, y si ésto ya lo conoces, puedes avanzar al [Unidad 2: Primer Página Web](/u/unidad2?id=primer-página-web).
+Veremos cómo se compone una página HTML, y si ésto ya lo conoces, puedes avanzar al [Unidad 2: Primer Página Web](/u/utn/dw/unidad2?id=primer-página-web).
 
 ### Etiquetas
 

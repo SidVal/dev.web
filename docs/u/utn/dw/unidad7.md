@@ -2,13 +2,13 @@
 
 Antes de seguir deberías tener:
 
-1. Conocimiento avanzado de HTML5 y CSS3. [_Repasar Unidad 2_](/u/unidad2.md)
+1. Conocimiento avanzado de HTML5 y CSS3. [_Repasar Unidad 2_](/u/utn/dw/unidad2.md)
 1. Tener a mano la [documentación de DevWeb](/)
 1. Conocimiento avanzado del depurador de tu navegador web. (Preferentemente Google [Chrome: devTools](/c/#chrome-dev-tools))
 
 >Esta unidad contiene contenido sobre `MongoDB`
 
-!>Está mal nomenclada en los PDF del curso, está en los PDF de Unidad 3, como Capítulo 6, pero debería ser capítulo 7, ya que el capítulo seis es para [AngularJS](/u/unidad6.md).
+!>Está mal nomenclada en los PDF del curso, está en los PDF de Unidad 3, como Capítulo 6, pero debería ser capítulo 7, ya que el capítulo seis es para [AngularJS](/u/utn/dw/unidad6.md).
 
 ## MongoDB
 

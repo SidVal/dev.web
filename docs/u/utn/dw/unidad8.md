@@ -2,11 +2,11 @@
 
 Antes de seguir deberías tener:
 
-1. Conocimiento avanzado de HTML5 y CSS3. [_Repasar Unidad 2_](/u/unidad2.md)
+1. Conocimiento avanzado de HTML5 y CSS3. [_Repasar Unidad 2_](/u/utn/dw/unidad2.md)
 1. Tener a mano la [documentación de DevWeb](/)
 1. Conocimiento avanzado del depurador de tu navegador web. (Preferentemente Google [Chrome: devTools](/c/#chrome-dev-tools))
 
->Esta unidad pertenece al PDF4 que contiene contenido sobre [`Node.js`](/u/unidad8.md#nodejs), [`Express.js`](/u/unidad8.md#expressjs) y [`API REST`](/u/unidad9.md#rest).
+>Esta unidad pertenece al PDF4 que contiene contenido sobre [`Node.js`](/u/utn/dw/unidad8.md#nodejs), [`Express.js`](/u/utn/dw/unidad8.md#expressjs) y [`API REST`](/u/utn/dw/unidad9.md#rest).
 
 ## NodeJS
 
