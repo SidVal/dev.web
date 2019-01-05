@@ -6,4 +6,4 @@ Si estás leyendo esta página, es a modo de índice para clasificar los cursos 
 
 ## Lista
 
-- [UTN: Diplomatura Web](/u/utn/dw)
+- [UTN: Diplomatura Web](/u/utn/dw/)

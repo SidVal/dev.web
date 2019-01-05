@@ -2,4 +2,4 @@
 
 ## Lista
 
-- [UTN: Diplomatura Web](/u/utn/dw)
+- [UTN: Diplomatura Web](/u/utn/dw/)
