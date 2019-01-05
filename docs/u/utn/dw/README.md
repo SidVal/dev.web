@@ -21,7 +21,7 @@ Si vamos a trabajar con programación, y desarrollar webs, es indispensable que 
 
 ### Uso pasivo de la Web
 
-Actualmente todo el mundo "sabe" navegar por la web, no es algo que se pregunta: ¿usted domina Internet?. Se presume que usted domina las páginas webs, y navega en internet todo el tiempo.
+Actualmente todo el mundo "sabe" navegar por la web, no es algo que se pregunta: ¿usted domina Internet?. Se supone que usted domina las páginas webs, y navega en internet todo el tiempo.
 
 De lo más básico que debe manejar:
 
