@@ -1,6 +1,6 @@
 * [Inicio](/)
 * [Clases de Diplomatura Web](/curso/utn/dw/#diplomatura-en-desarrollo-web)
-* [Unidades de la Diplomatura Web](/u/utn/dw)
+* [Unidades de la Diplomatura Web](/u/utn/dw/)
   * [Unidad 1](/u/utn/dw/unidad1.md)
   * [Unidad 2](/u/utn/dw/unidad2.md)
   * [Unidad 3](/u/utn/dw/unidad3.md)
