@@ -4,7 +4,7 @@
 >
 >Se busca que estos documentos sean un repaso para aquellas personas que quieren aprender a desarrollar web, o afianzar sus conocimientos.
 >
-!>Si gustas corregir :pencil2: o sugerir :bulb: algún cambio, [**por favor envía tu mensaje aquí**](https://github.com/SidVal/dev.web/issues/new?assignee=SidVal) :pray:
+!>Si gustas corregir :pencil2: o sugerir :bulb: algún cambio, [--por favor envía tu mensaje aquí--](https://github.com/SidVal/dev.web/issues/new?assignee=SidVal) :pray:
 >
 ?>Se creará más adelante una página del tipo "sobre el autor" o algo relacionado, para comentar quién soy, por qué hago todo ésto, etcétera etcétera.
 
@@ -12,8 +12,8 @@
 
 Cada unidad que se presenta posee una serie de pre-requisitos en la parte superior
 
-* Uso básico de ordenadores, y uso pasivo de la Web (navegar en internet y ver contenido).
-* Entorno básico de trabajo, leer [#Software Recomendado](/?id=software-recomendado).
+- Uso básico de ordenadores, y uso pasivo de la Web (navegar en internet y ver contenido).
+- Entorno básico de trabajo, leer [#Software Recomendado](/?id=software-recomendado).
 
 ### Uso básico de ordenadores
 
@@ -25,17 +25,29 @@ Actualmente todo el mundo "sabe" navegar por la web, no es algo que se pregunta:
 
 De lo más básico que debe manejar:
 
-* Abrir un navegador web, preferentemente Google Chrome (que será nuestro programa recomendado en este curso).
-* Abrir una página web directamente a través de una "dirección web".
-* Cerrar pestaña (sin cerrar el programa completo).
-* Abrir un buscador web y buscar una página determinada.
+- Abrir un navegador web, preferentemente Google Chrome (que será nuestro programa recomendado en este curso).
+- Abrir una página web directamente a través de una "dirección web".
+- Cerrar pestaña (sin cerrar el programa completo).
+- Abrir un buscador web y buscar una página determinada.
 
 #### Uso más avanzado
 
-* Abrir una página web, y visualizar su código fuente en nueva pestaña.
-* Abrir una página web, y visualizar su código fuente en la misma pestaña, a través de las herramientas de desarrollador del navegador Google Chrome.
-* Manipular los objetos de la página web a través de dichas herramientas.
+- Abrir una página web, y visualizar su código fuente en nueva pestaña.
+- Abrir una página web, y visualizar su código fuente en la misma pestaña, a través de las herramientas de desarrollador del navegador Google Chrome.
+- Manipular los objetos de la página web a través de dichas herramientas.
 
 ### Entorno básico de trabajo
 
 En la parte de [#Software Recomendado](/?id=software-recomendado) se detallan programas que deberíamos usar.
+
+## Lista
+
+- [Unidad 1](/u/utn/dw/unidad1.md)
+- [Unidad 2](/u/utn/dw/unidad2.md)
+- [Unidad 3](/u/utn/dw/unidad3.md)
+- [Unidad 4](/u/utn/dw/unidad4.md)
+- [Unidad 5](/u/utn/dw/unidad5.md)
+- [Unidad 6](/u/utn/dw/unidad6.md)
+- [Unidad 7](/u/utn/dw/unidad7.md)
+- [Unidad 8](/u/utn/dw/unidad8.md)
+- [Unidad 9](/u/utn/dw/unidad9.md)
