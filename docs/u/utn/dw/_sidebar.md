@@ -10,5 +10,5 @@
   * [Unidad 7](/u/utn/dw/unidad7.md)
   * [Unidad 8](/u/utn/dw/unidad8.md)
   * [Unidad 9](/u/utn/dw/unidad9.md)
-* [Contenido](/c/)
+* [Contenidos Web](/c/)
 * [☆](/medium.md#estrella)
