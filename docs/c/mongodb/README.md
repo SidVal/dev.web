@@ -26,3 +26,7 @@
 - [Build a Project Management Tool with Vue.js, node.js and Apollo — Part1](https://medium.com/@kenzotakahashi2/build-a-project-management-software-with-vue-js-and-apollo-part1-d12ee75a7641)
 - [Building an async / await Promise Based MongoDB Query Library](https://medium.com/@rossbulat/building-an-async-await-promise-based-mongodb-query-library-7312003b0cf4) ☆
 - [Build a task app with Hapi, MongoDB and Vue.js](https://medium.com/employbl/build-a-task-app-with-hapi-mongodb-and-vue-js-dc05c1bb8778) ☆
+
+## Video Curso
+
+- Práctico: [MongoDB Tutorial - CRUD app from scratch using Node.js](https://www.freecodecamp.org/news/mongodb-crud-app/)
