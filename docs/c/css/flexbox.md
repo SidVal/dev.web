@@ -58,3 +58,4 @@ Después de un tiempo, pensar en inicial y final en vez de izquierda y derecha s
 - [Flexbox: The Animated Tutorial](https://medium.freecodecamp.org/flexbox-the-animated-tutorial-263e7d8864e5)
 - [5 Minute Beginner’s Guide to CSS Flexbox](https://medium.com/@jillplatts/6-minute-beginners-guide-to-css-flexbox-527b3ff3480b) ☆
 - [Learn CSS Flexbox in 5 Minutes](https://medium.freecodecamp.org/learn-css-flexbox-in-5-minutes-b941f0affc34) - Práctico, recomendado.
+- [CSS Flexbox Fundamentals Visual Guide](https://medium.com/swlh/css-flexbox-fundamentals-visual-guide-1c467f480dac) ☆
