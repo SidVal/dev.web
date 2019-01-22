@@ -38,6 +38,7 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
 
 - [How to minify your CSS with gulp](https://medium.freecodecamp.org/how-to-minify-your-css-with-gulp-6ff3f4a896b5)
 - [How to center things with style in CSS](https://medium.freecodecamp.org/how-to-center-things-with-style-in-css-dc87b7542689) ☆
+- [How to check if an input is empty with CSS](https://medium.freecodecamp.org/how-to-check-if-an-input-is-empty-with-css-1a83715f9f3e)
 
 ### Cargar CSS
 
