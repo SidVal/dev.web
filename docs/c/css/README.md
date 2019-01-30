@@ -30,9 +30,12 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
 - [Advantages of Using a Preprocessor (Sass) in CSS Development](https://medium.com/swlh/advantages-of-using-a-preprocessor-sass-in-css-eb7310179944)
 - [CSS Specificity and the use of !important: a case study](https://dev.to/munamohamed94/css-specificity-and-the-use-of-important-a-case-study--11)
 - [CSS Border-Radius Can Do That?](https://medium.com/9elements/css-border-radius-can-do-that-d46df1d013ae)
-- [How I remember CSS Grid properties](https://dev.to/zellwk/how-i-remember-css-grid-properties-9i5)
 - [How to Organize Your CSS with a Modular Architecture (OOCSS, BEM, SMACSS)](https://snipcart.com/blog/organize-css-modular-architecture)
 - [Most Popular Responsive CSS Frameworks: Bootstrap, Foundation, Materialize, Pure, and more](https://uxplanet.org/most-popular-responsive-css-frameworks-bootstrap-foundation-materialize-pure-and-more-2bf45afc115d)
+- [Scroll to the future](https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations)
+- [Practical CSS Scroll Snapping](https://css-tricks.com/practical-css-scroll-snapping/)
+- [The Complete Guide to Lazy Loading Images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
+- [CSS Frameworks Or CSS Grid: What Should I Use For My Project?](https://www.smashingmagazine.com/2018/11/css-frameworks-css-grid)
 
 ## Prácticos
 
