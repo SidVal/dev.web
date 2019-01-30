@@ -101,6 +101,7 @@ Las colecciones son páginas que ofrecen ejemplos de cómo lograr los efectos co
 
 - [BEM: Quick Start](https://en.bem.info/methodology/quick-start/)
 - [A quick introduction to Block Element Modifiers (BEM)](https://medium.freecodecamp.org/a-quick-introduction-to-block-element-modifiers-bem-9df46d29b64c)
+- [BEM For Beginners: Why You Need BEM](https://www.smashingmagazine.com/2018/06/bem-for-beginners)
 
 ## FlowType
 
