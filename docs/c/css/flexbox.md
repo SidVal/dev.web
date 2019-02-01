@@ -53,8 +53,10 @@ Después de un tiempo, pensar en inicial y final en vez de izquierda y derecha s
 ### Lecturas Flexbox
 
 - [Flexbox: How Big Is That Flexible Box?](https://www.smashingmagazine.com/2018/09/flexbox-sizing-flexible-box)
-- [The Complete CSS Flex Box Tutorial](https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc)
+- [The Complete CSS Flex Box Tutorial](https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc) ☆
 - [The Complete Illustrated Flexbox Tutorial](https://medium.freecodecamp.org/the-complete-illustrated-flexbox-tutorial-d35c085dbf35)
 - [Flexbox: The Animated Tutorial](https://medium.freecodecamp.org/flexbox-the-animated-tutorial-263e7d8864e5)
 - [5 Minute Beginner’s Guide to CSS Flexbox](https://medium.com/@jillplatts/6-minute-beginners-guide-to-css-flexbox-527b3ff3480b) ☆
 - [Learn CSS Flexbox in 5 Minutes](https://medium.freecodecamp.org/learn-css-flexbox-in-5-minutes-b941f0affc34) - Práctico, recomendado.
+- [CSS Flexbox Fundamentals Visual Guide](https://medium.com/swlh/css-flexbox-fundamentals-visual-guide-1c467f480dac) ☆
+- [Everything You Need To Know About Alignment In Flexbox](https://www.smashingmagazine.com/2018/08/flexbox-alignment/)

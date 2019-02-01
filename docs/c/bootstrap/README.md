@@ -14,6 +14,10 @@ El sitio oficial de Bootstrap posee documentación y guías que son excelentes p
 - [Bootstrap Grid: Mastering the Most Useful Flexbox Properties](https://www.sitepoint.com/bootstrap-grid-mastering-flexbox/)
 - [A Beginner’s Guide to the Latest Bootstrap Utility Classes](https://www.sitepoint.com/bootstrap-utility-classes/)
 
+## Prácticos
+
+- [How To Create Your Custom Bootstrap Theme using npm along with gulp](https://levelup.gitconnected.com/create-your-bootstrap-theme-4228aca9117a)
+
 ## Plugins
 
 - [Bootstrap Datepicker](https://github.com/uxsolutions/bootstrap-datepicker) - [Docs](https://bootstrap-datepicker.readthedocs.io/en/latest/)
