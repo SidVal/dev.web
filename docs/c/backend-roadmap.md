@@ -134,7 +134,7 @@ Llegué a una interesante infografía a través de un post en Medium que me inte
 
 La verdad que es un post (en inglés) excelente, he leído pocos aportes tan completos.
 
-## Lecturas Backend
+## Lecturas
 
 - [Beginner’s Web Development Guide Part 2: Backend](https://medium.com/devtrailsio/beginners-web-development-guide-part-2-backend-fd466212dbfc)
    ![This is the heart and brains of your application](https://cdn-images-1.medium.com/max/1000/1*1DSs5H0UvHru5L1tL9IrMA.png)
