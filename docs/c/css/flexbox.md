@@ -50,7 +50,7 @@ Después de un tiempo, pensar en inicial y final en vez de izquierda y derecha s
 - [Flexbox Froggy](http://flexboxfroggy.com/)  
   _Flexbox Froggy_, es un juego donde ayudarás a Froggy y a sus amigos escribiendo código `CSS`. Guía a esta rana hacia la hoja de lirio en la derecha, usando la propiedad `justify-content`, la cual alinea elementos horizontalmente y ...
 
-### Lecturas Flexbox
+### Lecturas
 
 - [Flexbox: How Big Is That Flexible Box?](https://www.smashingmagazine.com/2018/09/flexbox-sizing-flexible-box)
 - [The Complete CSS Flex Box Tutorial](https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc) ☆
