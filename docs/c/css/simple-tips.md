@@ -157,7 +157,7 @@ Realmente imperdible artículo, pensaba resumirlo, pero justo ahora no tengo tie
 
 ***
 
-## Más lecturas
+## Lecturas
 
 - [Creating a Style Guide: One-Stop Place for Your UI Design Team](https://uxplanet.org/creating-a-style-guide-one-stop-place-for-your-ui-design-team-af504d6b7adf)
 - [Building a UI Component Design System](https://blog.bitsrc.io/building-a-consistent-ui-design-system-4481fb37470f)
