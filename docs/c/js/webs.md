@@ -132,8 +132,6 @@ Una sencilla librería Javascript para la creación de páginas web con desplaza
 
 [Gulp](https://gulpjs.com) es una herramienta, en forma de script en `NodeJS`, que te ayuda a automatizar tareas comunes en el desarrollo de una aplicación, como pueden ser: mover archivos de una carpeta a otra, eliminarlos, minificar código, sincronizar el navegador cuando modificas tu código, validar sintaxis y un largo etcétera. (_[Fuente](https://www.returngis.net/2016/07/que-es-gulp-y-para-que-sirve/)_)
 
-### Lecturas Gulp
-
 - [Automatizar la compilación de MD en Visual Code](https://code.visualstudio.com/docs/languages/markdown#_step-1-install-gulp-and-some-plugins)
 - [An Introduction to JavaScript Automation with Gulp](https://www.toptal.com/nodejs/an-introduction-to-automation-with-gulp)
 - [Gulp: A Web Developer's Secret Weapon for Maximizing Site Speed](https://www.toptal.com/javascript/optimize-js-and-css-with-gulp)
@@ -150,8 +148,6 @@ Referencias [#CSS](/c/css/), [#AMP](/c/amp.md), [#NODE](/c/node/)
 ## Hapi
 
 [HapiJS](https://hapijs.com/) permite a los desarrolladores centrarse en escribir lógica de aplicación reutilizable en lugar de perder tiempo construyendo infraestructura.
-
-### Lecturas Hapi
 
 - [Build a task app with Hapi, MongoDB and Vue.js](https://medium.com/employbl/build-a-task-app-with-hapi-mongodb-and-vue-js-dc05c1bb8778) ☆
 
@@ -195,8 +191,6 @@ Solo necesitamos un poco de ayuda de Javascript. Magic Grid es una biblioteca de
 ## Moment.js
 
 [moment.js](https://github.com/moment/moment/) es una biblioteca de manipulación de fecha y hora de JavaScript para analizar, validar, manipular y formatear fechas.
-
-### Lecturas Moment
 
 - Me pareció muy interesante este repositorio que afirma [You don't (may not) need Moment.js](https://github.com/you-dont-need/You-Dont-Need-Momentjs#readme). Hay que leer las alternativas que ofrece y por qué no recomienda `moments.js`.
 - [Wait a Moment.js!](https://hackernoon.com/wait-a-moment-js-80e329fcfc3)
@@ -251,8 +245,6 @@ Solo necesitamos un poco de ayuda de Javascript. Magic Grid es una biblioteca de
 
 [React](https://github.com/facebook/react) React es la biblioteca de JavaScript de Facebook para construir interfaces de usuario. Desde su lanzamiento, React ha sido una biblioteca popular de JavaScript y ha sido una opción para muchos. Lanzado en 2013 y mantenido por _Facebook_, React fue desarrollado principalmente para construir interfaces de usuario. Se ha convertido en la elección principal para muchos desarrolladores, que eligen React sobre _Angular_ porque es fácil de aprender, mucho más flexible, una alta tasa de actualización, un peso ligero y soporte de Facebook para facilitar el proceso de migración entre diferentes versiones. Debido a estas características, compañías como _Netflix, Yahoo, Codecademy, Whatsapp_ y muchos otros han optado por React.
 
-### Lecturas React
-
 - [_Medium - Tag: React_](https://medium.com/tag/react)
 - [React Developer Roadmap](/react-developer-roadmap) - _[Recomendado]_
 - [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
@@ -281,8 +273,6 @@ Solo necesitamos un poco de ayuda de Javascript. Magic Grid es una biblioteca de
 ## Vue
 
 [Vue.JS](https://github.com/vuejs/vue) (pronunciado /vjuː/ en inglés, como view) es un framework progresivo para construir interfaces de usuario. A diferencia de otros frameworks monolíticos, Vue está diseñado desde el inicio para ser adoptado incrementalmente. La biblioteca principal se enfoca solo en la capa de la vista, y es muy simple de utilizar e integrar con otros proyectos o bibliotecas existentes. Por otro lado, Vue también es perfectamente capaz de soportar aplicaciones sofisticadas de una sola página (en inglés single-page-application o SPA) cuando se utiliza en combinación con herramientas modernas y librerías compatibles. [Más información en su sitio oficial en español](https://es-vuejs.github.io/vuejs.org/v2/guide/)
-
-### Lecturas Vue
 
 - [The Vue Handbook: a thorough introduction to Vue.js](https://medium.freecodecamp.org/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446)
 - [Quickly develop static websites with VueJS, a headless CMS and GraphQL](https://medium.com/@marcmintel/quickly-develop-static-websites-with-vuejs-a-headless-cms-and-graphql-bf64e75910d6)
