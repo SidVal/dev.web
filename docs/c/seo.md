@@ -24,7 +24,11 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 - [Measure, Optimize & Monitor](https://medium.com/@addyosmani/measure-optimize-monitor-33e36108e014)
 - [9 EASY Link Building Strategies (That ANYONE Can Use)](https://ahrefs.com/blog/link-building-strategies/)
 - [4 Ahrefs and SEMrush alternatives that bring innovation to competitive analysis](https://searchenginewatch.com/2019/01/02/ahrefs-semrush-alternatives-competitive-analysis/)
+- [30+ Custom View Filters For Google Analytics](https://holini.com/google-analytics-filters)
 
+## To Do
+
+- **Google Analytics**: How to combine all these mysterious Facebook referrals? - [How to Fix m/lm/l.facebook.com in Google Analytics](https://holini.com/m-lm-l-facebook-com-referrals/)
 
 ## Ecommerce
 
