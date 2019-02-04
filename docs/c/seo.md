@@ -16,6 +16,9 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 
 ### Inglés
 
+- Moz:
+  - [Page Speed Optimization: Metrics, Tools, and How to Improve](https://moz.com/blog/website-page-speed)
+  - [Rewriting the Beginner's Guide to SEO, Chapter 6: Link Building & Establishing Authority](https://moz.com/blog/beginners-guide-to-seo-chapter-6)
 - [Web Performance 101](https://3perf.com/talks/web-perf-101/?utm_source=devweb&utm_medium=blog&utm_campaign=recreandoninja)
 - [How to attract traffic to your website](https://medium.com/@vaibhavm_84328/attract-traffic-to-your-website-ea72079d887)
 - [SEO Basics for Thrifty Bloggers](https://writingcooperative.com/seo-basics-for-thrifty-bloggers-869a53425fb9)
@@ -26,7 +29,6 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 - [4 Ahrefs and SEMrush alternatives that bring innovation to competitive analysis](https://searchenginewatch.com/2019/01/02/ahrefs-semrush-alternatives-competitive-analysis/)
 - [30+ Custom View Filters For Google Analytics](https://holini.com/google-analytics-filters)
 - [How to Optimise for Searcher Intent (Complete Guide 2019)](https://www.stateofdigital.com/optimise-for-searcher-intent-complete-guide-2019/)
-- [Page Speed Optimization: Metrics, Tools, and How to Improve](https://moz.com/blog/website-page-speed)
 - [What is Minification](https://www.incapsula.com/cdn-guide/glossary/minification.html)
 - [Front End Optimization](https://www.incapsula.com/cdn-guide/front-end-optimization-feo.html)
 
