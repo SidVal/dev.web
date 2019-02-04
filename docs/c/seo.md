@@ -26,6 +26,7 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 - [4 Ahrefs and SEMrush alternatives that bring innovation to competitive analysis](https://searchenginewatch.com/2019/01/02/ahrefs-semrush-alternatives-competitive-analysis/)
 - [30+ Custom View Filters For Google Analytics](https://holini.com/google-analytics-filters)
 - [How to Optimise for Searcher Intent (Complete Guide 2019)](https://www.stateofdigital.com/optimise-for-searcher-intent-complete-guide-2019/)
+- [Page Speed Optimization: Metrics, Tools, and How to Improve](https://moz.com/blog/website-page-speed)
 
 ## To Do
 
