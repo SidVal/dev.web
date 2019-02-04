@@ -16,6 +16,7 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 
 ### Inglés
 
+- [PDF: Search Quality Evaluator Guidelines](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/searchqualityevaluatorguidelines.pdf)
 - Moz:
   - [Page Speed Optimization: Metrics, Tools, and How to Improve](https://moz.com/blog/website-page-speed)
   - [Rewriting the Beginner's Guide to SEO, Chapter 6: Link Building & Establishing Authority](https://moz.com/blog/beginners-guide-to-seo-chapter-6)
