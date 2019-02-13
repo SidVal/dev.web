@@ -28,14 +28,16 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 - [Measure, Optimize & Monitor](https://medium.com/@addyosmani/measure-optimize-monitor-33e36108e014)
 - [9 EASY Link Building Strategies (That ANYONE Can Use)](https://ahrefs.com/blog/link-building-strategies/)
 - [4 Ahrefs and SEMrush alternatives that bring innovation to competitive analysis](https://searchenginewatch.com/2019/01/02/ahrefs-semrush-alternatives-competitive-analysis/)
-- [30+ Custom View Filters For Google Analytics](https://holini.com/google-analytics-filters)
 - [How to Optimise for Searcher Intent (Complete Guide 2019)](https://www.stateofdigital.com/optimise-for-searcher-intent-complete-guide-2019/)
 - [What is Minification](https://www.incapsula.com/cdn-guide/glossary/minification.html)
 - [Front End Optimization](https://www.incapsula.com/cdn-guide/front-end-optimization-feo.html)
 
-## To Do
+## Google Analytics
 
+- [Medium: "Google Analytics"](https://medium.com/tag/google-analytics/latest)
 - **Google Analytics**: How to combine all these mysterious Facebook referrals? - [How to Fix m/lm/l.facebook.com in Google Analytics](https://holini.com/m-lm-l-facebook-com-referrals/)
+- [30+ Custom View Filters For Google Analytics](https://holini.com/google-analytics-filters)
+- [Introducing the Audience Explorer analytics dashboard for small and medium-size news publishers](https://medium.com/centerforcooperativemedia/introducing-the-audience-explorer-dashboard-for-small-publishers-9fbff748c47)
 
 ## Ecommerce
 
