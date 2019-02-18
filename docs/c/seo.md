@@ -35,6 +35,7 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 ## Cursos
 
 - Google - [The CRO Course: Win on Mobile](https://winonmobile.withgoogle.com/)
+- [Google Analytics para Principiantes](https://analytics.google.com/analytics/academy/course/6)
 
 ## Google Analytics
 
