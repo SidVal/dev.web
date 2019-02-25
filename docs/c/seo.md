@@ -84,6 +84,7 @@ Para mas información sobre el  **Keyword Research** , ya de paso, varias URLs 
 - [Detailed.com](https://detailed.com/)
 - [disavow.it by Distilled](http://disavow.it/)
 - [Drop My Link](http://dropmylink.com/)
+- [FandangoSEO](https://www.fandangoseo.com/es/)
 - [Google Analytics](https://www.google.com/analytics/)
 - [Google Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
@@ -109,6 +110,7 @@ Para mas información sobre el  **Keyword Research** , ya de paso, varias URLs 
 - [Open Site Explorer](https://moz.com/link-explorer)
 - [Panguin Tool](https://barracuda.digital/panguin-seo-tool/)
 - [Rankedy](https://rankedy.com/)
+- [Safecont](https://safecont.com/)
 - [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/)
 - [Seed Keywords](https://www.seedkeywords.com/)
 - [SEMrush](https://www.semrush.com/)
@@ -135,6 +137,11 @@ Para mas información sobre el  **Keyword Research** , ya de paso, varias URLs 
 - [Wordtracker Scout](https://www.wordtracker.com/scout)
 - [Whitespark](https://whitespark.ca/)
 - [Yandex Metrica](https://metrica.yandex.com/about?)
+
+### Link building Tools
+
+- [BuzzStream](https://www.buzzstream.com/)
+- [FuSEOn Link Affinity](https://fuseonlinkaffinity.com/)
 
 ### Wordpress Tools
 
