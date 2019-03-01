@@ -78,17 +78,12 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 
 Plataformas, herramientas, tips, lecturas... por ahora aquí.
 
-- [Blogger](/c/blogger.md) - _[Sección completa]_
+- Ver sección dedicada: [Blogger](/c/blogger.md)
 - [Headless WordPress + Next.js — What We Learned](https://medium.com/kata-engineering/headless-wordpress-next-js-what-we-learned-c10abdf80f6a)
 
 ## E-Commerce
 
-- [`Medium: Ecommerce`](https://medium.com/tag/ecommerce)
-- [`Medium: Online-Shopping`](https://medium.com/tag/online-shopping)
-- [WooCommerce, SEO and how to build a perfect site](https://medium.com/@senormunoz/woocommerce-seo-and-how-to-build-a-perfect-site-543d29b16d47)
-  - [10 Best WooCommerce Plugins to Improve Your Store](https://medium.com/@printful/10-best-woocommerce-plugins-to-improve-your-store-b931c667d4d4)
-- [How to design a payment form your customers will actually complete](https://medium.com/swlh/how-to-design-a-payment-form-your-customers-will-actually-complete-55a986fe3ada)
-- [The Digital Fashion World — Bigger Than You Thought](https://medium.com/@waamofficial/the-digital-fashion-world-bigger-than-you-thought-bc933a4b49d6)
+- Ver sección dedicada: [Ecommerce](/c/ecommerce.md)
 
 ## Chrome Dev Tools
 
