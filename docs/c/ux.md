@@ -24,6 +24,14 @@
 - [Gamification: Understanding The Basics](https://uxplanet.org/gamification-understanding-the-basics-2bbcce365c33)
 - [Building a responsive image](https://medium.com/9elements/building-a-responsive-image-e4c6229fa1f6)
 
+### PDFs
+
+- [Google UX Playbook for News and Content Sites](http://services.google.com/fh/files/events/pdf_news_ux_playbook.pdf)
+- [Google UX Playbook for Retail](https://services.google.com/fh/files/events/pdf_retail_ux_playbook.pdf)
+- [Google UX Playbook for Lead Gen](https://services.google.com/fh/files/events/pdf_leadgen_ux_playbook.pdf)
+- [Google UX Playbook for Travel](http://services.google.com/fh/files/events/pdf_travel_ux_playbook.pdf)
+- [Google UX Playbook for Finance](http://services.google.com/fh/files/events/pdf_finance_ux_playbook.pdf)
+
 ## Herramientas
 
 - [Cool UX tools](https://coolux.tools)  
