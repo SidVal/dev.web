@@ -31,6 +31,11 @@
 - [Google UX Playbook for Lead Gen](https://services.google.com/fh/files/events/pdf_leadgen_ux_playbook.pdf)
 - [Google UX Playbook for Travel](http://services.google.com/fh/files/events/pdf_travel_ux_playbook.pdf)
 - [Google UX Playbook for Finance](http://services.google.com/fh/files/events/pdf_finance_ux_playbook.pdf)
+- [Google UX Playbook for Auto](http://services.google.com/fh/files/events/pdf_auto_ux_playbook.pdf)
+- [Google UX Playbook for Real Estate](https://services.google.com/fh/files/events/pdf_realestate_ux_playbook.pdf)
+- [Google UX Playbook for Healthcare](http://services.google.com/fh/files/events/pdf_auto_healthcare_playbook.pdf)
+- [10 Mobile Site Best Practices](https://services.google.com/fh/files/events/best%20practices%20generic.pdf)
+- [App engagement checklist](https://services.google.com/fh/files/events/app-engagement-checklist.pdf)
 
 ## Herramientas
 
