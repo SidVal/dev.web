@@ -22,6 +22,8 @@ Repositorios GitHub con contenido sobre blogger, o templates.
 - [Free WordPress Themes](https://colorlib.com/wp/free-wordpress-themes/) - A huge list of mobile friendly and responsive WordPress themes that are completely free. Most of them are made by Colorlib or our trusted partners such as CPO Themes, Macho Themes and more.
 - [Blog Themes](https://colorlib.com/wp/best-personal-blog-wordpress-themes/) - Above we listed all the free examples but if you are looking for something trully beautiful and well designed you might want to check these premium examples. Most of them comes with page builder that will allow to take your website to the levels no free themes ever will.
 - [Blogger Conditional Tags for different page types](https://ultimatebloggerguide.blogspot.com/2016/07/blogger-conditional-tags-for-page-types.html)
+- [CERTIFICADO SSL / HTTPS PARA BLOGGER (Funciona en dominios propios blogspot)](https://hablemosenweb.blogspot.com/2017/10/ssl-https-dominio-propio-blogger-blogspot.html) - **Recomendado**  
+  Buena solución para poner https a los enlaces para aquellos blogs que tenemos problemas con el HTTPS. 
 
 ## Coding
 
