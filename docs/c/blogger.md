@@ -25,6 +25,7 @@ Repositorios GitHub con contenido sobre blogger, o templates.
 - [CERTIFICADO SSL / HTTPS PARA BLOGGER (Funciona en dominios propios blogspot)](https://hablemosenweb.blogspot.com/2017/10/ssl-https-dominio-propio-blogger-blogspot.html) - **Recomendado**  
   Buena solución para poner https a los enlaces para aquellos blogs que tenemos problemas con el HTTPS. 
 - [Simple Image Lazy Load and Fade](https://davidwalsh.name/lazyload-image-fade)
+- [Blogger Code PE](https://bloggercode-blogconnexion.blogspot.com/)
 
 ## Coding
 
