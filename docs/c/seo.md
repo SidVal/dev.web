@@ -43,6 +43,9 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 - **Google Analytics**: How to combine all these mysterious Facebook referrals? - [How to Fix m/lm/l.facebook.com in Google Analytics](https://holini.com/m-lm-l-facebook-com-referrals/)
 - [30+ Custom View Filters For Google Analytics](https://holini.com/google-analytics-filters)
 - [Introducing the Audience Explorer analytics dashboard for small and medium-size news publishers](https://medium.com/centerforcooperativemedia/introducing-the-audience-explorer-dashboard-for-small-publishers-9fbff748c47)
+- [Enhanced Google Analytics annotations](https://context.sweetlabs.io/google-analytics-annotations-extension)
+- [The Complete Guide to Google Analytics Content Groupings](https://online-metrics.com/google-analytics-content-groupings)
+- [Ultimate Guide to Using Google Analytics Filters](https://online-metrics.com/google-analytics-filters/)
 
 ## Ecommerce
 

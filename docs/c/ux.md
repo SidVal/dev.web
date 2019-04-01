@@ -23,6 +23,20 @@
 - [10 Small Design Mistakes We Still Make](https://uxplanet.org/10-small-design-mistakes-we-still-make-1cd5f60bc708)
 - [Gamification: Understanding The Basics](https://uxplanet.org/gamification-understanding-the-basics-2bbcce365c33)
 - [Building a responsive image](https://medium.com/9elements/building-a-responsive-image-e4c6229fa1f6)
+- [That ABC of a supermarket](https://medium.com/@lollamassari/that-abc-of-a-supermarket-dbab5b35868c)
+
+### PDFs
+
+- [Google UX Playbook for News and Content Sites](http://services.google.com/fh/files/events/pdf_news_ux_playbook.pdf)
+- [Google UX Playbook for Retail](https://services.google.com/fh/files/events/pdf_retail_ux_playbook.pdf)
+- [Google UX Playbook for Lead Gen](https://services.google.com/fh/files/events/pdf_leadgen_ux_playbook.pdf)
+- [Google UX Playbook for Travel](http://services.google.com/fh/files/events/pdf_travel_ux_playbook.pdf)
+- [Google UX Playbook for Finance](http://services.google.com/fh/files/events/pdf_finance_ux_playbook.pdf)
+- [Google UX Playbook for Auto](http://services.google.com/fh/files/events/pdf_auto_ux_playbook.pdf)
+- [Google UX Playbook for Real Estate](https://services.google.com/fh/files/events/pdf_realestate_ux_playbook.pdf)
+- [Google UX Playbook for Healthcare](http://services.google.com/fh/files/events/pdf_auto_healthcare_playbook.pdf)
+- [10 Mobile Site Best Practices](https://services.google.com/fh/files/events/best%20practices%20generic.pdf)
+- [App engagement checklist](https://services.google.com/fh/files/events/app-engagement-checklist.pdf)
 
 ## Herramientas
 
