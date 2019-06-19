@@ -15,6 +15,7 @@ Sub-secciones en distintas categorías:
 - [The Digital Fashion World — Bigger Than You Thought](https://medium.com/@waamofficial/the-digital-fashion-world-bigger-than-you-thought-bc933a4b49d6)
 - [Enhanced Ecommerce Guide For Google Tag Manager](https://www.simoahava.com/analytics/enhanced-ecommerce-guide-for-google-tag-manager/)
 - [True View Ecommerce Impressions With Google Tag Manager](https://www.simoahava.com/analytics/true-view-impressions-google-tag-manager)
+- [How To Accept Payments On Your Website (Easiest Way)](https://medium.com/future-vision/how-to-accept-payments-on-your-website-easiest-way-5792b17d7aba) ☆
 
 ### Prestashop
 
