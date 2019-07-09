@@ -2,7 +2,7 @@
 
 Como les voy a comentar en las infografías a continuación, encontré en GitHub un desarrollador que hace estos interesantes gráficos, y lo más importante que debemos tener en cuenta es la referencia de colores que se destaca en esta imagen:
 
-![Web Development 2018](../assets/img/web-dev-2018.png)
+![Web Development 2018](../assets/img/web-dev-2019.png)
 
 ## Infografías
 
