@@ -2,12 +2,12 @@
 
 ![Frontend Roadmap](https://roadmap.sh/assets/img/roadmaps/frontend-transparent.png)
 
-<!-- ![Frontend Roadmap](https://cdn-images-1.medium.com/max/1000/1*_EfUP-q18EfebxPgZ6BCbA.png) -->
+<!-- ![Frontend Roadmap 2018](https://cdn-images-1.medium.com/max/1000/1*_EfUP-q18EfebxPgZ6BCbA.png) -->
 
 
 ## Frontend
 
-Imperdible artículo sobre lo que hay que aprender para dominar el frontend de una web: [Modern Frontend Developer in 2018](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c).
+Imperdible artículo sobre lo que hay que aprender para dominar el frontend de una web: [Modern Frontend Developer](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c).
 
 Consejos que se desprenden de éste artículo:
 
