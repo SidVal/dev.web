@@ -23,6 +23,7 @@ _Scraping_ de _Web Scraping_ no debe confundirse con el término _scrapping_.
 - [Using Puppeteer in Google Cloud Functions](https://rominirani.com/using-puppeteer-in-google-cloud-functions-809a14856e14)
 - [Web Scraping With Express And Puppeteer](https://medium.com/@joshblf/web-scraping-with-express-and-puppeteer-1c1b47bb2a21) ☆
 - [I was looking for a house, so I built a web scraper in Python!](https://towardsdatascience.com/looking-for-a-house-build-a-web-scraper-to-help-you-5ab25badc83e) ☆
+- [How to use Python to get better insights on contents: "Scraping 'People also asked' on Google Search"](https://nitto.li/scraping-people-also-asked/)
 
 ### Scraping Apps
 
