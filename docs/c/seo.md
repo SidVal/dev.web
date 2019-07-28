@@ -31,6 +31,7 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 - [How to Optimise for Searcher Intent (Complete Guide 2019)](https://www.stateofdigital.com/optimise-for-searcher-intent-complete-guide-2019/)
 - [What is Minification](https://www.incapsula.com/cdn-guide/glossary/minification.html)
 - [Front End Optimization](https://www.incapsula.com/cdn-guide/front-end-optimization-feo.html)
+- [Definitive technical SEO checklist for Brands](https://prosperitymedia.com.au/definitive-technical-seo-checklist-for-brands) **[Recomendado]**
 
 ## Cursos
 
