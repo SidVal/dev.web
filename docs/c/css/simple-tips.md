@@ -161,3 +161,4 @@ Realmente imperdible artículo, pensaba resumirlo, pero justo ahora no tengo tie
 
 - [Creating a Style Guide: One-Stop Place for Your UI Design Team](https://uxplanet.org/creating-a-style-guide-one-stop-place-for-your-ui-design-team-af504d6b7adf)
 - [Building a UI Component Design System](https://blog.bitsrc.io/building-a-consistent-ui-design-system-4481fb37470f)
+- [30 Visually Stunning CSS Cards Inspirations For Every Type Of Websites 2019](https://uicookies.com/css-card-design/)
