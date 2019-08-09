@@ -7,6 +7,7 @@
 - [7 Practical Tips for Cheating at Design](/c/css/simple-tips.md#use-color-and-weight-to-create-hierarchy-instead-of-size)
 - [Designing as a developer in 2018](/c/css/simple-tips.md#first-impressions-are-everything)
 - [50 Things You -Probably- Forgot To Design](/c/css/simple-tips.md#50-things-you--probably--forgot-to-design)
+- [UI cheat sheet: text fields](/c/css/simple-tips.md#campos-de-texto)
 
 ***
 
