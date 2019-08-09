@@ -12,16 +12,16 @@ Se repasan ciertos conceptos generales de la clase anterior, por ejemplo algunos
 
 Se ve la aplicación de:
 
-* [Pseudo clases](/u/unidad2.md#referencia-con-pseudo-clases).
-* [Gradientes](/u/unidad2.md#gradientes-css)
+* [Pseudo clases](/u/utn/dw/unidad2.md#referencia-con-pseudo-clases).
+* [Gradientes](/u/utn/dw/unidad2.md#gradientes-css)
   * Usando `-webkit`; `-moz` o `linear-gradient` directamente.
   * Se vió el `radial` también.
-* [Text Shadow](/u/unidad2.md#text-shadow)
-* [Transformación](/u/unidad2.md#transform)
+* [Text Shadow](/u/utn/dw/unidad2.md#text-shadow)
+* [Transformación](/u/utn/dw/unidad2.md#transform)
   * Rotación
   * Escalado
   * Traslado
-* [Transición](/u/unidad2.md#transition)
+* [Transición](/u/utn/dw/unidad2.md#transition)
   * Hacer ejemplo práctico en jsfiddle con un box que se mueva, para que quede claro este tema.
 
 ## Bootstrap
@@ -59,5 +59,5 @@ En el código de la página del blog, aplicar bootstrap.
 
 En esta clase del curso se desarrollaron contenidos de:
 
-* [Unidad 2](/u/unidad2.md)
-* [Unidad 3](/u/unidad3.md)
+* [Unidad 2](/u/utn/dw/unidad2.md)
+* [Unidad 3](/u/utn/dw/unidad3.md)

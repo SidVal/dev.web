@@ -7,6 +7,7 @@
 - [7 Practical Tips for Cheating at Design](/c/css/simple-tips.md#use-color-and-weight-to-create-hierarchy-instead-of-size)
 - [Designing as a developer in 2018](/c/css/simple-tips.md#first-impressions-are-everything)
 - [50 Things You -Probably- Forgot To Design](/c/css/simple-tips.md#50-things-you--probably--forgot-to-design)
+- [UI cheat sheet: text fields](/c/css/simple-tips.md#campos-de-texto)
 
 ***
 
@@ -149,6 +150,25 @@ Reglas Generales:
 
 ?> [Ver repo del autor de éste artículo](https://github.com/Nickersoft/design#a-style-guide-for-modernist-design)
 
+### Campos de Texto
+
+Hay una [guía muuuuuy recomendada -en inglés](https://uxdesign.cc/ui-cheat-sheet-text-fields-2152112615f8) que habla sobre los siguientes puntos relacionados a los campos de texto y su diseño:
+
+- Text field anatomy
+- Text field structure
+- Common text field styles
+- Icons
+- Text field states
+- Text field labelling & prompt text
+- Feedback
+- Autoformat
+- Touch targets
+- Accessibility checklist
+
+#### Text field structure
+
+![Text field structure](https://miro.medium.com/max/700/1*J1GvaHUBhYddxEZWTmbcTQ.png)
+
 ***
 
 ## 50 Things You -_Probably_- Forgot To Design
@@ -161,3 +181,4 @@ Realmente imperdible artículo, pensaba resumirlo, pero justo ahora no tengo tie
 
 - [Creating a Style Guide: One-Stop Place for Your UI Design Team](https://uxplanet.org/creating-a-style-guide-one-stop-place-for-your-ui-design-team-af504d6b7adf)
 - [Building a UI Component Design System](https://blog.bitsrc.io/building-a-consistent-ui-design-system-4481fb37470f)
+- [30 Visually Stunning CSS Cards Inspirations For Every Type Of Websites 2019](https://uicookies.com/css-card-design/)

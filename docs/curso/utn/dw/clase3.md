@@ -8,7 +8,7 @@ Lugar: Remoto, _GoToMeeting.es_
 
 Se profundizaron aún más los conceptos vistos en la [clase 2](/curso/utn/dw/clase2.md#clase-2), se puso más énfasis en los conceptos claves de `CSS` y formas de estructurar estilos en `HTML`.
 
-A continuación se detallarán rápidamente lo que se vió en clase, para ampliar los conceptos ir a la [documentación de Unidades](/u/).
+A continuación se detallarán rápidamente lo que se vió en clase, para ampliar los conceptos ir a la [documentación de Unidades](/u/utn/dw/).
 
 ### Div Principal
 
@@ -74,5 +74,5 @@ Se vieron los elementos de HTML5.
 
 >En esta clase del curso se desarrollaron contenidos de:
 >
-> * [Unidad 1](/u/unidad1.md)
-> * [Unidad 2](/u/unidad2.md)
+> * [Unidad 1](/u/utn/dw/unidad1.md)
+> * [Unidad 2](/u/utn/dw/unidad2.md)

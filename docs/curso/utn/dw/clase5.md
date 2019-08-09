@@ -22,7 +22,7 @@ Fecha: 29 de mayo
 
 ## Tarea Clase 5
 
-Modificar el blog que vimos en la [clase 3](https://sidval.github.io/www/curso/utn/dw/c3/)
+Modificar el blog que vimos en la clase 3: [Ver ejemplo práctico de la clase](https://sidval.github.io/www/curso/utn/dw/c3/)
 
 Realizar éstas modificaciones:
 

@@ -70,8 +70,11 @@ Para mas información sobre el  **Keyword Research** , ya de paso, varias URLs 
 ## Herramientas
 
 <!-- abcdefghijklmnñopqrstuvwxyz -->
+<!-- recopilación muy buena; llegué hasta Multi-tool: https://moz.com/blog/best-free-seo-tools -->
 
 - [Ahrefs](https://ahrefs.com/)
+- [Ayima Pulse](https://www.ayima.com/pulse/)
+- [Algoroo](https://algoroo.com/)
 - [Am I Responsive?](http://ami.responsivedesign.is/)
 - [Answer The Public](https://answerthepublic.com/)
 - [Barracuda Panguin](https://barracuda.digital/panguin-seo-tool/)
@@ -83,15 +86,19 @@ Para mas información sobre el  **Keyword Research** , ya de paso, varias URLs 
 - [Bulk Google Rank Checker](https://www.seoreviewtools.com/rank-checker/)
 - [Can I Rank](https://www.canirank.com/)
 - [cognitiveSEO](http://cognitiveseo.com/)
+- [Context: Extensión de Chrome](https://context.sweetlabs.io/es/anotaciones-google-analytics-extension/) - *Anotaciones Mejoradas de Google Analytics*
 - [Copyscape](http://www.copyscape.com/)
 - [Dareboost](https://www.dareboost.com/en)
 - [Detailed.com](https://detailed.com/)
 - [disavow.it by Distilled](http://disavow.it/)
+- [Disavow Tool](https://www.google.com/webmasters/tools/disavow-links-main)
 - [Drop My Link](http://dropmylink.com/)
 - [FandangoSEO](https://www.fandangoseo.com/es/)
 - [Google Analytics](https://www.google.com/analytics/)
 - [Google Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
+- [Google My Business](https://www.google.com/business/)
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- [Google Review Link Generator](https://whitespark.ca/google-review-link-generator/)
 - [Google Search Console](https://www.google.com/webmasters/tools/)
 - [Google Search Console XML Sitemap Report](https://www.google.com/webmasters/tools/sitemap-list)
 - [Google’s Schema.org Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/)
@@ -102,23 +109,36 @@ Para mas información sobre el  **Keyword Research** , ya de paso, varias URLs 
 - [I Search From](http://isearchfrom.com/)
 - [Keys4Up](http://www.keys4up.com/)
 - [Keyworddit](https://www.keyworddit.com/)
-- [Keyword Hero](https://www.99signals.com/go/keyword-hero/)
+- [Keyword Planner](https://ads.google.com/intl/en_in/home/tools/keyword-planner/)
+- [Keyword Shitter](https://keywordshitter.com/)
+- [Keyword Hero](https://keyword-hero.com/)
 - [Keywords Everywhere](https://keywordseverywhere.com/)
 - [KWFinder](https://kwfinder.com/)
 - [Linkody](https://www.linkody.com/)
 - [LinkResearchTools](http://www.linkresearchtools.com/)
+- [Link Miner](https://chrome.google.com/webstore/detail/linkminer/ogdhdnpiclkaeicicamopfohidjokoom?hl=en)
+- [Link Redirect Trace](https://chrome.google.com/webstore/detail/link-redirect-trace/nnpljppamoaalgkieeciijbcccohlpoh?hl=en)
+- [Local Search Results Checker](https://www.brightlocal.com/local-search-results-checker/)
+- [Redirect Path](https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll?hl=en-US)
 - [LSI Graph](https://lsigraph.com/)
 - [Majestic](https://majestic.com/)
 - [Monitor Backlinks](https://monitorbacklinks.com/)
 - [Moz Bar](https://moz.com/products/pro/seo-toolbar)
+- [Moz Keyword Explorer](https://moz.com/explorer)
+- [Moz Link Explorer](https://moz.com/link-explorer)
+- [Moz Local Check Business Listing](https://moz.com/local/search)
+- [MozCast](https://moz.com/mozcast/)
 - [Open Site Explorer](https://moz.com/link-explorer)
 - [Panguin Tool](https://barracuda.digital/panguin-seo-tool/)
 - [Rankedy](https://rankedy.com/)
+- [Rank Risk Index](https://www.rankranger.com/rank-risk-index)
 - [Safecont](https://safecont.com/)
 - [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/)
+- [Screaming Frog Log File Analyser](https://www.screamingfrog.co.uk/log-file-analyser/)
 - [Seed Keywords](https://www.seedkeywords.com/)
 - [SEMrush](https://www.semrush.com/)
 - [Seobility](https://www.seobility.net/en/)
+- [SEOlyzer](https://seolyzer.io/)
 - [SEO-Browser](http://www.seo-browser.com/)
 - [SEO PowerSuite](https://www.seopowersuite.com/)
 - [SEO Site Checkup](https://seositecheckup.com/)
@@ -140,7 +160,16 @@ Para mas información sobre el  **Keyword Research** , ya de paso, varias URLs 
 - [Woorank’s SEO & Website Analysis Tool](https://www.woorank.com/)
 - [Wordtracker Scout](https://www.wordtracker.com/scout)
 - [Whitespark](https://whitespark.ca/)
+- [Xenu](http://home.snafu.de/tilman/xenulink.html)
 - [Yandex Metrica](https://metrica.yandex.com/about?)
+- [Zariance Tools](https://www.zariance.com/tools/)
+
+## Mobile SEO
+
+- [Mobile First Index Checker](https://zeo.org/seo-tools/mfi/)
+- [Mobile SERP Test](https://mobilemoxie.com/tools/mobile-serp-test/)
+- [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
+<!-- - []() -->
 
 ### Link building Tools
 
