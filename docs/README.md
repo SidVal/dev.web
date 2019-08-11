@@ -48,3 +48,10 @@ También, sé por experiencia previa (con C# por ejemplo), uno va probando disti
 Qué mejor lugar que éste para lanzar los errores, e ir teniendo un lugar para ir documentando lo que se aprende.
 
 En la parte del [Wiki](https://github.com/SidVal/dev.web/wiki), se irá actualizando documentación sobre el curso (lo que pueda publicarse y que nadie se moleste en la Universidad porque el contenido está publicado).
+
+## EMPIEZA AHORA
+
+- Si nunca cursaste nada sobre Programación WEB, te recomiendo iniciar con el [curso de Desarrollo Web](/curso/utn/dw/).
+- Si ya tienes experiencia en programación web, y conoces sus conceptos, pero te falta ampliar o practicar algo, entonces pasa al sector de [CONTENIDOS](/c/) de este sitio web, donde podrás encontrar lecturas recomendadas, tips, y mucho más.
+
+_¡Éxitos!_
