@@ -11,11 +11,7 @@ Con el tiempo se convertirá en mi página para exponer todo lo que sea sobre el
 
 !>Si gustas corregir :pencil2: o sugerir :bulb: algún cambio, [**por favor envía tu mensaje aquí**](https://github.com/SidVal/dev.web/issues/new?assignee=SidVal) :pray:
 
-?>Se creará más adelante una página del tipo "sobre el autor" o algo relacionado, para comentar quién soy, por qué hago todo ésto, etcétera etcétera.
->
->Todo esto se hace a pulmón, y con muuuuuuchas dosis de cafeína (_y a veces fernet con coca_).
->
->[![Más Café por favor](https://sidval.github.io/SidV/assets/img/cafe.png)](https://ko-fi.com/J3J1MAVL)
+?>Se creará más adelante una página del tipo "sobre el autor" o algo relacionado, para comentar quién soy, por qué hago todo ésto, etcétera etcétera. Por el momento, puedes [leer en qué ando aquí](https://github.com/sidval/).
 
 ## Contenidos vistos
 
