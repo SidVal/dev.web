@@ -6,7 +6,9 @@ Listado:
 
 - [Collecciones](/c/css/webs.md#colecciones)
   - [Botones](/c/css/webs.md#colecciones-botones)
-- [BEM](/c/css/webs.md#bem)
+- Componentes
+  - [BEM](/c/css/webs.md#bem)
+  - [CSS Modules](/c/css/webs.md#css-modules)
 - [FlowType](/c/css/webs.md#flowtype)
 - [Frameworks](/c/css/webs.md#frameworks)
   - Basscss
@@ -37,6 +39,10 @@ Listado:
   - Tailwindcss
   - Toast
 - [Generadores](/c/css/webs.md#generadores)
+
+***
+
+_Desarrollemos cada item del listado_ 
 
 <!--//
 abcdefghijklmnñopqrstuvwxyz
@@ -102,6 +108,10 @@ Las colecciones son páginas que ofrecen ejemplos de cómo lograr los efectos co
 - [BEM: Quick Start](https://en.bem.info/methodology/quick-start/)
 - [A quick introduction to Block Element Modifiers (BEM)](https://medium.freecodecamp.org/a-quick-introduction-to-block-element-modifiers-bem-9df46d29b64c)
 - [BEM For Beginners: Why You Need BEM](https://www.smashingmagazine.com/2018/06/bem-for-beginners)
+
+## CSS Modules
+
+A [CSS Module](https://github.com/css-modules/) is a CSS file in which all class names and animation names are scoped locally by default. All URLs (`url(...)`) and `@imports` are in module request format (`./xxx` and `../xxx` means relative, `xxx` and `xxx/yyy` means in modules folder, i. e. in `node_modules`).
 
 ## FlowType
 
