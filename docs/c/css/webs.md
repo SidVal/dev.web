@@ -40,6 +40,10 @@ Listado:
   - Toast
 - [Generadores](/c/css/webs.md#generadores)
 
+***
+
+_Desarrollemos cada item del listado_ 
+
 <!--//
 abcdefghijklmnñopqrstuvwxyz
 - []()
