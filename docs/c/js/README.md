@@ -6,6 +6,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 
 ## Guías
 
+- [Noobs Guide: Javascript vs JQuery vs ECMAScript vs Typescript](https://medium.com/@brenn.a.hill/noobs-guide-javascript-vs-jquery-vs-ecmascript-vs-typescript-85d87a2d8465) ☆
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) - This document serves as the complete definition of Google’s coding standards for source code in the JavaScript programming language. By [google/styleguide](https://github.com/google/styleguide)
 - [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript.
