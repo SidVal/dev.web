@@ -21,4 +21,22 @@ Para leer más información sobre este curso, podemos ingresar aquí: [iffcordob
 
 ### Descarga de Photoshop CS6 Extended
 
+La descarga la busqué en Internet, hay varios videos en Youtube que explican cómo instalar Photoshop, y de ahí sale la descarga:
+
 - `https://mega.nz/#!0UdC2AJT!8SissQvuXHBZktTrEenK84woPkXhyUZtADxx8n8vs40`
+
+### Resumen del curso
+
+#### Clase 1
+
+Navegación en general, y atajos del teclado destacados:
+
+- <kbd>Ctrl</kbd> + <kbd>J</kbd> = Duplica capa
+- <kbd>Ctrl</kbd> + <kbd>G</kbd> = Nuevo Grupo
+- <kbd>X</kbd> = Cambia color entre frontal y posterior
+- <kbd>Ctrl</kbd> + <kbd>Alt</kbd> habiendo seleccionado el pincel, te permite sacar colores de una imagen de afuera de Photoshop
+- <kbd>Ctrl</kbd> + <kbd>D</kbd> = Deseleccionar
+
+En herramienta de selección:
+Con <kbd>Shift</kbd> presionado, seleccionamos solo cuadrados (proporción cuadrada)
+Es lo mismo que ir a Estilo -> Proporción Fija 1x1
