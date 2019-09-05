@@ -40,3 +40,8 @@ Navegación en general, y atajos del teclado destacados:
 En herramienta de selección:
 Con <kbd>Shift</kbd> presionado, seleccionamos solo cuadrados (proporción cuadrada)
 Es lo mismo que ir a Estilo -> Proporción Fija 1x1
+
+Videos que miré después del curso:
+
+- [Curso Photoshop - Capitulo 0, Introducción para Principiantes](https://www.youtube.com/watch?v=4-VMuLs99Ss)
+- [Photoshop CS6 Introductorio -01- Bienvenida al programa_Area de trabajo](https://www.youtube.com/watch?v=puK5A9FRWI4)
