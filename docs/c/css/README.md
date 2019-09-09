@@ -37,6 +37,7 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
 - [The Complete Guide to Lazy Loading Images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
 - [CSS Frameworks Or CSS Grid: What Should I Use For My Project?](https://www.smashingmagazine.com/2018/11/css-frameworks-css-grid)
 - [The Complete Guide To SCSS/SASS](https://medium.com/@js_tut/the-complete-guide-to-scss-sass-49ac053fcde5) ☆
+- [Improving Font Rendering With CSS](https://medium.com/better-programming/improving-font-rendering-with-css-3383fc358cbc) ☆
 
 ## Prácticos
 
