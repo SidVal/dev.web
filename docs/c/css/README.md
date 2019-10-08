@@ -38,6 +38,7 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
 - [CSS Frameworks Or CSS Grid: What Should I Use For My Project?](https://www.smashingmagazine.com/2018/11/css-frameworks-css-grid)
 - [The Complete Guide To SCSS/SASS](https://medium.com/@js_tut/the-complete-guide-to-scss-sass-49ac053fcde5) ☆
 - [Improving Font Rendering With CSS](https://medium.com/better-programming/improving-font-rendering-with-css-3383fc358cbc) ☆
+- [Variable fonts & the new Google Fonts API](https://medium.com/web-typography-news/variable-fonts-the-new-google-fonts-api-d442e9a0a255) ☆
 - [How to Remove Unused CSS](https://medium.com/notonlycss/how-to-remove-unused-css-ad67421794a7) ☆
 
 ## Prácticos
