@@ -49,6 +49,37 @@ Es lo mismo que ir a Estilo -> Proporción Fija 1x1
 - Con la barra espaciadora paso a "manito" para mover dentro de un zoom (con mouse).
 - <kbd>Ctrl</kbd> + <kbd>I</kbd> = Invierte los colores
 
+#### Clase 3
+
+- Archivo: Colocar
+Para incrustar una imagen dentro de otra.
+- Vimos objeto inteligente
+- Y más máscaras y cómo ocultar.
+
+#### Clase 4
+
+- Apenas ponemos el rectánculo en ángulo vertical, hay que hacer el objeto inteligente.
+- Una vez hecho el objeto inteligente, podemos cambiar la opacidad, y adaptar el rectángulo al espacio de las cosas.
+- Para poner ahí las imágenes.
+
+- Si duplicamos el objeto inteligente, queda enlazado, entonces si editamos uno de los objetos y colocamos una imagen dentro del mismo, cambian todas las imagenes que usamos de origen como duplicado.
+
+- Tarea: que alguien levite, dos tomas y hacer desaparecer lo que lo sostiene
+
+#### Clase 5
+
+- Tapon de clonado
+- Presionar ALT para cambiar el cursor a "puntero" (que apunte lo que hay que copiar)
+- Pincel corrector puntual, sirve para los granos. Para cosas puntuales. O pecas.
+- Pincel corrector, es similar a clonar, pero corrige el color entre el destino y el origen.
+
+#### Clase 6 
+
+- (ausente)
+
+#### Clase 7
+
+
 Videos que miré después del curso:
 
 - [Curso Photoshop - Capitulo 0, Introducción para Principiantes](https://www.youtube.com/watch?v=4-VMuLs99Ss)
