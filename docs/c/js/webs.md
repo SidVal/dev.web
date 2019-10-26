@@ -138,6 +138,7 @@ Una sencilla librería Javascript para la creación de páginas web con desplaza
 - [An Introduction to JavaScript Automation with Gulp](https://www.toptal.com/nodejs/an-introduction-to-automation-with-gulp)
 - [Gulp: A Web Developer's Secret Weapon for Maximizing Site Speed](https://www.toptal.com/javascript/optimize-js-and-css-with-gulp)
 - [How To Create Your Custom Bootstrap Theme using npm along with gulp](https://levelup.gitconnected.com/create-your-bootstrap-theme-4228aca9117a)
+- [How to minify images with Gulp & gulp-imagemin and boost your site’s performance](https://medium.com/free-code-camp/how-to-minify-images-with-gulp-gulp-imagemin-and-boost-your-sites-performance-6c226046e08e)
 
 ### Gulp CSS
 
