@@ -37,6 +37,7 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 
 ## Awesome Lists
 
+- [Awesome Web Development](https://andriksantos.github.io/awesome-web-development/)
 - [Awesome CSS Frameworks](/awesome-css-frameworks)
 - [Awesome JavaScript](/awesome-javascript)
 - [Awesome Nodejs](/awesome-nodejs)

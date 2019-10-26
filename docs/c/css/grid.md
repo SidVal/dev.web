@@ -18,6 +18,7 @@
 - [CSS Grid For Visual Learners — Over 40 Diagrams](http://www.csstutorial.org/css-grid-tutorial.html)
 - [CSS Grid in 45 Minutes!](https://www.youtube.com/watch?v=DCZdCKjnBCs) - _Video_
 - [CSS Frameworks Or CSS Grid: What Should I Use For My Project?](https://www.smashingmagazine.com/2018/11/css-frameworks-css-grid)
+- [How I use CSS Grid to Create a One-page Website](https://medium.com/swlh/how-i-use-css-grid-to-create-a-one-page-website-ffc97668d33a) ☆
 
 ### Ecommerce
 

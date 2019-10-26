@@ -19,6 +19,7 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 - [CSS and Network Performance](https://csswizardry.com/2018/11/css-and-network-performance)
 - [7 Basic Rules for Button Design](https://uxplanet.org/7-basic-rules-for-button-design-63dcdf5676b4)
+- [How to style the ubiquitous button with CSS](https://blog.prototypr.io/how-to-style-the-ubiquitous-button-with-css-6bf1066e01be) ☆
 - [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c) - Common mistakes designers make and how to fix them
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 - [The Ultimate Guide to CSS + Cheat Sheets](https://medium.com/level-up-web/the-ultimate-guide-to-css-103b0f883de3)
@@ -37,12 +38,16 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
 - [The Complete Guide to Lazy Loading Images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
 - [CSS Frameworks Or CSS Grid: What Should I Use For My Project?](https://www.smashingmagazine.com/2018/11/css-frameworks-css-grid)
 - [The Complete Guide To SCSS/SASS](https://medium.com/@js_tut/the-complete-guide-to-scss-sass-49ac053fcde5) ☆
+- [Improving Font Rendering With CSS](https://medium.com/better-programming/improving-font-rendering-with-css-3383fc358cbc) ☆
+- [Variable fonts & the new Google Fonts API](https://medium.com/web-typography-news/variable-fonts-the-new-google-fonts-api-d442e9a0a255) ☆
+- [How to Remove Unused CSS](https://medium.com/notonlycss/how-to-remove-unused-css-ad67421794a7) ☆
 
 ## Prácticos
 
 - [How to minify your CSS with gulp](https://medium.freecodecamp.org/how-to-minify-your-css-with-gulp-6ff3f4a896b5)
 - [How to center things with style in CSS](https://medium.freecodecamp.org/how-to-center-things-with-style-in-css-dc87b7542689) ☆
 - [How to check if an input is empty with CSS](https://medium.freecodecamp.org/how-to-check-if-an-input-is-empty-with-css-1a83715f9f3e)
+- [8 useful CSS tricks: Parallax images, sticky footers and more](https://medium.com/@bretcameron/parallax-images-sticky-footers-and-more-8-useful-css-tricks-eef12418f676) ☆
 
 ### Cargar CSS
 
