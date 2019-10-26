@@ -32,6 +32,7 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 - [What is Minification](https://www.incapsula.com/cdn-guide/glossary/minification.html)
 - [Front End Optimization](https://www.incapsula.com/cdn-guide/front-end-optimization-feo.html)
 - [Definitive technical SEO checklist for Brands](https://prosperitymedia.com.au/definitive-technical-seo-checklist-for-brands) **[Recomendado]**
+- [How to minify images with Gulp & gulp-imagemin and boost your site’s performance](https://medium.com/free-code-camp/how-to-minify-images-with-gulp-gulp-imagemin-and-boost-your-sites-performance-6c226046e08e)
 
 ## Cursos
 
