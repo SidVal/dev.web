@@ -86,6 +86,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
   - [WebAssembly’s post-MVP future: A cartoon skill tree](https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/)
 - [Start Performance Budgeting](https://medium.com/@addyosmani/start-performance-budgeting-dabde04cf6a3)
 - [Understanding JSON in JavaScript](https://itnext.io/understanding-json-in-javascript-5098876d0915) ☆
+- [A Simple Introduction to Web Workers in JavaScript](https://medium.com/young-coder/a-simple-introduction-to-web-workers-in-javascript-b3504f9d9d1c) ☆
 
 ### CodeBurst JavaScript Articles
 
