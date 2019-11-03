@@ -1,5 +1,5 @@
 # dev.web
-![Release](https://badgen.net/github/release/sidval/dev.web) ![Commits](https://badgen.net/github/commits/sidval/dev.web) ![License](https://badgen.net/github/license/sidval/dev.web) ![Be Happy](https://badgen.net/badge/be/happy%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86/green)<div align="right" style="float:right;"><i><a href="https://github.com/SidVal/dev.web/releases" target="_new">v.1.0.0-beta</a></i> :smile: </div>
+![Release](https://badgen.net/github/release/sidval/dev.web) ![Commits](https://badgen.net/github/commits/sidval/dev.web) ![License](https://badgen.net/github/license/sidval/dev.web) ![Be Happy](https://badgen.net/badge/be/happy%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86/green)<div align="right" style="float:right;"><i><a href="https://github.com/SidVal/dev.web/releases" target="_new">v.1.2</a></i> :smile: </div>
 
 Repositorio público sobre conocimientos de "Desarrollo Web".
 
