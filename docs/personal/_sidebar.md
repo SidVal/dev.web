@@ -1,7 +1,0 @@
-- <a href="javascript:history.back()">Atrás</a>
-- [Clases](/curso/#diplomatura-en-desarrollo-web)
-- [Unidades](/u/)
-- [Contenido](/c/)
-- [Personal](/personal/)
-  - [Ideas](/personal/ideas.md)
-- [☆](/medium.md#estrella)
