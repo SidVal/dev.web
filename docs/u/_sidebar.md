@@ -1,5 +1,5 @@
 * [Inicio](/)
-* [Clases de Diplomatura Web](/curso/utn/dw/#diplomatura-en-desarrollo-web)
+* [Clases de Diplomatura Web](/curso/utn/dw/)
 * [Unidades de la Diplomatura Web](/u/utn/dw/)
   * [Unidad 1](/u/utn/dw/unidad1.md)
   * [Unidad 2](/u/utn/dw/unidad2.md)
@@ -11,4 +11,5 @@
   * [Unidad 8](/u/utn/dw/unidad8.md)
   * [Unidad 9](/u/utn/dw/unidad9.md)
 * [Contenidos Web](/c/)
+* [Más Conocimientos](https://sidval.github.io/conocimientos/)
 * [☆](/medium.md#estrella)

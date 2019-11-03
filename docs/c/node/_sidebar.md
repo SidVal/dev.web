@@ -1,5 +1,5 @@
 * <a href="javascript:history.back()">Atrás</a>
-* [Contenido](/c/)
+* [Contenidos Web](/c/)
   * [AngularJS](/c/angularjs/)
   * [Bootstrap](/c/bootstrap/)
   * [CSS](/c/css/)

@@ -3,15 +3,13 @@
 
 ## Presentación del repo
 
-Repositorio público sobre conocimientos de "Desarrollo Web".
+Repositorio público sobre conocimientos de "Desarrollo Web" y temas de programación relacionada con la web.
 
-Se busca que estos documentos sean un repaso para aquellas personas que quieren aprender a desarrollar web, o afianzar sus conocimientos.
+Se busca que estos documentos sean un repaso para aquellas personas que quieren aprender a desarrollar web, o afianzar sus conocimientos. Si se necesita un espacio de `testing` (prácticas), hay un espacio creado para tal fin: [`/www/`](https://sidval.github.io/www/).
 
 Con el tiempo se convertirá en mi página para exponer todo lo que sea sobre el _WebMaster_ que llevo adentro. Para nada experto, y siempre aprendiendo cosas nuevas sobre lo que respecta a páginas web y tecnología web en general.
 
 !>Si gustas corregir :pencil2: o sugerir :bulb: algún cambio, [**por favor envía tu mensaje aquí**](https://github.com/SidVal/dev.web/issues/new?assignee=SidVal) :pray:
-
-?>Se creará más adelante una página del tipo "sobre el autor" o algo relacionado, para comentar quién soy, por qué hago todo ésto, etcétera etcétera. Por el momento, puedes [leer en qué ando aquí](https://github.com/sidval/).
 
 ## Contenidos vistos
 
@@ -34,20 +32,9 @@ Más información sobre el avance del repositorio, ver [logs](https://github.com
 * Google **Chrome** (browser + depuración)
 * **MongoDB** es el único que requiere instalarse aparte, el resto se descarga vía NPM del Node.JS
 
-***
-
-## Por qué existe este espacio
-
-Realmente aún no hay algo súper definido, es un "repo-brainstorming" porque conociendome se me van a ocurrir mil ideas, y quiero tener un repo para ir volcando todo, después ver qué se hace, qué no se hace, por qué, etcétera.
-
-También, sé por experiencia previa (con C# por ejemplo), uno va probando distintas cosas y aparecen errores.
-Qué mejor lugar que éste para lanzar los errores, e ir teniendo un lugar para ir documentando lo que se aprende.
-
-En la parte del [Wiki](https://github.com/SidVal/dev.web/wiki), se irá actualizando documentación sobre el curso (lo que pueda publicarse y que nadie se moleste en la Universidad porque el contenido está publicado).
-
 ## EMPIEZA AHORA
 
-- Si nunca cursaste nada sobre Programación WEB, te recomiendo iniciar con el [curso de Desarrollo Web](/curso/utn/dw/).
-- Si ya tienes experiencia en programación web, y conoces sus conceptos, pero te falta ampliar o practicar algo, entonces pasa al sector de [CONTENIDOS](/c/) de este sitio web, donde podrás encontrar lecturas recomendadas, tips, y mucho más.
+* Si nunca cursaste nada sobre Programación WEB, te recomiendo iniciar con el [curso de Desarrollo Web](/curso/utn/dw/).
+* Si ya tienes experiencia en programación web, y conoces sus conceptos, pero te falta ampliar o practicar algo, entonces pasa al sector de [CONTENIDOS](/c/) de este sitio web, donde podrás encontrar lecturas recomendadas, tips, y mucho más.
 
 _¡Éxitos!_

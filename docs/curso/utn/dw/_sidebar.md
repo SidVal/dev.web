@@ -1,5 +1,5 @@
 * <a href="javascript:history.back()">Atrás</a>
-* [Clases](/curso/#diplomatura-en-desarrollo-web)
+* [Clases](/curso/utn/dw/)
   * [Clase 1](/curso/utn/dw/clase1.md)
   * [Clase 2](/curso/utn/dw/clase2.md)
   * [Clase 3](/curso/utn/dw/clase3.md)
@@ -17,6 +17,7 @@
   * [Clase 15](/curso/utn/dw/clase15.md)
   * [Clase 16](/curso/utn/dw/clase16.md)
   * [Final](/curso/utn/dw/final.md)
-* [Unidades](/u/)
-* [Contenido](/c/)
+* [Unidades](/u/utn/dw/)
+* [Contenidos Web](/c/)
+* [Más Conocimientos](https://sidval.github.io/conocimientos/)
 * [☆](/medium.md#estrella)

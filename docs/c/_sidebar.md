@@ -1,7 +1,7 @@
 * <a href="javascript:history.back()">Atrás</a>
-* [Clases](/curso/#diplomatura-en-desarrollo-web)
-* [Unidades](/u/)
-* [Contenido](/c/)
+* [Clases](/curso/utn/dw/)
+* [Unidades](/u/utn/dw/)
+* [Contenidos Web](/c/)
   * Infografías
     * [Frontend](/c/frontend-roadmap.md)
     * [Backend](/c/backend-roadmap.md)
@@ -13,4 +13,5 @@
   * [JS](/c/js/)
   * [MongoDB](/c/mongodb/)
   * [Node](/c/node/)
+* [Más Conocimientos](https://sidval.github.io/conocimientos/)
 * [☆](/medium.md#estrella)
