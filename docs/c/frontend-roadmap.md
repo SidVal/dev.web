@@ -4,7 +4,6 @@
 
 <!-- ![Frontend Roadmap 2018](https://cdn-images-1.medium.com/max/1000/1*_EfUP-q18EfebxPgZ6BCbA.png) -->
 
-
 ## Frontend
 
 Imperdible artículo sobre lo que hay que aprender para dominar el frontend de una web: [Modern Frontend Developer](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c).
@@ -64,7 +63,7 @@ Consejos que se desprenden de éste artículo:
   - [Angular](/c/angularjs/)
     - TypeScript
     - Rx.js
-    - ngrx    
+    - ngrx
   _Curvas de aprendizaje React.js vs Angular_
   ![Curvas de aprendizaje React.js vs Angular](../assets/img/react-vs-angular-learning.jpg)
 - Progressive WebApps: [PWA](/c/pwa.md)
@@ -85,8 +84,14 @@ Consejos que se desprenden de éste artículo:
   - TC39
   - ... _etcetera!_
 
+## Esquema de evolución saludable para un Diseñador web
+
+![Evolución diseñador web](../assets/img/evolucion-frontend.png)
+>Fuente: [La evolución del “Diseñador Web a Frontend Developer”](https://es.quora.com/q/avxhpsoljiyyzebk/La-evoluci%C3%B3n-del-Dise%C3%B1ador-Web-a-Frontend-Developer)
+
 ## Lecturas
 
+- [La evolución del “Diseñador Web a Frontend Developer”](https://es.quora.com/q/avxhpsoljiyyzebk/La-evoluci%C3%B3n-del-Dise%C3%B1ador-Web-a-Frontend-Developer)
 - [Testing Your Frontend Code : Part I (Introduction)](https://hackernoon.com/testing-your-frontend-code-part-i-introduction-7e307eac4446)
 - [Beginner’s Web Development Guide Part 1: Frontend](https://medium.com/devtrailsio/beginners-web-development-guide-part-1-frontend-ca59f1877ec5)
    ![Frontend development languages and tools](https://cdn-images-1.medium.com/max/800/1*dTugtD0bF1g4_eEWzYiaxg.png)

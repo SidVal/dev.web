@@ -33,6 +33,7 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 - [Front End Optimization](https://www.incapsula.com/cdn-guide/front-end-optimization-feo.html)
 - [Definitive technical SEO checklist for Brands](https://prosperitymedia.com.au/definitive-technical-seo-checklist-for-brands) **[Recomendado]**
 - [How to minify images with Gulp & gulp-imagemin and boost your site’s performance](https://medium.com/free-code-camp/how-to-minify-images-with-gulp-gulp-imagemin-and-boost-your-sites-performance-6c226046e08e)
+- [Advanced Google Chrome Bookmarklets for SEOs: A Detailed Guide](https://detailed.com/chrome-bookmarklets-seo)
 
 ## Cursos
 
@@ -113,7 +114,7 @@ Para mas información sobre el  **Keyword Research** , ya de paso, varias URLs 
 - [Keyword Planner](https://ads.google.com/intl/en_in/home/tools/keyword-planner/)
 - [Keyword Shitter](https://keywordshitter.com/)
 - [Keyword Hero](https://keyword-hero.com/)
-- [Keywords Everywhere](https://keywordseverywhere.com/)
+- [Keywords Everywhere](https://keywordseverywhere.com/) - _Paid_
 - [KWFinder](https://kwfinder.com/)
 - [Linkody](https://www.linkody.com/)
 - [LinkResearchTools](http://www.linkresearchtools.com/)
@@ -148,6 +149,7 @@ Para mas información sobre el  **Keyword Research** , ya de paso, varias URLs 
 - [Serpstat](https://serpstat.com)
 - [SimilarWeb](https://www.similarweb.com/)
 - [Siteliner](http://www.siteliner.com/)
+- [SurferSEO](https://surferseo.com/keyword-surfer-extension/) _Free_
 - [Soovle](https://soovle.com/)
 - [SpyFu](https://www.spyfu.com/)
 - [TinyPNG](https://tinypng.com/)
