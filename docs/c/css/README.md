@@ -48,6 +48,7 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
 - [How to center things with style in CSS](https://medium.freecodecamp.org/how-to-center-things-with-style-in-css-dc87b7542689) ☆
 - [How to check if an input is empty with CSS](https://medium.freecodecamp.org/how-to-check-if-an-input-is-empty-with-css-1a83715f9f3e)
 - [8 useful CSS tricks: Parallax images, sticky footers and more](https://medium.com/@bretcameron/parallax-images-sticky-footers-and-more-8-useful-css-tricks-eef12418f676) ☆
+- [8 CSS image filters with code examples](https://medium.com/quick-code/8-css-image-filters-with-code-examples-6b29640b243c)
 
 ### Cargar CSS
 
