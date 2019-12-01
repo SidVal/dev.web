@@ -41,6 +41,7 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
 - [Improving Font Rendering With CSS](https://medium.com/better-programming/improving-font-rendering-with-css-3383fc358cbc) ☆
 - [Variable fonts & the new Google Fonts API](https://medium.com/web-typography-news/variable-fonts-the-new-google-fonts-api-d442e9a0a255) ☆
 - [How to Remove Unused CSS](https://medium.com/notonlycss/how-to-remove-unused-css-ad67421794a7) ☆
+- [How To Control White Space in Text With CSS](https://medium.com/better-programming/how-to-control-white-space-in-text-with-css-2a7695a0c73b) ☆
 
 ## Prácticos
 
@@ -49,6 +50,7 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
 - [How to check if an input is empty with CSS](https://medium.freecodecamp.org/how-to-check-if-an-input-is-empty-with-css-1a83715f9f3e)
 - [8 useful CSS tricks: Parallax images, sticky footers and more](https://medium.com/@bretcameron/parallax-images-sticky-footers-and-more-8-useful-css-tricks-eef12418f676) ☆
 - [8 CSS image filters with code examples](https://medium.com/quick-code/8-css-image-filters-with-code-examples-6b29640b243c)
+- [Getting started with CSS knockout text effects](https://medium.com/@samsakhavarz/getting-started-with-css-knockout-text-effects-fe0adb8c9937)
 
 ### Cargar CSS
 
