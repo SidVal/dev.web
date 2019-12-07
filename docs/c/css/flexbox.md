@@ -60,3 +60,4 @@ Después de un tiempo, pensar en inicial y final en vez de izquierda y derecha s
 - [Learn CSS Flexbox in 5 Minutes](https://medium.freecodecamp.org/learn-css-flexbox-in-5-minutes-b941f0affc34) - Práctico, recomendado.
 - [CSS Flexbox Fundamentals Visual Guide](https://medium.com/swlh/css-flexbox-fundamentals-visual-guide-1c467f480dac) ☆
 - [Everything You Need To Know About Alignment In Flexbox](https://www.smashingmagazine.com/2018/08/flexbox-alignment/)
+- [How I use CSS Grid and Flexbox to Create a One-page Website](https://medium.com/swlh/how-i-use-css-grid-and-flexbox-to-create-a-one-page-website-262aeea3592a) ☆
