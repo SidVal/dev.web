@@ -34,6 +34,7 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 - [Writing Blazing Fast HTML Code](https://medium.com/@thomlom/writing-blazing-fast-html-code-97d19413af41)
 - [A tale of Webpack 4 and how to finally configure it in the right way](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1)
 - [10 Tips for Designing Perfect Forms](https://medium.com/@onepixelout/10-tips-for-designing-perfect-forms-14c5f25b0dec) ☆
+- [How Much Time Can You Save With HTML Shortcuts?](https://medium.com/better-programming/how-much-time-can-you-save-with-html-shortcuts-5357a32756d7) ☆
 
 ## Awesome Lists
 
