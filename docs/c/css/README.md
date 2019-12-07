@@ -51,6 +51,8 @@ Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar
 - [8 useful CSS tricks: Parallax images, sticky footers and more](https://medium.com/@bretcameron/parallax-images-sticky-footers-and-more-8-useful-css-tricks-eef12418f676) ☆
 - [8 CSS image filters with code examples](https://medium.com/quick-code/8-css-image-filters-with-code-examples-6b29640b243c)
 - [Getting started with CSS knockout text effects](https://medium.com/@samsakhavarz/getting-started-with-css-knockout-text-effects-fe0adb8c9937)
+- [How to create beautiful Shapes in CSS — A Teardown of 3 Shapes, purely made in CSS](https://itnext.io/how-to-create-beautiful-shapes-in-css-a-teardown-of-3-shapes-purely-made-in-css-c3ac7cb99c4) ☆
+- [Making a super-fast simple website](https://medium.com/@poeschko/making-a-super-fast-simple-website-94788562b17a)
 
 ### Cargar CSS
 
