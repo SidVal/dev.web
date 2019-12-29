@@ -83,6 +83,11 @@ Plataformas, herramientas, tips, lecturas... por ahora aquí.
 - Ver sección dedicada: [Blogger](/c/blogger.md)
 - [Headless WordPress + Next.js — What We Learned](https://medium.com/kata-engineering/headless-wordpress-next-js-what-we-learned-c10abdf80f6a)
 
+## Content Manager Systems (CMS)
+
+- [Headless CMS](https://headlesscms.org/) 
+Sitio que enumera los CMS abiertos, que pueden correr en github como netlify.
+
 ## E-Commerce
 
 - Ver sección dedicada: [Ecommerce](/c/ecommerce.md)
