@@ -100,6 +100,40 @@ Consejos que se desprenden de éste artículo:
 
 Imperdible la infografía del "[Backend Roadmap](/c/backend-roadmap.md)".
 
-## Fuente
+## static-site-generator
+
+En Github se puede encontrar excelentes proyectos donde el front-end lo es todo. Sistemas que permiten documentar, ya sea información funcional o técnica. He llevado buen tiempo siguiendo algunos proyectos, y listando otros de mi interés, y los expondré en este apartado.
+
+- [Listado de sitios: StaticGen](https://www.staticgen.com/)
+- [Listado de Github, ordenado por folks](https://github.com/search?o=desc&q=topic%3Astatic-site-generator&s=forks&type=Repositories&utf8=%E2%9C%93)
+- [StaticMan](https://staticman.net/)
+- [Slate](https://github.com/slatedocs/slate)
+Sirve para documentar información técnica, lo usan principalmente para exponer públicamente documentación sobre APIs. [Ver ejemplos](https://github.com/slatedocs/slate#companies-using-slate)
+- [SiteLeaf](https://learn.siteleaf.com/content/)
+- [MkDocs](https://github.com/mkdocs/mkdocs)
+  - [Mi prueba de MkDocs](https://github.com/SidVal/mkdocs-site)
+- [Metalsmith](https://github.com/segmentio/metalsmith)
+  - [Mi prueba con MetalSmith](https://github.com/SidVal/metalsmith)
+- [Jekyll](https://jekyllrb.com)
+  - Arbol de Datos: se me ocurrió que usando los **[Data Files](https://jekyllrb.com/docs/datafiles/)** de Jekyll podría crear árbol de datos. [Leer seguimiento de esta idea](https://github.com/SidVal/SidV/issues/6)
+    * [Tree](https://github.com/search?o=desc&q=topic%3Atree&s=updated&type=Repositories)
+    Por orden de actualización
+    * **EXCELENTE**, ver: http://docs.w3cub.com/dom/ (_[código fuente](https://github.com/icai/docshub)_)
+    * http://repetere.github.io/stylie.treeview/
+    Muy lindo como se visualiza, _[ver código fuente](https://github.com/typesettin/stylie.treeview)_
+    * http://fperucic.github.io/treant-js/
+    Directamente IMPRESIONANTE (ver demos en la misma página)
+    * https://pioneercode.github.io/pioneer-tree/
+    Ver _[código fuente](https://github.com/PioneerCode/pioneer-tree)_. 
+    * https://mbraak.github.io/jqTree/
+    Ver _[código fuente](https://github.com/mbraak/jqTree/)_. 
+    * https://sidval.github.io/SidV/tree.html
+    Más básico, _[ver código](https://github.com/SidVal/SidV/blob/master/tree.html)_; fored from _[gistList](https://gist.github.com/1321264) - [autor](https://gist.github.com/mitchellrj)_
+    * http://alloyui.com/tutorials/tree/
+    Proyecto en github, no me convence., pero es para tener en cuenta
+    * https://codepen.io/anon/pen/bRLGvd?editors=1000 
+    Muy buen arbol.
+
+## Fuentes
 
 Este increíble trabajo es propiedad de [@kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap).
