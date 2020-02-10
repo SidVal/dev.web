@@ -32,3 +32,7 @@ Repositorios GitHub con contenido sobre blogger, o templates.
 
 - [Understanding the blogger template](http://thoughtsomething.blogspot.com/2009/01/understanding-blogger-template-1.html)
 - [Gist List para condicionales de Blogger](https://gist.github.com/oliverdoetsch/153334604fdda9fe9191)
+
+## Templates
+
+- [Arlina Design](https://www.arlinadzgn.com/search/label/Template?&max-results=10)
