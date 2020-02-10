@@ -4,9 +4,9 @@
 
 Repositorios GitHub con contenido sobre blogger, o templates.
 
-- Temas
+- Blogger Topics by GitHub
   - [Índice](https://github.com/search?q=blogger&type=Topics)
-- Templates
+- Blogger Templates by GitHub
   - [Blogger + Bootstrap](https://github.com/SidVal/blogger-bootstrap)
   - [Blogger + AMP](https://github.com/noel-aidesign/create-own-theme)
   - [Blogger Bootstrap Blank Theme](https://github.com/AlFatihs/BloggerBootstrapBlankTheme)
@@ -36,3 +36,4 @@ Repositorios GitHub con contenido sobre blogger, o templates.
 ## Templates
 
 - [Arlina Design](https://www.arlinadzgn.com/search/label/Template?&max-results=10)
+- [Bungfrangki Themes](https://www.bungfrangki.com/search/label/Templates?max-results=8)
