@@ -26,6 +26,7 @@ Repositorios GitHub con contenido sobre blogger, o templates.
   Buena solución para poner https a los enlaces para aquellos blogs que tenemos problemas con el HTTPS. 
 - [Simple Image Lazy Load and Fade](https://davidwalsh.name/lazyload-image-fade)
 - [Blogger Code PE](https://bloggercode-blogconnexion.blogspot.com/)
+- [Learn Blogging Blogger](http://www.theedifier.com/blogging-blogger/) - **Recomendado**
 
 ## Coding
 
