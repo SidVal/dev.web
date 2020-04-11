@@ -11,6 +11,7 @@ Imperdible artículo sobre lo que hay que aprender para dominar el frontend de u
 Consejos que se desprenden de éste artículo:
 
 - Aprender lo básico de HTML
+  - [HTML: Best Practices](https://github.com/hail2u/html-best-practices) - **_Recomendado_**
   - DOM
 - Aprender algo de [CSS](/c/css/)
   - Grid vs. Flexbox
