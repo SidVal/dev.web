@@ -28,6 +28,7 @@ Como les voy a comentar en las infografías a continuación, encontré en GitHub
 
 En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta decirle, leo muchos artículos con tips importantes sobre desarrollo web, así que he decidido crear un "simple-tips" en cada sección de éste repositorio, para ir alimentando un documento con tips simples, e incluir la fuente y referencia de dichos tips para ampliar la información si es necesario leer en el futuro al respecto.
 
+- [HTML: Best Practices](https://github.com/hail2u/html-best-practices) **Recomendado**
 - [CSS Simple Tips](/c/css/simple-tips.md)
 - [Generador de logos en linea](https://www.shopify.es/herramientas/generador-logos)
 - [HTML5: elementos que pueden ser omitidos](https://html.spec.whatwg.org/multipage/syntax.html#syntax-tag-omission)
