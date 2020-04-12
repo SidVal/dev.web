@@ -1,8 +1,6 @@
 # Frontend Roadmap {docsify-ignore-all}
 
-![Frontend Roadmap](https://roadmap.sh/assets/img/roadmaps/frontend-transparent.png)
-
-<!-- ![Frontend Roadmap 2018](https://cdn-images-1.medium.com/max/1000/1*_EfUP-q18EfebxPgZ6BCbA.png) -->
+![Frontend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png)
 
 ## Frontend
 
