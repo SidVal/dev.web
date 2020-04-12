@@ -1,6 +1,6 @@
 # CSS {docsify-ignore-all}
 
-<img src="/dev.web/assets/img/css-favicon.png" alt="CSS Favicon" style="float:left;margin-right:10px;" />[![W3 CSS web](https://badgen.net/badge/www/w3.org/cyan)](https://www.w3.org/Style/CSS/Overview.en.html) - GitHub: [CSS](https://github.com/topics/css)
+<img src="/dev.web/assets/img/css-favicon.png" alt="CSS Favicon" style="float:left;margin-right:10px;" />[W3 CSS web](https://www.w3.org/Style/CSS/Overview.en.html) - GitHub: [CSS](https://github.com/topics/css)
 
 Conjunto de contenidos sobre CSS, tanto en inglés como en español para ampliar más los conocimientos sobre ésta parte del desarrollo web.
 
