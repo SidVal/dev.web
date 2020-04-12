@@ -1,7 +1,6 @@
 # DevOps Roadmap {docsify-ignore-all}
 
-![DevOps Roadmap](https://roadmap.sh/assets/img/roadmaps/devops-transparent.png)
-<!-- ![DevOps Roadmap 2018](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/devops.png) -->
+![DevOps Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/devops.png)
 
 ## Lecturas
 
