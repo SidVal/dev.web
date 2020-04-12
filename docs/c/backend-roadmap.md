@@ -125,8 +125,7 @@ El roadmap del desarrollador que quiere dedicarse al backend entonces más o men
 
 Lo veamos gráficamente:
 
-<!-- ![Backend Roadmap 2018](https://cdn-images-1.medium.com/max/2000/1*WQviQNNE2cnhVAiQpIXkQg.png) -->
-![Backend Roadmap](https://roadmap.sh/assets/img/roadmaps/backend-transparent.png)
+![Backend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/backend.png)
 
 Llegué a una interesante infografía a través de un post en Medium que me interesó apenas leí las primeras líneas:
 >El desarrollo web de hoy es completamente diferente de lo que era hace unos años... 
