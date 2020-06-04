@@ -61,13 +61,16 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 - [Why is there so much to learn in web development?](https://medium.com/@mattburgess/why-is-there-so-much-to-learn-in-web-development-41adbc54731c)
 - [Warning: Your programming career](https://medium.com/sololearn/warning-your-programming-career-b9579b3a878b)
 - [What is a Web Server?](https://codeburst.io/what-is-a-web-server-97362996d229) ☆
+- [13 Preguntas que deberías hacerte antes de lanzar tu APP y armar tu plan de marketing móvil](https://medium.com/williambastidasblog/13-preguntas-que-deber%C3%ADas-hacerte-antes-de-lanzar-tu-app-y-armar-tu-plan-de-marketing-m%C3%B3vil-4a89755cda8c)
 
 ### Continuous Integration
+
 - [Continuous Integration: The What, Why and How](https://css-tricks.com/continuous-integration-the-what-why-and-how/)
   - [Developer CI Benefits Docs](https://github.com/yowainwright/developer-ci-benefits/tree/master/docs#readme)
 
 ## Prácticos
 
+- [Beginner Projects](https://github.com/florinpop17/app-ideas#tier-1-beginner-projects)
 - [Launch a Website with a Custom URL using Github Pages and Google Domains](https://medium.com/employbl/launch-a-website-with-a-custom-url-using-github-pages-and-google-domains-3dd8d90cc33b) ☆
 - [Moving a static website to AWS S3 + CloudFront with HTTPS](https://medium.com/@willmorgan/moving-a-static-website-to-aws-s3-cloudfront-with-https-1fdd95563106) ☆
 

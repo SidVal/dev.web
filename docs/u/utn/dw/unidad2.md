@@ -84,7 +84,7 @@ Indica el nuevo valor de la característica seleccionada.
 
 _Gráficamente_
 
-![Regla CSS](../assets/img/regla-css.jpg)
+![Regla CSS](../../assets/img/regla-css.jpg)
 
 ### Archivo CSS
 
@@ -132,6 +132,7 @@ Si bien tener los estilos embebidos es la mejor forma de tener estilos en cada p
 Para evitar tener que copiar y pegar en cada página los _estilos embebidos_, se usan los estilos de archivos externos. Es decir, tendremos todo el estilo en un archivo propiamente de "estilo", con extensión `.css` que podrá ser linkeado (o enlazado o mejor dicho, insertado) en cualquier página HTML que lo llame a través del elemento [`<link>`](https://www.w3schools.com/tags/tag_link.asp).
 
 > Tener en cuenta que:
+>
 > * en HTML5 el elemento `<link>` no requiere cierre, pero si usamos XHTML sí necesita ser cerrado.
 > * el elemento `<link>` solo contiene atributos, no debe contener texto de ningún tipo.
 > * `rel` es atributo obligatorio.
@@ -395,7 +396,7 @@ Los colores en CSS se especifican utilizando nombres de colores predefinidos o v
 
 En HTML, un color se puede especificar mediante el uso de un nombre de color:
 
-![Colores CSS](../assets/img/css-colors.jpg)
+![Colores CSS](../../assets/img/css-colors.jpg)
 
 HTML admite 140 nombres de colores estándar.
 
@@ -440,7 +441,7 @@ Ejemplo [-ver en linea](https://www.w3schools.com/css/tryit.asp?filename=trycss3
 
 El `outline` es un contorno, es decir, es una línea que se dibuja alrededor de elementos, FUERA de los bordes, para hacer que el elemento se "destaque". Se usa para crear un segundo borde, tiene similares características y usa los mismos parámetros que la propiedad [`border`](#border).
 
-![CSS Outline](../assets/img/css-outline.jpg)
+![CSS Outline](../../assets/img/css-outline.jpg)
 
 Su uso básico es:
 

@@ -28,9 +28,11 @@ Para ampliar y conocer más _APIs_: [GitHub: API](https://github.com/topics/api)
 - [A Proposal for RESTful API’s with Mongoose and Express](https://medium.com/@therealchrisrutherford/a-proposal-for-restful-apis-497924397192)
 - [Beginner’s Guide to the Giphy API](https://medium.com/@mattcroak718/beginners-guide-to-the-giphy-api-316f98459d06) ☆
 - [Going beyond with Postman](https://dev.to/ebanx/going-beyond-with-postman-522f)
+- [Estructura de una API Rest con NodeJS, Express y MongoDB](https://medium.com/williambastidasblog/estructura-de-una-api-rest-con-nodejs-express-y-mongodb-cdd97637b18b)
 
 ### Prácticos
 
+- [¿Cómo llamar a una API REST desde JavaScript?](https://medium.com/williambastidasblog/c%C3%B3mo-llamar-a-una-api-rest-desde-javascript-4c5a42fb331)
 - [Mastering the Spotify API -> part1](https://medium.com/@esmerycornielle/mastering-the-spotify-api-part1-c836b89eb68e)
 - [A practical ES6 guide on how to perform HTTP requests using the Fetch API](https://medium.freecodecamp.org/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547)
 - [How to Make Form Submissions Secure on an API Website](https://itnext.io/how-to-make-form-submissions-secure-on-an-api-website-d80bcfdb5149)

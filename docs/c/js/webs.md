@@ -5,6 +5,7 @@ Lista de herramientas, frameworks, y otras aplicaciones en javascript que se cru
 Listado completo:
 
 - [AdonisJS](/c/js/webs#adonisjs)
+- [!ALERTS](/c/js/modals)
 - [Angular](/c/angularjs/)
 - [Aurelia](/c/js/webs#aurelia)
 - [Backbone](/c/js/webs#backbone)
@@ -12,6 +13,7 @@ Listado completo:
 - [ChanceJS](/c/js/webs#chancejs)
 - [ChartJS](/c/js/webs#chartjs)
 - [CollectJS](/c/js/webs#collectjs)
+- [!DATA-Visualization](/c/js/data-visualization)
 - [Date-fns](/c/js/webs#date-fns)
 - [Ember](/c/js/webs#ember)
 - [Emmet](/c/js/webs#emmet)
@@ -30,6 +32,7 @@ Listado completo:
 - [MathJS](/c/js/webs#mathjs)
 - [Melody](/c/js/webs#melody)
 - [Mithril](/c/js/webs#mithril)
+- [!MODALS](/c/js/modals)
 - [Moment.js](/c/js/webs#momentjs)
 - [Mout](/c/js/webs#mout)
 - [NativeScript](/c/js/webs#nativescript)
