@@ -84,7 +84,7 @@ Indica el nuevo valor de la característica seleccionada.
 
 _Gráficamente_
 
-![Regla CSS](../../assets/img/regla-css.jpg)
+![Regla CSS](/../../assets/img/regla-css.jpg)
 
 ### Archivo CSS
 
