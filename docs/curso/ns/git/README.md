@@ -40,4 +40,3 @@ Profesora de programación en diversas instituciones de Argentina y otros paíse
 Emprendedora y Directora Académica de Programa Desde Tu Casa
 
 Buscanos en facebook o instagram :)
-
