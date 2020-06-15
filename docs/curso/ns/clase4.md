@@ -45,7 +45,7 @@ Argumentos: es el valor actual que se envía a la función. Los argumentos llena
 
 Return: se encarga de devolver el resultado de la función al ser ejecutada. A su vez con ella termina la ejecución de una función por ende si luego de un return hay más líneas de código entonces ellas nunca se ejecutarán.
   
-SCOPE: ámbito
+### SCOPE: ámbito
 
 Hay dos tipos de scope:
 
@@ -138,4 +138,4 @@ Con las funciones flecha, buscamos simplificar todo lo que teníamos en función
 
 ## Tarea
 
-Enlazar a [`www`](/www/curso/ns/claseJS4.html)
+Enlazar a [`www`](https://sidval.github.io/www/curso/ns/claseJS4.html)

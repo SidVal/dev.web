@@ -18,7 +18,7 @@ Antes de ingresar al concepto de "condicional" es importante tener en cuenta los
 
 ### OPERADORES LÓGICOS
 
-* `&&`  --> and 
+* `&&`  --> and
 * `||`  --> or
 * `!`   --> not
 
@@ -65,7 +65,6 @@ False:
     instrucciones si no se da la condición.
   }
 ```
-
 
 ### Operador Ternario
 
@@ -129,4 +128,4 @@ Muy útil cuando tenemos un `promt();` que carga valores que pueden venir en may
     (x % 3 != 0 && x % 5 != 0)
 ```
 
-Enlazar a [`www`](/www/curso/ns/claseJS2.html)
+Enlazar a [`www`](https://sidval.github.io/www/curso/ns/claseJS2.html)

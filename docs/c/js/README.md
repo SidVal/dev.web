@@ -35,7 +35,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Las funciones son objetos de primera clase en JavaScript](http://helephant.com/2008/08/19/functions-are-first-class-objects-in-javascript/) - Las funciones en JavaScript son objetos de primera clase. Esto significa que las funciones son simplemente un tipo de objeto especial, con las cuales se pueden hacer las mismas cosas que cualquier otro objeto podría hacer.
 - [Promesas de JavaScript: Introducción](https://developers.google.com/web/fundamentals/primers/promises)
 - [Service Workers: introducción](https://developers.google.com/web/fundamentals/primers/service-workers/)
-- [Learning Javascript and Meteor from scratch; Putting an Instagram Clone in the App Stores](https://medium.com/@jracollins/my-first-app-carspot-an-instagram-clone-for-cars-was-approved-for-the-itunes-store-on-the-18-8-f4668f8b17de)
+- [Protege tu HTML de login, redireccionando a una página de error](https://medium.com/daniiable-in-the-workplace/protege-tu-html-de-loguin-redireccionando-a-una-p%C3%A1gina-de-error-8f016933ed90) - (Contraseña)
 
 ### En inglés
 
@@ -87,6 +87,8 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [Start Performance Budgeting](https://medium.com/@addyosmani/start-performance-budgeting-dabde04cf6a3)
 - [Understanding JSON in JavaScript](https://itnext.io/understanding-json-in-javascript-5098876d0915) ☆
 - [A Simple Introduction to Web Workers in JavaScript](https://medium.com/young-coder/a-simple-introduction-to-web-workers-in-javascript-b3504f9d9d1c) ☆
+- [Learning Javascript and Meteor from scratch; Putting an Instagram Clone in the App Stores](https://medium.com/@jracollins/my-first-app-carspot-an-instagram-clone-for-cars-was-approved-for-the-itunes-store-on-the-18-8-f4668f8b17de)
+
 
 ### CodeBurst JavaScript Articles
 

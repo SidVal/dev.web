@@ -2,13 +2,15 @@
 
 >11 de Mayo
 
+?> Este archivo necesita ediciones para completar todo lo que se puede hacer con ARRAYS, en esta clase se vieron muy rápidamente las funciones, métodos y propiedades con Arrays.
+
 ## Arrays (Arreglos)
 
 Alojar valores dentro de una variable
 Colección de datos agrupados en una misma estructura.
 Es el contenedor de muchos valores, en una misma variable.
 
-Array: colección de datos agrupados en una misma estructura. Básicamente es un contenedor de muchos valores a la vez bajo la misma variable. 
+Array: colección de datos agrupados en una misma estructura. Básicamente es un contenedor de muchos valores a la vez bajo la misma variable.
 
 Caracteristicas:
 
@@ -104,7 +106,7 @@ letras.sort();
 - Método reverse
 
 ```js
-letras.reverse(); 
+letras.reverse();
 ```
 
 ### Convierte un array a un string
@@ -117,7 +119,7 @@ numeros.join (',');
 ### Convertir un string en un array
 
 ```js
-var textos = "texto1, texto2, texto3"; 
+var textos = "texto1, texto2, texto3";
 textos.split(",");
 ```
 
@@ -154,17 +156,17 @@ var nombres= ["Luis", "José","Mariana", "Antonia", "Juana"];
 for(var nombre of nombres){
 document.write(nombre + "<br>");
 }  
-// Declaro un elemento, nombre, que es la que va a iterar cada elemento del array. 
+// Declaro un elemento, nombre, que es la que va a iterar cada elemento del array.
 ```
 
-- `.forEach`: es un método que nos permitirá acceder a cada elemento de un array a través de una función que recibe el elemento, la posición del elemento y el array que se está recorriendo 
+- `.forEach`: es un método que nos permitirá acceder a cada elemento de un array a través de una función que recibe el elemento, la posición del elemento y el array que se está recorriendo
 
 ```js
 var nombres= ["Luis", "José","Mariana", "Antonia", "Juana"];
 nombres.forEach (nombre => document.write(nombre+ "<br>"));
 ```
 
-- `.some()`: se utiliza cuando se quiere saber si algunos de los elementos cumple con una condición 
+- `.some()`: se utiliza cuando se quiere saber si algunos de los elementos cumple con una condición
 
 ```js
 var nombres= ["Luis", "José","Mariana", "Antonia", "Juana"];
@@ -178,7 +180,7 @@ var nombres= ["Luis", "José","Mariana", "Antonia", "Juana"];
 nombres.every(elemento => elemento.length>=4);
 ```
 
-- `.filter()`: filtra los elementos que cumpla con una condición 
+- `.filter()`: filtra los elementos que cumpla con una condición
 
 ```js
 var numeros= [2, 20, 30, 45, 3, -10, 120, 5, 200];
@@ -271,4 +273,4 @@ Busca un valor determinado dentro del array, si lo encuentra devuelve true
 
 ## Tarea
 
-Enlazar a [`www`](/www/curso/ns/claseJS5.html)
+Enlazar a [`www`](https://sidval.github.io/www/curso/ns/claseJS5.html)

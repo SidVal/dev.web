@@ -66,12 +66,12 @@ while (aux < 5) {
 
 ```
 
-### BUCLE DO WHILE 
+### BUCLE DO WHILE
 
 ```js
 do{
-   Ejecuta bloque de instrucciones 
-} 
+   Ejecuta bloque de instrucciones
+}
 while(condition);  Evaluamos condición
 
 
@@ -113,4 +113,4 @@ for (i = 0; i < 20; i += 2) {
 
 ## Tarea
 
-Enlazar a [`www`](/www/curso/ns/claseJS3.html)
+Enlazar a [`www`](https://sidval.github.io/www/curso/ns/claseJS3.html)
