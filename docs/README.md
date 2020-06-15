@@ -1,5 +1,5 @@
 # Dev.Web {docsify-ignore-all}
-![Release](https://badgen.net/github/release/sidval/dev.web) ![Commits](https://badgen.net/github/commits/sidval/dev.web) ![License](https://badgen.net/github/license/sidval/dev.web) ![Be Happy](../assets/img/be-happy.png)<div align="right" style="float:right;"><i><a href="https://github.com/SidVal/dev.web/releases" target="_new">v2.0</a></i> :smile: </div>
+![Release](https://badgen.net/github/release/sidval/dev.web) ![Commits](https://badgen.net/github/commits/sidval/dev.web) ![License](https://badgen.net/github/license/sidval/dev.web) ![Be Happy](../../../assets/img/be-happy.png)<div align="right" style="float:right;"><i><a href="https://github.com/SidVal/dev.web/releases" target="_new">v2.0</a></i> :smile: </div>
 
 ## Presentación del repo
 
