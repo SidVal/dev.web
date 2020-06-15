@@ -3,12 +3,14 @@
 >Clase 18 de Mayo
 
 ?> **Pospuesta para el lunes 18**, era el día Miercoles 13 de Mayo, pero la profe se sentía mal.
-?> Anuncios de la clase
-?> * 1ero de junio, final de las clases.
-?> * Proyecto Final: aprovechar la clase para empezar el proyecto
-?> * Hasta el 8 de junio para entregar proyecto final.
-?> * Cambio de profesor --> Ahora se suma una profesora nueva: "_Rosini Rodriguez_".
-?> * Noe no va a dar las clases de ahora en más.
+
+_Anuncios de la clase_
+
+* 1ero de junio, final de las clases.
+* Proyecto Final: aprovechar la clase para empezar el proyecto
+* Hasta el 8 de junio para entregar proyecto final.
+* Cambio de profesor --> Ahora se suma una profesora nueva: "_Rosini Rodriguez_".
+* Noe no va a dar las clases de ahora en más.
 
 ## DOM
 
