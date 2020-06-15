@@ -18,7 +18,7 @@ La característica más importante de NodeJS, es la de **no ser bloqueante**. Es
 
 !> Recordar ampliar información con la sección ["contenido de NodeJS"](/c/node/) con lecturas, prácticos y demás conocimientos.
 
-####  Instalar NodeJS
+#### Instalar NodeJS
 
 Ir al [sitio oficial](https://nodejs.org/es/) e instalar node no es complicado.
 
@@ -36,14 +36,15 @@ JavaScript nativo no da soporte a los módulos. Esto es agregado por NodeJS, y s
 
 La instrucción `require()` recibe como parámetro el nombre del paquete que queremos incluir e inicia una búsqueda en el sistema de archivos, en la carpeta _node_modules_ y sus carpetas hijas, que contienen todos los módulos que podrían ser requeridos.
 
-Por ejemplo, si deseamos usar la librería para que un servidor web escuche solicitudes http, haríamos: 
+Por ejemplo, si deseamos usar la librería para que un servidor web escuche solicitudes http, haríamos:
+
 ```javascript
 var http = require("http");
 ```
 
 #### Módulos Nativos
 
-Existen distintos módulos que están disponibles de una manera predeterminada con NodeJS, por lo tanto no sería necesario traerlos mediante el gestor de paquetes de NPM. 
+Existen distintos módulos que están disponibles de una manera predeterminada con NodeJS, por lo tanto no sería necesario traerlos mediante el gestor de paquetes de NPM.
 
 Los módulos nativos son:
 

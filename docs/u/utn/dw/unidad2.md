@@ -396,7 +396,7 @@ Los colores en CSS se especifican utilizando nombres de colores predefinidos o v
 
 En HTML, un color se puede especificar mediante el uso de un nombre de color:
 
-![Colores CSS](../../assets/img/css-colors.jpg)
+![Colores CSS](../../../assets/img/css-colors.jpg)
 
 HTML admite 140 nombres de colores estándar.
 
@@ -441,7 +441,7 @@ Ejemplo [-ver en linea](https://www.w3schools.com/css/tryit.asp?filename=trycss3
 
 El `outline` es un contorno, es decir, es una línea que se dibuja alrededor de elementos, FUERA de los bordes, para hacer que el elemento se "destaque". Se usa para crear un segundo borde, tiene similares características y usa los mismos parámetros que la propiedad [`border`](#border).
 
-![CSS Outline](../../assets/img/css-outline.jpg)
+![CSS Outline](../../../assets/img/css-outline.jpg)
 
 Su uso básico es:
 

@@ -205,7 +205,7 @@ El encabezado se conoce como _heading_ y debemos tener en cuenta que el `margin-
 
 Es más fácil representarlo con una imágen que explique cómo se verían los distintos elementos de HTML:
 
-![Encabezados H1 - H6](../assets/img/heading-css-bootstrap.jpg)
+![Encabezados H1 - H6](../../../assets/img/heading-css-bootstrap.jpg)
 
 Si queremos jugar con un poco de código HTML y ver cómo queda, podemos ver el código aquí:
 

@@ -62,6 +62,7 @@ var m = 1; // variable 'm' (declarada) con valor 1, ámbito local
 n = 2; // variable 'n' (no declarada) con valor 2, ámbito local
 }
 ```
+
 !> Leer: [JavaScript ES6+: var, let, or const?](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75)
 
 #### Referencias
