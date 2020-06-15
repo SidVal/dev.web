@@ -1,7 +1,6 @@
 * <a href="javascript:history.back()">Atrás</a>
-* [Clases](/curso/utn/dw/)
-* [Unidades](/u/utn/dw/)
-* [Contenidos Web](/c/)
+* [Clases](/curso/)
+* [Conceptos Web](/c/)
   * Infografías
     * [Frontend](/c/frontend-roadmap.md)
     * [Backend](/c/backend-roadmap.md)
