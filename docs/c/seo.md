@@ -13,6 +13,8 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 - [Guía de SEO en WordPress: Todo lo que debes saber para optimizar tu sitio en WordPress](https://neoattack.com/seo-en-wordpress/)
 - [SEO OnPage – Cómo posicionar un nicho desde cero](https://www.vivirdelared.com/posicionar-nichos/)
 - [Herramientas para analizar la competencia](https://vilmanunez.com/herramientas-para-analizar-la-competencia/)
+- [Herramientas Backlink: Nuevos atributos rel están disponibles](https://es.semrush.com/news/backlink-tools-new-rel-attributes/)
+  - El 10 de septiembre 2019, Google presentó dos nuevos atributos de enlace: rel=”sponsored” y rel=”ugc”
 
 ### Inglés
 
