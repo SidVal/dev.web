@@ -1,5 +1,7 @@
 # Blogger {docsify-ignore-all}
 
+- [Mejorar los resultados de búsqueda en Blogger](https://support.google.com/blogger/answer/9675453?hl=es)
+
 ## GitHub
 
 Repositorios GitHub con contenido sobre blogger, o templates.
