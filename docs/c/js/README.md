@@ -42,6 +42,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 - [JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
   - [JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
   - [Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators)
+- [A lot of info about JS: jscomplete.com](https://jscomplete.com/learn) - **recomenado!**
 - [JavaScript Essentials: Arrays](https://codeburst.io/javascript-essentials-arrays-2d275b9598c5)
 - [JavaScript Essentials: Types & Data Structures](https://codeburst.io/javascript-essentials-types-data-structures-3ac039f9877b)
 - [JavaScript Essentials: Objects](https://codeburst.io/javascript-essentials-objects-56373a1a6bfb)
