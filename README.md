@@ -12,8 +12,6 @@ Con el tiempo se convertirá en mi página para exponer todo lo que sea sobre el
 >Se creará más adelante una página del tipo "sobre el autor" o algo relacionado, para comentar quién soy, por qué hago todo ésto, etcétera etcétera.
 >
 >Todo esto se hace a pulmón, y con muuuuuuchas dosis de cafeína (_y a veces fernet con coca_).
->
->[![Más Café por favor](https://sidval.github.io/SidV/assets/img/cafe.png)](https://ko-fi.com/J3J1MAVL)
 
 ## Contenidos del curso
 
