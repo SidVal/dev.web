@@ -8,4 +8,5 @@
   - [eCommerce](/c/ecommerce.md)
   - [Hosting](/c/hosting.md)
   - [Templates](/c/templates.md)
+  - [Tools](/c/tools.md)
   - [Cursos](/c/cursos.md)
