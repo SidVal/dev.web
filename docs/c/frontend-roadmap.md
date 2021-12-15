@@ -114,6 +114,9 @@ Sirve para documentar información técnica, lo usan principalmente para exponer
 - [Metalsmith](https://github.com/segmentio/metalsmith)
   - [Mi prueba con MetalSmith](https://github.com/SidVal/metalsmith)
 - [Jekyll](https://jekyllrb.com)
+  - Themes Interesantes
+    - [Poole/Hyde](https://github.com/poole/hyde) - A brazen two-column theme for Jekyll.
+    - [pmarsceill/just-the-docs](https://github.com/pmarsceill/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
   - Arbol de Datos: se me ocurrió que usando los **[Data Files](https://jekyllrb.com/docs/datafiles/)** de Jekyll podría crear árbol de datos. [Leer seguimiento de esta idea](https://github.com/SidVal/SidV/issues/6)
     * [Tree](https://github.com/search?o=desc&q=topic%3Atree&s=updated&type=Repositories)
     Por orden de actualización
