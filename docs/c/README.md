@@ -43,6 +43,7 @@ En mis lecturas diarias sobre Desarrollo Web, o Web-Mastering como me gusta deci
 - [Awesome CSS Frameworks](/awesome-css-frameworks)
 - [Awesome JavaScript](/awesome-javascript)
 - [Awesome Nodejs](/awesome-nodejs)
+- [Awesome Static Website Services](https://github.com/agarrharr/awesome-static-website-services)
 
 ## Videos
 
