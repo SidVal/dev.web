@@ -90,6 +90,12 @@ Plataformas, herramientas, tips, lecturas... por ahora aquí.
 
 ## Content Manager Systems (CMS)
 
+Hace 7 años atrás alguien comentó en este artículo sobre "[Modern CMS](https://www.simoahava.com/content-management/modern-cms-top-5-features/)" _Año 2015_ :
+
+>Wordpress "A modern CMS" - erm... you might want to do some more research on that? Wordpress is very old, the architecture is all  based on php 4 style spaghetti code.
+>If you came here looking for a modern CMS you probably want to google things like, October CMS, Bolt, Baun, Grav, Symfony CMF etc etc.
+>Wordpress has it's place but I doubt even a core wordpress developer would call it a modern CMS. Same goes for drupal and joomla.
+
 - [Headless CMS](https://headlesscms.org/) 
 Sitio que enumera los CMS abiertos, que pueden correr en github como netlify.
 
