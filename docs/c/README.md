@@ -113,6 +113,7 @@ Hacer éste ejercicio ayuda a entender cómo debuguear los archivos javascript. 
 - [How to stop using console.log() and start using your browser’s debugger](https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff)
 - [Cool Chrome DevTools tips and tricks you wish you knew already](https://medium.freecodecamp.org/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2)
 - [Using Chrome as a Local Web Server](https://medium.com/@jmatix/using-chrome-as-a-local-web-server-af04baffd581) ☆
+- [DEBUG GUIDE FOR WEB ANALYTICS AND TAG MANAGEMENT](https://www.simoahava.com/analytics/debug-guide-web-analytics-tag-management/)
 
 ## Distintivos
 
