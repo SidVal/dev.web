@@ -15,6 +15,7 @@ El famoso "SEO" es _Search Engine Optimization_ y es un mundo. Genero este docum
 - [Herramientas para analizar la competencia](https://vilmanunez.com/herramientas-para-analizar-la-competencia/)
 - [Herramientas Backlink: Nuevos atributos rel están disponibles](https://es.semrush.com/news/backlink-tools-new-rel-attributes/)
   - El 10 de septiembre 2019, Google presentó dos nuevos atributos de enlace: rel=”sponsored” y rel=”ugc”
+- [SEO Audit Tools: 65 Tools For SEO Auditing](https://seosly.com/seo-audit-tools)
 
 ### Inglés
 
