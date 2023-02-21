@@ -127,6 +127,7 @@ Artículos y páginas propias sobre JS:
 
 ## Prácticos
 
+- [Quizzes en español e inglés](https://teffcode-community.github.io/quizzes/) - (_Recomendado_)
 - [Create JavaScript-Powered Data Charts With Billboard.js](https://www.hongkiat.com/blog/create-javascript-powered-data-charts-billboardjs/)
 - [Let’s create an Instagram bot to show you the power of Selenium!](https://medium.com/@mottet.dev/lets-create-an-instagram-bot-to-show-you-the-power-of-selenium-349d7a6744f7) ☆
 - [Why (And How) I Built My Own News Website](https://medium.com/@kieranmaher13/why-and-how-i-built-my-own-news-website-7e025b8e20e) ☆
