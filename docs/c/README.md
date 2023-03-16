@@ -129,3 +129,4 @@ Sitios webs que contienen referencias de sintaxis sobre otros lenguajes.
 - [DevDocs API Documentation](https://devdocs.io/)  
   Para encontrar referencia directa al uso de cualquier lenguaje web. Realmente para darle una buena leída y tenerlo en favoritos.
 - [DevHints.io](https://devhints.io/)
+- https://free-for.dev/
