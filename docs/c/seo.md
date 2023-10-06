@@ -72,6 +72,15 @@ Para mas información sobre el  **Keyword Research** , ya de paso, varias URLs 
 - Diego Polares: [Cómo hacer un Keyword research para un e-commerce](http://www.izenius.com/blog/keyword-research-ecommerce/), en el blog de izenius
 - Jose B. Moreno: tres artículos sobre la ordenación y la elección de palabras claves: [estrategia de posicionamiento web y palabras claves](http://www.jbmoreno.es/estrategia-de-posicionamiento-web-palabras-clave/), [script para trabajar palabras claves para SEO](http://www.jbmoreno.es/script-palabras-clave-trabajar-seo/), [análisis de palabras clave agrupadas](http://www.jbmoreno.es/analisis-palabras-clave-agrupado-spreadsheet/)
 
+### Rich Results - Structured Data - Textos Enriquecidos
+
+- Herramienta: [Prueba de Resultados Enriquecidos de Google](https://goo.gle/richresults)
+- [Marcado de datos estructurados compatible con la Búsqueda de Google](https://developers.google.com/search/docs/appearance/structured-data/search-gallery?hl=es) - **RECOMENDADO**
+  - [Datos estructurados de preguntas (QAPage)](https://developers.google.com/search/docs/appearance/structured-data/qapage?hl=es)
+  - [Generar datos estructurados con JavaScript](https://developers.google.com/search/docs/appearance/structured-data/generate-structured-data-with-javascript?hl=es)
+- [What Are Rich Snippets & How to Get Them in 2023](https://www.semrush.com/blog/rich-snippets/)
+- [What Are SERP Features?](https://www.semrush.com/blog/serp-features-guide/)
+
 ## Herramientas
 
 <!-- abcdefghijklmnñopqrstuvwxyz -->
