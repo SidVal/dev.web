@@ -1,5 +1,5 @@
 # Dev.Web {docsify-ignore-all}
-![Release](https://badgen.net/github/release/sidval/dev.web) ![Commits](https://badgen.net/github/commits/sidval/dev.web) ![License](https://badgen.net/github/license/sidval/dev.web) ![Be Happy](/assets/img/be-happy.png)<div align="right" style="float:right;"><i><a href="https://github.com/SidVal/dev.web/releases" target="_new">v2.0</a></i> :smile: </div>
+![Release](https://badgen.net/github/release/sidval/dev.web) ![Commits](https://badgen.net/github/commits/sidval/dev.web) ![License](https://badgen.net/github/license/sidval/dev.web) ![Be Happy](/assets/img/be-happy.png)<div align="right" style="float:right;"><i><a href="https://github.com/SidVal/dev.web/releases" target="_new">v2.1</a></i> :smile: </div>
 
 ## Presentación del repo
 
@@ -35,6 +35,6 @@ Más información sobre el avance del repositorio, ver [logs](https://github.com
 ## EMPIEZA AHORA
 
 * Si nunca cursaste nada sobre Programación WEB, te recomiendo iniciar con el [curso de Desarrollo Web](/curso/utn/dw/).
-* Si ya tienes experiencia en programación web, y conoces sus conceptos, pero te falta ampliar o practicar algo, entonces pasa al sector de [CONTENIDOS](/c/) de este sitio web, donde podrás encontrar lecturas recomendadas, tips, y mucho más.
+* Si ya tienes experiencia en programación web, y conoces sus conceptos, pero te falta ampliar o practicar algo, entonces pasa al sector de [CONTENIDOS](https://sidval.github.io/dev.web/#/c/) de este sitio web, donde podrás encontrar lecturas recomendadas, tips, y mucho más.
 
 _¡Éxitos!_
