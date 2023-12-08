@@ -4,7 +4,7 @@
 
 Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia en lenguajes de scripting y/o interpretados. Para estos desarrolladores, el concepto y las implicaciones de las variables de tipado blando quizas son de segunda naturaleza. Como siempre, el crecimiento explosivo en demanda para aplicaciones web modernas, ha resultado en un crecimiento en el número de desarrolladores `back-end` que han tenido que meter sus manos en tecnologías del lado del cliente. Muchos de estos programadores llegan experiencia en lenguajes de tipado fuerte, tales como `C#` o `Java`, y le resultan desconocidas las libertades y las potenciales trampas envueltas en el trabajo con variables de tipado blando (se conoce como _Loose Typing_).
 
-!>ÑMi apunte JS](/c/js/js.md)
+!>[Mi apunte JS](/c/js/js.md)
 
 ## Guías
 
