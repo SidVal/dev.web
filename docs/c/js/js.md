@@ -96,30 +96,53 @@ JavaScript proporciona una serie de métodos para manipular strings. Algunos de 
 
 ### **Objects**
 
-Los objetos son estructuras de datos que nos permiten almacenar un conjunto de **pares clave-valor**. Estos pares son conocidos como **propiedades del objeto**.
+[Los objetos en JavaScript](https://platzi.com/clases/1814-basico-javascript/26306-objects/) son un tipo de dato que permite almacenar una colección de pares clave-valor. Estos pares representan las propiedades y sus valores correspondientes de un objeto. Los objetos son similares a los arrays en cuanto a que también son una forma de almacenar y manejar datos, pero en lugar de tener un índice numérico, tienen una clave de string.
 
-Para crear un objeto, debemos utilizar las llaves **`{}`** y especificar las propiedades del objeto mediante la sintaxis **`nombrePropiedad: valorPropiedad`**. Los valores de las propiedades pueden ser de cualquier tipo de dato, incluyendo otros objetos.
+La sintaxis para crear un objeto es la siguiente:
 
-Ejemplo:
-
-    const persona = {
-     nombre: "Fulanita",
-     platziRank: 9567,
-    cursoFavorito: {
-    nombre: "Básico de JavaScript",
-    clases: 30,
-    duración: "2 horas"
-    }
+    const miObjeto = {
+    clave1: valor1,
+    clave2: valor2,
+    clave3: valor3
     };
     
 
-Para acceder a las propiedades de un objeto, podemos utilizar el operador **`.`** o la notación de corchetes **`[]`**.
+Por ejemplo, el siguiente código crea un objeto llamado “curso” que tiene cinco propiedades: “Clases”, “Duración”, “Nombre”, “detalles” y comentarios:
 
-Ejemplo:
+    const curso = {
+    nombre: "30 días de JS",
+    duración: "20 horas",
+    clases: 100,
+    detalles: {
+    tecnologias: ["js", "node", "web browser"],
+    calificacion: 5,
+    },
+    comentarios: ["¡Excelente curso!", "Javscript no es lo mismo que Java", "hola"]
+    };
+    
 
-    console.log(persona.nombre); // "Fulanita"
-    console.log(persona.cursoFavorito.nombre); // "Básico de JavaScript"
-    console.log(persona["platziRank"]); // 9567
+Para acceder a las propiedades de un objeto, se utiliza la notación de punto o la notación de corchetes. Por ejemplo, para acceder al nombre del curso anterior se utilizaría la siguiente sintaxis:
+
+    console.log(curso.nombre); // "30 días de JS"
+    console.log(curso["nombre"]); // "30 días de JS"
+    
+
+Además de las propiedades, los objetos también pueden tener métodos, que son funciones asociadas a un objeto. Por ejemplo, el siguiente código crea un objeto “carro” con una propiedad “marca” y un método “encender”:
+
+    let carro = {
+     marca: "Toyota",
+     encender: function() {
+     console.log("El carro ha sido encendido");
+     }
+    };
+    
+
+Para llamar a un método de un objeto, se utiliza la notación de punto. Por ejemplo:
+
+    carro.encender(); // "El carro ha sido encendido"
+    
+
+JavaScript también tiene una característica llamada prototype, que permite agregar propiedades y métodos a un objeto de forma dinámica. Esto permite a los desarrolladores crear nuevos objetos a partir de objetos existentes y heredar sus propiedades y métodos, pero esto lo verás mucho más adelante, por el momento no tienes de que preocuparte.
     
 
 ### **Booleanos**
@@ -280,6 +303,29 @@ Mientras que el inicializar una variable es el asignarles cualquier valor.
 Como te habrás dado cuenta, en **JavaScript**, no es necesario declarar explícitamente el tipo de datos de una variable al asignarle un valor. En su lugar, el lenguaje determina el tipo de datos de la variable en tiempo de ejecución basándose en el valor que se le asigna. Esto hace que JavaScript sea un lenguaje débilmente tipado.
 
 Es importante tener cuidado al trabajar con variables débilmente tipadas, ya que pueden traer problemas si no mantienes las variables del tipo que esperas que sean. Por ejemplo, si intentas realizar una operación matemática con una variable que contiene un valor de texto en lugar de un número, obtendrás un error. Por lo tanto, es importante asegurarse de que las variables contengan los valores adecuados para el tipo de operación que se está realizando.
+
+### Alcance de las variables
+En JavaScript no todas las variables son iguales y es importante entender cómo funciona el alcance de las variables.
+
+En este lenguaje existen dos tipos de scope (alcance) de variables: global y local.
+
+Las variables declaradas fuera de cualquier función tienen alcance global, lo que significa que pueden ser accedidas y modificadas desde cualquier parte del código. Por otro lado, las variables declaradas dentro de una función tienen alcance local, lo que significa que solo pueden ser accedidas y modificadas dentro de esa función.
+
+Es importante tener en cuenta que cuando se declara una variable con var dentro de una función, esta variable tendrá alcance global, aunque esté dentro de una función. Sin embargo, si se declara con let o const, la variable tendrá alcance local.
+
+Otro concepto importante a entender es el de hoisting, que se refiere al comportamiento de javascript de mover las declaraciones de variables al inicio del ámbito en el que están declaradas. Esto significa que si se declara una variable dentro de una función, javascript la moverá al inicio de la función, incluso antes de que se ejecute cualquier línea de código dentro de la función.
+
+Por ejemplo, si tenemos el siguiente código:
+
+```JS
+function miFuncion() {
+  console.log(x);
+  var x = 10;
+}
+```
+
+`miFuncion();`
+Javascript movería la declaración de x al inicio de miFuncion, lo que significa que la línea console.log(x) daría como resultado “undefined”, ya que x aún no ha sido inicializada en ese momento.
 
 **Funciones**
 -------------
@@ -472,6 +518,186 @@ Los [operadores lógicos](https://platzi.com/clases/8617-javascript-fundamentos
 
 ### Condicionales
 
+La [estructura de control “if”](https://platzi.com/clases/8617-javascript-fundamentos/66426-ejecucion-condicional-if/) sirve para tomar decisiones en función de si una determinada condición es verdadera o falsa. El código dentro de un bloque “if” sólo se ejecutará si la condición es verdadera, mientras que el código en un bloque “else” sólo se ejecutará si la condición es falsa.
+
+La sintaxis básica de una estructura “if” es la siguiente:
+
+    if (condicion) {
+     // código a ejecutar si la condición es verdadera
+    } else {
+     // código a ejecutar si la condición es falsa
+    }
+    
+
+Una de las formas más comunes de utilizar una estructura “if” es comparando una variable con un valor específico. Por ejemplo:
+
+    let edad = 25;
+    if (edad >= 18) {
+     console.log("Eres mayor de edad");
+    } else {
+     console.log("Eres menor de edad");
+    }
+    
+
+En este ejemplo, se establece una variable “edad” con un valor de 25. Luego, se utiliza una estructura “if” para comprobar si la edad es mayor o igual a 18. Si es verdadero, se imprimirá “Eres mayor de edad” en la consola, de lo contrario, se imprimirá “Eres menor de edad”.
+
+También es posible utilizar varias condiciones en una estructura “if” utilizando la palabra clave “else if”. Por ejemplo:
+
+    let calificacion = 75;
+    if (calificacion >= 90) {
+     console.log("Obtuviste una A");
+    } elseif (calificacion >= 80) {
+     console.log("Obtuviste una B");
+    } elseif (calificacion >= 70) {
+     console.log("Obtuviste una C");
+    } else {
+     console.log("Obtuviste una calificación insuficiente");
+    }
+    
+
+En este ejemplo, se establece una variable “calificacion” con un valor de 75. Luego, se utiliza una estructura “if-else if” para determinar en qué rango de calificación se encuentra. Si la calificación es mayor o igual a 90.
+
+## Switch
+
+La estructura de control **[switch](https://platzi.com/clases/8617-javascript-fundamentos/66429-ejecucion-condicional-switch/)** permite ejecutar diferentes bloques de código en función de un valor específico. Es una alternativa a la estructura **if-else** para casos en los que hay varios valores posibles para una variable y se desea ejecutar diferentes acciones en función de cada valor manteniendo legible el código.
+
+La sintaxis básica de una estructura “switch” es la siguiente:
+
+    switch (variable) {
+    case valor1:
+     // código a ejecutar si variable es igual a valor1
+     break;
+    case valor2:
+     // código a ejecutar si variable es igual a valor2
+     break;
+    default:
+     // código a ejecutar si variable no es igual a ninguno de los valores anteriores
+    }
+    
+
+La variable especificada en el “switch” se compara con cada uno de los casos especificados. Si se encuentra una coincidencia, se ejecutará el código dentro del bloque correspondiente. Es importante notar que se utiliza la palabra clave “break” al final de cada bloque de código para indicar que se debe salir del “switch” una vez que se ha ejecutado el código correspondiente. Si no se incluye “break”, el código seguirá ejecutándose en los siguientes casos.
+
+Por ejemplo, el siguiente código imprimirá un mensaje diferente en la consola dependiendo del valor de la variable “dia”:
+
+    const dia = "lunes";
+    switch (dia) {
+     case"lunes":
+     console.log("Hoy es lunes");
+     break;
+     case"martes":
+     console.log("Hoy es martes");
+     break;
+     case"miercoles":
+     console.log("Hoy es miércoles");
+     break;
+     default:
+     console.log("Hoy no es lunes, martes o miércoles");
+    }
+    
+
+En este ejemplo, la variable “dia” tiene un valor de “lunes”, por lo que se ejecutará el código dentro del primer bloque y se imprimirá “Hoy es lunes” en la consola. Si la variable “dia” tuviera un valor diferente, como “martes” o “miercoles”, se ejecutaría el código dentro del bloque correspondiente y se imprimiría el mensaje correspondiente en la consola. Si la variable “dia” tuviera un valor que no coincide con ninguno de los casos especificados, se ejecutaría el código dentro del bloque “default” y se imprimiría el mensaje “Hoy no es lunes, martes o miércoles” en la consola.
+
+También es posible hacer diferentes validaciones dentro los casos del switch. Por ejemplo:
+
+    let numero = "12";
+    switch (true) {
+     case numero > 100:
+     console.log("El valor es mayor a 100");
+     break;
+     case numero % 2 === 0:
+     console.log("El valor es multiplo de 2");
+     break;
+     default:
+     console.log("El valor no cumple con ninguna de las características");
+    }
+
+### Ciclos
+
+Los ciclos son una herramienta esencial dentro de JavaScript. Sirven para repetir un bloque de código varias veces, dependiendo de una condición específica. Los ciclos son fundamentales para la automatización de tareas y la eficiencia en el código.
+
+Existen dos tipos de ciclos en JavaScript: los ciclos “for” y los ciclos “while”. Ambos tienen una sintaxis similar, pero se utilizan en situaciones diferentes.
+
+El ciclo [“for”](https://platzi.com/clases/8617-javascript-fundamentos/66430-loop-for/) es utilizado para repetir un bloque de código un número específico de veces. Su sintaxis básica es la siguiente:
+
+    for (inicialización; condición; actualización) {
+     // código a ejecutar
+    }
+    
+
+La inicialización se ejecuta una sola vez al principio del ciclo, la condición se evalúa en cada iteración antes de ejecutar el código dentro del ciclo y la actualización se ejecuta al final de cada iteración. Por ejemplo, el siguiente ciclo “for” imprimirá los números del 1 al 10 en la consola:
+
+    for (let i = 1; i <= 10; i++) {
+     console.log(i);
+    }
+    // 1
+    // 2
+    // 3
+    // 4
+    // 5
+    // 6
+    // 7
+    // 8
+    // 9
+    // 10
+    
+
+También existen los ciclos [**for-in**](https://platzi.com/clases/8617-javascript-fundamentos/66433-loop-for-in/) y [**for-of**](https://platzi.com/clases/8617-javascript-fundamentos/66432-loop-for-of/). El ciclo **for-in** se utiliza para recorrer las propiedades de un objeto, mientras que el ciclo **for-of** se utiliza para recorrer los elementos de una colección como un array.
+
+El uso de un ciclo “for in” es la siguiente:
+
+    const user = {
+    name: "Pepito",
+     age: 20,
+     role: "JavaScript developer"
+    }
+    for (const prop in user) {
+    console.log(user[prop])
+    }
+    // "Pepito"
+    // 20
+    // "JavaScript developer"
+    
+
+En este ejemplo, se establece una variable “prop” que se utilizará para recorrer las propiedades del objeto. El valor de cada propiedad se imprimirá en la consola.
+
+Por otro lado, la sintaxis de un ciclo **for-of** es la siguiente:
+
+    const technologies = ["js", "html", "node", "php"]
+    for (const element of technologies) {
+     console.log(element)
+    }
+    // "js"
+    // "html"
+    // "node"
+    // "php"
+    
+
+En este ejemplo, se establece una variable “element” que se utilizará para recorrer cada elemento en el array. Cada valor se imprimirá en la consola.
+
+Por otro lado, el ciclo **[while](https://platzi.com/clases/8617-javascript-fundamentos/66434-loop-while/)** se utiliza para repetir un bloque de código mientras se cumpla una determinada condición. Su sintaxis básica es la siguiente:
+
+    while (condición) {
+     // código a ejecutar
+    }
+    
+
+La condición se evalúa antes de ejecutar el código dentro del ciclo y si la condición es verdadera, el código se ejecutará de nuevo. Por ejemplo, si quisiéramos hacer una implementación del ejemplo anterior con los números del 1 al 10, quedaría de la siguiente manera:
+
+    let i = 1;
+    while (i <= 10){
+     console.log(i);
+     i++;
+    }
+    
+
+Existe una extensión del **while** en javascript llamado **do-while** que tiene una pequeña diferencia, el código dentro del ciclo se ejecutará al menos una vez antes de evaluar la condición. Por ejemplo:
+
+    let i = 1;
+    do {
+    console.log(i);
+    i++;
+    } while (i <= 10);
+
 ### Bucles
 
 ### Manejo de Objetos
@@ -489,6 +715,51 @@ Los [operadores lógicos](https://platzi.com/clases/8617-javascript-fundamentos
 ## Objetos Predefinidos
 
 ### Array
+
+[Los arrays en JavaScript](https://platzi.com/clases/1814-basico-javascript/26303-arrays/) son un tipo de objeto que permite almacenar una colección de valores. Estos valores pueden ser de cualquier tipo, como números, cadenas, objetos, incluso otros arrays. Los arrays son muy útiles para almacenar y manejar datos en una sola estructura.
+
+La sintaxis para crear un array en JavaScript es la siguiente:
+
+    let miArray = [valor1, valor2, valor3];
+    
+
+Por ejemplo, el siguiente código crea un array llamado “colores” que contiene tres valores: “rojo”, “azul” y “verde”:
+
+    let colores = ["rojo", "azul", "verde"];
+    
+
+Los arrays tienen un índice numérico que comienza en 0. Por lo tanto, el primer elemento del array tiene el índice 0, el segundo tiene el índice 1, y así sucesivamente. Por ejemplo, para acceder al primer elemento del array “colores”, se utilizaría la sintaxis colores\[0\].
+
+Uno de los métodos más populares en los arrays de JavaScript es “push()”. Este método permite agregar un nuevo elemento al final del array. Por ejemplo:
+
+    colores.push("amarillo");
+    console.log(colores); // ["rojo", "azul", "verde", "amarillo"]
+    
+
+Otro método popular es “pop()”, que permite eliminar el último elemento del array. Por ejemplo:
+
+    colores.pop();
+    console.log(colores); // ["rojo", "azul", "verde"]
+    
+
+El método “map()” permite aplicar una función a cada elemento del array y devolver un nuevo array con los valores modificados. Por ejemplo:
+
+    const numeros = [1, 2, 3, 4, 5];
+    const cuadrados = numeros.map(function(numero) {
+     return numero * numero;
+    });
+    console.log(cuadrados); // [1, 4, 9, 16, 25]
+    
+
+El método “reduce()” permite combinar todos los elementos del array en un solo valor. Por ejemplo:
+
+    const suma = numeros.reduce(function(acumulador, numero) {
+     return acumulador + numero;
+    }, 0);
+    console.log(suma); // 15
+    
+
+Existen muchos otros métodos populares en los arrays de JavaScript, como “filter()”, “sort()” y “slice()”, por los cuales no te debes preocupar por ahora, más adelante tendrás una sección completa acerca de estos métodos.
 
 ### Date
 
