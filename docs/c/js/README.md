@@ -117,6 +117,7 @@ Para muchos desarrolladores `front-end`, JavaScript fue su primera experiencia e
 ## Cursos
 
 - [Learn FrontEnd Frameworks](https://www.udacity.com/course/front-end-frameworks--ud894) — Free 8 Week course focused on JavaScript Frameworks. Learn to build SPA’s (Single Page Applications) in both Angular and Ember from scratch.
+- [Platzi: Curso de Manipulación de Arrays en JavaScript](https://platzi.com/cursos/arrays/)
 
 ## Artículos JS
 
