@@ -824,6 +824,446 @@ Aquí, el valor booleano true es convertido en el número 1 antes de compararlos
 
 Es importante tener en cuenta estos comportamientos de JavaScript y asegurarse de que los valores estén en el tipo correcto antes de realizar comparaciones u operaciones. Esto puede ser logrado mediante funciones específicas de tipo o usando el operador estricto `===` en lugar del operador de igualdad `==`.
 
+## Reasignación y la Declaración
+
+En JavaScript, [la reasignación y la redeclaración](https://platzi.com/clases/3213-javascript-closures-scope/50364-reasignacion-y-redeclaracion/) son dos conceptos diferentes relacionados con las variables.
+
+Reasignación se refiere al proceso de darle un nuevo valor a una variable existente. Por ejemplo:
+
+    let numero = 5;
+    numero = 10;
+    
+
+En este ejemplo, la variable “numero” se ha reasignado con un nuevo valor de 10. Es importante notar solo su valor.
+
+Además, es importante mencionar que las variables declaradas con la palabra clave “const” no pueden ser reasignadas, ya que su valor es constante. Si se intenta reasignar una variable declarada con “const”, se generará un error en el código. Por ejemplo:
+
+    const numero = 5;
+    numero = 10; // Uncaught TypeError: invalid assignment to const
+    
+
+Por otro lado, **redeclaración** se refiere al proceso de crear una nueva variable con el mismo nombre de una variable existente. Por ejemplo:
+
+    let numero = 5;
+    let numero = 10;
+    // Uncaught SyntaxError: redeclaration of let numero
+    
+
+En este ejemplo, se está intentando crear una nueva variable “numero” con un valor de 10, pero esto generará un error ya que no se puede redeclarar una variable con el mismo nombre en el mismo ámbito. Sin embargo, es posible redeclarar una variable utilizando la palabra clave “var” en lugar de “let” o “const”.
+
+    var numero = 5;
+    var numero = 10;
+    // Esto funciona sin problema ✅
+    
+
+Ten en cuenta que la reasignación y la redeclaración tienen implicaciones diferentes en el código y deben utilizarse con cuidado para evitar errores y confusiones en el código. Es recomendable utilizar “let” o “const” en lugar de “var” para evitar la redeclaración accidental de variables.
+
+## Modo Estricto
+
+JavaScript cuenta con un [modo estricto](https://platzi.com/clases/8617-javascript-fundamentos/66421-objeto-window-y-modo-estricto/) que es un conjunto de reglas y características que proporcionan una mayor seguridad y control en el código. El modo estricto se activa mediante la palabra clave “use strict” al comienzo de un archivo o al principio de una función.
+
+Una de las principales ventajas de utilizar el modo estricto es que ayuda a evitar errores comunes en el código. Por ejemplo, en modo estricto, no se puede redeclarar una variable con el mismo nombre en el mismo ámbito, lo que evita confusiones y errores en el código.
+
+    "use strict";
+    let numero = 5;
+    let numero = 10;
+    // ❌ Generará un error en modo estricto, ya que no se puede redeclarar 
+    // una variable con el mismo nombre en el mismo ámbito
+    
+
+Además, en modo estricto, no se puede cambiar el tipo de dato de una variable al momento de hacer la reasignación.
+
+    functionmiFuncion() {
+     "use strict";
+     let numero = 5;
+     numero = "10"; // Generará un error en modo estricto, ya que no se puede cambiar el tipo de dato de una variable
+    }
+    
+
+El modo estricto también proporciona mejoras en la performance del código. Por ejemplo, en modo estricto, el código se ejecuta más rápido ya que no se realizan algunas comprobaciones y conversiones que se realizan en modo no estricto.
+
+En resumen, el modo estricto es una herramienta útil en la programación en JavaScript que proporciona una mayor seguridad, control y performance en el código. Es recomendable utilizar el modo estricto en todos los proyectos de JavaScript para evitar errores comunes y problemas de seguridad. Sin embargo, es importante tener en cuenta que el modo estricto puede generar algunos problemas al trabajar con código existente que no está escrito en modo estricto, por lo que se debe utilizar con precaución.
+
+## Debugging y manejo de errores
+
+Dentro de JavaScript los errores van a ser tus mejores amigos, por lo que debes aprender a lidiar con estos mediante técnicas como el [debugging](https://platzi.com/clases/3213-javascript-closures-scope/50369-debugging/).
+
+> Debugging es el proceso de encontrar y corregir errores en el código. Es una parte importante del desarrollo de software y es esencial para garantizar que el código funcione correctamente. En JavaScript, hay varias herramientas y técnicas disponibles para ayudar en el debugging y manejo de errores.
+
+Una de las herramientas más comunes para manejar errores en JavaScript es el bloque try-catch. Este bloque permite ejecutar código que podría generar un error, y capturar ese error en caso de que ocurra. Por ejemplo:
+
+    try {
+     //Código que podría generar un error
+    } catch (error) {
+     //Código que se ejecuta si ocurre un error
+     console.log(error);
+    }
+    
+
+El bloque try-catch permite ejecutar código que podría generar un error de forma segura, y capturar el error para poder manejarlo de manera adecuada. Por ejemplo, si se está tratando de dividir un número por cero, se puede capturar el error y mostrar un mensaje de error al usuario en lugar de tener que detener el programa.
+
+La forma más común de manejar errores es a través de la sentencia `throw new Error`.
+
+La sentencia `throw` se utiliza para generar una excepción o error en tiempo de ejecución, y `new Error` crea un nuevo objeto de error con un mensaje personalizado. Este mensaje es útil para proporcionar información sobre el error y para facilitar la solución de problemas.
+
+Aquí hay un ejemplo de código que muestra cómo utilizar `throw new Error` para generar un error y capturarlo con un bloque try-catch:
+
+    try {
+     const num = 100;
+     if (num > 50) {
+     thrownewError("El número es mayor a 50");
+     }
+    } catch (error) {
+     console.error(error.message);
+    }
+    
+
+En este ejemplo, si el número `num` es mayor a 50, se lanzará una excepción con el mensaje `"El número es mayor a 50"`. El bloque `catch` capturará el error y lo imprimirá en la consola.
+
+Es importante tener en cuenta que el manejo de errores con `throw new Error` solo se recomienda para errores en tiempo de ejecución y no para errores de sintaxis.
+
+Otra herramienta útil para el debugging en JavaScript es el comando “debugger”. Este comando se utiliza para detener la ejecución del código en un punto específco, lo que permite inspeccionar variables y entender el estado del programa en ese momento. Por ejemplo:
+
+    let numero = 5;
+    debugger;
+    let resultado = numero / 2;
+    
+
+En este ejemplo, la ejecución del código se detiene en la línea con “debugger” y se pueden inspeccionar las variables y entender el estado del programa en ese momento (puedes ejecutar este código desde la consola del navegador y ver que pasa 👀).
+
+La consola de JavaScript también es una herramienta útil para el debugging. La consola proporciona varios comandos para inspeccionar el código y entender el estado del programa. Por ejemplo, el comando “console.log()” permite imprimir valores en la consola para inspeccionarlos, el comando “console.table()” permite ver los valores de un objeto o array en forma de tabla, entre otros.
+
+## Programación funcional
+
+La programación funcional es un enfoque de programación que se centra en el uso de funciones y evita el uso de estado y efectos secundarios. En JavaScript, la programación funcional se basa en el uso de funciones puras, es decir, funciones que no tienen efectos secundarios y siempre devuelven el mismo resultado dado el mismo input.
+
+Una de las características principales de la programación funcional es el uso de **first-class functions** (funciones como primer ciudadano), es decir, se consideran como valores y pueden ser asignados a variables, pasados como argumentos a otras funciones y retornadas como resultado de otras funciones. Esto permite crear funciones más pequeñas y reutilizables que se pueden combinar para crear funciones más complejas.
+
+Por ejemplo, podemos crear una función “add” que toma dos números como argumentos y devuelve su suma:
+
+    functionadd(a, b) {
+     return a + b;
+    }
+    
+
+Luego, podemos asignar esta función a una variable y pasarla como argumento a otra función, como “makeOperation”:
+
+    const operation = add;
+    functionmakeOperation(operation, num1, num2) {
+     return operation(num1, num2);
+    }
+    console.log(makeOperation(operation, 2, 3)); // Output: 5
+    
+
+De esta forma, la función “makeOperation” se vuelve más genérica y reutilizable, ya que puede recibir cualquier función que tenga la misma estructura de argumentos.
+
+Otra característica importante de la programación funcional es el uso de funciones puras. Esto significa que las funciones no tienen efectos secundarios y siempre devuelven el mismo resultado dado el mismo input. Esto hace que el código sea más fácil de probar y depurar, ya que no hay efectos secundarios ocultos que puedan afectar el comportamiento del código.
+
+Por ejemplo, la función `map()` es una función pura ya que toma un array de números como input y devuelve un nuevo array con los números transformados, sin modificar el array original.
+
+    const numbers = [1, 2, 3, 4, 5];
+    const doubles = numbers.map(function(number) {
+     return numbers * 2;
+    });
+    console.log(doubles); // [2, 4, 6, 8, 10]
+    
+
+En resumen, la programación funcional es un enfoque de programación que se centra en el uso de funciones y evita el uso de estado y efectos secundarios. En javascript, se puede utilizar programación funcional mediante el uso de funciones como map, reduce, filter, arrow functions y librerías de programación funcional pura, lo cual permite crear código más fácil de probar y depurar.
+
+## Closures
+
+Los [closures](https://platzi.com/clases/3213-javascript-closures-scope/50366-que-es-un-closure/) en JavaScript son una característica fundamental del lenguaje que permite a las funciones **recordar el estado de su entorno de ejecución**, incluso después de que la función haya sido invocada. Esto permite a las funciones **mantener un estado privado y protegido de variables** y funciones internas, lo que proporciona una mayor flexibilidad y seguridad en el código.
+
+Un closure **se crea cuando una función es declarada dentro de otra función**. La función interna tiene acceso al ámbito de la función externa, lo que significa que puede acceder a las variables y funciones declaradas dentro de la función externa. Además, un closure también tiene acceso a las variables y funciones globales.
+
+Observa el siguiente ejemplo de la función counter. La función externa crea una variable privada “count” y una función interna “increment” que incrementa el valor de “count” y devuelve el valor actual.
+
+    functioncounter() {
+     let count = 0;
+     returnfunctionincrement() {
+     count++;
+     return count;
+     }
+    }
+    const myCounter = counter();
+    console.log(myCounter()); // Output: 1
+    console.log(myCounter()); // Output: 2
+    console.log(myCounter()); // Output: 3
+    
+
+En este ejemplo, la función “counter” es el closure y tiene acceso a la variable privada “count” y la función interna “increment”. Al asignar la función “contador” a la variable “myCounter” y luego llamar a la función “myCounter”, se está utilizando el closure para acceder a la variable “count” y modificar su valor cada vez que se llama a la función “increment”. Esto permite mantener un estado interno privado en la función “contador” y evitar conflictos con otras variables con el mismo nombre en el ámbito global.
+
+Además de ayudar a mantener el estado privado, los closures también son útiles para crear funciones genéricas y reutilizables, ya que pueden ser parametrizadas con variables y funciones declaradas en su entorno de ejecución. Por ejemplo, una función que toma una función y un valor como argumentos y devuelve una nueva función que aplica el valor a la función original.
+
+    functionmultiplyBy(multiplier) {
+     returnfunction (value) {
+     return value* multiplier;
+     }
+    }
+    const double= multiplyBy(2);
+    console.log(double(5)); // Output: 10
+    console.log(double(10)); // Output: 20
+    const triple = multiplyBy(3);
+    console.log(triple(10)); // Output: 30
+    console.log(triple(20)); // Output: 60
+    
+
+En este ejemplo, la función “multiplyBy” es un closure que toma un factor como argumento y devuelve una nueva función que multiplica el valor dado por el factor. Al asignar la función “multiplicador” con un factor específico a la variable “doble”, se está utilizando el closure para parametrizar la función con un valor específico y crear una nueva función reutilizable que siempre multiplica el valor dado por 2, por 3 o cualquier otro número.
+
+## Higher-Order Functions
+
+Las **Higher-Order Functions** son una característica fundamental de la programación funcional en JavaScript. Como lo vimos en clases anteriores estás funciones puras que pueden tomar otras funciones como argumentos y/o devolver funciones como resultados. Esto permite crear funciones más genéricas y reutilizables que pueden ser combinadas de diferentes maneras para crear funciones más complejas.
+
+Una de las características principales de las Higher-Order Functions es su capacidad para manipular otras funciones de manera genérica. Por ejemplo, una función “map” es una Higher-Order Function que toma una función y un array como argumentos, y devuelve un nuevo array con los resultados de aplicar la función a cada elemento del array original.
+
+    const numbers = [1, 2, 3, 4, 5];
+    const doubledNumbers = numbers.map(function(number) {
+     return number * 2;
+    });
+    console.log(doubledNumbers); // Output: [2, 4, 6, 8, 10]
+    console.log(numbers) // Output: [1, 2, 3, 4, 5] 
+    // El array original sigue intacto 
+    
+
+Otra característica importante de las Higher-Order Functions es su capacidad para crear funciones más pequeñas y reutilizables. Por ejemplo, una función “filter” es una Higher-Order Function que toma una función y un array como argumentos, y devuelve un nuevo array con los elementos que cumplen con una determinada condición.
+
+    const numbers = [1, 2, 3, 4, 5];
+    const evenNumbers = numbers.filter(function(number) {
+     return number % 2 === 0;
+    });
+    console.log(evenNumbers); // Output: [2,4]
+    
+
+Todo esto y más lo puedes aprender en el [Curso de Closures y Scope en JavaScript](https://platzi.com/cursos/javascript-closures-scope/)
+
+## Asincronismo
+
+JavaScript es un [lenguaje asíncrono](https://platzi.com/clases/3175-asincronismo-js/50088-que-es-el-asincronismo/), lo que significa que las operaciones no bloquean el hilo de ejecución principal. Esto significa que varias operaciones pueden ocurrir al mismo tiempo sin afectar el rendimiento del programa. En lugar de bloquear el hilo de ejecución mientras se carga la imagen, el navegador carga la imagen en segundo plano y notifica al programa cuando está lista para ser utilizada mediante una función [callback](https://platzi.com/clases/3175-asincronismo-js/50092-que-son-los-callbacks/).
+
+Promesas
+--------
+
+[Las promesas](https://platzi.com/clases/3175-asincronismo-js/50096-que-son-las-promesas/) son un mecanismo para manejar operaciones asincrónicas en JavaScript de una manera más limpia y fácil de leer. Permiten que una función asíncrona devuelva una promesa, que es básicamente una forma de representar un valor que estará disponible en el futuro, ya sea de manera exitosa o con un error.
+
+Para crear una promesa, se utiliza el constructor `Promise`, el cual acepta una función que a su vez recibe dos parámetros: `resolve` y `reject`. El primero se usa para indicar que la operación se ha completado correctamente y se puede obtener el valor, mientras que el segundo se usa para indicar que la operación ha fallado y se devuelve el error correspondiente.
+
+Por ejemplo, podemos crear una promesa que resuelva (o devuelva) con el número 42 después de 2 segundos:
+
+    const promise = newPromise((resolve, reject) => {
+     setTimeout(() => {
+     resolve(42);
+     }, 2000);
+    });
+    
+
+Podemos encadenar promesas para ejecutar múltiples operaciones asincrónicas de manera secuencial. Para ello, se utiliza el método `then` de una promesa, el cual recibe como parámetro una función que se ejecutará cuando la promesa se resuelva correctamente. Esta función puede devolver otra promesa, lo que permite encadenar múltiples operaciones.
+
+Por ejemplo, podemos crear una promesa que resuelva con un objeto que contenga el número 42 y una cadena después de 2 segundos, y luego encadenar otra promesa que devuelva una cadena que contenga el doble del número de la promesa anterior:
+
+    const promise = newPromise((resolve, reject) => {
+     setTimeout(() => {
+     resolve({ number: 42, text: "hello" });
+     }, 2000);
+    });
+    promise
+     .then((result) => {
+     const doubledNumber = result.number * 2;
+     return doubledNumber.toString();
+     })
+     .then((result) => {
+     console.log(`The result is ${result}`);
+     })
+     .catch((error) => {
+     console.error(error);
+     });
+    
+
+setInterval y setTimeout
+------------------------
+
+Los temporizadores son una característica importante en JavaScript para programar tareas para que se ejecuten en el futuro. Dos de los temporizadores más comunes son `setTimeout` y `setInterval`.
+
+`setTimeout` es una función que permite programar una tarea para que se ejecute después de un cierto período de tiempo en milisegundos. La función toma dos parámetros: la función que se debe ejecutar después del tiempo especificado y el tiempo en milisegundos antes de que se ejecute la función.
+
+Por ejemplo, supongamos que queremos imprimir un mensaje después de 5 segundos. Podemos usar `setTimeout` de la siguiente manera:
+
+    setTimeout(() => {
+     console.log('Han pasado 5 segundos');
+    }, 5000);
+    
+
+Es importante tener en cuenta que `setTimeout()` devuelve un identificador único (un número) que puede ser utilizado para cancelar el temporizador antes de que se ejecute. Para hacer esto, podemos usar la función `clearTimeout()` y pasarle el identificador como argumento. Por ejemplo:
+
+    let id=setTimeout(() => {
+     console.log('Han pasado 5 segundos');
+    }, 5000);
+    // Cancelar el temporizador
+    clearTimeout(id);
+    
+
+Otro temporizador común es `setInterval`. En contraste con `setTimeout`, `setInterval` se utiliza para programar una tarea para que se repita en un intervalo de tiempo determinado. La función toma dos parámetros: la función que se debe ejecutar en cada intervalo y la duración de cada intervalo en milisegundos.
+
+Por ejemplo, supongamos que queremos imprimir un mensaje cada 2 segundos. Podemos usar `setInterval` de la siguiente manera:
+
+    setInterval(() => {
+     console.log('Han pasado 2 segundos');
+    }, 2000);
+    
+
+Esto imprimirá “Han pasado 2 segundos” cada 2 segundos.
+
+Es importante tener en cuenta que tanto `setTimeout` como `setInterval` son funciones asincrónicas. Esto significa que no bloquean la ejecución del código, lo que permite que otras tareas se ejecuten mientras se espera que se complete la tarea programada.
+
+Para trabajar con temporizadores en conjunto con promesas, debes entender cómo se puede utilizar el método `setTimeout()` dentro de una promesa para crear una tarea asincrónica que se resolverá o rechazará después de un período de tiempo determinado.
+
+Al crear una promesa con `setTimeout()`, podemos utilizar el constructor `new Promise()`. La función interna debe contener el código que se ejecutará en el futuro y, finalmente, llamará a `resolve()` o `reject()` para indicar si la tarea se completó correctamente o no.
+
+Un ejemplo de promesa con `setTimeout()` podría verse así:
+
+    functionwait(ms) {
+     returnnewPromise((resolve, reject) => {
+     setTimeout(() => {
+    const seconds = ms / 1000
+     resolve(seconds);
+     }, ms);
+     });
+    }
+    // ejemplo de uso
+    wait(2000).then((seconds) => {
+     console.log(`Han pasado ${seconds} segundos`);
+    });
+    
+
+En este ejemplo, la función `wait()` toma un argumento `ms`, que representa el número de milisegundos que se deben esperar antes de resolver la promesa. Dentro del constructor `new Promise()`, se llama a `setTimeout()` para crear una tarea asincrónica que llamará a `resolve()` después del número de milisegundos especificado. La función `wait()` devuelve la promesa creada.
+
+Cuando se llama a `wait(2000)`, se crea una nueva promesa que se resolverá después de 2 segundos. Después de que se resuelva la promesa, se llama a la función `then()` y se ejecuta la función de devolución de llamada, que simplemente registra con la variable `seconds` que es devuelta al resolverse la promesa un mensaje en la consola.
+
+También podemos usar `setTimeout()` en conjunto con `reject()` para manejar errores en una tarea asincrónica. Si ocurre un error durante la ejecución de la tarea, podemos llamar a `reject()` con un objeto de error para indicar que la tarea ha fallado.
+
+Un ejemplo de promesa con `setTimeout()` que maneja errores podría verse así:
+
+    functionwait(ms) {
+     returnnewPromise((resolve, reject) => {
+     if (ms < 0) {
+     reject(newError("El número de milisegundos no puede ser negativo"));
+     } else {
+     setTimeout(() => {
+    const seconds = ms / 1000
+     resolve(seconds);
+     }, ms);
+     }
+     });
+    }
+    // ejemplo de uso
+    wait(-2000)
+     .then((seconds) => {
+     console.log(`Han pasado ${seconds} segundos`);
+     })
+     .catch((error) => {
+     console.error(error.message);
+    // El número de milisegundos no puede ser negativo
+     });
+    
+
+En este ejemplo, la función `wait()` verifica si el argumento `ms` es menor que cero. Si es así, se llama a `reject()` con un objeto de error que indica que el número de milisegundos es inválido. Si `ms` es mayor o igual a cero, se llama a `setTimeout()` para crear la tarea asincrónica que llamará a `resolve()` después del número de milisegundos especificado. La función `wait()` devuelve la promesa creada.
+
+### Manejando el asincronismo
+
+Las promesas son una característica importante de JavaScript para manejar operaciones asíncronas y controlar su flujo. Pero, ¿cómo se manejan las promesas en el código de forma eficiente y efectiva? Vamos a discutir dos formas populares de manejar promesas: mediante callbacks y mediante async/await.
+
+Callback
+--------
+
+Los [callbacks](https://platzi.com/clases/3175-asincronismo-js/50092-que-son-los-callbacks/) son funciones que se pasan como argumentos a otra función y se llaman en algún momento después de que se complete la operación asíncrona. Un callback es una forma de manejar la respuesta de una promesa.
+
+Veamos un ejemplo:
+
+    functiongetUserData(userId, callback) {
+     fetch(`https://jsonplaceholder.typicode.com/users/${userId}`)
+     .then(response => response.json())
+     .then(data => callback(data))
+     .catch(error => console.log(error))
+    }
+    functiondisplayUserData(data) {
+     console.log(data.name);
+    }
+    getUserData(1, displayUserData);
+    
+
+En este ejemplo, se define una función `getUserData` que toma un ID de usuario y un callback como parámetros. Dentro de esta función, se llama a la API de `jsonplaceholder` y se obtiene el objeto de datos del usuario. Luego, se llama al callback con los datos del usuario como argumento. En este caso, el callback es la función `displayUserData` que simplemente muestra el nombre del usuario en la consola.
+
+La desventaja de usar callbacks es que puedes crear un [Callback Hell](https://platzi.com/clases/3175-asincronismo-js/50761-callback-hell/), que es un anti-patrón producido por anidar múltiples callbacks dentro de otros callbacks en un código asíncrono. Esto puede ocurrir cuando un código asíncrono necesita realizar múltiples operaciones de manera secuencial, donde la ejecución de una operación depende de los resultados de la operación anterior. Este anti-patrón puede hacer que el código sea difícil de entender, mantener y depurar.
+
+Un ejemplo del Callback Hell puede ser el siguiente, donde se realiza una serie de operaciones asíncronas anidadas que dependen de los resultados de la operación anterior:
+
+    operation1(function(result1) {
+     operation2(result1, function(result2) {
+     operation3(result2, function(result3) {
+     operation4(result3, function(result4) {
+     // ...continuar con más operaciones
+     });
+     });
+     });
+    });
+    
+
+En este ejemplo, la ejecución de `operation2` depende del resultado de `operation1`, y la ejecución de `operation3` depende del resultado de `operation2`, y así sucesivamente. Como se puede ver, el código se vuelve cada vez más anidado y difícil de leer a medida que se agregan más operaciones.
+
+Promesas
+--------
+
+Una forma de evitar el Callback Hell es utilizar Promesas o Async/Await, que proporcionan una forma más estructurada y fácil de leer para manejar código asíncrono. Por ejemplo, el código anterior se puede reescribir utilizando Promesas de la siguiente manera:
+
+    operation1()
+     .then(result1 => {
+     return operation2(result1);
+     })
+     .then(result2 => {
+     return operation3(result2);
+     })
+     .then(result3 => {
+     return operation4(result3);
+     })
+     .then(result4 => {
+     // ...continuar con más operaciones
+     })
+     .catch(error => {
+     // Manejar errores
+     });
+    
+
+En este ejemplo, cada operación devuelve una Promesa que se encadena usando el método `then()`. Esto hace que el código sea más legible y fácil de seguir en comparación con la versión anterior.
+
+Async/await
+-----------
+
+[Async/await](https://platzi.com/clases/3175-asincronismo-js/50099-funciones-asincronas/) es una forma más moderna y legible de manejar promesas. En lugar de usar callbacks anidados, async/await permite que el código parezca más secuencial y fácil de leer.
+
+Veamos un ejemplo:
+
+    asyncfunctiongetUserData(userId) {
+     try {
+     const response = await fetch(`https://jsonplaceholder.typicode.com/users/${userId}`);
+     const data = await response.json();
+     return data;
+     } catch (error) {
+     console.log(error);
+     }
+    }
+    asyncfunctiondisplayUserData(userId) {
+     const data = await getUserData(userId);
+     console.log(data.name);
+    }
+    displayUserData(1);
+    
+
+En este ejemplo, se define una función `getUserData` que hace la misma llamada a la API que en el ejemplo anterior, pero esta vez usa `await` para esperar la respuesta y el `try/catch` para manejar los errores. La función `displayUserData` también utiliza `await` para esperar que se resuelva la promesa retornada por `getUserData` y luego muestra el nombre del usuario en la consola.
+
+Conclusión
+----------
+
+El uso de callbacks y async/await son formas efectivas de manejar promesas en JavaScript. Aunque ambos métodos tienen sus ventajas y desventajas, async/await se ha convertido en la opción preferida para muchas personas debido a su legibilidad y sintaxis más clara. Sin embargo, aún hay situaciones en las que los callbacks pueden ser la mejor opción, especialmente en situaciones donde se necesitan múltiples llamadas asincrónicas en secuencia.
+
 ### Definir eventos
 
 ## Modelo de Objetos del Documento
