@@ -2,13 +2,15 @@
 <!-- EL CONTENIDO DE ESTE ARTÍCULO de lectura debe ser guía, y principalmente lecturas sobre HTML que no caigan en otras categorías -->
 Como les voy a comentar en las infografías a continuación, encontré en GitHub un desarrollador que hace estos interesantes gráficos, y lo más importante que debemos tener en cuenta es la referencia de colores que se destaca en esta imagen:
 
-![Web Development 2018](../assets/img/web-dev-2020.png)
+![Web Development](../assets/img/web-dev-2020.png)
 
 ## Infografías
 
 - [Frontend](/c/frontend-roadmap.md)
 - [Backend](/c/backend-roadmap.md)
 - [Devops](/c/devops-roadmap.md)
+
+![Backend y Frontend](../assets/img/backend-y-frontend.webp)
 
 ## Conceptos
 
