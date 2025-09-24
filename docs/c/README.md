@@ -1,8 +1,10 @@
 # Desarrollo Web {docsify-ignore-all}
 <!-- EL CONTENIDO DE ESTE ARTÍCULO de lectura debe ser guía, y principalmente lecturas sobre HTML que no caigan en otras categorías -->
-Como les voy a comentar en las infografías a continuación, encontré en GitHub un desarrollador que hace estos interesantes gráficos, y lo más importante que debemos tener en cuenta es la referencia de colores que se destaca en esta imagen:
+Como les voy a comentar en las hermomsas [infografías](https://roadmap.sh/signup?rc=68d3f09dd7b6adb66d8e14e3) a continuación, encontré en GitHub un desarrollador que hace estos interesantes gráficos ([les invito a crear una cuenta en su sitio web, ya que pueden hacer seguimiento del camino de desarrollador](https://roadmap.sh/signup?rc=68d3f09dd7b6adb66d8e14e3)), y lo más importante que debemos tener en cuenta es la referencia de colores que se destaca en esta imagen:
 
 ![Web Development](../assets/img/web-dev-2020.png)
+
+<p style="padding-left: 30px;">Pese a que en la imagen dice 2020, debes entender que lo importante son los conceptos. Puede estar desactualiza la infograf&iacute;a, para encontrar la misma actualizada, <a title="Infograf&iacute;as para desarrolladores" href="https://roadmap.sh/signup?rc=68d3f09dd7b6adb66d8e14e3" target="_blank" rel="noopener">ingresa aqu&iacute;</a>.</p>
 
 ## Infografías
 
