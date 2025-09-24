@@ -1,5 +1,7 @@
 # Backend Roadmap {docsify-ignore-all}
 
+[<img width="834" height="540" alt="image" src="https://github.com/user-attachments/assets/a85bc182-d0dd-4d4c-a19a-6ce38237e4e7" />](https://roadmap.sh/backend?rc=68d3f09dd7b6adb66d8e14e3)
+
 El roadmap del desarrollador que quiere dedicarse al backend entonces más o menos sería lo siguiente:
 
 1. Debemos elegir un lenguaje:
@@ -123,19 +125,10 @@ El roadmap del desarrollador que quiere dedicarse al backend entonces más o men
 
 ***
 
-Lo veamos gráficamente:
-
-![Backend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/backend.png)
-
-Llegué a una interesante infografía a través de un post en Medium que me interesó apenas leí las primeras líneas:
->El desarrollo web de hoy es completamente diferente de lo que era hace unos años... 
->
->_Fuente:_ [Modern Backend Developer](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
-
-La verdad que es un post (en inglés) excelente, he leído pocos aportes tan completos.
-
 ## Lecturas
 
+- [Modern Backend Developer](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
+La verdad que es un post (en inglés) excelente, he leído pocos aportes tan completos.
 - [Beginner’s Web Development Guide Part 2: Backend](https://medium.com/devtrailsio/beginners-web-development-guide-part-2-backend-fd466212dbfc)
    ![This is the heart and brains of your application](https://cdn-images-1.medium.com/max/1000/1*1DSs5H0UvHru5L1tL9IrMA.png)
    >The color coding of the chart is very simple: yellow lines show the basic things you need to learn, orange represents more advanced topics that you can leave for later, and grey are niche topics that might be useful for special projects.
