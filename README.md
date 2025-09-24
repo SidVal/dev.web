@@ -15,18 +15,7 @@ Con el tiempo se convertirá en mi página para exponer todo lo que sea sobre el
 
 ## Contenidos del curso
 
-En términos muy generales se va a desarrollar:
-
-* HTML5
-* CSS3
-* Bootstrap
-* Javascript y JQuery
-* AngularJS
-* MongoDB
-* Node.JS y Express.js
-* REST
-
-[:rocket: Ver Versión Web :tada:](https://sidval.github.io/dev.web)
+- [:rocket: Ver Versión Web :tada:](https://sidval.github.io/dev.web)
 
 ***
 
