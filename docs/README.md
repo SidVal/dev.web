@@ -1,5 +1,5 @@
 # Dev.Web {docsify-ignore-all}
-![Release](https://badgen.net/github/release/sidval/dev.web) ![Commits](https://badgen.net/github/commits/sidval/dev.web) ![License](https://badgen.net/github/license/sidval/dev.web) ![Be Happy](/assets/img/be-happy.png)<div align="right" style="float:right;"><i><a href="https://github.com/SidVal/dev.web/releases" target="_new">v2.2024</a></i> :smile: </div>
+![Release](https://badgen.net/github/release/sidval/dev.web) ![Commits](https://badgen.net/github/commits/sidval/dev.web) ![License](https://badgen.net/github/license/sidval/dev.web) ![Be Happy](/assets/img/be-happy.png)<div align="right" style="float:right;"><i><a href="https://github.com/SidVal/dev.web/releases" target="_new">v3</a></i> :smile: </div>
 
 ## Presentación del repo
 
@@ -13,18 +13,9 @@ Con el tiempo se convertirá en mi página para exponer todo lo que sea sobre el
 
 ## Contenidos
 
-En términos muy generales se va a desarrollar:
+* Ver a modo de índice [`/c/`](/c/)
 
-* HTML5
-* CSS3
-* Bootstrap
-* Javascript y JQuery
-* AngularJS
-* MongoDB
-* Node.JS y Express.js
-* REST
-
-Más información sobre el avance del repositorio, ver [logs](https://github.com/SidVal/dev.web/wiki/logs).
+> Más información sobre el avance del repositorio, ver [logs](https://github.com/SidVal/dev.web/wiki/logs).
 
 ## Software recomendado
 
