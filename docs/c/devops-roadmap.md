@@ -1,6 +1,6 @@
 # DevOps Roadmap {docsify-ignore-all}
 
-![DevOps Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/devops.png)
+[<img width="830" height="533" alt="image" src="https://github.com/user-attachments/assets/5b2e5a83-527c-465e-a5c1-78f606c9fb4d" />](https://roadmap.sh/devops?rc=68d3f09dd7b6adb66d8e14e3)
 
 ## Lecturas
 
