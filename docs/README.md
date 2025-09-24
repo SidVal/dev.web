@@ -13,18 +13,9 @@ Con el tiempo se convertirá en mi página para exponer todo lo que sea sobre el
 
 ## Contenidos
 
-En términos muy generales se va a desarrollar:
+* Ver a modo de índice [`/c/`](/c/)
 
-* HTML5
-* CSS3
-* Bootstrap
-* Javascript y JQuery
-* AngularJS
-* MongoDB
-* Node.JS y Express.js
-* REST
-
-Más información sobre el avance del repositorio, ver [logs](https://github.com/SidVal/dev.web/wiki/logs).
+> Más información sobre el avance del repositorio, ver [logs](https://github.com/SidVal/dev.web/wiki/logs).
 
 ## Software recomendado
 
