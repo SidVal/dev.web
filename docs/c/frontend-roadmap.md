@@ -1,6 +1,6 @@
 # Frontend Roadmap {docsify-ignore-all}
 
-![Frontend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png)
+[<img width="798" height="525" alt="image" src="https://github.com/user-attachments/assets/7660b502-18f3-4df2-8dac-d907e529af1e" />](https://roadmap.sh/frontend?rc=68d3f09dd7b6adb66d8e14e3)
 
 ## Frontend
 
