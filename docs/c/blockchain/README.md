@@ -1,9 +1,9 @@
 # Blockchain
 
+!> Este repo será más enfocado al sector programación, si necesitas la teoría sobre Blockchain y el universo de las criptomonedas, podes consultar [mi curso gratuito de LocademiaCripto.com](https://curso.locademiacripto.com)
+
 [<img width="840" height="551" alt="image" src="https://github.com/user-attachments/assets/9f1c9fd6-6d16-424e-b75b-f41edba038c0" />](https://roadmap.sh/blockchain?rc=68d3f09dd7b6adb66d8e14e3)
 
-
-!> Este repo será más enfocado al sector programación, si necesitas la teoría sobre Blockchain y el universo de las criptomonedas, podes consultar [mi curso gratuito de LocademiaCripto.com](https://curso.locademiacripto.com)
 
 ## Básico
 
