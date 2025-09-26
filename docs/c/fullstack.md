@@ -6,11 +6,50 @@
 ## Quién es Full-Stack Dev
 Es una persona técnica, normalmente programador informático, que conozca bien y le sean familiares todas las facetas del front-end y del back-end y los diferentes sistemas operativos y componentes que quedan en medio de esas fronteras.
 
-?> Podés aprender **full stack development** en 3 meses, **pero** solo si ya sabés bastante de una parte (front-end o back-end) y te falta la otra mitad.
-?> 
-?> * Si empezás desde cero, es **demasiado poco tiempo** para dominar todo.
-?> * Ser full stack lleva más práctica y experiencia real.
-?> * En 3 meses, con base previa, podés recorrer un **[mapa rápido](https://roadmap.sh/full-stack?rc=68d3f09dd7b6adb66d8e14e3)** de lo que hace un full stack y quedarte con una idea general, aunque no seas experto todavía.
+Podés aprender **full stack development** en 3 meses, **pero** solo si ya sabés bastante de una parte (front-end o back-end) y te falta la otra mitad.
+ 
+* Si empezás desde cero, es **demasiado poco tiempo** para dominar todo.
+* Ser full stack lleva más práctica y experiencia real.
+* En 3 meses, con base previa, podés recorrer un **[mapa rápido](https://roadmap.sh/full-stack?rc=68d3f09dd7b6adb66d8e14e3)** de lo que hace un full stack y quedarte con una idea general, aunque no seas experto todavía.
+
+Un trabajo de **full stack developer** pide saber tanto de la parte visual (front-end) como de la parte del servidor (back-end).
+
+* **Front-end**: HTML, CSS, JavaScript y frameworks como React o Angular.
+* **Back-end**: lenguajes como Python, Ruby o Java.
+* Además:
+  * Manejo de bases de datos (**SQL** o **NoSQL**).
+  * Uso de **APIs** (REST o a veces GraphQL).
+  * Control de versiones con **Git**.
+* Y, por supuesto: resolver problemas, trabajar en equipo y aprender nuevas tecnologías cuando el proyecto lo pide.
+
+En el mundo **full stack** hay combinaciones de tecnologías que ya son estándar porque funcionan muy bien juntas.
+
+* **MERN**: MongoDB (base de datos), Express.js (backend), React (frontend) y Node.js (servidor).
+* **MEAN**: igual que MERN, pero usa Angular en lugar de React.
+* **LAMP**: clásico con Linux, Apache, MySQL y PHP.
+* También podés combinar **Django (Python) + React** o **Ruby on Rails (RoR)**.
+
+En **full stack** hay distintos frameworks según el lenguaje que prefieras:
+
+* **Si usás JavaScript**:
+
+  * Backend: ExpressJS, NestJS o Hono.
+  * Frontend: React (con React Router).
+    → Con eso podés armar aplicaciones web completas y rápidas.
+
+* **Si usás Python**:
+
+  * Django + Django REST Framework (DRF).
+  * Viene con muchas cosas listas: manejo de base de datos, usuarios, panel de administración, APIs.
+    → Te resuelve la mayoría de lo que necesita un proyecto web.
+
+* **Si usás Ruby**:
+
+  * Ruby on Rails (RoR).
+  * Sigue la idea de “convención sobre configuración”, lo que simplifica el trabajo.
+  * Incluye ORM y herramientas para generar código rápido.
+
+👉 Hay muchas opciones, lo ideal es investigar y elegir la que mejor se adapte a tu estilo y a tus proyectos.
 
 
 ## Lecturas
