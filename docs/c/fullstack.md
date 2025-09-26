@@ -1,8 +1,17 @@
 # Fullstack
 
+[<img width="663" height="542" alt="image" src="https://github.com/user-attachments/assets/7f0a0f86-de05-46b4-8958-110cf5d08200" />](https://roadmap.sh/full-stack?rc=68d3f09dd7b6adb66d8e14e3)
+
+
+## Quién es Full-Stack Dev
 Es una persona técnica, normalmente programador informático, que conozca bien y le sean familiares todas las facetas del front-end y del back-end y los diferentes sistemas operativos y componentes que quedan en medio de esas fronteras.
 
-Me animaría a decir que es el ["Todologo"](https://www.consultoria-sap.com/2017/02/todologos-de-sistemas.html) del desarrollo web. 
+?> Podés aprender **full stack development** en 3 meses, **pero** solo si ya sabés bastante de una parte (front-end o back-end) y te falta la otra mitad.
+?> 
+?> * Si empezás desde cero, es **demasiado poco tiempo** para dominar todo.
+?> * Ser full stack lleva más práctica y experiencia real.
+?> * En 3 meses, con base previa, podés recorrer un **[mapa rápido](https://roadmap.sh/full-stack?rc=68d3f09dd7b6adb66d8e14e3)** de lo que hace un full stack y quedarte con una idea general, aunque no seas experto todavía.
+
 
 ## Lecturas
 
