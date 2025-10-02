@@ -63,3 +63,41 @@ Podés usar herramientas especiales llamadas:
 Estas son como "despertadores automáticos" que ejecutan cosas en momentos específicos.
 
 **En pocas palabras:** Vos mandás la transacción, pero no controlás cuándo se procesa. Si necesitás algo programado para una fecha específica, tenés que usar herramientas especiales.
+
+## Estructura
+
+La cadena de bloques recibe su nombre de su estructura subyacente. Está organizada como una serie de "bloques" encadenados.
+
+Para comprender la seguridad de la cadena de bloques es necesario comprender cómo se construye. Esto implica saber qué son los bloques y las cadenas de la cadena de bloques y por qué están diseñados de esa manera.
+
+Para obtener más información, visite los siguientes recursos:
+
+- [Blockchain Architecture Basics: Components, Structure, Benefits & Creation](https://mlsdev.com/blog/156-how-to-build-your-own-blockchain-architecture)
+- [Blockchain Architecture 101: Components, Structure, and Benefits](https://komodoplatform.com/en/academy/blockchain-architecture-101/)
+- [Blockchain structure](https://resources.infosecinstitute.com/topic/blockchain-structure/)
+- [Explore top posts about Blockchain](https://app.daily.dev/tags/blockchain?ref=roadmapsh)
+- [Blockchain Architecture Layers: Guide And Topology](https://www.cyfrin.io/blog/blockchain-architecture-layers-what-is-it)
+- [Cyfirn Updraft | Video: How Do Blockchains Work?](https://updraft.cyfrin.io/courses/blockchain-basics/basics/how-do-blockchains-work?lesson_format=video)
+
+## Operaciones básicas de blockchain
+
+Las operaciones en redes descentralizadas son responsabilidad de los participantes y sus respectivos nodos computacionales. Estas son específicas para cada tipo de blockchain.
+
+Visite los siguientes recursos para obtener más información:
+
+- [Fundamentos de blockchain: Estructura, operaciones y la blockchain de Bitcoin](https://www.mlq.ai/blockchain-basics/)
+- [Transacciones en la blockchain de Bitcoin](https://developer.bitcoin.org/reference/transactions.html)
+- [Transacciones en la blockchain de Ethereum](https://ethereum.org/en/developers/docs/transactions/)
+- [Cómo funciona realmente la blockchain de Bitcoin](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+- [Explore las publicaciones más importantes sobre blockchain](https://app.daily.dev/tags/blockchain?ref=roadmapsh)
+
+# Aplicaciones y usos de la tecnología blockchain
+
+Las aplicaciones de blockchain van mucho más allá de las criptomonedas y el bitcoin. Gracias a su capacidad para generar mayor transparencia y equidad, a la vez que ahorra tiempo y dinero a las empresas, esta tecnología está impactando en diversos sectores, desde la ejecución de contratos hasta la eficiencia del trabajo gubernamental.
+
+Visite los siguientes recursos para obtener más información:
+
+- [Casos de uso y aplicaciones de blockchain por industria](https://consensys.net/blockchain-use-cases/)
+- [Las 10 principales aplicaciones reales de la tecnología blockchain](https://www.blockchain-council.org/blockchain/top-10-real-world-applications-of-blockchain-technology/)
+- [Transacciones de blockchain en Ethereum](https://ethereum.org/en/developers/docs/transactions/)
+- [Aplicaciones de blockchain y casos de uso reales que alteran el statu quo](https://builtin.com/blockchain/blockchain-applications)
