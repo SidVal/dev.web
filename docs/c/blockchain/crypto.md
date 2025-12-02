@@ -56,3 +56,25 @@
 
 - [Blockchain](https://github.com/topics/blockchain?o=desc&s=stars) por stars
 - [Bitcoin](https://github.com/topics/bitcoin?o=desc&s=stars) por stars
+
+## Otros
+
+Para aprender programación de blockchain bajo Ethereum y contratos inteligentes, te recomiendo estos repositorios de calidad que cubren desde lo básico hasta lo avanzado:
+
+**1. Introducción básica y ejemplos**
+- [ethereum/solidity-examples](https://github.com/ethereum/solidity-examples): Ejemplos oficiales y básicos en Solidity.
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts): Colección popular de contratos inteligentes seguros y reutilizables.
+
+**2. Tutoriales y proyectos completos**
+- [ChainShot/solidity-workshop](https://github.com/ChainShot/solidity-workshop): Taller completo para aprender Solidity desde cero, con ejercicios prácticos.
+- [PatrickAlphaC/hardhat-smartcontract-lottery-fcc](https://github.com/PatrickAlphaC/hardhat-smartcontract-lottery-fcc): Proyecto didáctico donde aprenderás Hardhat, Solidity y desarrollo de dApps.
+
+**3. Frameworks y herramientas clave**
+- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat): Herramienta para desarrollar, probar y desplegar contratos inteligentes con facilidad.
+- [trufflesuite/truffle](https://github.com/trufflesuite/truffle): Framework robusto para desarrollar y probar dApps en Ethereum.
+- [remix-project/remix-project](https://github.com/remix-project/remix-project): IDE web para programar y probar contratos inteligentes sin instalar nada.
+
+**4. Cursos y recursos prácticos**
+- [dappuniversity/bootcamp](https://github.com/dappuniversity/bootcamp): Material de Bootcamp para entender el desarrollo web3.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): Busca la sección de "Ethereum" y "Solidity" para material teórico y práctico.
+
